@@ -73,10 +73,10 @@ zná tyto touhy a utužuje je kde může.
 [![Vladimir Putin](http://pbs.twimg.com/media/B2QPJNaCQAALuRl.jpg)](http://twitter.com/thekarami/status/532567338781270017)
 
 Pokud se tedy zrovna nesnaží někoho zahřát.
-Jako děda Mráz vypadá přívětivěji; mráz z
-Kremlu ale nerad polevuje. Snad se jen Merkelové
-snaží nasadit *bubeníčka*. Za dob komunismu
-běžná vyslýchací metoda.
+Jako děda Mráz vypadá přívětivěji. Mráz z
+Kremlu ale štípe do tváří a nedrží slovo.
+Snad se jen Merkelové snaží nasadit *bubeníčka*.
+Za dob komunismu běžná vyslýchací metoda.
 
 Rozkazů, příkazů, nařízení, obušků, politické
 policie, kádrováků, gulagů, komsomolců,
