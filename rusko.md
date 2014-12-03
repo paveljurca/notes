@@ -1,6 +1,5 @@
 Rusko
 =====
-[29-11-14](#)
 
 > My tři králi, my jdeme k vám,  
 > štěstí, zdraví neseme vám.
