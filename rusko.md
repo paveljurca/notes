@@ -71,18 +71,19 @@ zná tyto touhy a utužuje je kde může.
 
 [![Vladimir Putin](http://pbs.twimg.com/media/B2QPJNaCQAALuRl.jpg)](http://twitter.com/thekarami/status/532567338781270017)
 
-Pokud se tedy zrovna nesnaží někoho zahřát.
-Jako děda Mráz vypadá přívětivěji. Mráz z
-Kremlu ale štípe do tváří a nedrží slovo.
+Ovšem, pokud se zrovna nesnaží někoho zahřát.
+Jako děda Mráz vypadá, řekněme, přívětivěji.
+Mráz z Kremlu ale štípe do tváří a nedrží slovo.
 Snad se jen Merkelové snaží nasadit *bubeníčka*.
 Za dob komunismu běžná vyslýchací metoda.
 
 Rozkazů, příkazů, nařízení, obušků, politické
 policie, kádrováků, gulagů, komsomolců,
-aparátčíků a politruků bylo mnoho.
-A kolchozy pomohly, aby nikdo neměl nic,
-aby nikdo nebyl nic. Až tehdy rovnost. A někdy
-dle nálady: *Čtyři nohy dobré, dvě nohy lepší!*
+aparátčíků, kolchozníků a politruků bylo mnoho.
+A kolektivizace spolu s honem na kulaky pomohla,
+aby nikdo neměl nic, aby nikdo nebyl nic.
+Až tehdy rovnost. A někdy dle nálady:
+*Čtyři nohy dobré, dvě nohy lepší!*
 
 > Úctu a obdiv má v Rusku především bezohledná moc,
 > tyranie a síla.
@@ -94,7 +95,8 @@ Tohle dilema načas odvrátí jen jedno: další
 nepřátelství.
 
 Zem je to až příliš velká, jiná. Jen obtížně ji
-lze řídit (nebezpečný to argument v rukou totalitaristů).
+lze řídit (nebezpečný to ale
+argument v rukou totalitaristů).
 Trpěla pod spoustou (ne)možných vlivů, mongolů,
 tatarů, tmářství, bolševismu. Tápání se stalo
 naturelem.
