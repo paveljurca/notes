@@ -183,7 +183,7 @@ a činní — rozklad země značně urychlili.
 Možná je Rusko jen takové, jaké ho chceme mít.
 Postranních úmyslů ale mají ještě stále hodně.
 
-A na **šedesátý osmý**: *nikagda nězabudněm*.
+A na *šedesátý osmý*: nikagda nězabudněm.
 
 -pj-
 
