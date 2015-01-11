@@ -22,48 +22,51 @@ Medúzy nevnímám
 ač bez voru
 
 Přehmaty drátuju  
-protože mě tlačí  
-Křivky maluju  
+jestli tohle stačí?  
+Nevím, křivky maluju  
 mám to tak radši
 
 Směju se lvům  
-pomlouvám Andromedu  
+haním Andromedu  
 Dluh vůči snům  
 beztak splatit nedovedu
 
-A rok předchozí  
+K tomu rok předchozí  
 stal se mi zradou  
 Hvězdy večera  
 pojednou zas byly vadou
 
-Kolik mi je  
-dvacet dva?  
-Tedy slyším tklivě  
-bla, bla, bla
+Hrozím se zděšení  
+že neumím žít  
+Snad odstup od lidí  
+s vlky věnce vít
 
-Ultra crepidam  
-já stále tam..  
-Už to mám  
-jsem sám!  
+Z lomozu světa  
+v ten čas jsem odeplul  
+Ztratila se vlídná věta  
+já dospělost zavrhnul
 
-*
-
-Jest to jen cíl malý  
-jenž brání mi v rozletu  
-Opět budu chodit nahý  
-vysléknu se z korzetu
-
-Co záleží na vzhledu  
-kus masa dám si k obědu  
-Na návrat vzpomenu  
-Leč pozdě, medvěd bručí K tobě jdu
-
-A nad hlavou  
+To vysoko nade krou  
 kormorán z pobřeží  
-Ten, co nic nechce  
-co nic neřeší
+Jen on zná bolest mou  
+jen on nehřeší
 
-Pak řeknu si sám sobě  
+Co tomu záleží na vzhledu  
+chytím mu rybu k obědu  
+Pak vposledy návrat vzpomenu  
+leč pozdě, medvěd bručí K tobě jdu
+
+Umírat, však kolik mi je  
+dvacet dva?  
+Ten huňáč dí tu tklivě  
+žití není hra
+
+Přec jest to cíl malý  
+jímž bráníme si v rozletu  
+Chodit začnem opět nazí  
+až vysléknou nás z korzetu
+
+Tehdy řeknu si sám sobě  
 ležíc ve vlastním hrobě  
 Tak vzpomeň si Lou  
 Proč jsme tu!
