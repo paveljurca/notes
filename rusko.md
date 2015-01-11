@@ -2,15 +2,25 @@ Rusko
 =====
 
 Krym a Ruská federace si dupnou
-kozáčka zas a jen spolu. Touha
-[97% tamějších občanů](http://www.ceskatelevize.cz/ct24/svet/266546-krym-vyhlasil-samostatnost-bylo-ale-referendum-v-poradku/)
-nedává pochyb.
-Co naplat, mnoho ukrajinského v nich
-beztak netřímá. Sounáležitost
-asi žádná, zatímco právo na sebeurčení opět bezmezné.
-Všichni dnes chtějí za lepším. A Putin,
-[hotový dobrák](http://youtu.be/sUNslUmQNiw),
-ví kde zatlačit a za co zatahat.
+kozáčka zas jen spolu. Touha
+[97%](http://www.ceskatelevize.cz/ct24/svet/266546-krym-vyhlasil-samostatnost-bylo-ale-referendum-v-poradku/)
+tamějších občanů dává tušit, že mnoho
+ukrajinského v nich beztak netřímalo. Sounáležitost
+asi žádná, jen právo na sebeurčení stává se opět bezmezné.
+Všichni dnes chtějí za lepším. A [Putin](http://youtu.be/sUNslUmQNiw),
+hotový dobrák, ví kde zatlačit a za co zatahat.
+
+Sovětský svaz, to byly jistoty, které se s perestrojkou
+změnily v efemérní. Část rozhodnutí a tudíž i důsledků si,
+občane, poneseš sám. To pochopitelně nemyslící a apatickou
+většinu bolí. Ostatně právě tato většina určuje vždy a všude
+směřování světa — tím pro koho zabučí. Putin tu slabost
+poddaných zná a posiluje ji kde může.
+
+> Vaši přátelé už vás nemají rádi. Nutili jste je
+> k vlastním rozhodnutím. Se mnou to mají snazší,
+> dělají co říkám.
+> *Calvera, Sedm statečných, 1960.*
 
 Celý svět je opřen o lichou naději, že každý
 snad ví, jak se má chovat. Zábrany však z hlav
@@ -18,11 +28,21 @@ mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
 a vnějších (právo). Rusku se žel nedostává obého.
 Dříve by byla válka, dnes jsme humánější a máme sankce.
-Zcela upřímně: díky za ně!
+Zcela bez okolků: díky za ně!
 
 A proč ta ruská rozpínavost? Snad proto, že velikost
 vlasti je pro ně jedno-duše vším a každý metr hranice
-navíc je radostí. Jen my nejsme s to jim tu radost odepřít.
+navíc je radostí. Slunce tam prakticky nezapadá, ale
+proč ještě pár států nepřidat? Věčná škoda,
+že Rus už drahná staletí znamená okupant.
+O to větší škoda, že jim nejsme s to
+jejich radost odepřít.
+
+Vzdálenosti jsou však Damoklovým mečem Ruska.
+Jakákoli názorová shoda se utopí v neprostupných
+dálavách země. A jako bonus je ta samá dálava oblíbeným
+kolbištěm totalitaristů, aby tak dodali podkladů
+svému argumentu *pevné ruky*.
 
 > Alexandr Jakoblev ve své knize Rusko plné
 > křížů jmenuje tři určující zdroje ruské historie:
@@ -33,35 +53,15 @@ navíc je radostí. Jen my nejsme s to jim tu radost odepřít.
 > plyne samoděržavný kult a opovržení lidmi.
 > *Kučera, V.: Velké Rusko. MFDNES, 4-3-2014, A10.*
 
-Věčná škoda, že Rus znamená okupant.
-O to větší škoda, že jsme k tomu lhostejní.
-
 Být a Mít — práva, která v Rusku dlouho nikomu
-nepřišla na mysl. Bez nich ale vaše země není v pokroku,
-nýbrž couvá. Carové, inspektoři, gubernátoři ani
+nepřišla na mysl. Bez nich ale není pohybu vpřed,
+jen vzad. Carové, inspektoři, gubernátoři ani
 sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
 *Široký, příliš široký je člověk. Zúžil bych jej!*
-
-Sovětský svaz, to byly jistoty, které se s demokracií
-mění, z ruského pohledu, v efemérní. Část rozhodnutí
-a tudíž i důsledků si, občane, poneseš sám. To pochopitelně
-nemyslící a apatickou většinu bolí. Ostatně právě tato většina
-určuje vždy a všude směřování světa — tím pro koho zabučí. Putin
-tu slabost poddaných zná a posiluje ji kde může.
-
-[![Vladimir Putin](http://pbs.twimg.com/media/B2QPJNaCQAALuRl.jpg)](http://twitter.com/thekarami/status/532567338781270017)
-
-Ovšem pokud se zrovna nesnaží někoho zahřát.
-Jako děda Mráz vypadá, řekněme, přívětivěji.
-Mráz z Kremlu ale sahá hluboko do Evropy a nemá v oblibě oblevu.
-Snad se tedy Merkelové snaží nasadit *bubeníčka*.
-Za dob komunismu běžná vyslýchací metoda.
-
-> Vaši přátelé už vás nemají rádi. Nutili jste je
-> k vlastním rozhodnutím. Se mnou to mají snazší,
-> dělají co říkám.
-> *Calvera, Sedm statečných, 1960.*
+Nehledě, že snahou vždy bylo věci vrátit,
+zpomalit, žít v minulosti, smutně vzpomínat,
+s každým novým rokem dalších pět ztratit.
 
 Rozkazů, příkazů, nařízení, obušků, politické
 policie, kádrováků, gulagů, komsomolců,
@@ -71,15 +71,6 @@ pomohla, aby nikdo neměl nic, aby nikdo nebyl nic.
 Až tehdy rovnost. A někdy dle nálady:
 *Čtyři nohy dobré, dvě nohy lepší!*
 
-> Úctu a obdiv má v Rusku především bezohledná moc,
-> tyranie a síla.
-> *Kučera, V.: Velké Rusko. MFDNES, 4-3-2014, A10.*
-
-Co dělat, když je historie národa vystavěna na
-neštěstí? Těžko to připustit, těžko to schovat.
-Tohle dilema načas odvrátí jen jedno: další
-nepřátelství.
-
 Rusové trpěli pod spoustou (ne)možných vlivů, mongolů,
 tatarů, tmářství, bolševismu. Tápání se stalo
 naturelem. Snad proto ta vlast namnoze bývá přenašečem
@@ -87,66 +78,77 @@ ba původcem hrozeb. Století minulá, i ta dnešní, jsou
 očividná. Zvrácené nápady a podivní lidé tam asi vždy
 snáze udělají kariéru.
 
-Vzdálenosti jsou však Damoklovým mečem Ruska.
-Jakákoli názorová shoda se utopí v neprostupných
-dálavách země. A jako bonus je ta samá dálava oblíbeným
-kolbištěm totalitaristů, aby tak dodali podkladů
-svému argumentu *pevné ruky*.
+> Nechte Rusy být, nechte je dělat ve vlastní zemi,
+> co chtějí, ale nenechte je vyjít z jejich státních
+> hranic, aby zničili evropskou civilizaci.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-> Už Puškin píše, že jsou Rusové, jimž vlastní
-> život za půl kopejky a cizí už docela zadarmo.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
-
-Atomovými hlavicemi vyzbrojili Čínu i Indii.
-Tedy zbraní, která už není záležitostí
-nějaké země, nýbrž konkrétní Země. Ti lidé
-mají v hlavě zjevně v pořádku jen málo věcí.
-
-Nehledě, že snahou vždy bylo věci vrátit,
-zpomalit, žít v minulosti, smutně vzpomínat,
-s každým novým rokem dalších pět ztratit.
-
-Voják Rudé armády proto není povinován zabít, ale
-být zabit. Národní ctižádostí jest tedy trpět.
-A rozum nad tím nezůstává stát, protože v tom
-žádný není.
+Bída častokrát byla taková,
+že se mnozí jali do lesů okusovat kůru ze stromů.
+Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
+Pro co ale? Ubránili jen svůj nerozum. Co dělat,
+když je historie národa vystavěna na neštěstí?
+Těžko to připustit, těžko to schovat.
+Tohle dilema načas odvrátí jen jedno: další
+nepřátelství. Jsou opuštěni a v izolaci. Nemají
+kamarády a to jistě bolí. Spojence raději hledají
+v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
+v Evropě, kam pro sichr čas od času pošlou tanky.
 
 > U ruských revolucionářů ochota zabíjet souvisí velmi
 > zřejmě s ochotou umírat. Je to táž nálada v Rusku,
 > v zabíjení jako v umírání..
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 117.*
 
-Však Maxim Gorkij píše:
-*Rus je od přirozenosti náchylný ke krutosti*.
-Doufejme, že ta slova jsou už **jen** křivdou,
-jíž se teď hloupě dopouštíme.
+Proč atomovými hlavicemi vyzbrojili Čínu i Indii?
+Tedy zbraní, která už není záležitostí
+nějaké země, nýbrž konkrétní Země? V situaci kdy
+voják Rudé armády není povinován zabít, ale být zabit?
+Proč je národní ctižádostí trpět? Ne, rozum nad tím nezůstává
+stát, protože v tom žádný není.
 
-Bída v jejich zemi mnohokrát byla taková,
-že se mnozí jali do lesů okusovat kůru ze stromů.
-Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
-Pro co ale? Ubránili jen svůj nerozum.
-
-Škoda těch srdečných lidí, kteří tam někde,
-a v určitém počtu, stále jsou. Škoda, že s tím
-nic nedělají.
-
-> Nechte Rusy být, nechte je dělat ve vlastní zemi,
-> co chtějí, ale nenechte je vyjít z jejich státních
-> hranic, aby zničili evropskou civilizaci.
-> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
-
-Ruská federace je opuštěná a v izolaci. Nemá
-kamarády a to jistě bolí. Spojence raději hledá
-v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
-v Evropě, kam pro sichr čas od času pošle tanky.
+> Už Puškin píše, že jsou Rusové, jimž vlastní
+> život za půl kopejky a cizí už docela zadarmo.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
 
 Matička Rus se stala synonymem armády, arzenálu
 zbraní, bezhlavé poslušnosti a strachu. A protože
-bránit není co, tahle armáda může jen útočit. Jak
-přiznat vlastní zoufalost, když už o ní všichni vědí?
+bránit není co, tahle armáda může jen útočit.
+Škoda těch srdečných lidí, kteří tam někde,
+a v určitém počtu, stále jsou. Škoda, že s tím
+nic nedělají. Více Solženicynů, Zubovů, Bukovských,
+Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
+Lze ale přiznat vlastní zoufalost, když už o ní všichni vědí?
+Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
+Doufejme, že ta slova jsou už *jen* křivdou, jíž se teď hloupě dopouštíme.
 
-Více Solženicynů, Zubovů, Bukovských, Gorbaněvských,
-Čechovů, Lermontovů a jiných a dalších!
+Počátek 20. století byl pro Rusko stěžejní a zlý. Během revolučních let
+tam bohužel zavedli působnost rozvědčíci vlastních zájmů a tím jen umetli
+cestu bolševikům, kteří sami nevědouce co chtějí
+a činní — rozklad země značně urychlili. Geopolitika, ve které si nikdo
+nepřeje silné Rusko, konec konců trvá do dnešních dob. Otázkou však
+zůstává, zdali je horší silné nebo zmatené Rusko, případně, a co je vůbec
+nejhorší, kombinace obojího.
+
+Zbytečná polarizace a striktní papouškování oficiální linie
+směrem k Rusku ale jen zatvrzuje obě strany: nikdo tak dobrovolně
+neopustí svou svrchovanost. To platí o *západní* i *východní* klice.
+Obě trvají na vlastním epilogu. Až k němu dojde, my už tu doufám nebudeme.
+Mimo to fatální svévolí diplomacie je
+její přehnaná korektnost: sice mluvíte,
+ale neřeknete nic. Pokud by se pro jednou
+dostala k jádru věci, mnoho smutných chvil
+historie tu s námi nemuselo být
+(kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
+
+Dobrat se dnes pravdy o stavu světa je vinou
+masívní dezinformace a bezostyšného lhaní
+nemožné — pokud nechcete prochodit boty.
+Stačí si jen vzpomenout na tajnosti,
+jež se děly kolem dohody ACTA.
+Za svízelí v porozumění mezi národy stojí
+věc jediná: lidská imbecilita. A proti té
+se těžko demonstruje — máme ji všichni.
 
 > Konečně každý hřích koná se vůlí a má hnízdo
 > ve vůli.. Lidé nejtěžší pokušení mívají v myšlení.
@@ -155,41 +157,14 @@ Více Solženicynů, Zubovů, Bukovských, Gorbaněvských,
 > jemu statečně, tehdy jemu neškodí.
 > *Hus, J.: Dcerka. Kalich, Praha 1995, s. 31.*
 
-Je bohužel veřejným tajemstvím, že během revolučních let
-v Rusku působili rozvědčíci rozličných zájmů a států
-a pomáhali tak zemi paralyzovat. Nikdo si nepřál
-silné Rusko. A bolševici sami nevědouce co chtějí
-a činní — rozklad země značně urychlili.
-
-Ovšem polarizace a striktní papouškování oficiální linie
-jen zatvrzuje obě strany: nikdo tak dobrovolně neopustí svou
-svrchovanost. To platí o *západní* i *východní* klice.
-Obě trvají na vlastním epilogu. Až k němu dojde,
-my už tu doufám nebudeme.
-
-Dobrat se dnes pravdy o stavu světa je vinou
-masívní dezinformace a bezostyšného lhaní
-nemožné — pokud nechcete prochodit boty.
-Stačí si jen vzpomenout na tajnosti,
-jež se děly kolem dohody ACTA.
-
-Mimo to fatální svévolí diplomacie je
-její přehnaná korektnost: sice mluvíte,
-ale neřeknete nic. Pokud by se pro jednou
-dostala k jádru věci, mnoho smutných chvil
-historie tu s námi nemuselo být
-(kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
-
-Za svízelí v porozumění mezi národy stojí
-věc jediná: lidská imbecilita. A proti té
-se těžko demonstruje — máme ji všichni.
-
 Možná je Rusko jen takové, jaké ho chceme mít.
 Havel v americkém kongresu 21. února 1990 řekl:
 *Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.*
-
-Ano, vyšumělo už 25 let, leč mnoho se nezměnilo:
-postranních úmyslů mají Rusové ještě stále hodně.
+Vyšumělo už 25 let, leč mnoho se nezměnilo:
+postranních úmyslů mají Rusové (žel i Západ)
+ještě stále hodně. A netřeba snad připomínat,
+že na bratrskou výpomoc v šedesátém osmém
+*nikagda nězabudněm*.
 
 (pj)
 
