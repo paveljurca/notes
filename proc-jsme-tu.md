@@ -47,24 +47,24 @@ Jen on zná bolest mou
 jen on nehřeší
 
 Z lomozu světa  
-v ten čas jsem odeplul  
-Zanikla též vlídná věta  
+v ten čas jsem uniknul  
+Zmizela též vlídná věta  
 já dospělost odvrhnul
 
 Pak jest to člověk hloupý  
 jenž brání si v rozletu  
-Cestuju věčně nahý  
-kufry plné korzetů
+Minul mne rozum drahý  
+pusa plná pamfletů
 
-Tedy nezáleží na vzhledu  
-neb i dítě křičí Déjà vu  
-Přec návrat vposledy vzpomenu  
+Pramálo záleží už na vzhledu  
+když dítě řičí Déjà vu  
+I návrat vposledy vzpomenu  
 leč pozdě, medvěd bručí K tobě jdu
 
 Umírat, však kolik mi je  
 dvacet dva?  
 Tu huňáč dí hned tklivě  
-Cos myslel, žití není hra
+Cos myslel, bytí není hra
 
 Tehdy řeknu si sám sobě  
 ležíc ve vlastním hrobě  
