@@ -36,40 +36,40 @@ stal se mi zradou
 Hvězdy večera  
 pojednou zas byly vadou
 
-Hrozím se zděšení  
-že neumím žít  
+Hrůzné zjištění  
+neumím prý žít  
 Snad odstup od lidí  
 s vlky věnce vít
-
-Z lomozu světa  
-v ten čas jsem odeplul  
-Ztratila se vlídná věta  
-já dospělost zavrhnul
 
 To vysoko nade krou  
 kormorán z pobřeží  
 Jen on zná bolest mou  
 jen on nehřeší
 
-Co tomu záleží na vzhledu  
-chytím mu rybu k obědu  
-Pak vposledy návrat vzpomenu  
+Z lomozu světa  
+v ten čas jsem odeplul  
+Zanikla též vlídná věta  
+já dospělost odvrhnul
+
+Pak jest to člověk hloupý  
+jenž brání si v rozletu  
+Cestuju věčně nahý  
+kufry plné korzetů
+
+Tedy nezáleží na vzhledu  
+neb i dítě křičí Déjà vu  
+Přec návrat vposledy vzpomenu  
 leč pozdě, medvěd bručí K tobě jdu
 
 Umírat, však kolik mi je  
 dvacet dva?  
-Ten huňáč dí tu tklivě  
-žití není hra
-
-Přec jest to cíl malý  
-jímž bráníme si v rozletu  
-Chodit začnem opět nazí  
-až vysléknou nás z korzetu
+Tu huňáč dí hned tklivě  
+Cos myslel, žití není hra
 
 Tehdy řeknu si sám sobě  
 ležíc ve vlastním hrobě  
 Tak vzpomeň si Lou  
-Proč jsme tu!
+proč jsme tu!
 
 (pj)
 
