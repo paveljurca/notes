@@ -34,15 +34,15 @@ A proč ta ruská rozpínavost? Snad proto, že velikost
 vlasti je pro ně jedno-duše vším a každý metr hranice
 navíc je radostí. Slunce tam prakticky nezapadá, ale
 proč ještě pár států nepřidat? Věčná škoda,
-že Rus už drahná staletí znamená okupant.
+že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
 
-Vzdálenosti jsou však Damoklovým mečem Ruska.
+Vzdálenosti jsou jim však Damoklovým mečem.
 Jakákoli názorová shoda se utopí v neprostupných
 dálavách země. A jako bonus je ta samá dálava oblíbeným
-kolbištěm totalitaristů, aby tak dodali podkladů
-svému argumentu *pevné ruky*.
+kolbištěm totalitaristů, jež tak sbírají podkladů
+k svému argumentu *pevné ruky*.
 
 > Alexandr Jakoblev ve své knize Rusko plné
 > křížů jmenuje tři určující zdroje ruské historie:
@@ -83,15 +83,15 @@ snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-Bída častokrát byla taková,
-že se mnozí jali do lesů okusovat kůru ze stromů.
+Navzdory, nebo právě proto, bída drtila prostou většinu
+tak, že mnohdy jali se do lesů okusovat kůru ze stromů.
 Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
-Pro co ale? Ubránili jen svůj nerozum. Co dělat,
+Pro co ale? Ubránili jen svůj nerozum. A co dělat,
 když je historie národa vystavěna na neštěstí?
 Těžko to připustit, těžko to schovat.
-Tohle dilema načas odvrátí jen jedno: další
-nepřátelství. Jsou opuštěni a v izolaci. Nemají
-kamarády a to jistě bolí. Spojence raději hledají
+Dilema, které načas odvrátí jen jedno: další
+nepřátelství. Od té doby jsou opět opuštění a v izolaci.
+Nemají kamarády a to jistě bolí. Spojence raději hledají
 v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
 v Evropě, kam pro sichr čas od času pošlou tanky.
 
@@ -111,7 +111,7 @@ stát, protože v tom žádný není.
 > život za půl kopejky a cizí už docela zadarmo.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
 
-Matička Rus se stala synonymem armády, arzenálu
+Matička Rus stala se synonymem armády, arzenálu
 zbraní, bezhlavé poslušnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
 Škoda těch srdečných lidí, kteří tam někde,
@@ -122,24 +122,27 @@ Lze ale přiznat vlastní zoufalost, když už o ní všichni vědí?
 Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
 Doufejme, že ta slova jsou už *jen* křivdou, jíž se teď hloupě dopouštíme.
 
-Počátek 20. století byl pro Rusko stěžejní a zlý. Během revolučních let
-tam bohužel zavedli působnost rozvědčíci vlastních zájmů a tím jen umetli
-cestu bolševikům, kteří sami nevědouce co chtějí
-a činní — rozklad země značně urychlili. Geopolitika, ve které si nikdo
-nepřeje silné Rusko, konec konců trvá do dnešních dob. Otázkou však
-zůstává, zdali je horší silné nebo zmatené Rusko, případně, a co je vůbec
-nejhorší, kombinace obojího.
+Počátek 20. století byl k Rusku nevlídný a pro Evropu nezasloužený.
+Tehdy rozvědčíci, plnící zájmy svých států, pomohli bolševikům
+umést cestu k destabilizaci, zatímco revolucionáři sami nevědouce
+co chtějí a činní — rozklad země poté ještě urychlili. A geopolitika,
+ve které si nikdo nepřeje silné Rusko, konec konců trvá do dnešních dob.
+Otázkou však zůstává, zdali je horší silné nebo zmatené Rusko, případně,
+a co je vůbec nejhorší, obojí naráz.
 
-Zbytečná polarizace a striktní papouškování oficiální linie
-směrem k Rusku ale jen zatvrzuje obě strany: nikdo tak dobrovolně
-neopustí svou svrchovanost. To platí o *západní* i *východní* klice.
-Obě trvají na vlastním epilogu. Až k němu dojde, my už tu doufám nebudeme.
-Mimo to fatální svévolí diplomacie je
-její přehnaná korektnost: sice mluvíte,
+Avšak zbytečná polarizace a striktní papouškování oficiální linie
+směrem k "ruskému světadílu" jen zatvrzuje obě strany. Proč vůbec pronášet slova,
+od kterých změnu nečekáme, nechceme. Možná pár let mlčet, počkat
+na další generaci nezatíženou pamflety, a pak jen na smrtelném
+loži litovat ztracených let. To by platilo pro *východní* i *západní* kliku.
+Ony ale trvají na vlastním epilogu. Chtějí ho hned. Snad kdyby počkaly,
+až my tu nebudeme. Bohužel fatální svévolí diplomacie je
+přehnaná korektnost: sice mluvíte,
 ale neřeknete nic. Pokud by se pro jednou
 dostala k jádru věci, mnoho smutných chvil
 historie tu s námi nemuselo být
 (kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
+Tedy už mne nenapadá nic, co by nám pomohlo.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
