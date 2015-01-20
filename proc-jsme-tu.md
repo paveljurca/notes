@@ -7,21 +7,26 @@ Nadchnu se
 s nadšením neudělám nic
 
 Vystoupím  
-na hlavu upadnu  
-Posmutním  
-před očima jen tmu
+do netečnosti upadnu  
+Zlenivým  
+z vizí mám jen tmu
 
-Jsem šťastný  
-dávím se ve shonu  
-Jsem smutný  
-tápu kudy nahoru
+Jsem zarmoucen  
+tápu kudy nahoru  
+Teď ponáhlu šťasten  
+sedím u pohovoru
+
+Třeba kdyby.. ba ne  
+smysl skončil ve shonu  
+Dávám proto vale  
+postrádám vlastní osnovu
 
 Ideje ztrácívám  
 v jednotkách mamonu  
 Medúzy nevnímám  
 ač bez voru
 
-Přehmaty drátuju  
+Přehmaty zdrátuju  
 jestli tohle stačí?  
 Nevím, křivky maluju  
 mám to tak radši
@@ -56,8 +61,8 @@ jenž brání si v rozletu
 Minul mne rozum drahý  
 pusa plná pamfletů
 
-Vícero už netřeba ohledů  
-neb dítě poznalo svá Déjà vu  
+Neb netřeba vícero ohledů  
+dítě poznalo svá Déjà vu  
 I návrat vposledy vzpomenu  
 leč pozdě, medvěd bručí K tobě jdu
 
