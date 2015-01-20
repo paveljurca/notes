@@ -56,8 +56,8 @@ jenž brání si v rozletu
 Minul mne rozum drahý  
 pusa plná pamfletů
 
-Pramálo záleží už na vzhledu  
-když dítě řičí Déjà vu  
+Vícero už netřeba ohledů  
+neb dítě poznalo svá Déjà vu  
 I návrat vposledy vzpomenu  
 leč pozdě, medvěd bručí K tobě jdu
 
