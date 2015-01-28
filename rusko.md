@@ -1,21 +1,25 @@
 Rusko
 =====
 
-Krym a Ruská federace si dupnou
-kozáčka zas jen spolu. Touha
-[97%](http://www.ceskatelevize.cz/ct24/svet/266546-krym-vyhlasil-samostatnost-bylo-ale-referendum-v-poradku/)
-tamějších občanů dává tušit, že mnoho
-ukrajinského v nich beztak netřímalo. Sounáležitost
-asi žádná, jen právo na sebeurčení stává se opět bezmezné.
-Všichni dnes chtějí za lepším. A [Putin](http://youtu.be/sUNslUmQNiw),
-hotový dobrák, ví kde zatlačit a za co zatahat.
+Ruská [láska](http://www.divadlonavinohradech.com/divadelni-hra/Laska-na-Krymu)
+ke Krymu došla svého konce
+nebo snad dalšího začátku. Tancují tam kozáčka,
+zatímco Ukrajinu ani nepozvali do sálu.
+Prý vůle lidu, ale kterého? Sounáležitost
+je dnes pro všechny sprosté slovo a právo
+na sebeurčení naopak sklízí vavřínové věnce,
+ačkoli na pomnících této myšlenky jich po
+celém světě leží už mnoho. Občané chtějí
+za lepším, těžko jim bránit. A Putin,
+hotový dobrák, ví kde zatlačit a za co [zatahat](http://youtu.be/sUNslUmQNiw).
 
 Sovětský svaz, to byly jistoty, které se s perestrojkou
 změnily v efemérní. Část rozhodnutí a tudíž i důsledků si,
 občane, poneseš sám. To pochopitelně nemyslící a apatickou
 většinu bolí. Ostatně právě tato většina určuje vždy a všude
-směřování světa — tím pro koho zabučí. Putin tu slabost
-poddaných zná a posiluje ji kde může.
+směřování světa — tím komu zatleská. Putin tu slabost
+poddaných zná a posiluje ji kde může. Právě proto vede
+svou zemi vzad.
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
 > k vlastním rozhodnutím. Se mnou to mají snazší,
@@ -40,7 +44,7 @@ jejich radost odepřít.
 
 Vzdálenosti jsou jim však Damoklovým mečem.
 Jakákoli názorová shoda se utopí v neprostupných
-dálavách země. A jako bonus je ta samá dálava oblíbeným
+dálavách. A nádavkem je ta samá dálava oblíbeným
 kolbištěm totalitaristů, jež tak sbírají podkladů
 k svému argumentu *pevné ruky*.
 
@@ -54,8 +58,8 @@ k svému argumentu *pevné ruky*.
 > *Kučera, V.: Velké Rusko. MFDNES, 4-3-2014, A10.*
 
 Být a Mít — práva, která v Rusku dlouho nikomu
-nepřišla na mysl. Bez nich ale není pohybu vpřed,
-jen vzad. Carové, inspektoři, gubernátoři ani
+nepřišla na mysl. Bez nich ale není pohybu vpřed.
+Carové, inspektoři, gubernátoři ani
 sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
 *Široký, příliš široký je člověk. Zúžil bych jej!*
@@ -128,21 +132,24 @@ umést cestu k destabilizaci, zatímco revolucionáři sami nevědouce
 co chtějí a činní — rozklad země poté ještě urychlili. A geopolitika,
 ve které si nikdo nepřeje silné Rusko, konec konců trvá do dnešních dob.
 Otázkou však zůstává, zdali je horší silné nebo zmatené Rusko, případně,
-a co je vůbec nejhorší, obojí naráz.
+a to je vůbec nejhorší, obojí naráz.
 
 Avšak zbytečná polarizace a striktní papouškování oficiální linie
 směrem k "ruskému světadílu" jen zatvrzuje obě strany. Proč vůbec pronášet slova,
-od kterých změnu nečekáme, nechceme. Možná pár let mlčet, počkat
-na další generaci nezatíženou pamflety, a pak jen na smrtelném
-loži litovat ztracených let. To by platilo pro *východní* i *západní* kliku.
-Ony ale trvají na vlastním epilogu. Chtějí ho hned. Snad kdyby počkaly,
-až my tu nebudeme. Bohužel fatální svévolí diplomacie je
+od kterých změnu nečekáme, nechceme. Možná pár let mlčet a počkat
+na další generaci nezatíženou pamflety, tunelovým viděním.
+To by platilo pro *východní* i *západní* kliku.
+Ony ale trvají na vlastním epilogu. Chtějí ho hned.
+Bohužel fatální svévolí diplomacie je
 přehnaná korektnost: sice mluvíte,
 ale neřeknete nic. Pokud by se pro jednou
 dostala k jádru věci, mnoho smutných chvil
 historie tu s námi nemuselo být
 (kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
-Tedy už mne nenapadá nic, co by nám pomohlo.
+
+Tedy, když i diplomacie *selhala*, není už
+žádných cest z problémů. Je jedno, co člověk
+udělá. Vždy to totiž udělá špatně.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
