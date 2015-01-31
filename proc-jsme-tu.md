@@ -64,7 +64,7 @@ vyhlížím svou kometu
 Zbytečný už džbánek od hněvu  
 moře unáší má Déjà vu  
 Není toho mnoho, co vzpomenu  
-musím tam, k tobě jdu
+musím tam, k Tobě jdu
 
 Dožívat, však kolik mi je  
 dvacet dva?  
