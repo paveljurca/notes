@@ -69,7 +69,7 @@ musím tam, k tobě jdu
 Dožívat, však kolik mi je  
 dvacet dva?  
 Tu zřízenec dí tklivě  
-Ty vole! Bytí není hra
+Cos myslel, bytí není hra
 
 Ležíc ve vlastním hrobě  
 tehdy napovím sám sobě  
