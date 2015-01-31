@@ -8,38 +8,38 @@ s nadšením neudělám nic
 
 Vystoupím  
 do netečnosti upadnu  
-Zlenivým  
-z vizí mám jen tmu
+V koutě plesnivým  
+namísto obrazů zřím tmu
 
 Jsem zarmoucen  
 tápu kudy nahoru  
-Teď ponáhlu šťasten  
-sedím u pohovoru
+Někdy také šťasten  
+když běžím k po-hovoru
 
 Třeba kdyby.. ba ne  
 smysl skončil ve shonu  
-Dávám proto vale  
-postrádám vlastní osnovu
+Zpravím proto vale  
+hledám vlastní osnovu
 
 Ideje ztrácívám  
 v jednotkách mamonu  
 Medúzy nevnímám  
-ač bez voru
+ač plavu bez voru
 
 Přehmaty zdrátuju  
 jestli tohle stačí?  
 Nevím, křivky maluju  
 mám to tak radši
 
-Směju se lvům  
+Chvátám do nových dnů  
 haním Andromedu  
 Dluh vůči snům  
 beztak splatit nedovedu
 
-K tomu rok předchozí  
-stal se mi zradou  
-Hvězdy večera  
-pojednou zas byly vadou
+K tomu krok předchozí  
+zas úšlapem stranou  
+Hvězdy večera spí  
+jsou navždy mou vadou
 
 Hrůzné zjištění  
 neumím prý žít  
@@ -54,27 +54,27 @@ jen on nehřeší
 Z lomozu světa  
 v ten čas jsem uniknul  
 Zmizela též vlídná věta  
-já dospělost odvrhnul
+já dospělost zavrhnul
 
-Pak jest to člověk hloupý  
-jenž brání si v rozletu  
-Minul mne rozum drahý  
-pusa plná pamfletů
+Nevolím tah moudrý  
+vyskakuju v rozletu  
+Na máry zbloudím nahý  
+vyhlížím svou kometu
 
-Neb netřeba vícero ohledů  
-dítě poznalo svá Déjà vu  
-I návrat vposledy vzpomenu  
-leč pozdě, medvěd bručí K tobě jdu
+Zbytečný už džbánek od hněvu  
+moře unáší má Déjà vu  
+Není toho mnoho, co vzpomenu  
+musím tam, k tobě jdu
 
-Umírat, však kolik mi je  
+Dožívat, však kolik mi je  
 dvacet dva?  
-Tu huňáč dí hned tklivě  
-Cos myslel, bytí není hra
+Tu zřízenec dí tklivě  
+Ty vole! Bytí není hra
 
-Tehdy řeknu si sám sobě  
-ležíc ve vlastním hrobě  
+Ležíc ve vlastním hrobě  
+tehdy napovím sám sobě  
 Tak vzpomeň si Lou  
-proč jsme tu!
+proč jsme tu
 
 (pj)
 
