@@ -3,30 +3,29 @@ Rusko
 
 Ruská [láska](http://www.divadlonavinohradech.com/divadelni-hra/Laska-na-Krymu)
 ke Krymu došla svého konce
-nebo snad dalšího začátku. Tancují tam kozáčka,
-zatímco Ukrajinu ani nepozvali do sálu.
+nebo snad staronového začátku. Tancují tam kozáčka,
+zatímco z Ukrajiny udělali si parkety do sálu.
 Prý vůle lidu, ale kterého? Sounáležitost
-je dnes pro všechny sprosté slovo a právo
-na sebeurčení naopak sklízí vavřínové věnce,
-ačkoli na pomnících této myšlenky jich po
-celém světě leží už mnoho. Občané chtějí
+je hanebné slovo. Vavřínové věnce teď sklízí
+právo na sebeurčení, ačkoli na pomnících této
+myšlenky jich leží už mnoho. Občané chtějí
 za lepším, těžko jim bránit. A Putin,
-hotový dobrák, ví kde zatlačit a za co [zatahat](http://youtu.be/sUNslUmQNiw).
+hotový dobrák, ví kde zatlačit a za co zatahat.
 
 Sovětský svaz, to byly jistoty, které se s perestrojkou
-změnily v efemérní. Část rozhodnutí a tudíž i důsledků si,
-občane, poneseš sám. To pochopitelně nemyslící a apatickou
-většinu bolí. Ostatně právě tato většina určuje vždy a všude
-směřování světa — tím komu zatleská. Putin tu slabost
-poddaných zná a posiluje ji kde může. Právě proto vede
-svou zemi vzad.
+změnily v efemérní. Odeznělo již budovatelské
+*každému podle jeho potřeb*. To pochopitelně nemyslící
+a apatickou většinu bolí. Ostatně právě tato většina
+určuje vždy a všude směřování světa — tím komu zatleská.
+Putin tu slabost poddaných zná a posiluje ji kde může.
+Právě proto vede svou zemi vzad.
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
 > k vlastním rozhodnutím. Se mnou to mají snazší,
 > dělají co říkám.
 > *Calvera, Sedm statečných, 1960.*
 
-Celý svět je opřen o lichou naději, že každý
+Celý svět je opřen o lichou naději, že i dítě
 snad ví, jak se má chovat. Zábrany však z hlav
 mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
@@ -45,8 +44,8 @@ jejich radost odepřít.
 Vzdálenosti jsou jim však Damoklovým mečem.
 Jakákoli názorová shoda se utopí v neprostupných
 dálavách. A nádavkem je ta samá dálava oblíbeným
-kolbištěm totalitaristů, jež tak sbírají podkladů
-k svému argumentu *pevné ruky*.
+kolbištěm bláznů, jež tak zkoušejí vlastní variace
+režimu *pevné ruky*.
 
 > Alexandr Jakoblev ve své knize Rusko plné
 > křížů jmenuje tři určující zdroje ruské historie:
@@ -94,7 +93,7 @@ Pro co ale? Ubránili jen svůj nerozum. A co dělat,
 když je historie národa vystavěna na neštěstí?
 Těžko to připustit, těžko to schovat.
 Dilema, které načas odvrátí jen jedno: další
-nepřátelství. Od té doby jsou opět opuštění a v izolaci.
+nepřátelství. Výsledkem budiž opět jen opuštění a izolace.
 Nemají kamarády a to jistě bolí. Spojence raději hledají
 v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
 v Evropě, kam pro sichr čas od času pošlou tanky.
@@ -115,29 +114,28 @@ stát, protože v tom žádný není.
 > život za půl kopejky a cizí už docela zadarmo.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
 
-Matička Rus stala se synonymem armády, arzenálu
+Matička Rus ukázala se být synonymem armády, arzenálu
 zbraní, bezhlavé poslušnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
 Škoda těch srdečných lidí, kteří tam někde,
 a v určitém počtu, stále jsou. Škoda, že s tím
 nic nedělají. Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
-Lze ale přiznat vlastní zoufalost, když už o ní všichni vědí?
+Možno ale přiznat vlastní zoufalost, když už o ní všichni vědí?
 Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
 Doufejme, že ta slova jsou už *jen* křivdou, jíž se teď hloupě dopouštíme.
 
-Počátek 20. století byl k Rusku nevlídný a pro Evropu nezasloužený.
-Tehdy rozvědčíci, plnící zájmy svých států, pomohli bolševikům
-umést cestu k destabilizaci, zatímco revolucionáři sami nevědouce
-co chtějí a činní — rozklad země poté ještě urychlili. A geopolitika,
-ve které si nikdo nepřeje silné Rusko, konec konců trvá do dnešních dob.
-Otázkou však zůstává, zdali je horší silné nebo zmatené Rusko, případně,
+Počátek 20. století byl k Rusku nevlídný, k Evropě nezasloužený.
+Tehdy totiž rozvědčíci, horující za zájmy svých států, pomohli bolševikům
+umést cestu k destabilizaci. A geopolitika, ve které si nikdo nepřeje
+silné Rusko, konec konců trvá do dnešních dob. Otázkou však zůstává,
+zdali je horší silné nebo zmatené Rusko, případně,
 a to je vůbec nejhorší, obojí naráz.
 
 Avšak zbytečná polarizace a striktní papouškování oficiální linie
 směrem k "ruskému světadílu" jen zatvrzuje obě strany. Proč vůbec pronášet slova,
 od kterých změnu nečekáme, nechceme. Možná pár let mlčet a počkat
-na další generaci nezatíženou pamflety, tunelovým viděním.
+na další generaci nezatíženou tunelovým viděním.
 To by platilo pro *východní* i *západní* kliku.
 Ony ale trvají na vlastním epilogu. Chtějí ho hned.
 Bohužel fatální svévolí diplomacie je
@@ -147,9 +145,9 @@ dostala k jádru věci, mnoho smutných chvil
 historie tu s námi nemuselo být
 (kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
 
-Tedy, když i diplomacie *selhala*, není už
-žádných cest z problémů. Je jedno, co člověk
-udělá. Vždy to totiž udělá špatně.
+Tedy, když i diplomacie (nikterak neočekávaně)
+*selhala*, není už žádných cest z problémů.
+Je jedno, co člověk udělá. Vždy to totiž udělá špatně.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
@@ -215,5 +213,5 @@ __bonus__
 > končí pestrá kronika.  
 > Rozumu v tom světě není.  
 > Všechno je jen taktika.
-> *Čapek, K.: O Trockém. Nebojsa 2, 9-1-1919, s. 19.*
+> *Čapek, K.: O Trockém. Nebojsa 2, 9. ledna 1919, s. 19.*
 
