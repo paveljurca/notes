@@ -58,7 +58,7 @@ já dospělost zavrhnul
 
 Zjihnu, složím poklonu  
 srdce je mým kusem obzoru  
-Není toho mnoho - vzpomenu  
+Není toho mnoho — vzpomenu  
 musím tam, k Tobě jdu
 
 Dožívat, však kolik mi je  
