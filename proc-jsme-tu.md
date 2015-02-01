@@ -19,7 +19,7 @@ když běžím k po-hovoru
 Třeba kdyby.. ba ne  
 smysl skončil ve shonu  
 Zpravím proto vale  
-hledám vlastní osnovu
+pokud najdu osnovu
 
 Ideje ztrácívám  
 v jednotkách mamonu  
@@ -56,13 +56,8 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
-Nevolím tah moudrý  
-vyskakuju v rozletu  
-Na máry zbloudím nahý  
-vyhlížím svou kometu
-
-Zbytečný už džbánek od hněvu  
-moře unáší má Déjà vu  
+Pozdě teď skládat poklonu  
+srdce je mi kusem obzoru  
 Není toho mnoho, co vzpomenu  
 musím tam, k Tobě jdu
 
@@ -74,7 +69,7 @@ Cos myslel, bytí není hra
 Ležíc ve vlastním hrobě  
 tehdy napovím sám sobě  
 Tak vzpomeň si Lou  
-proč jsme tu
+proč jsme tu!
 
 (pj)
 
