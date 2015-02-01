@@ -1,9 +1,9 @@
 Hluchý konec
 ============
 
-K čemu je had co kousne tě  
-K čemu je pátek na téhle planetě  
-K čemu jsou lásky k ruletě  
+Je had co kousne tě  
+Je pátek na téhle planetě  
+Jsou lásky k ruletě  
 Ještě ses neohřál — je po létě
 
 Pravdu hledáš v pozdním momentě  
@@ -12,7 +12,7 @@ Zasedáš v kající se dobrotě
 Zraješ uvnitř, chátráš vně 
 
 Nerozumíš pořadí os  
-Pod sebou kácíš hvozd  
+Pod sebou kácíš si hvozd  
 Těší tě vlastní ospalost  
 Teď křičíš, sténáš Mám dost
 
