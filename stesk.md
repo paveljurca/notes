@@ -9,7 +9,7 @@ v nářku rezatět
 hledám trudnost  
 mají jen sazenice plev  
 věřím téhle vlasti  
-schovám si pár let  
+vyčkám pár párů let  
   
 možná, čím blíže věcem  
 méně dokonalé se zdají  
