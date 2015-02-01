@@ -19,7 +19,7 @@ když běžím k po-hovoru
 Třeba kdyby.. ba ne  
 smysl skončil ve shonu  
 Zpravím proto vale  
-pokud najdu osnovu
+trhám vlastní osnovu
 
 Ideje ztrácívám  
 v jednotkách mamonu  
@@ -56,9 +56,9 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
-Pozdě teď skládat poklonu  
-srdce je mi kusem obzoru  
-Není toho mnoho, co vzpomenu  
+Zjihnu, složím poklonu  
+srdce je mým kusem obzoru  
+Není toho mnoho - vzpomenu  
 musím tam, k Tobě jdu
 
 Dožívat, však kolik mi je  
