@@ -24,7 +24,7 @@ Přec chtěl jsi žít tak lehce
 Stal ses nedostupný, ve vlastní hlavě  
 Už nemyslíš, lobotomií prošel jsi hravě  
 Čumíš teď všelijak, vůbec ne slavně  
-Pomoc nepřijde — ustlal sis na dně
+Pomoc nepřijde — ležíš na dně
 
 Doufej, že jiné to napříště bude  
 Vzdáš-li se, nemravo, nejprve vůle
