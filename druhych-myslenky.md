@@ -1,7 +1,7 @@
 Druhých myšlenky
 ================
 
-~
+%
 
 > Define or be defined.
 > *Thomas Szasz*
@@ -264,8 +264,6 @@ Druhých myšlenky
 > Vesmír byl stvořen proto,  
 > aby skončil knihou.
 > *Stéphane Mallarmé*
-
-~
 
 (pj)
 
