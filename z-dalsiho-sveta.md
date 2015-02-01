@@ -16,7 +16,7 @@ troufalost ranní mlha halí
 Tehdy prve rodiče praví  
 Podívej, důvody v žáru pece taví
 
-Zem se ze smutku vyznala  
+Zem ze smutku se vyznala  
 úradky v dobré víře pojala  
 Potravu k nohám člověka skládala  
 místo syna však — halama
