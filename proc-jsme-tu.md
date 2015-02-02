@@ -56,7 +56,7 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
-Zjihnu, složím poklonu  
+Zjihnu, pak složím poklonu  
 srdce je mým kusem obzoru  
 Není toho mnoho — vzpomenu  
 musím tam, k Tobě jdu
