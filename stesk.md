@@ -11,9 +11,9 @@ mají jen sazenice plev
 věřím téhle vlasti  
 vyčkám pár párů let  
   
-možná, čím blíže věcem  
-méně dokonalé se zdají  
-a čím dále srdcem  
+blíže věcem  
+nehezčí se zdají  
+dále srdcem  
 tehdy záleželo — teď nezáleží  
 
 to je celé  
