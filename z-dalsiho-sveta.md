@@ -11,13 +11,13 @@ vystačí nám Hrabalovo pábení
 Na truc vedeme sté tažení  
 k smíchu je lidské vzezření
 
-Hlupáci k sobě se mají  
+Chmurná oblaka k sobě se mají  
 tmu s troufalostí pošetilost pojí  
 Tehdy prve rodiče praví  
 Podívej, důvody v žáru pece taví
 
 Zem ze smutku pak se vyznala  
-úradky v dobré víře prý pojala  
+úradky v dobré víře rovněž pojala  
 Potravu k nohám člověka skládala  
 místo syna však — halama
 
@@ -34,12 +34,12 @@ odpovědi hrstí ozvěny
 A tak prosti prostoru  
 hledíme nad sebe  
 Slunce změnilo prizmatu  
-všichni zhyneme
+v tichosti sejdeme
 
 Nebo taky ne  
 zpleníme další planetu  
 A dále ještě zajdeme  
-dokud jsme tu
+když už jsme tu
 
 (pj)
 
