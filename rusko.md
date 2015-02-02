@@ -42,7 +42,7 @@ O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
 
 Vzdálenosti jsou jim však Damoklovým mečem.
-Jakákoli názorová shoda se utopí v neprostupných
+Jakákoli názorová shoda utopí se v neprostupných
 dálavách. A nádavkem je ta samá dálava oblíbeným
 kolbištěm bláznů, jež tak zkoušejí vlastní variace
 režimu *pevné ruky*.
@@ -54,7 +54,7 @@ režimu *pevné ruky*.
 > mongolský vliv, který otupil úctu k lidskému životu,
 > a zatřetí věky chybějící soukromý majetek. Z toho
 > plyne samoděržavný kult a opovržení lidmi.
-> *Kučera, V.: Velké Rusko. MFDNES, 4-3-2014, A10.*
+> *Kučera, V.: Velké Rusko. MFDNES, 4. března 2014, A10.*
 
 Být a Mít — práva, která v Rusku dlouho nikomu
 nepřišla na mysl. Bez nich ale není pohybu vpřed.
@@ -143,7 +143,7 @@ přehnaná korektnost: sice mluvíte,
 ale neřeknete nic. Pokud by se pro jednou
 dostala k jádru věci, mnoho smutných chvil
 historie tu s námi nemuselo být
-(kupříkladu [svržení atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
+(kupříkladu svržení [atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
 
 Tedy, když i diplomacie (nikterak neočekávaně)
 *selhala*, není už žádných cest z problémů.
@@ -193,7 +193,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * Zubov, A.: Dějiny Ruska 20. století
 * Dostojevskij, Gogol, Tolstoj, Puškin, apod.
 
-__bonus__
+__+__
 > My tři králi, my jdeme k vám,  
 > štěstí, zdraví neseme vám.
 >
