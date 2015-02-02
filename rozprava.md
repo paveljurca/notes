@@ -32,26 +32,24 @@ ať hmota je
 zas zádumčivou otázkou.  
 Nelze nic skončit,  
 nelze všechno začít.  
-Vím jen,  
+Snad,  
 že země je kulatá,  
 na každém rohu mohu odbočit,  
 však z té cesty  
 sejít není kam.  
   
-Zbývá jen republika.  
-Kolik lidí je znalých  
-státu res publica?  
 Články mohu psát,  
 a právě proto nic nedělat.  
 Kdo ví,  
 co chci?  
 Nevadí, chápu,  
-jste mi výchovnými poradci.  
+jsem v zajetí  
+s výchovnými poradci.  
   
 A když se zdá,  
-že jsem hrst pochopil,  
+že jsem do dlaně pochopil,  
 noc vše překryje.  
-Nad ránem pamatuji si jen,  
+Nad ránem pak vzpomenu jen,  
 že jsem zapomněl.  
 Tak vlastně žiji proto,  
 abych znovu zítra začínal.  
