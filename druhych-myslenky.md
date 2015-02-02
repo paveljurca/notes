@@ -63,7 +63,7 @@ Druhých myšlenky
 > Protože kdyby byl jenom bdělej,  
 > to by ještě tak nevadilo,  
 >   
-> ale jak je gramotnej -  
+> ale jak je gramotnej —  
 > tak umí napsat udání.
 > *Timofejič Golubjev, Čonkin*
 
@@ -84,12 +84,6 @@ Druhých myšlenky
 
 .
 
-> Never argue with an idiot. They will only  
-> bring you down to their level - and beat you with experience.
-> *Mark Twain*
-
-.
-
 > Kdo chvíli stál, již stojí opodál.  
 > Den žádný dvakráte se nenarodí, čin dvakrát neuzraje.
 > *Jan Neruda, Zpěvy páteční*
@@ -101,14 +95,8 @@ Druhých myšlenky
 
 .
 
-> Never stop doing your best,  
-> just because someone doesn't give you credit.
-> *kushandwizdom*
-
-.
-
 > Neříkejte, že něco nejde.  
-> Přiznejte, že to neumíte - a pak se to naučte.
+> Přiznejte, že to neumíte — a pak se to naučte.
 > *Tomáš Baťa*
 
 .
