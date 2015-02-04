@@ -12,8 +12,8 @@ myšlenky jich leží už mnoho. Občané chtějí
 za lepším, těžko jim bránit. A Putin,
 hotový dobrák, ví kde zatlačit a za co zatahat.
 
-Sovětský svaz, to byly jistoty, které se s perestrojkou
-změnily v efemérní. Odeznělo již budovatelské
+Sovětský svaz, to byly jistoty, které perestrojka
+učinila volnější — svobodnější. Odeznělo budovatelské
 *každému podle jeho potřeb*. To pochopitelně nemyslící
 a apatickou většinu bolí. Ostatně právě tato většina
 určuje vždy a všude směřování světa — tím komu zatleská.
