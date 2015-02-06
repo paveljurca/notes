@@ -105,9 +105,11 @@ v Evropě, kam pro sichr čas od času pošlou tanky.
 
 Proč atomovými hlavicemi vyzbrojili Čínu i Indii?
 Tedy zbraní, která už není záležitostí
-nějaké země, nýbrž konkrétní Země? V situaci kdy
-voják Rudé armády není povinován zabít, ale být zabit?
-Proč je národní ctižádostí trpět? Ne, rozum nad tím nezůstává
+nějaké země, nýbrž konkrétní Země?
+Proč není voják Rudé armády povinován zabít,
+ale být zabit?
+Proč je národní ctižádostí trpět?
+Ne, rozum nad tím nezůstává
 stát, protože v tom žádný není.
 
 > Už Puškin píše, že jsou Rusové, jimž vlastní
@@ -133,13 +135,16 @@ zdali je horší silné nebo zmatené Rusko, případně,
 a to je vůbec nejhorší, obojí naráz.
 
 Avšak zbytečná polarizace a striktní papouškování oficiální linie
-směrem k "ruskému světadílu" jen zatvrzuje obě strany. Proč vůbec pronášet slova,
-od kterých změnu nečekáme, nechceme. Možná pár let mlčet a počkat
-na další generaci nezatíženou tunelovým viděním.
+směrem k "ruskému světadílu" jen zatvrzuje obě strany.
+Proč vůbec pronášet slova, od kterých změnu nečekáme, nechceme.
+Možná si [mlčky](http://jurcapavel.cz/blog/mluvit) odžít pár
+příštích let a počkat na další generaci
+nezatíženou tunelovým viděním.
 To by platilo pro *východní* i *západní* kliku.
+Jednoduše: Horší už jistě nemá být co.
 Ony ale trvají na vlastním epilogu. Chtějí ho hned.
 Bohužel fatální svévolí diplomacie je
-přehnaná korektnost: sice mluvíte,
+její přehnaná korektnost: sice mluvíte,
 ale neřeknete nic. Pokud by se pro jednou
 dostala k jádru věci, mnoho smutných chvil
 historie tu s námi nemuselo být
@@ -156,7 +161,7 @@ Stačí si jen vzpomenout na tajnosti,
 jež se děly kolem dohody ACTA.
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská imbecilita. A proti té
-se těžko demonstruje — máme ji všichni.
+se těžko pochoduje — máme ji všichni.
 
 > Konečně každý hřích koná se vůlí a má hnízdo
 > ve vůli.. Lidé nejtěžší pokušení mívají v myšlení.
