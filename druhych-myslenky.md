@@ -84,6 +84,12 @@ Druhých myšlenky
 
 .
 
+> Skutečný svět byl mi vždy jen jakési vytržení  
+> z mého světa, který jsem si vytvořil.
+> *František Drtikol, Deníky věnované Elišce Janské*
+
+.
+
 > Kdo chvíli stál, již stojí opodál.  
 > Den žádný dvakráte se nenarodí, čin dvakrát neuzraje.
 > *Jan Neruda, Zpěvy páteční*
@@ -187,6 +193,12 @@ Druhých myšlenky
 > Maybe the People are always those  
 > who used to live the generation before last.
 > *John Steinbeck, Travels with Charley*
+
+.
+
+> Nikdy se člověk nemá spokojiti s prostřední  
+> věcí. Nic není hnusnějšího než to.
+> *František Drtikol, Deníky věnované Elišce Janské*
 
 .
 
