@@ -241,7 +241,14 @@ Druhých myšlenky
 
 .
 
-> How soon not now becomes never.
+> Now we that are strong ought to  
+> bear the infirmities of the weak  
+> and not to please ourselves.
+> *Romans 15:1*
+
+.
+
+> How soon \*not now\* becomes \*never\*.
 > *Martin Luther King*
 
 .
