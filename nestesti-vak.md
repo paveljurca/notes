@@ -11,11 +11,11 @@ ještě výše!
 
 potom prostě tak  
 naprší stáří mrak  
-meškat není už jak  
+meškat nelze už jak  
 prohlédneš v té díře  
   
 poslední útěchou  
-— trhaný spánek  
+— trvanlivý spánek  
 sněné kurikulum  
 cár přízemních stránek  
   
