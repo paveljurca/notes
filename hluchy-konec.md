@@ -4,7 +4,7 @@ Hluchý konec
 Je had co kousne tě  
 Je pátek na téhle planetě  
 Jsou lásky k ruletě  
-Ještě ses neohřál — je po létě
+Ještě ses neohřál — po létě
 
 Pravdu hledáš v pozdním momentě  
 Nikdo neřekne Berem tě  
