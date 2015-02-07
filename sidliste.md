@@ -4,7 +4,7 @@ Sídliště
 znám ty skleslé paneláky  
 jednou zblízka, jednou zdálky  
 tam svádím své žabí války  
-hutné stavení — pomník zahálky  
+hutná stavení — pomník zahálky  
   
 dlí v nich Skuteč, Choceň, Ústí nad Labem  
 zkrátka celý lidský sněm  
