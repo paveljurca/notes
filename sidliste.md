@@ -2,20 +2,20 @@ Sídliště
 ========  
   
 znám ty skleslé paneláky  
-jednou zblízka, jednou z dálky  
+jednou zblízka, jednou zdálky  
 tam svádím své žabí války  
 hutné stavení — pomník zahálky  
   
-dlí v nich Skuteč, Ústí nad Labem  
+dlí v nich Skuteč, Choceň, Ústí nad Labem  
 zkrátka celý lidský sněm  
-asi zaslouženým věkem  
-z panelu kremací vyhrabu se ven  
+třeba zaslouženým věkem  
+kremací z panelu pustí nás ven  
 
-teď před kójemi sázím fíky  
+před kóje pak sázím fíky  
 urbanisté inkasují tučné díky  
-umakart tlumí obyvatel vzlyky  
-domovní schůze — usnesením tiky
-  
+umakart tiší obyvatel vzlyky  
+domovní schůze — další nýty
+
 chodby, služba, týdny  
 chlupatý hadr  
 bezedné kýbly
@@ -23,7 +23,7 @@ bezedné kýbly
 a taky mandl  
 a taky sklep  
 počkám si  
-hlavně nechtít obé hned!
+nedávají obé hned!
   
 (pj)  
   
