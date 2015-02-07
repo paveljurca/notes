@@ -4,24 +4,26 @@ Sídliště
 znám ty skleslé paneláky  
 jednou zblízka, jednou z dálky  
 tam svádím své žabí války  
-hutné stavení - pomník zahálky  
+hutné stavení — pomník zahálky  
   
-spí v nich Skuteč, Choceň, Ústí nad Labem  
+dlí v nich Skuteč, Ústí nad Labem  
 zkrátka celý lidský sněm  
-asi pozdním věkem  
-z panelu vyhrabu se ven  
+asi zaslouženým věkem  
+z panelu kremací vyhrabu se ven  
 
-žel  
-
-celé rodiny umakartu propadly  
-urbanisté stoupačky všem do začátku rozdali  
-vážně, nevím co čekali  
-z domovní schůze - ministerstvo obrany  
+teď před kójemi sázím fíky  
+urbanisté inkasují tučné díky  
+umakart tlumí obyvatel vzlyky  
+domovní schůze — usnesením tiky
   
+chodby, služba, týdny  
+chlupatý hadr  
+bezedné kýbly
+
 a taky mandl  
 a taky sklep  
-počkej si  
-nedostaneš obé hned  
+počkám si  
+hlavně nechtít obé hned!
   
 (pj)  
   
