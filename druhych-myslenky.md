@@ -272,6 +272,14 @@ Druhých myšlenky
 > aby skončil knihou.
 > *Stéphane Mallarmé*
 
+.
+
+> "Dá se to vyléčit?"  
+> "Ne."  
+> Hm, no tak ne.  
+> Taky dobře.
+> *František Drtikol, Deníky věnované Elišce Janské*
+
 (pj)
 
 * __Yet Another Quotes__
