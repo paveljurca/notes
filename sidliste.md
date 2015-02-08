@@ -9,12 +9,16 @@ hutná stavení — pomník zahálky
 dlí v nich Skuteč, Choceň, Ústí nad Labem  
 zkrátka celý lidský sněm  
 třeba zaslouženým věkem  
-kremací z panelu pustí nás ven  
+kremací z panelu vyjdeme si ven
 
-před kóje pak sázím fíky  
-urbanisté inkasují tučné díky  
-umakart tiší obyvatel vzlyky  
-domovní schůze — další nýty
+...
+
+před kójemi pak srostou fíky  
+urbanisté zinkasují tučné díky  
+umakart utiší obyvatel vzlyky  
+domovní schůzí zní hodinek tiky
+
+zbývají
 
 chodby, služba, týdny  
 chlupatý hadr  
