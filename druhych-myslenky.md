@@ -202,6 +202,12 @@ Druhých myšlenky
 
 .
 
+> Umění se nikdy nesmí stát katalogem
+> hotových odpovědí na životní otázky.
+> *Václav Černý, Co je kritika*
+
+.
+
 > If you see a dog walking on his hind legs, it's not  
 > so much that he does it well, as that he does it at all.
 > *Samuel Johnson*
@@ -279,6 +285,11 @@ Druhých myšlenky
 > Hm, no tak ne.  
 > Taky dobře.
 > *František Drtikol, Deníky věnované Elišce Janské*
+
+.
+
+> Svět je dříve krásný než pravdivý.
+> *Václav Černý, Co je kritika*
 
 (pj)
 
