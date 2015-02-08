@@ -16,7 +16,7 @@ kremací z panelu vyjdeme si ven
 před kójemi pak srostou fíky  
 urbanisté zinkasují tučné díky  
 umakart utiší obyvatel vzlyky  
-domovní schůzí zní hodinek tiky
+domovní schůzí zazní hodinek tiky
 
 zbývají
 
