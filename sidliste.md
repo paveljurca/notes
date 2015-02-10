@@ -3,20 +3,20 @@ Sídliště
   
 znám ty skleslé paneláky  
 jednou zblízka, jednou zdálky  
-tam svádím své žabí války  
+tam počaly mé žabí války  
 hutná stavení — pomník zahálky  
   
 dlí v nich Skuteč, Choceň, Ústí nad Labem  
 zkrátka celý lidský sněm  
-třeba zaslouženým věkem  
-kremací z panelu vyjdeme si ven
+třeba přijde lítost s věkem  
+panel prostým epitafem jmen
 
 ...
 
 před kójemi pak srostou fíky  
 urbanisté zinkasují tučné díky  
 umakart utiší obyvatel vzlyky  
-domovní schůzí zazní eonu tiky
+domovní schůzí odezní eonu tiky
 
 zbývají
 
