@@ -2,7 +2,7 @@ Neštěstí vak
 ============
   
 přišla nemoc  
-— vzdor mrzké víře  
+to vzdor mrzké víře  
 sláb jen tuhle noc  
 nazítří zpět, doma, v pýše  
 
@@ -11,11 +11,11 @@ ještě výše!
 
 potom prostě tak  
 naprší stáří mrak  
-meškat nelze už jak  
+meškat nemáš už jak  
 prohlédneš v té díře  
   
 poslední útěchou  
-— trvanlivý spánek  
+důstojný spánek  
 sněné kurikulum  
 cár přízemních stránek  
   
