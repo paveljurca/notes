@@ -11,7 +11,7 @@ ještě výše!
 
 potom prostě tak  
 naprší stáří mrak  
-meškat nemáš už jak  
+meškat už nemáš jak  
 prohlédneš v té díře  
   
 poslední útěchou  
