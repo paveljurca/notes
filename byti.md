@@ -43,6 +43,9 @@ myšlenky zůstaly.
 To je marnost.  
 Nevyměníš  
 obsah zubních past.  
-  
+
+Nepopovídáš si,  
+nerozumí ti.
+
 (pj)  
   
