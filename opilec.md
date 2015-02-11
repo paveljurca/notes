@@ -10,6 +10,9 @@ pod očima další kruhy
 vlastní rytmus nestíhá  
 přistoupil na život sovy  
 nad ránem pak omdlívá  
-  
+
+přesto je pln vlohy  
+nepochopil, kdo se usmívá  
+
 (pj)  
   
