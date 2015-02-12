@@ -291,6 +291,12 @@ Druhých myšlenky
 > Svět je dříve krásný než pravdivý.
 > *Václav Černý, Co je kritika*
 
+.
+
+> Přemýšlet o smrti je přemýšlet o svobodě.  
+> Kdo se naučil umírat, odnaučil se sloužit.
+> *Michel de Montaigne*
+
 (pj)
 
 * __Yet Another Quotes__
