@@ -56,9 +56,11 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
+*
+
 Zjihnu, pak složím poklonu  
 srdce je mým kusem obzoru  
-Není toho mnoho — vzpomenu  
+Není toho mnoho — rozhodnu  
 musím tam, k Tobě jdu
 
 Dožívat, však kolik mi je  
