@@ -33,17 +33,15 @@ nic není.
 Mimo tebe  
 také ne.  
   
-Třesk hlavy  
-zaháníme  
-třeskem těla.  
-Obžerství,  
-sub specie ajzboňák.  
+Drkot těla  
+bijeme  
+třeskem hlavy.  
 Ten vzácný  
 prostor mezi bolestmi  
 zdá se být  
 aspoň životem.  
-  
-Slova utekla,  
+
+Slova zadrhla,  
 myšlenky hloupě zejí.  
 Nepopovídáš si,  
 nerozumí ti.
