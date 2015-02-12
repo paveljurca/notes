@@ -9,20 +9,25 @@ Nestačí,
 že jsme.  
 To vědomí  
 se nedá uchopit.  
-— Proto záře (tele)vize?  
-Tele, daleko  
-důvod vázne.  
+— Proto záře tele,  
+vize?  
+Důvod vázne,  
+daleko,  
+v schíze.  
 Zapomenout  
-vlastních otázek.  
-— Taky dobře.
+vlastní nátury.  
+
+&nbsp;Taky dobře.
 
 Představ si  
 svět bez tebe.  
 Nejde to,  
-tedy ty jsi ten svět.  
+tedy ty jsi  
+ten svět.  
 Každý pár očí  
-je světem  
-jiným, hlubokým, vlastním.  
+je mundus  
+— hluboký  
+jak řečiště stok.  
 Mimo vesmír  
 nic není.  
 Mimo tebe  
@@ -32,18 +37,14 @@ Třesk hlavy
 zaháníme  
 třeskem těla.  
 Obžerství,  
-adorace po smyslu.  
+sub specie ajzboňák.  
 Ten vzácný  
 prostor mezi bolestmi  
 zdá se být  
 aspoň životem.  
   
 Slova utekla,  
-myšlenky zůstaly.  
-To je marnost.  
-Nevyměníš  
-obsah zubních past.  
-
+myšlenky hloupě zejí.  
 Nepopovídáš si,  
 nerozumí ti.
 
