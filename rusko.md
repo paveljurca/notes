@@ -25,8 +25,8 @@ Právě proto vede svou zemi vzad.
 > *Calvera, Sedm statečných, 1960.*
 
 Celý svět je opřen o lichou naději, že Obyvatel
-snad ví, jak se má chovat. Zábrany však z hlav
-mizí rychle, obzvláště pak z těch ruských.
+snad ví, jak se má chovat. *Co by však měl vědět?*
+Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
 a vnějších (právo). Rusku se žel nedostává obého.
 Dříve by byla válka, dnes jsme humánější a máme sankce.
