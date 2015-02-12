@@ -3,12 +3,11 @@ Rusko
 
 Ruská [láska](http://www.divadlonavinohradech.com/divadelni-hra/Laska-na-Krymu)
 ke Krymu došla svého konce
-nebo snad staronového začátku. Tancují tam kozáčka,
-zatímco z Ukrajiny udělali si parkety do sálu.
+nebo snad staronového začátku.
 Prý vůle lidu, ale kterého? Sounáležitost
 je hanebné slovo. Vavřínové věnce teď sklízí
 právo na sebeurčení, ačkoli na pomnících této
-myšlenky jich leží už mnoho. Občané chtějí
+myšlenky leží už věnce smuteční. Občané chtějí
 za lepším, těžko jim bránit. A Putin,
 hotový dobrák, ví kde zatlačit a za co zatahat.
 
@@ -25,7 +24,7 @@ Právě proto vede svou zemi vzad.
 > dělají co říkám.
 > *Calvera, Sedm statečných, 1960.*
 
-Celý svět je opřen o lichou naději, že i dítě
+Celý svět je opřen o lichou naději, že Obyvatel
 snad ví, jak se má chovat. Zábrany však z hlav
 mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
@@ -36,7 +35,7 @@ Zcela bez okolků: díky za ně!
 A proč ta ruská rozpínavost? Snad proto, že velikost
 vlasti je pro ně jedno-duše vším a každý metr hranice
 navíc je radostí. Slunce tam prakticky nezapadá, ale
-proč ještě pár států nepřidat? Věčná škoda,
+proč ještě pár kopců nepřidat? Věčná škoda,
 že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
@@ -141,7 +140,6 @@ Možná si [mlčky](http://jurcapavel.cz/blog/mluvit) odžít pár
 příštích let a počkat na další generaci
 nezatíženou tunelovým viděním.
 To by platilo pro *východní* i *západní* kliku.
-Jednoduše: Horší už jistě nemá být co.
 Ony ale trvají na vlastním epilogu. Chtějí ho hned.
 Bohužel fatální svévolí diplomacie je
 její přehnaná korektnost: sice mluvíte,
@@ -151,7 +149,7 @@ historie tu s námi nemuselo být
 (kupříkladu svržení [atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
 
 Tedy, když i diplomacie (nikterak neočekávaně)
-*selhala*, není už žádných cest z problémů.
+*selhala*, horší už jistě nemá být co.
 Je jedno, co člověk udělá. Vždy to totiž udělá špatně.
 
 Dobrat se dnes pravdy o stavu světa je vinou
