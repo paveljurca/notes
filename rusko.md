@@ -25,7 +25,7 @@ Právě proto vede svou zemi vzad.
 > *Calvera, Sedm statečných, 1960.*
 
 Celý svět je opřen o lichou naději, že Obyvatel
-snad ví, jak se má chovat. *Co by však měl vědět?*
+snad ví, jak se má chovat. **Neví to**, nikde se to neučí. 
 Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
 a vnějších (právo). Rusku se žel nedostává obého.
@@ -56,7 +56,7 @@ režimu *pevné ruky*.
 > *Kučera, V.: Velké Rusko. MFDNES, 4. března 2014, A10.*
 
 Být a Mít — práva, která v Rusku dlouho nikomu
-nepřišla na mysl. Bez nich ale není pohybu vpřed.
+nepřišla na mysl.
 Carové, inspektoři, gubernátoři ani
 sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
@@ -127,7 +127,7 @@ Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
 Doufejme, že ta slova jsou už *jen* křivdou, jíž se teď hloupě dopouštíme.
 
 Počátek 20. století byl k Rusku nevlídný, k Evropě nezasloužený.
-Tehdy totiž rozvědčíci, horující za zájmy svých států, pomohli bolševikům
+Tehdy totiž rozvědčíci, horující za zájmy svých potentátů, pomohli bolševikům
 umést cestu k destabilizaci. A geopolitika, ve které si nikdo nepřeje
 silné Rusko, konec konců trvá do dnešních dob. Otázkou však zůstává,
 zdali je horší silné nebo zmatené Rusko, případně,
@@ -137,7 +137,7 @@ Avšak zbytečná polarizace a striktní papouškování oficiální linie
 směrem k "ruskému světadílu" jen zatvrzuje obě strany.
 Proč vůbec pronášet slova, od kterých změnu nečekáme, nechceme.
 Možná si [mlčky](http://jurcapavel.cz/blog/mluvit) odžít pár
-příštích let a počkat na další generaci
+příštích let a doufat v novou generaci
 nezatíženou tunelovým viděním.
 To by platilo pro *východní* i *západní* kliku.
 Ony ale trvají na vlastním epilogu. Chtějí ho hned.
@@ -181,12 +181,13 @@ ještě stále hodně. A netřeba snad připomínat,
 
 * __zdroje__
 * [Vítr se vrací](http://prehravac.rozhlas.cz/audio/2876556)
-* [Srpen 1968 - příběh ruského vojáka](http://prehravac.rozhlas.cz/audio/433702)
-* [Rok 68: Naděje](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/)
+* [rok 1968](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/),
+[jaro 1968](http://www.pametnaroda.cz/anniversary/detail/id/7),
+[srpen 1968](http://prehravac.rozhlas.cz/audio/433702)
 * [Ruský příběh pravdy a lži](http://www.ceskatelevize.cz/porady/1142743803-reporteri-ct/214452801240019/video/327399)
 * [Děti ze stanice Leningradská](http://youtu.be/0JW6Qslwd3w)
-* [Ukrajina #1](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
-[Ukrajina #2](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
+* [Romancov](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
+[Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
 * Masaryk, T.G.: O bolševismu
 * Remarque, E.M.: Miluj bližního svého
 * Jaspers, K.: Otázka viny
