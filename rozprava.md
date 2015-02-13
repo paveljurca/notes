@@ -12,17 +12,20 @@ a strach,
 že začnu-li s jedním,  
 uteče mi druhé.  
 A tak trávím dny  
-rozkročen mezi možnostmi.  
+věčně rozkročen  
+mezi možnostmi.  
   
-Občané;  
-nerozumím jim,  
-žel jsou mi výchozím bodem.  
-Oni ukázali pak,  
+Praha plná hlav;  
+neznám je  
+— jsou mi sevřením.  
+Ony ukázaly pak,  
 jen tak,  
 co je špatné a dobré.  
-Vše jmény odstínili.  
+Vše jmény odstínily.  
  — Proč o pravdě  
 rozhoduje oko člověka?  
+V lese i zverimexu  
+těkají oči další.  
 Chci tam,  
 kde věci jsou per se,  
 bez přídavných jmen,  
@@ -34,10 +37,12 @@ Nelze nic skončit,
 nelze všechno začít.  
 Snad,  
 že země je kulatá,  
-na každém rohu mohu odbočit,  
-však z té cesty  
-sejít není kam.  
-  
+není rohu kde odbočit,  
+však sejít zvládnu kdekoli.  
+Běhat okruhy  
+— doleva  
+a už nepustí mě doprava.
+
 Články mohu psát,  
 a právě proto nic nedělat.  
 Kdo ví,  
