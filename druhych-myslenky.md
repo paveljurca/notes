@@ -84,6 +84,12 @@ Druhých myšlenky
 
 .
 
+> Přemýšlet o smrti je přemýšlet o svobodě.  
+> Kdo se naučil umírat, odnaučil se sloužit.
+> *Michel de Montaigne*
+
+.
+
 > Skutečný svět byl mi vždy jen jakési vytržení  
 > z mého světa, který jsem si vytvořil.
 > *František Drtikol, Deníky věnované Elišce Janské*
@@ -254,11 +260,6 @@ Druhých myšlenky
 
 .
 
-> How soon \*not now\* becomes \*never\*.
-> *Martin Luther King*
-
-.
-
 > Útěk je naděje na jiný řešení.
 > *Arnošt Lustig*
 
@@ -290,12 +291,6 @@ Druhých myšlenky
 
 > Svět je dříve krásný než pravdivý.
 > *Václav Černý, Co je kritika*
-
-.
-
-> Přemýšlet o smrti je přemýšlet o svobodě.  
-> Kdo se naučil umírat, odnaučil se sloužit.
-> *Michel de Montaigne*
 
 (pj)
 
