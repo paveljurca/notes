@@ -1,7 +1,7 @@
 Druhých myšlenky
 ================
 
-%
+;
 
 > Define or be defined.
 > *Thomas Szasz*
