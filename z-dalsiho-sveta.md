@@ -12,13 +12,13 @@ Na truc vedeme sté tažení
 k smíchu je lidské vzezření
 
 Chmurná oblaka k sobě se mají  
-tmu s troufalostí pošetilost pojí  
+na slabším slabší se hojí  
 Tehdy prve rodiče praví  
 Podívej, důvody v žáru pece taví
 
 Zem ze smutku pak se vyznala  
-úradky v dobré víře rovněž pojala  
-Potravu k nohám člověka skládala  
+úradky v dobré víře k nám pojala  
+Potravou pokolení zhýčkala  
 místo syna však — halama
 
 To lidská duše selhala  
