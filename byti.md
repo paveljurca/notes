@@ -22,27 +22,44 @@ vlastní nátury.
 Představ si  
 svět bez tebe.  
 Nejde to,  
-tedy ty jsi  
-ten svět.  
+s tebou skončí  
+jeden,  
+tvůj svět.  
 Každý pár očí  
-je mundus  
+je takový mundus  
 — hluboký  
 jak řečiště stok.  
 Mimo vesmír  
 nic není.  
 Mimo tebe  
 také ne.  
-  
+
+Hloupé  
+— co bylo,  
+lepší  
+— co jistě bude.  
+
 Drkot těla  
-bijeme  
-třeskem hlavy.  
-Ten vzácný  
-prostor mezi bolestmi  
+smění  
+třesk hlavy.  
+
+&nbsp;Dvě bolesti.  
+
+Ten prostor  
+mezi nimi  
+(tak akorát na 2 knihy)  
 zdá se být  
 aspoň životem.  
 
+Flagrantní  
+humánní  
+jinotaj.  
+Vím hvno,  
+jež tohle všechno  
+znamená.
+
 Slova zadrhla,  
-myšlenky hloupě zejí.  
+myšlenky divně zejí.  
 Nepopovídáš si,  
 nerozumí ti.
 
