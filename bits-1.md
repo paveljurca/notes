@@ -71,7 +71,7 @@ just 2 spaces:
     highlight LineNr ctermfg=238
     Ctrl^D
 
-![Vim](file:///home/pavel/git/blog/m/vim.png)
+![Vim](m/vim.png)
 (gnome-terminal)
 
 Checkout [vi-improved](http://vi-improved.org/)
@@ -131,7 +131,7 @@ section and having it like:
        <string>#eab700</string>
     </dict>
 
-![Sublime](file:///home/pavel/git/blog/m/sublime.png)
+![Sublime](m/sublime.png)
 
 (pj)
 
