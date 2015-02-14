@@ -69,17 +69,20 @@ Druhých myšlenky
 
 .
 
-> Leč věci, jež nemají žádný řád, nemají ani dlouhého trvání.
+> Leč věci, jež nemají žádný řád,  
+> nemají ani dlouhého trvání.
 > *Giovanni Boccaccio, Dekameron*
 
 .
 
-> Není snad život jakési trvalé odkládání sebevraždy na později?
+> Není snad život jakési trvalé  
+> odkládání sebevraždy na později?
 > *Václav Havel, Dálkový výslech*
 
 .
 
-> Přišli jsme na to, že člověk nemá umírat, nýbrž žít.
+> Přišli jsme na to, že člověk  
+> nemá umírat, nýbrž žít.
 > *Ferdinand Peroutka, Jací jsme*
 
 .
@@ -102,8 +105,15 @@ Druhých myšlenky
 
 .
 
-> Academics get paid for being clever, not for being right.
+> Academics get paid for  
+> being clever, not for being right.
 > *Donald Norman*
+
+.
+
+> Don't ever take a fence down   
+> until you know why it was put up. 
+> *Robert Frost*
 
 .
 
@@ -165,6 +175,12 @@ Druhých myšlenky
 
 > Ideas are nothing. Doing is everything.
 > *Ji Lee, Creative Mornings*
+
+.
+
+> Givers need to set limits  
+> because takers rarely do.
+> *Rachel Wolchin*
 
 .
 
