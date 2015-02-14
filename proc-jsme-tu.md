@@ -8,7 +8,7 @@ s nadšením neudělám nic
 
 Vystoupím  
 do netečnosti upadnu  
-V koutě lelkařím  
+Nad tou smůlou láteřím  
 namísto obrazů zřím tmu
 
 Jsem zarmoucen  
