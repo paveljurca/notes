@@ -3,9 +3,9 @@ Sídliště
   
 znám ty skleslé paneláky  
 jednou zblízka, jednou zdálky  
-vzplály tam mé žabí války  
-hutná stavení — pomník zahálky  
-  
+silhouetty nákladem té kárky  
+hutná stavení — pomník zahálky 
+
 dlí v nich Skuteč, Choceň, Ústí nad Labem  
 zkrátka celý lidský sněm  
 třeba přijde lítost s věkem  
@@ -15,8 +15,9 @@ panel prostým epitafem jmen
 
 před kójemi pak srostou fíky  
 urbanisté zinkasují tučné díky  
-umakart utiší obyvatel vzlyky  
-domovní schůzí odezní eonu tiky
+umakart ztišil obyvatel vzlyky  
+domovní schůzí dozněly  
+— eonu tiky
 
 zbývají
 
