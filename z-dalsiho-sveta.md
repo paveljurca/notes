@@ -13,12 +13,12 @@ k smíchu je lidské vzezření
 
 Chmurná oblaka k sobě se mají  
 na slabším slabší se hojí  
-Tehdy prve rodiče praví  
-Podívej, důvody v žáru pece taví
+Tehdy prve zemřelý praví  
+Hleď, důvody v žáru pece taví
 
-Zem ze smutku pak se vyznala  
-úradky v dobré víře k nám pojala  
-Potravou pokolení zhýčkala  
+Smutku opět pokolení propadla  
+boží úradky v karty rozdala  
+Zem člověka laskavostí objala  
 místo syna však — halama
 
 To lidská duše selhala  
@@ -33,7 +33,7 @@ odpovědi hrstí ozvěny
 
 A tak prosti prostoru  
 hledíme nad sebe  
-Slunce změnilo prizmatu  
+Slunce změnilo pohledu  
 v tichosti sejdeme
 
 Nebo taky ne  
