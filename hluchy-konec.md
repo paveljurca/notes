@@ -12,13 +12,13 @@ Zasedáš v kající se dobrotě
 Zraješ uvnitř, chátráš vně 
 
 Nerozumíš pořadí os  
-Pod sebou kácíš si hvozd  
+Pod sebou druhým kácíš hvozd  
 Těší tě vlastní ospalost  
 Teď křičíš, sténáš Mám dost
 
 Střádáš sny, vzýváš rozpaky  
-Do rozhodnutí samých se však nechce  
-Zůstaly jen ty povzdechy  
+Do rozhodnutí samých se nechce  
+Zůstaly ti jen povzdechy  
 Přec chtěl jsi žít tak lehce
 
 Stal ses nedostupný, ve vlastní hlavě  
