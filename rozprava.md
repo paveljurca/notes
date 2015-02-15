@@ -31,8 +31,8 @@ kde věci jsou per se,
 bez přídavných jmen,  
 do absolutní samoty.  
 Ztratit obzor,  
-ať hmota je  
-zas zádumčivou otázkou.  
+ať hmota je zas  
+zádumčivou otázkou.  
 Nelze nic skončit,  
 nelze všechno začít.  
 Snad,  
@@ -40,8 +40,9 @@ Snad,
 není rohu kde odbočit,  
 však sejít zvládnu kdekoli.  
 Běhat okruhy  
-— doleva  
-a už nepustí mě doprava.
+— doleva,  
+kariéra schválně  
+doprava.
 
 Články mohu psát,  
 a právě proto nic nedělat.  
