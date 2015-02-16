@@ -54,8 +54,8 @@ aspoň životem.
 Flagrantní  
 humánní  
 jinotaj.  
-Vím hvno,  
-jež tohle všechno  
+Vím svoje,  
+jež tohle snad  
 znamená.
 
 Slova zadrhla,  
