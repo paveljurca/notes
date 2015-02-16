@@ -19,7 +19,7 @@ když běžím k po-hovoru
 Třeba kdyby.. ba ne  
 smysl skončil ve shonu  
 Zpravím proto vale  
-trhám vlastní osnovu
+najdu jinou osnovu
 
 Ideje ztrácívám  
 v jednotkách mamonu  
@@ -56,15 +56,17 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
-*
+—
 
 Zjihnu, pak složím poklonu  
 srdce je mým kusem obzoru  
 Není toho mnoho — rozhodnu  
 musím tam, k Tobě jdu
 
-Dožívat, však kolik mi je  
-dvacet dva?  
+&nbsp;dožívat
+
+však kolik mi je  
+třicet, dvacet, dva?  
 Tu zřízenec dí tklivě  
 Cos myslel, bytí není hra
 
