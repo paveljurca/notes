@@ -11,11 +11,14 @@ First install [Dropbox](https://www.dropbox.com/install?os=lnx),
 second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/using-cron.html).
 
     % su -
-    % cat > /etc/cron.daily/bckup
+    % pushd /etc/cron.daily/
+    % cat > bckup
     #!/bin/sh
     cp --archive --update /home/pavel/txt/ /home/pavel/Dropbox
     cp --archive --update /home/pavel/code/ /home/pavel/Dropbox
     Ctrl^D
+    % chown pavel:pavel bckup 
+    % chmod +x bckup
 
 ## Sleep mode from CLI
 
@@ -31,7 +34,7 @@ You might need to adjust the [sudoers file](http://help.ubuntu.com/community/Sud
 
 If you have a dual-boot and installed GNU/Linux first
 and Windows second; you have also a problem. Not only
-you have to swap the boot flag between your partitions
+you have to swap the boot flag (via fdisk or so) between your partitions
 but [Grub2](http://www.gnu.org/software/grub/) has
 no clue about your Windows there.
 
