@@ -8,11 +8,16 @@ jste anděl, jenž mne ruší
 
 vytrhnut takhle z rána  
 v očích dávaj milé dráma  
-jo, teď ještě ta zpráva  
+..teď ještě ta zpráva  
 my dva, dnes — káva?  
 
-snad ne mañana  
-radši sen, než fáma!
+neříkejte, prosím
+
+&nbsp;mañana
+
+radši sen
+
+&nbsp;než fáma!
 
 (pj)  
   
