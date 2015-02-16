@@ -1,8 +1,10 @@
 Opilec  
 ======  
-  
-když člověk dýchá póry  
-jeho noc v metru vyvane  
+
+&nbsp;stojí za mnou
+
+zas dýchá těmi póry  
+jeho noc v metru zavane  
 zahalen do deliria zhůry  
 z vagonu rázem v savaně  
   
