@@ -1,44 +1,44 @@
 Z dalšího světa
 ===============
 
-V noci víme  
+v noci víme  
 konec útrap je jistě blíž  
-Ve dne bdíme  
+ve dne bdíme  
 k zatracení prokopali jsme se níž
 
-Do práce, do dlení  
+do práce, do dlení  
 vystačí nám Hrabalovo pábení  
-Na truc vedeme sté tažení  
+na truc vedeme sté tažení  
 k smíchu je lidské vzezření
 
-Chmurná oblaka k sobě se mají  
+chmurná oblaka k sobě se mají  
 na slabším slabší se hojí  
-Tehdy prve zemřelý praví  
-Hleď, důvody v žáru pece taví
+vposledy zemřelý praví  
+Mé důvody v žáru pece taví!
 
-Smutku opět pokolení propadla  
-boží úradky v karty rozdala  
-Zem člověka laskavostí objala  
+smutkem radost navěky uvadla  
+pokolení božích úradků nedbala  
+Zem laskavostí nás objala  
 místo syna však — halama
 
-To lidská duše selhala  
-z nápravy se křečí vylhala  
-Zbytku tvorstva klidu nedala  
+lidská duše selhala  
+— pokoru v karty rozdala  
+zbytku tvorstva klidu nedala  
 v rakvi teď štká Zbůhdarma
 
-Tělo objevilo datum spotřeby  
+tělo objevilo datum spotřeby  
 mozek ptá se dcery Kdo jste vy?  
-Mdlobám jdeme těžce v ústrety  
+mdlobám jdeme těžce v ústrety  
 odpovědi hrstí ozvěny
 
-A tak prosti prostoru  
-hledíme nad sebe  
-Slunce změnilo pohledu  
+a tak prosti prostoru  
+hledíme za sebe  
+slunce změnilo ohledů  
 v tichosti sejdeme
 
-Nebo taky ne  
+nebo taky ne  
 zpleníme další planetu  
-A dále ještě zajdeme  
+a dále ještě zajdeme  
 když už jsme tu
 
 (pj)
