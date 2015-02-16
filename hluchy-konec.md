@@ -1,33 +1,33 @@
 Hluchý konec
 ============
 
-Je had co kousne tě  
-Je pátek na téhle planetě  
-Jsou lásky k ruletě  
-Ještě ses neohřál — po létě
+je had co kousne tě  
+je pátek na téhle planetě  
+jsou lásky k ruletě  
+ještě ses neohřál — po létě
 
-Pravdu hledáš v pozdním momentě  
-Nikdo neřekne Berem tě  
-Zasedáš v kající se dobrotě  
-Zraješ uvnitř, chátráš vně 
+pravdu hledáš v pozdním momentě  
+nikdo neřekne Berem tě  
+zasedáš v kající se dobrotě  
+zraješ uvnitř, chátráš vně 
 
-Nerozumíš pořadí os  
-Pod sebou druhým kácíš hvozd  
-Těší tě vlastní ospalost  
-Teď křičíš, sténáš Mám dost
+nerozumíš pořadí os  
+pod sebou druhým kácíš hvozd  
+těší tě vlastní ospalost  
+teď křičíš, sténáš Mám dost
 
-Střádáš sny, vzýváš rozpaky  
-Do rozhodnutí samých se nechce  
-Zůstaly ti jen povzdechy  
-Přec chtěl jsi žít tak lehce
+střádáš sny, vzýváš rozpaky  
+do rozhodnutí samých se nechce  
+zůstaly ti jen povzdechy  
+přec žít jsi chtěl tak lehce
 
-Stal ses nedostupný, ve vlastní hlavě  
-Už nemyslíš, lobotomií prošel jsi hravě  
-Čumíš teď všelijak, vůbec ne slavně  
-Pomoc nepřijde — ležíš na dně
+stal ses nedostupný (ve vlastní hlavě)  
+už nemyslíš (lobotomií prošel jsi hravě)  
+čumíš teď všelijak (vůbec ne slavně)  
+pomoc nepřijde — ležíš na dně
 
-Doufej, že jiné to napříště bude  
-Vzdáš-li se, nemravo, nejprve vůle
+doufej, že jiné to napříště bude  
+vzdáš-li se, nemravo, nejprve vůle
 
 (pj)
 
