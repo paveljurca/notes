@@ -19,8 +19,8 @@ důstojný spánek
 sněné kurikulum  
 cár přízemních stránek  
   
-s prvním jářkem (sic!)  
-neptal ses proč  
+s prvním jářkem  
+— neptal ses proč  
   
 (pj)  
   
