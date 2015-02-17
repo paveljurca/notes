@@ -13,10 +13,10 @@ k smíchu je lidské vzezření
 
 chmurná oblaka k sobě se mají  
 na slabším slabší se hojí  
-vposledy zemřelý praví  
-Mé důvody v žáru pece taví!
+temný výlet zemřelé halí  
+důvody matoucí žár pece taví!
 
-smutkem radost navěky uvadla  
+matka spotřeba mnohých zlákala  
 pokolení božích úradků nedbala  
 Zem laskavostí nás objala  
 místo syna však — halama
