@@ -3,7 +3,7 @@ Sídliště
   
 znám ty skleslé paneláky  
 jednou zblízka, jednou zdálky  
-silhouetty z jedné várky  
+silhouetty z jedné kárky  
 hutná stavení — hrubé látky 
 
 dlí v nich Skuteč, Choceň, Ústí nad Labem  
@@ -11,10 +11,10 @@ zkrátka celý lidský sněm
 třeba přijde lítost s věkem  
 panel prostým epitafem jmen
 
-před kójemi pak srostly fíky  
-urbanisté obdržely tučné díky  
-umakart ztišil obyvatel vzlyky  
-domovní schůzí zavládly  
+srostou před kójemi fíky  
+tiší umakart obyvatel vzlyky  
+urbanisté, vemte tučné díky  
+domovní schůzí si zoufají  
 — eonu tiky
 
 zbývají
