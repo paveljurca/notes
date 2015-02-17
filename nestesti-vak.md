@@ -12,7 +12,8 @@ ještě výše!
 potom prostě tak  
 naprší stáří mrak  
 meškat už nemáš jak  
-prohlédneš v té díře  
+
+&nbsp;poklekneš v té díře  
   
 poslední útěchou  
 důstojný spánek  
