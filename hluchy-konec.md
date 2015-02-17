@@ -18,13 +18,13 @@ teď křičíš, sténáš Mám dost
 
 střádáš sny, vzýváš rozpaky  
 do rozhodnutí samých se nechce  
-zůstaly ti jen povzdechy  
+zůstaly jen ty povzdechy  
 přec žít jsi chtěl tak lehce
 
 stal ses nedostupný (ve vlastní hlavě)  
 už nemyslíš (lobotomií prošel jsi hravě)  
 čumíš teď všelijak (vůbec ne slavně)  
-pomoc nepřijde — ležíš na dně
+pomoc nepřijde — uleháš na dně
 
 doufej, že jiné to napříště bude  
 vzdáš-li se, nemravo, nejprve vůle
