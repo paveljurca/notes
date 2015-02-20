@@ -3,8 +3,7 @@ Rozprava
   
 Čím déle v něčem setrvám,  
 tím více to jsem.  
-Není to apriori špatně,  
-jen bych si musel být jist,  
+Není jak si být jist,   
 že právě tohle chci.  
 Je za tím strach,  
 že se na nic nehodím  
@@ -29,7 +28,7 @@ těkají oči další.
 Chci tam,  
 kde věci jsou per se,  
 bez přídavných jmen,  
-do absolutní samoty.  
+do konečné samoty.  
 Ztratit obzor,  
 ať hmota je zas  
 zádumčivou otázkou.  
@@ -45,13 +44,12 @@ kariéra schválně
 doprava.
 
 Články mohu psát,  
-a právě proto nic nedělat.  
-Kdo ví,  
-co chci?  
-Nevadí, chápu,  
-jsem v zajetí  
-s výchovnými poradci.  
-  
+a právě proto  
+vše odsouvat.  
+Večer to nad moštem  
+s výchovnými poradci  
+— rozebrat.  
+
 A když se zdá,  
 že jsem do dlaně pochopil,  
 noc vše překryje.  
