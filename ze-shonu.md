@@ -1,5 +1,5 @@
-Slon
-====
+Ze shonu
+========
   
 odcházím bez omluvy  
 navždy ten,  
