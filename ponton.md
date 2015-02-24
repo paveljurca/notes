@@ -8,7 +8,7 @@ ten ponton pluje pryč
 
 jak prosté  
 — změnit takhle břeh  
-pojednou zas krásně  
+už nekrvácí dásně  
 dobře jsem si leh!
 
 (pj)
