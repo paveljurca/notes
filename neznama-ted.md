@@ -1,5 +1,5 @@
-Neznámá nazítří
-===============
+Neznámá teď
+===========
   
 slečno Já..  
 na mou i vaši duši  
