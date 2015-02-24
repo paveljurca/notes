@@ -631,6 +631,8 @@ minulost nás učí
 podvodník
 * _holistický_
 úplný
+* _honoris causa_
+čestný doktorát
 * _horror vacui_
 strach z bílých míst
 * _hostie_
@@ -1302,7 +1304,7 @@ odpadlík
 * _reparace_
 náhrada
 * _repatriot_
-usiluje o návrat do vlasti
+odejit z vlasti se snahou o návrat
 * _repelovat_
 odpuzovat
 * _represe_
@@ -1442,7 +1444,7 @@ srovnání
 * _synopse_
 souhrn
 * _syntetický_
-souhrnný
+umělý
 * _syntéza_
 skládání
 * _sémantika_
@@ -1607,6 +1609,11 @@ nepohodlné
 potvrdit
 * _žoviální_
 bodrý
+
+\*
+
+A proto,  
+raději **česky** mluvme ;-)
 
 (pj)
 
