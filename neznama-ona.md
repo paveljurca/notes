@@ -1,4 +1,4 @@
-Neznámá teď
+Neznámá Ona
 ===========
   
 slečno Já..  
