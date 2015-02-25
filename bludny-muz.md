@@ -1,5 +1,5 @@
-Ze shonu
-========
+Bludný muž
+==========
   
 odcházím bez omluvy  
 navždy ten,  
