@@ -9,7 +9,7 @@ Nestačí,
 že jsme.  
 To vědomí  
 se nedá uchopit.  
-— Proto záře tele,  
+— Proto éclat tele,  
 vize?  
 Důvod vázne,  
 daleko,  
