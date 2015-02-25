@@ -4,12 +4,12 @@ Ponton
 plavcem bez příhody  
 ženu korytem co loni  
 ten ponton pluje pryč  
-— do přírody
+— do poroby
 
 jak prosté  
 — změnit takhle břeh  
 už nekrvácí dásně  
-dobře jsem si leh!
+zas jinak jsem si leh!
 
 (pj)
   
