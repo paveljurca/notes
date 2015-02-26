@@ -2,19 +2,23 @@
 ==========
   
 odejit ze školy  
-ven z času  
-— a prostoru  
+ven z úmoru
+
+&nbsp;a indexu
   
-vymizen z úvozu  
-sic mohu dýchat  
-— nečástí dovozu  
+složky pustých souborů  
+myší ještě klikat  
+
+&nbsp;chudáčku  
+&nbsp;otevři si e-testu
   
-jen směrovky  
-bez směru  
-kam řeknou  
-— tam nevlezu  
-  
-stejně to minulé  
+jen přednášky  
+z přednesu  
+
+&nbsp;dřepění  
+&nbsp;jež nesnesu
+
+stejně to spočtené  
 nebylo pro mne  
 — spíš pro kozu  
   
