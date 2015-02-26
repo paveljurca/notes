@@ -251,6 +251,12 @@ Druhých myšlenky
 
 .
 
+> You did it good.  
+> But you need to keep doing good. 
+> *Gordon Gekko, Wall Street*
+
+.
+
 > Člověk dokáže daleko víc, než si myslí.  
 > Ale musí mít cíl. Jasnej cíl.
 > *Petr Šabach, Opilé banány*
@@ -266,13 +272,6 @@ Druhých myšlenky
 > Píšu, abych se zbavil melancholie v samotě svého hradu,  
 > abych počestně a užitečně strávil čas.
 > *Michel de Montaigne*
-
-.
-
-> Now we that are strong ought to  
-> bear the infirmities of the weak  
-> and not to please ourselves.
-> *Romans 15:1*
 
 .
 
