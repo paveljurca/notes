@@ -8,16 +8,16 @@ Prý vůle lidu, ale kterého? Sounáležitost
 je hanebné slovo. Vavřínové věnce teď sklízí
 právo na sebeurčení, ačkoli na pomnících této
 myšlenky leží už věnce smuteční. Občané chtějí
-za lepším, těžko jim bránit. A Putin,
-hotový dobrák, ví kde zatlačit a za co zatahat.
+za lepším, těžko jim bránit. A přesně taková
+melodramata Putina [baví](http://youtu.be/sUNslUmQNiw).
 
-Sovětský svaz, to byly jistoty, které perestrojka
+Sovětský svaz, to byly *jistoty*, které perestrojka
 učinila volnější — svobodnější. Odeznělo budovatelské
 *každému podle jeho potřeb*. To pochopitelně nemyslící
 a apatickou většinu bolí. Ostatně právě tato většina
 určuje vždy a všude směřování světa — tím komu zatleská.
-Putin tu slabost poddaných zná a posiluje ji kde může.
-Právě proto vede svou zemi vzad.
+Putin tu slabost poddaných zná a posiluje ji kde může
+(ruský oxymóron už ze starých dob).
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
 > k vlastním rozhodnutím. Se mnou to mají snazší,
@@ -55,15 +55,16 @@ režimu *pevné ruky*.
 > plyne samoděržavný kult a opovržení lidmi.
 > *Kučera, V.: Velké Rusko. MFDNES, 4. března 2014, A10.*
 
-Být a Mít — práva, která v Rusku dlouho nikomu
-nepřišla na mysl.
+Být a Mít — práva, která v Rusku dlouho
+nepřicházejí na mysl. **Vždy** se ovšem vědělo proč:
+cesta *zpět* je bez *nich* snazší. Tím vzpomenutým
+(ne)smyslem tak je: všechny a všechno zarazit, příchozím
+dnům dneškem spílat, smutně v sociálních dystopiích
+vyhnívat, s každým krokem — dalších pět nestíhat. 
 Carové, inspektoři, gubernátoři ani
 sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
 *Široký, příliš široký je člověk. Zúžil bych jej!*
-Nehledě, že snahou vždy bylo věci vrátit,
-zpomalit, žít v minulosti, smutně vzpomínat,
-s každým novým rokem dalších pět ztratit.
 
 Rozkazů, příkazů, nařízení, obušků, politické
 policie, kádrováků, gulagů, komsomolců,
