@@ -16,9 +16,9 @@ na slabším slabší se hojí
 temný výlet zemřelé halí  
 důvody matoucí žár pece taví!
 
-matka spotřeba mnohých zlákala  
+matka spotřeba nás provdala  
 pokolení božích úradků nedbala  
-Zem laskavostí nás objala  
+Zem laskavosti propadla  
 místo syna však — halama
 
 lidská duše selhala  
