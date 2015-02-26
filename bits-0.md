@@ -33,7 +33,7 @@ You might need to adjust the [sudoers file](http://help.ubuntu.com/community/Sud
 ## Grub2 boot entry
 
 If you have a dual-boot and installed GNU/Linux first
-and Windows second; you have also a problem. Not only
+and Windows second; you also have a problem. Not only
 you have to swap the boot flag (via [fdisk](http://www.debian.org/releases/slink/sparc/fdisk.txt)
 [*command* **a**]) between your partitions
 but [Grub2](http://www.gnu.org/software/grub/) has
