@@ -8,8 +8,8 @@ Prý vůle lidu, ale kterého? Sounáležitost
 je hanebné slovo. Vavřínové věnce teď sklízí
 právo na sebeurčení, ačkoli na pomnících této
 myšlenky leží už věnce smuteční. Občané chtějí
-za lepším, těžko jim bránit. A přesně taková
-melodramata Putina [baví](http://youtu.be/sUNslUmQNiw).
+za lepším, těžko jim bránit. A taková melodramata
+Putina [baví](http://youtu.be/sUNslUmQNiw).
 
 Sovětský svaz, to byly *jistoty*, které perestrojka
 učinila volnější — svobodnější. Odeznělo budovatelské
@@ -57,7 +57,7 @@ režimu *pevné ruky*.
 
 Být a Mít — práva, která v Rusku dlouho
 nepřicházejí na mysl. **Vždy** se ovšem vědělo proč:
-cesta *zpět* je bez *nich* snazší. Tím vzpomenutým
+*zpátečnictví* je bez *nich* snazší. Tím vzpomenutým
 (ne)smyslem tak je: všechny a všechno zarazit, příchozím
 dnům dneškem spílat, smutně v sociálních dystopiích
 vyhnívat, s každým krokem — dalších pět nestíhat. 
