@@ -6,11 +6,6 @@ nezmůžu víc
 Nadchnu se  
 s nadšením neudělám nic
 
-Vystoupím  
-do netečnosti upadnu  
-Nad tou smůlou láteřím  
-namísto obrazů zřím tmu
-
 Jsem zarmoucen  
 tápu kudy nahoru  
 Někdy také šťasten  
@@ -66,7 +61,7 @@ musím tam, k Tobě jdu
 &nbsp;dožívat
 
 však kolik mi je  
-třicet, dvacet, dva?  
+dvacet, deset, dva?  
 Tu zpovědník dí tklivě  
 Cos myslel, bytí není hra
 
