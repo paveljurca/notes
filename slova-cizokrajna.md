@@ -150,7 +150,7 @@ volitelný
 * _archetyp_
 kulturní vzor
 * _arci-_
-důraz-
+&gt;&gt;důraz<<
 * _armageddon_
 konečný souboj zla s dobrem
 * _ars diu vivendi_
@@ -232,7 +232,7 @@ sněný nález
 * _brachiální_
 násilný
 * _c'est la vie_
-to se stává
+to je život
 * _caput mortuum_
 mrtvá část
 * _caput regni_
@@ -767,6 +767,8 @@ souvislý
 soudržnost
 * _kohorta_
 družina
+* _koitus_
+pohlavní styk
 * _kolaterál_
 předmět zajištění
 * _kolokace_
@@ -1304,7 +1306,7 @@ odpadlík
 * _reparace_
 náhrada
 * _repatriot_
-odejit z vlasti se snahou o návrat
+odejit z vlasti ve snaze o návrat
 * _repelovat_
 odpuzovat
 * _represe_
@@ -1597,14 +1599,14 @@ odříkání
 kontrastní obraz
 * _šmok_
 prodejný novinář
-* _šovinismus_
+* _šovinizmus_
 fanatická nadřazenost
 * _švabach_
 gotické písmo
 * _žaket_
 frak
 * _žinantní_
-nepohodlné
+nepříjemný
 * _žirovat_
 potvrdit
 * _žoviální_
