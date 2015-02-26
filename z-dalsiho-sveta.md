@@ -18,8 +18,8 @@ důvody matoucí žár pece taví!
 
 matka spotřeba nás provdala  
 pokolení božích úradků nedbala  
-Zem laskavosti propadla  
-místo syna však — halama
+proto Zem laskavostí uvadla  
+proto místo syna — halama
 
 lidská duše selhala  
 — pokoru v karty rozdala  
