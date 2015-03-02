@@ -390,7 +390,7 @@ pomíjivý
 * _eklektický_
 otevřen vnějším podnětům
 * _ekvilibristika_
-balancování se slovy
+hra se slovy
 * _ekvilibrium_
 rovnováha
 * _ekvita_
@@ -1596,7 +1596,7 @@ mravní základ
 * _řehole_
 odříkání
 * _šerosvit_
-kontrastní obraz
+stínohra
 * _šmok_
 prodejný novinář
 * _šovinizmus_
