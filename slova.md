@@ -5,18 +5,6 @@ Slova
 Hrad štěstí
 * _Ave, anima pia!_
 Sláva, zbožné duše!
-* _Kýrie, eléison_
-Bože, smiluj se
-* _Morituri te salutant!_
-Zdraví tě ti, kdož jdou na smrt!
-* _Talmud_
-učení judaismu
-* _Vae misero mihi!_
-Běda mi ubohému!
-* _Vous etes idiot!_
-Vy jste prostě idiot!
-* _[sic]_
-záměrná chyba
 * _a limine_
 zásadně
 * _a posteriori_
@@ -733,6 +721,8 @@ odbojář
 přirovnání
 * _juvenilní_
 nedozrálý
+* _kánon_
+předpis
 * _kadence_
 posloupnost
 * _kakofonie_
@@ -849,8 +839,8 @@ stěžovatel
 podstata
 * _kvitovat_
 vzít na vědomí
-* _kánon_
-předpis
+* _Kýrie, eléison_
+Bože, smiluj se
 * _laissez-faire_
 nechte nás konat
 * _laissez-passer_
@@ -989,6 +979,8 @@ peníze
 jednota
 * _moratorium_
 odklad
+* _Morituri te salutant!_
+Zdraví tě ti, kdož jdou na smrt!
 * _mortalita_
 úmrtnost
 * _mouřenín_
@@ -1371,6 +1363,8 @@ otrava krve
 chceš mír, musíš bojovat
 * _sic!_
 skutečně!
+* _[sic]_
+záměrná chyba
 * _signifikantní_
 příznačný
 * _sine qua non_
@@ -1457,6 +1451,8 @@ nedotknutelnost
 nepopsaný list
 * _tacitní_
 vžitý
+* _talmud_
+učení judaismu
 * _tamen est laudanda voluntas_
 vůle nade vše
 * _tautologie_
@@ -1519,6 +1515,8 @@ jednočlenný
 městu i světu
 * _utilitaristický_
 prospěchářský
+* _Vae misero mihi!_
+Běda mi ubohému!
 * _vae victis_
 běda poraženým
 * _vagus_
@@ -1569,6 +1567,8 @@ nestálý
 svévolnost
 * _volupte_
 slast
+* _Vous etes idiot!_
+Vy jste prostě idiot!
 * _vox populi_
 hlas lidu
 * _voyer_
