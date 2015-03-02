@@ -1,10 +1,6 @@
 Slova
 =====
 
-* _Arx Fortunae_
-Hrad štěstí
-* _Ave, anima pia!_
-Sláva, zbožné duše!
 * _a limine_
 zásadně
 * _a posteriori_
@@ -20,7 +16,7 @@ předplatitel
 * _absolutno_
 nekonečné bytí
 * _absolutorium_
-schvalovací proces
+schvalovací řízení
 * _abstrahovat_
 zobecnit
 * _ad absurdum_
@@ -159,6 +155,8 @@ dovednosti jednat
 dovednosti mysli
 * _artifex natus_
 rozený umělec
+* _Arx Fortunae_
+Hrad štěstí
 * _aseptický_
 bez bakterií
 * _asimilace_
@@ -189,6 +187,8 @@ pitva
 předem
 * _avantgarda_
 předvoj
+* _Ave, anima pia!_
+Sláva, zbožné duše!
 * _axiom_
 neměnný matematický předpoklad
 * _barter_
@@ -398,7 +398,7 @@ zrovnoprávnění
 * _emeritní_
 zasloužilý
 * _emigrant_
-odejit z vlasti bez myšlenky návratu
+odejit z vlasti prost úvah návratu
 * _empatický_
 vnímavý
 * _en bloc_
@@ -1298,7 +1298,7 @@ odpadlík
 * _reparace_
 náhrada
 * _repatriot_
-odejit z vlasti ve snaze o návrat
+odejit z vlasti s rozhodnutím návratu
 * _repelovat_
 odpuzovat
 * _represe_
@@ -1403,8 +1403,6 @@ pošpinění
 vyrovnanost
 * _stratifikace_
 rozvrstvení
-* _stratum_
-vrstva
 * _sub specie_
 z hlediska
 * _sub specie aeternitatis_
