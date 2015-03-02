@@ -14,12 +14,12 @@ k smíchu je lidské vzezření
 chmurná oblaka k sobě se mají  
 na slabším slabší se hojí  
 temný výlet zemřelé halí  
-důvody matoucí žár pece taví!
+důvody matoucí žár pece taví
 
-matka spotřeba nás provdala  
+matka spotřeba mnohých provdala  
 pokolení božích úradků nedbala  
-proto Zem laskavostí uvadla  
-proto místo syna — halama
+Zem laskavostí nechtíc uvadla  
+však místo syna — halama
 
 lidská duše selhala  
 — pokoru v karty rozdala  
