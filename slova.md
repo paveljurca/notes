@@ -1380,7 +1380,7 @@ zaujmut výměšky
 * _slavistika_
 kultura slovanských národů
 * _sodomie_
-vychýlené sexuální chování
+vychýlené intimní návyky
 * _sofista_
 mudrc
 * _soirée_
