@@ -1,5 +1,5 @@
-Slova
-=====
+Slova cizí
+==========
 
 * _a limine_
 zásadně
