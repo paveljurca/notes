@@ -7,9 +7,9 @@ ten ponton pluje pryč
 — do poroby
 
 jak prosté  
-— změnit takhle břeh  
+— změnit žití břeh  
 už nekrvácí dásně  
-zas jinak jsem si leh!
+zas jinak jsem si leh
 
 (pj)
   
