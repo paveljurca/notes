@@ -1,5 +1,5 @@
-Druhých myšlenky
-================
+Myšlenky
+========
 
 ;
 
