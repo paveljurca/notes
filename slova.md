@@ -1,5 +1,5 @@
-Slova cizokrajná
-================
+Slova
+=====
 
 * _Arx Fortunae_
 Hrad štěstí
