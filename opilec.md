@@ -4,11 +4,10 @@ Opilec
 &nbsp;stojí za mnou
 
 zas dýchá těmi póry  
-jeho noc se metrem protáhne  
+jeho noc metrem zavládne  
 zahalen do deliria zhůry  
-
-&nbsp;vagonem blíž k savaně  
-  
+vagonem blíž k savaně  
+ 
 — pod očima další kruhy  
 vlastní rytmus nestíhá  
 přistoupil na život sovy  
