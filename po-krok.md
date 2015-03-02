@@ -1,5 +1,5 @@
-Pokrok 
-======
+Po krok 
+=======
   
 obkročmo  
   
@@ -11,7 +11,7 @@ zázračno
 &nbsp;neposedný  
 &nbsp;tlustý hroch  
   
-a jak se nese!  
+v chundelatém lese
   
 už dnes tam  
 co napřesrok  
