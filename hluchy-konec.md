@@ -19,7 +19,7 @@ teď křičíš, sténáš Mám dost
 střádáš sny, vzýváš rozpaky  
 do rozhodnutí samých se nechce  
 zůstaly jen ty povzdechy  
-přec žít jsi chtěl tak lehce
+přec chtěl jsi žít tak lehce
 
 stal ses nedostupný (ve vlastní hlavě)  
 už nemyslíš (lobotomií prošel jsi hravě)  
