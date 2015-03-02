@@ -14,7 +14,7 @@ ani náznak rutiny
 říčnost říček jihne  
 v leduplné rytiny  
 jehličí zapěje domem  
-jsou Adama a Evy jmeniny  
+na Adama a Evy jmeniny  
 uzavřeny sbory ptactva  
 zemí táhnoucí se praskliny  
 zpozorován úsměv luny  
