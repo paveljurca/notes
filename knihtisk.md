@@ -1,10 +1,10 @@
 Knihtisk  
 ========  
   
-více čtu  
-méně rozumím  
-tak více čtu  
-ať slabost oddálím
+více čtiva  
+méně rozumu  
+více čtiva  
+poznání část obzoru
   
 četbou vede mne vnitřní hlas  
 stránka lapá další vlas  
