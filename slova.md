@@ -148,7 +148,7 @@ dovednost číst knihy
 * _art pour l´art_
 umění pro umění
 * _artefakt_
-pozůstalost
+umělecký nález
 * _artes actionum_
 dovednosti jednat
 * _artes mentis_
