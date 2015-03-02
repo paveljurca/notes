@@ -4,7 +4,7 @@ Po krok
 obkročmo  
   
 &nbsp;z nezdarů blok  
-&nbsp;přes mrtvoly skok  
+&nbsp;a přes mrtvoly skok  
   
 zázračno  
   
