@@ -1,14 +1,14 @@
 Solitér
 =======
 
-ztratit  
-tehdy poznat  
-snít  
-ani nevstat  
+ztratí  
+tehdy pozná  
+zaspí  
+klekání nedbá
   
-zpěvy útěchy  
-za mák naděje  
-křivé nástrahy  
+pěje útěchy  
+bez špetky naděje  
+klade nástrahy  
 sebe antedatuje  
   
 jak mu asi je  
