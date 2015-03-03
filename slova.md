@@ -1377,6 +1377,8 @@ bod zvratu
 kultura čínského národa
 * _skatologický_
 zaujmut výměšky
+* _skráně_
+spánky
 * _slavistika_
 kultura slovanských národů
 * _sodomie_
@@ -1601,6 +1603,8 @@ prodejný novinář
 fanatická nadřazenost
 * _švabach_
 gotické písmo
+* _z partesu_
+z not (bez not)
 * _žaket_
 frak
 * _žinantní_
