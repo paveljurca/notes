@@ -11,7 +11,7 @@ vagonem blíž k savaně
 — pod očima další kruhy  
 vlastní rytmus nestíhá  
 přistoupil na život sovy  
-nad ránem pak omdlívá  
+nad ránem pak omdlévá  
 
 přesto je pln vlohy  
 nepochopil, kdo se usmívá  
