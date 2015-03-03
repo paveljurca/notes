@@ -14,7 +14,7 @@ panel prostým epitafem jmen
 srostou před kójemi fíky  
 tiší umakart obyvatel vzlyky  
 urbanisté, berte hloupých díky  
-domovní schůzí si zoufají  
+domovní schůzi povedou   
 — eonu tiky
 
 zbývají
