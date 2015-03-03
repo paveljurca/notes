@@ -11,7 +11,7 @@ myšlenky leží už věnce smuteční. Občané chtějí
 za lepším, těžko jim bránit. A taková melodramata
 Putina [baví](http://youtu.be/sUNslUmQNiw).
 
-Sovětský svaz, to byly *jistoty*, které perestrojka
+Sovětský svaz, *jistoty*, které perestrojka
 učinila volnější — svobodnější. Odeznělo budovatelské
 *každému podle jeho potřeb*. To pochopitelně nemyslící
 a apatickou většinu bolí. Ostatně právě tato většina
@@ -35,7 +35,7 @@ Zcela bez okolků: díky za ně!
 A proč ta ruská rozpínavost? Snad proto, že velikost
 vlasti je pro ně jedno-duše vším a každý metr hranice
 navíc je radostí. Slunce tam prakticky nezapadá, ale
-proč ještě pár kopců nepřidat? Věčná škoda,
+proč ještě pár krajin nepřidat? Věčná škoda,
 že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
@@ -57,10 +57,7 @@ režimu *pevné ruky*.
 
 Být a Mít — práva, která v Rusku dlouho
 nepřicházejí na mysl. **Vždy** se ovšem vědělo proč:
-*zpátečnictví* je bez *nich* snazší. Tím vzpomenutým
-(ne)smyslem tak je: všechny a všechno zarazit, příchozím
-dnům dneškem spílat, smutně v sociálních dystopiích
-vyhnívat, s každým krokem — dalších pět nestíhat. 
+*zpátečnictví* je bez nich snazší.
 Carové, inspektoři, gubernátoři ani
 sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
@@ -86,14 +83,16 @@ snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-Navzdory, nebo právě proto, bída drtila prostou většinu
-tak, že mnohdy jali se do lesů okusovat kůru ze stromů.
+Prosté a poddajné dělnictvo je tichým strůjcem
+režimu. Jejich apatie je neukojitelná. Ani okusování kůry
+ze stromů nebylo v plytkých časech důvodem k otázkám.
+Navykli si přežít, nikolivěk žít.
 Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
 Pro co ale? Ubránili jen svůj nerozum. A co dělat,
 když je historie národa vystavěna na neštěstí?
 Těžko to připustit, těžko to schovat.
 Dilema, které načas odvrátí jen jedno: další
-nepřátelství. Výsledkem budiž opět jen opuštění a izolace.
+nepřátelství. Výslednicí toho všeho jen zapomění a izolace.
 Nemají kamarády a to jistě bolí. Spojence raději hledají
 v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
 v Evropě, kam pro sichr čas od času pošlou tanky.
@@ -125,11 +124,12 @@ nic nedělají. Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
 Možno ale přiznat vlastní zoufalost, když už o ní všichni vědí?
 Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
-Doufejme, že ta slova jsou už *jen* křivdou, jíž se teď hloupě dopouštíme.
+Doufejme, že ta slova jsou už "jen" křivdou, jíž se teď hloupě dopouštíme.
 
 Počátek 20. století byl k Rusku nevlídný, k Evropě nezasloužený.
 Tehdy totiž rozvědčíci, horující za zájmy svých potentátů, pomohli bolševikům
-umést cestu k destabilizaci. A geopolitika, ve které si nikdo nepřeje
+umést cestu k destabilizaci. Naneštěstí rozumější menševici
+byli toho času jen ustrašenou kulisou. A geopolitika, ve které si nikdo nepřeje
 silné Rusko, konec konců trvá do dnešních dob. Otázkou však zůstává,
 zdali je horší silné nebo zmatené Rusko, případně,
 a to je vůbec nejhorší, obojí naráz.
@@ -198,7 +198,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * Zubov, A.: Dějiny Ruska 20. století
 * Dostojevskij, Gogol, Tolstoj, Puškin, apod.
 
-__+__
+__&__
 > My tři králi, my jdeme k vám,  
 > štěstí, zdraví neseme vám.
 >
