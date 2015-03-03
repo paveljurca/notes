@@ -1,5 +1,5 @@
-Neštěstí brach
-==============
+Hydra
+=====
   
 přišla nemoc  
 to vzdor mrzké víře  
@@ -13,15 +13,15 @@ potom prostě tak
 naprší stáří mrak  
 meškat už nemáš jak  
 
-&nbsp;poklekneš v té díře  
+&nbsp;setneš hlavu své hydře
   
 poslední útěchou  
 důstojný spánek  
 sněné kurikulum  
 cár přízemních stránek  
   
-s prvním jářkem  
-— neptal ses proč  
+pomíjivá klukovina  
+vyloupils rodičů krámek
   
 (pj)  
   
