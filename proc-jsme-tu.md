@@ -51,17 +51,15 @@ v ten čas jsem uniknul
 Zmizela též vlídná věta  
 já dospělost zavrhnul
 
-—
-
-Zjihnu, pak složím poklonu  
-srdce je mým kusem obzoru  
-Není toho mnoho — rozhodnu  
+— Odbývám teď úlohu  
+srdce tajem obzoru  
+Není toho mnoho (rozhodnu)  
 musím tam, k Tobě jdu
 
 &nbsp;dožívat
 
 však kolik mi je  
-dvacet, deset, dva?  
+třicet, dvacet, dva?  
 Tu zpovědník dí tklivě  
 Cos myslel, bytí není hra
 
