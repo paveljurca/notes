@@ -1,7 +1,7 @@
-Věty
-====
+Celé věty
+=========
 
-.
+;
 
 > Define or be defined.
 > *Thomas Szasz*
