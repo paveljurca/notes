@@ -12,14 +12,14 @@ zasedáš v kající se dobrotě
 zraješ uvnitř, chátráš vně 
 
 nerozumíš pořadí os  
-pod sebou druhým kácíš hvozd  
+chybně kácíš lidský hvozd  
 těší tě vlastní ospalost  
 teď křičíš, sténáš Mám dost
 
 střádáš sny, vzýváš rozpaky  
 do rozhodnutí samých se nechce  
 zůstaly jen ty povzdechy  
-přec chtěl jsi žít tak lehce
+přec žít jsi chtěl tak lehce
 
 stal ses nedostupný (ve vlastní hlavě)  
 už nemyslíš (lobotomií prošel jsi hravě)  
