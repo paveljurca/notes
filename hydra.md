@@ -13,7 +13,7 @@ potom prostě tak
 naprší stáří mrak  
 meškat už nemáš jak  
 
-&nbsp;setneš hlavu své hydře
+&nbsp;tváří v tvář své hydře
   
 poslední útěchou  
 důstojný spánek  
@@ -22,6 +22,9 @@ cár přízemních stránek
   
 pomíjivá klukovina  
 vyloupils rodičů krámek
-  
+
+proč  
+nepoužil jsi branek?
+
 (pj)  
   
