@@ -3,8 +3,8 @@ Zima
   
 za nocí mrazy  
 vkreslí vrásky do krajiny  
-štulce ve tvářích  
-vzpomenutím ruky babiččiny  
+stejnorodé k těm  
+jež zdobí tváře stařešiny  
 vločky volným pádem  
 seskupí se do peřiny  
 z bláta strání  
@@ -13,14 +13,14 @@ spěšné stopy zvěře
 ani náznak rutiny  
 říčnost říček jihne  
 v leduplné rytiny  
-beránek hledí oknem  
-na Adama a Evy jmeniny  
+beránek v jesle dá se  
+vzpomněl Adama a Evy jmeniny  
 rozpuštěny sbory ptactva  
 zemí táhnoucí se praskliny  
-zpozorován úsměv luny  
-daleko do časů květiny  
-osamění chladem zraje  
-pusté kopce hlušiny  
+ticho v patronátu luny  
+daleko do první květiny  
+vítr na větvoví hraje  
+abonenty pusté kopce hlušiny  
 a při úpatí meze  
 spočinutí rodiny  
   
