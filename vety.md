@@ -1,7 +1,7 @@
-Úvahy
-=====
+Věty
+====
 
-;
+.
 
 > Define or be defined.
 > *Thomas Szasz*
