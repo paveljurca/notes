@@ -4,7 +4,7 @@ Opilec
 &nbsp;stojí za mnou
 
 zas dýchá těmi póry  
-jeho noc metrem zavládne  
+metro jeho noci propadne  
 zahalen do deliria zhůry  
 vagonem blíž k savaně  
  
