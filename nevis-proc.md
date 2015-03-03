@@ -1,9 +1,9 @@
-Hluchý konec
-============
+Nevíš proč
+==========
 
-je had co kousne tě  
-je pátek na téhle planetě  
-jsou lásky k ruletě  
+hadi co kousnou tě  
+pátky na téhle planetě  
+lásky k ruletě  
 ještě ses neohřál — po létě
 
 pravdu hledáš v pozdním momentě  
@@ -12,7 +12,7 @@ zasedáš v kající se dobrotě
 zraješ uvnitř, chátráš vně 
 
 nerozumíš pořadí os  
-chybně kácíš lidský hvozd  
+těsně míjíš lidský hvozd  
 těší tě vlastní ospalost  
 teď křičíš, sténáš Mám dost
 
