@@ -11,7 +11,7 @@ zázračno
 &nbsp;neposedný  
 &nbsp;tlustý hroch  
   
-v chundelatém lese
+v pochroumaném lese
   
 už dnes tam  
 co napřesrok  
