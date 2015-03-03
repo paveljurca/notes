@@ -3,8 +3,10 @@ Knihtisk
   
 více čtiva  
 méně rozumu  
-více čtiva  
-poznání část obzoru
+pocit téměř prima  
+nerozumím původu
+  
+&nbsp;tedy
   
 četbou vede mne vnitřní hlas  
 stránka lapá další vlas  
