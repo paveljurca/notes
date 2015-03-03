@@ -13,7 +13,7 @@ spěšné stopy zvěře
 ani náznak rutiny  
 říčnost říček jihne  
 v leduplné rytiny  
-jehličí zapěje domem  
+beránek hledí oknem  
 na Adama a Evy jmeniny  
 rozpuštěny sbory ptactva  
 zemí táhnoucí se praskliny  
