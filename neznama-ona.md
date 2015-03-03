@@ -6,7 +6,7 @@ na mou i vaši duši
 máte hezké obě uši  
 jste anděl, jenž mne ruší
 
-vytrhnut takhle z rána  
+vytrhnut z letargie rána  
 v očích dávaj milé dráma  
 ..teď ještě ta zpráva  
 my dva, dnes — káva?  
