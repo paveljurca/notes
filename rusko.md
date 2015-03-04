@@ -13,9 +13,8 @@ Putina [baví](http://youtu.be/sUNslUmQNiw).
 
 Sovětský svaz, *jistoty*, které perestrojka
 učinila volnější — svobodnější. Odeznělo budovatelské
-*každému podle jeho potřeb*. To pochopitelně nemyslící
-a apatickou většinu bolí. Ostatně právě tato většina
-určuje vždy a všude směřování světa — tím komu zatleská.
+*každému podle jeho potřeb*. S tím se nelze smířit.
+Ublížený dav udává cestu — tím komu tleská.
 Putin tu slabost poddaných zná a posiluje ji kde může
 (ruský oxymóron už ze starých dob).
 
@@ -31,8 +30,8 @@ Patočka mluvil o zákonitostech vnitřních (filosofie)
 a vnějších (právo). Rusům se nedostává obého.
 Dříve by byla válka, dnes jsme humánější a máme sankce.
 
-Odkud ta jejich rozpínavost? Vcelku jedno-duchá věc:
-každý metr hranice k dobru oddálí vyčerpání enklávního
+Pak odkud ta jejich rozpínavost? Vcelku jedno-duchá věc:
+každý hraniční patník k dobru oddálí vyčerpání enklávního
 obzoru, ke kterému se tamní lidé modlí a vztahují.
 Věčná škoda, že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
@@ -61,15 +60,16 @@ sověti člověka nepotřebovali. Prý co s ním.
 Však Míťa v Bratrech Karamazových měl řešení:
 *Široký, příliš široký je člověk. Zúžil bych jej!*
 
-Rozkazů, příkazů, nařízení, obušků, politické
-policie, kádrováků, gulagů, komsomolců,
-aparátčíků, kolchozníků, prokurátorů a politruků
-bylo mnoho. A kolektivizace spolu s honem na kulaky
-pomohla, aby nikdo neměl nic, aby nikdo nebyl nic.
+Rozkazů, příkazů, nařízení, obušků, milic,
+kádrů, gulagů, komsomolců, aparátčíků,
+kolchozníků, prokurátorů, politruků
+a policistů strany stály zástupy.
+Brnkání na kolektivní strunu už jen
+završilo, aby každý byl méně než nic.
 Až tehdy rovnost. A někdy dle nálady:
 *Čtyři nohy dobré, dvě nohy lepší!*
 
-Rusové trpěli pod spoustou (ne)možných vlivů, mongolů,
+Vytrpěli své pod botou mongolů,
 tatarů, tmářství, bolševismu. Tápání se stalo
 naturelem. Snad proto ta vlast namnoze bývá přenašečem
 ba původcem hrozeb. Století minulá, i ta dnešní, jsou
@@ -83,7 +83,7 @@ snáze udělají kariéru.
 
 Prosté a poddajné dělnictvo je tak tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
-ze stromů nebylo v plytkých časech důvodem k otázkám.
+ze stromů nebylo v hladových časech důvodem k otázkám.
 Navykli si přežít, nikolivěk žít.
 Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
 Pro co ale? Ubránili jen svůj nerozum. A co dělat,
@@ -91,7 +91,7 @@ když je historie národa vystavěna na neštěstí?
 Těžko to připustit, těžko to schovat.
 Dilema, které načas odvrátí jen jedno: další
 nepřátelství. Výslednicí toho všeho jen zapomění a izolace.
-Nemají kamarády a to jistě bolí. Spojence raději hledají
+Nemají kamarády a to jistě bolí. Spojence raději poptávají
 v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
 v Evropě, kam pro sichr čas od času pošlou tanky.
 
@@ -117,11 +117,11 @@ Matička Rus přivykla synonymu armády, arzenálu
 zbraní, bigotnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
 Škoda těch srdečných lidí, kteří tam někde,
-a v určitém počtu, stále jsou. Škoda, že s tím
+stále jsou. Škoda, že s tím
 nic nedělají. Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
 Vlastní zoufalost ale nikdy nepřipustí.
-Zjistili jsme ji totiž dříve nežli oni.
+Zjistili jsme ji dříve nežli oni.
 Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
 Doufejme, že ta slova jsou už "jen" křivdou, jíž se teď hloupě dopouštíme.
 
@@ -156,10 +156,10 @@ Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
 nemožné — pokud nechcete prochodit boty.
 Stačí si jen vzpomenout na tajnosti,
-jež se děly kolem dohody ACTA.
+jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
-věc jediná: lidská imbecilita. A proti té
-se těžko pochoduje — máme ji všichni.
+věc jediná: lidská idiocie. A proti té se
+těžko pochoduje — máme ji všichni. 
 
 > Konečně každý hřích koná se vůlí a má hnízdo
 > ve vůli.. Lidé nejtěžší pokušení mívají v myšlení.
