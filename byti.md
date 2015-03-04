@@ -6,9 +6,6 @@ je zpomalit?
 Zrajeme  
 v nesourodé převody  
 vypadnuvší z kolesou!  
-Nepoznané odvody  
-a špatná řada  
-— nebem zatřesou.  
 Nestačí,  
 že jsme.  
 My chceme se  
