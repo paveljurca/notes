@@ -12,16 +12,18 @@ chvílí vyklouzla ti
 &nbsp;Hloupost!
   
 nepřivolím konec sloky  
-etudě zbývá střelba broky  
-tohle jsou mé roky  
+knedlík nebo noky  
+etudo má milá  
+neodtékej do stoky
   
 &nbsp;Slečno,  
 
-dělí nás dva skoky!  
-  
+plánujme naše roky  
+kuráže už hltám loky
+
 probrání z letargie rána  
 oči přezkoušely milé dráma  
-scénářem proskočí ta zpráva  
+ústy proskočí ta zpráva  
 my dva, dnes — káva?  
   
 ve skráních pláče  
