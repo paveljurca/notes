@@ -1,11 +1,15 @@
-Bytí  
-====  
+Bytí
+====
   
-Nemožné  
+Nehezké  
 je zpomalit?  
 Zrajeme  
 v nesourodé převody  
 vypadnuvší z kolesou!  
+Tohle nejsou  
+odvody  
+jež nebem  
+— pronesou.  
 Nestačí,  
 že jsme.  
 My chceme se  
@@ -25,8 +29,8 @@ ty bez světa.
 Kde bys byl?  
 Nejde to,  
 s tebou zajde  
-jeden, náš  
-popleta.  
+jedna, naše  
+dubleta.  
 Každý pár očí  
 všech je mundus  
 — spletený  
