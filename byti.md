@@ -6,10 +6,9 @@ je zpomalit?
 Zrajeme  
 v nesourodé převody  
 vypadnuvší z kolesou!  
-Tohle nejsou  
-odvody  
-jež nebem  
-— pronesou.  
+Nepoznané odvody  
+a špatná řada  
+— nebem zatřesou.  
 Nestačí,  
 že jsme.  
 My chceme se  
@@ -29,7 +28,7 @@ ty bez světa.
 Kde bys byl?  
 Nejde to,  
 s tebou zajde  
-jedna, naše  
+jedna (naše)  
 dubleta.  
 Každý pár očí  
 všech je mundus  
