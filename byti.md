@@ -2,14 +2,15 @@ Bytí
 ====  
   
 Nemožné  
-je zpomalit.  
-Nemožní  
-jsme sami se sebou.  
+je zpomalit?  
+Zrajeme  
+v nesourodé převody  
+vypadnuvší z kolesou!  
 Nestačí,  
 že jsme.  
-To vědomí  
-se nedá potatit.  
-— Libo vlády tele,  
+My chceme se  
+přetatit.  
+— Sub specie tele,  
 vize?  
 Důvod vázne,  
 daleko,  
@@ -20,19 +21,20 @@ vlastní nátury.
 &nbsp;Taky dobře.
 
 Představ si  
-svět bez tebe.  
+ty bez světa.  
+Kde bys byl?  
 Nejde to,  
-s tebou skončí  
+s tebou zajde  
 jeden,  
 náš svět.  
 Každý pár očí  
 je všech mundus  
-— hluboký  
-jak řečiště stok.  
+— spletený  
+jak demonstrace noh.  
 Mimo kosmos  
-rzí chycený podnos.  
+bezčasí a zlost.  
 Mimo tebe  
-srdce neklid zebe.  
+ošklivo a zebe.  
 Raději hledej  
 v sebe.
 
@@ -57,13 +59,13 @@ Flagrantní
 humánní  
 jinotaj.  
 Neptej se,  
-co chtěl jsem říci.  
+čeho máš se zříci.  
 Tys sám hemisférou bdící!
 
 Slova zadrhla,  
-myšlenky divně zejí.  
-Nepopovídáš si,  
-nerozumí ti.
+uši něco kují.  
+Nespravíš to,  
+nemyslíš.
 
 (pj)  
   
