@@ -28,20 +28,18 @@ Celý svět je opřen o lichou naději, že Obyvatel
 snad ví, jak se má chovat. **Neví to**, nikde se to neučí. 
 Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
 Patočka mluvil o zákonitostech vnitřních (filosofie)
-a vnějších (právo). Rusku se žel nedostává obého.
+a vnějších (právo). Rusům se nedostává obého.
 Dříve by byla válka, dnes jsme humánější a máme sankce.
-Zcela bez okolků: díky za ně!
 
-A proč ta ruská rozpínavost? Snad proto, že velikost
-vlasti je pro ně jedno-duše vším a každý metr hranice
-navíc je radostí. Slunce tam prakticky nezapadá, ale
-proč ještě pár krajin nepřidat? Věčná škoda,
-že Rus už drahné věky znamená okupant.
+Odkud ta jejich rozpínavost? Vcelku jedno-duchá věc:
+každý metr hranice k dobru oddálí vyčerpání enklávního
+obzoru, ke kterému se tamní lidé modlí a vztahují.
+Věčná škoda, že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
 
 Vzdálenosti jsou jim však Damoklovým mečem.
-Jakákoli názorová shoda utopí se v neprostupných
+Jakákoli názorová shoda utopí se v kosmatých
 dálavách. A nádavkem je ta samá dálava oblíbeným
 kolbištěm bláznů, jež tak zkoušejí vlastní variace
 režimu *pevné ruky*.
@@ -83,7 +81,7 @@ snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-Prosté a poddajné dělnictvo je tichým strůjcem
+Prosté a poddajné dělnictvo je tak tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
 ze stromů nebylo v plytkých časech důvodem k otázkám.
 Navykli si přežít, nikolivěk žít.
@@ -115,26 +113,27 @@ stát, protože v tom žádný není.
 > život za půl kopejky a cizí už docela zadarmo.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
 
-Matička Rus ukázala se být synonymem armády, arzenálu
-zbraní, bezhlavé poslušnosti a strachu. A protože
+Matička Rus přivykla synonymu armády, arzenálu
+zbraní, bigotnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
 Škoda těch srdečných lidí, kteří tam někde,
 a v určitém počtu, stále jsou. Škoda, že s tím
 nic nedělají. Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
-Možno ale přiznat vlastní zoufalost, když už o ní všichni vědí?
+Vlastní zoufalost ale nikdy nepřipustí.
+Zjistili jsme ji totiž dříve nežli oni.
 Maxim Gorkij jednou napsal: *Rus je od přirozenosti náchylný ke krutosti*.
 Doufejme, že ta slova jsou už "jen" křivdou, jíž se teď hloupě dopouštíme.
 
 Počátek 20. století byl k Rusku nevlídný, k Evropě nezasloužený.
 Tehdy totiž rozvědčíci, horující za zájmy svých potentátů, pomohli bolševikům
 umést cestu k destabilizaci. Naneštěstí rozumější menševici
-byli toho času jen ustrašenou kulisou. A geopolitika, ve které si nikdo nepřeje
-silné Rusko, konec konců trvá do dnešních dob. Otázkou však zůstává,
+byli toho času jen uťáplou kulisou. A geopolitika, ve které si nikdo nepřeje
+silné Rusko, trvá právem do dnešních dob. Otázkou však zůstává,
 zdali je horší silné nebo zmatené Rusko, případně,
 a to je vůbec nejhorší, obojí naráz.
 
-Avšak zbytečná polarizace a striktní papouškování oficiální linie
+Avšak zbytečná polarizace a striktní papouškování úřední linie
 směrem k "ruskému světadílu" jen zatvrzuje obě strany.
 Proč vůbec pronášet slova, od kterých změnu nečekáme, nechceme.
 Možná si [mlčky](http://jurcapavel.cz/blog/mluvit) odžít pár
