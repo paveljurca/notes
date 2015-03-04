@@ -1,69 +1,88 @@
 Rozprava  
 ========  
   
-Čím déle setrvám,  
-tím více to jsem.  
-Není jak si být jist,   
-že právě tohle chci.  
-Je za tím strach,  
-že se na nic nehodím  
+Déle setrvám,  
+více to jsem.  
+Není jak  
+být si jist,   
+že právě tohle  
+chci.  
+Strach,  
+pro nic se nehodím  
 a strach,  
-že začnu-li s jedním,  
-uteče mi druhé.  
-A tak trávím dny  
-věčně rozkročen  
+začnu s jedním,  
+uteče druhé.  
+A tak  
+trávím dny  
+věčně
+
+&nbsp;roz-  
+&nbsp;&nbsp;-kročen
+
 mezi možnostmi.  
   
 Praha plná hlav;  
 neznám je  
-— jsou mi sevřením.  
+— jsou sevřením.  
 Ony ukázaly pak,  
 jen tak,  
-co je špatné a dobré.  
-Vše domněním odstínily.  
+co je špatné  
+a dobré.  
+Domněním  
+hmotu odstínily.  
  — Proč o pravdě  
-rozhoduje oko člověka?  
+rozhoduje  
+oko, oko člověka?  
 V lese i zverimexu  
 těkají oči další.  
 Chci tam,  
-kde věci jsou per se,  
+kde věci per se,  
 bez přídavných jmen,  
-do konečné samoty.  
-Ztratit obzor,  
-ať chřípí je zas  
-duchaplnou otázkou.  
-Nelze nic skončit,  
-nelze všechno začít.  
+do nepoznané  
+roboty.  
+Ztratit 'pozor',  
+ať chřípí zas  
+dítkem bezobsažné  
+holoty.  
 Snad,  
-že země je kulatá,  
-není rohu kde odbočit,  
-však sejít zvládnu kdekoli.  
+že Země kulatá,  
+není rohu  
+k odbočení,  
+však sejít možno  
+kdekoli.  
 Běhat okruhy  
 — doleva,  
-kariéra schválně  
+kariéra na truc  
 doprava.
 
-Články mohu psát,  
+Provolání psát,  
 a právě proto  
 díkuvzdání odsouvat.  
 Večer to nad moštem  
 s výchovnými poradci  
-— rozebrat.  
+— omlouvat.
 
-A když se zdá,  
-že jsem do dlaně pochopil,  
-noc pohnutí překryje.  
-Nad ránem pak vzpomenu jen,  
+Když zdá se,  
+že jsem  
+do dlaně pochopil,  
+noc pohnutí  
+překryje.  
+Nad ránem vzpomenu,  
 že jsem zapomněl.  
-Tak vlastně žiji proto,  
-abych znovu zítra začínal.  
-Nejsem zvyklý na první rozhodnutí,  
-potřebuji druhá, třetí,  
-spolu s nadějí  
-na nový den, stejné chyby.  
-  
-Z bordelu toho snu  
-do bordelu všedního.  
-  
+Vlastně žiji proto,  
+abych znovu zítra  
+začínal.  
+Nerozpoznám první  
+rozhodnutí,  
+potřebuji druhá,  
+třetí.  
+Naděje  
+na nový sen,  
+udatnější sliby.
+
+Bordel,  
+a nic než bordel  
+v sobě.
+
 (pj)  
   
