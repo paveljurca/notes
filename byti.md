@@ -25,10 +25,10 @@ ty bez světa.
 Kde bys byl?  
 Nejde to,  
 s tebou zajde  
-jeden,  
-náš svět.  
+jeden, náš  
+popleta.  
 Každý pár očí  
-je všech mundus  
+všech je mundus  
 — spletený  
 jak demonstrace noh.  
 Mimo kosmos  
