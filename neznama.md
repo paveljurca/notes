@@ -18,8 +18,8 @@ neodtékej do stoky
   
 &nbsp;Slečno,  
 
-plánujme naše roky  
-kuráže už hltám loky
+hleďte, naše roky!  
+pijme jich, loky
 
 probrání z letargie rána  
 oči přezkoušely milé dráma  
