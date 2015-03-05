@@ -13,8 +13,7 @@ a strach,
 začnu s jedním,  
 uteče druhé.  
 A tak  
-trávím dny  
-věčně
+trávím dny, věčně  
 
 &nbsp;roz-  
 &nbsp;&nbsp;-kročen
@@ -57,7 +56,7 @@ doprava.
 
 Provolání psát,  
 a právě proto  
-díkuvzdání odsouvat.  
+díkuvzdání odkládat.  
 Večer to nad moštem  
 s výchovnými poradci  
 — omlouvat.
