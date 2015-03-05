@@ -471,8 +471,14 @@ soulad
 mající hodnotu
 * _evokuje_
 navozuje
+* _ex ante_
+předem
 * _ex lege_
 ze zákona
+* _ex novo_
+od znovu
+* _ex post_
+dodatečně
 * _exaktní_
 přesný
 * _exaltovaný_
