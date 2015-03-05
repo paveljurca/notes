@@ -4,21 +4,23 @@ Zima
 za nocí mrazy  
 vkreslí vrásky do krajiny  
 stejnorodé k těm  
-jež zdobí tváře stařešiny  
+jež brázdí tváře stařešiny  
 vločky volným pádem  
 seskupí se do peřiny  
 z bláta strání  
 bez poskvrny planiny  
 spěšné stopy zvěře  
 ani náznak rutiny  
-říčnost říček jihne  
-v leduplné rytiny  
+říčnost toků jihne  
+v leduplné praskliny  
 beránek v jesle dá se  
 vzpomněl Adama a Evy jmeniny  
 rozpuštěny sbory ptactva  
-zemí táhnoucí se praskliny  
+duší táhnoucí se rytiny  
+starosti k přemíře hladu  
+zbožným přáním vzdechliny  
 ticho v patronátu luny  
-daleko do první květiny  
+daleko do jarní květiny  
 vítr na větvoví hraje  
 abonenty pusté kopce hlušiny  
 a při úpatí meze  
