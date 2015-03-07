@@ -62,7 +62,7 @@ musím tam, k Tobě jdu
 
 však kolik mi je  
 třicet, dvacet, dva?  
-Tu žalářník dí tklivě  
+Tu galejník dí tklivě  
 Cos myslel, bytí není hra
 
 Ležíc ve vlastním hrobě  
