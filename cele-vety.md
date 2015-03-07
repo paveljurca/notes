@@ -307,6 +307,24 @@ Celé věty
 > Svět je dříve krásný než pravdivý.
 > *Václav Černý, Co je kritika*
 
+.
+
+> Sláb jenom ten, kdo v sebe ztratil víru. 
+> *Svatopluk Čech*
+
+.
+
+> Dobří kráčejí vyrovnaným krokem.  
+> Ostatní, aniž to vědí, tančí kolem nich dobové tance.
+> *Franz Kafka*
+
+.
+
+> Je Bůh, holky? Jestli je,  
+> tak jsme vážně v prdeli.
+> *Karel Steigerwald, Má vzdálená vlast*
+
+
 (pj)
 
 * __Yet Another Quotes__
