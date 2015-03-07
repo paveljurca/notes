@@ -493,6 +493,8 @@ vnější
 vymítání ďábla
 * _expat_
 člověk mimo vlast
+* _exploatace_
+vytěžení
 * _exponovat_
 vystavit
 * _extrapolace_
