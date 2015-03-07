@@ -897,6 +897,8 @@ obřad
 řád
 * _lombard_
 úvěr jištěný zástavou
+* _luddismus_
+strach z mechanizace
 * _lusofonní_
 portugalsky mluvící
 * _lusthaus_
