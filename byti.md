@@ -1,10 +1,10 @@
 Bytí
 ====
   
-Nehezké  
+Neběžné  
 je zpomalit?  
 Zrajeme  
-v nesourodé převody  
+v nesourodá prasátka  
 vypadnuvší z kolesou!  
 Nestačí,  
 že jsme.  
