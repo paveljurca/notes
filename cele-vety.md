@@ -257,6 +257,12 @@ Celé věty
 
 .
 
+> As long as I'm learning something,  
+> I figure I'm OK — it's a decent day.
+> *Hunter S. Thompson*
+
+.
+
 > Člověk dokáže daleko víc, než si myslí.  
 > Ale musí mít cíl. Jasnej cíl.
 > *Petr Šabach, Opilé banány*
