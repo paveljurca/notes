@@ -34,6 +34,11 @@ Celé věty
 
 .
 
+> Uč se, nekurvi se, neflámuj.
+> *Karel Steigerwald, Tatarská pouť*
+
+.
+
 > V Jaspersově pojetí je člověk jen možnou existencí;  
 > ne každý člověk se existencí skutečně stává.
 > *Ladislav Hejdánek, Člověk a jeho dluhy*
