@@ -9,12 +9,12 @@ zbývá překonat veletoky
 neřekl jsi nic  
 chvílí vyklouzla ti  
   
-&nbsp;Hloupost!
+&nbsp;Ještě ne!
   
-nepřivolím konec sloky  
-knedlík nebo noky  
-etudo má milá  
-neodtékej do stoky
+nechtěj konec sloky  
+s nadějí ze stoky  
+etuda obstoupena mloky  
+[tři kvapné skoky]
   
 &nbsp;Slečno,  
 
