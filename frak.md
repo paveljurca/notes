@@ -9,17 +9,23 @@ nazítří zpět, doma, v pýše
 dál, dál  
 ještě výše!  
 
-blíže věcem  
+&nbsp;blíže věcem
+
 nehezčí se zdají  
 dále srdcem  
 tehdy záleželo — teď nezáleží  
 
-&nbsp;světu stoupne tlak 
+&nbsp;světu klesá tlak
 
-prší stáří mrak  
-meškat? Nevím jak  
+pršel stáří mrak  
+o strom života  
+vykolejil spěšný vlak  
+meškat? sprostě tak
 
-&nbsp;rád bych smrti frak
+&nbsp;rád by
+
+kus hradby  
+i smrti frak
 
 (pj)  
   
