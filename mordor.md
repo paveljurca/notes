@@ -8,8 +8,8 @@ pronárody v poklusu
 
 příliš někdy je  
 negramotných podvodů  
-čtenářský průkaz dle  
-slušnosti na obzoru
+čtenářský průkaz zve  
+k slušnosti při porodu
 
 znovu ale zní  
 provolání Mordoru:  
