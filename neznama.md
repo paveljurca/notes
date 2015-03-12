@@ -3,29 +3,38 @@ Neznámá
   
 zpatříš ji  
 jste na vzdálenost ruky  
-k společnému My  
+k společnému *My*  
 zbývá překonat veletoky  
   
 neřekl jsi nic  
 chvílí vyklouzla ti  
   
-&nbsp;Ještě ne!
-  
-nechtěj konec sloky  
-s nadějí ze stoky  
-etuda obstoupena mloky  
-[tři kvapné skoky]
-  
+&nbsp;Kdo zvojtil osud?
+ 
+to ty, to ty!  
+plaché její boky  
+jeden mezi soky
+etuda hrst sloky  
+*(tři něžné kroky)*
+
 &nbsp;Slečno,  
 
-hleďte, naše roky!  
-pijme jich, loky
+hleďte, naše roky  
+berme jich, loky
 
-probrání z letargie rána  
-oči přezkoušely milé dráma  
-ústy proskočí ta zpráva  
-my dva, dnes — káva?  
-  
+Neztraťme cit  
+pro styky  
+cudnost ba zvyky  
+v penzi vzdychy
+
+&nbsp;nikolivěk  
+&nbsp;láska — díky
+
+z letargie rána  
+v očích milé dráma  
+ústy spěchá zpráva  
+*My* dva, dnes — káva?  
+
 ve skráních pláče  
   
 &nbsp;mañana  
