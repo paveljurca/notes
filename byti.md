@@ -2,41 +2,46 @@ Bytí
 ====
   
 Neběžné  
-je zpomalit?  
+neběžně sebe krátit?  
+Vůle lidu,  
+těžko se bránit.  
 Zrajeme  
-v nesourodá prasátka  
-vypadnuvší z kolesou!  
-Nestačí,  
-že jsme.  
+v prasátka  
+pyšnící se noblesou.  
+Nestačí  
+kdo nejsme?  
 My chceme se  
 přetatit.  
-— Sub specie tele,  
+— Sub specie hele,  
 vize?  
 Důvod vázne,  
 daleko,  
-v schíze.  
-Zapomenout  
-vlastní nátury.  
+někde v Gíze.  
+Ustrnout  
+v kečupu  
+vlastní nátury.
 
 &nbsp;Taky dobře.
 
-Představ si  
-ty bez světa.  
+Představ si 
+
+&nbsp;ty bez světa. 
+
 Kde bys byl?  
 Nejde to,  
 s tebou zajde  
 jedna (naše)  
 dubleta.  
 Každý pár očí  
-všech je mundus  
+všech cizí mundus  
 — spletený  
 jak demonstrace noh.  
 Mimo kosmos  
-bezčasí a zlost.  
+schází pravý roh.  
 Mimo tebe  
-ošklivo a zebe.  
-Raději hledej  
-v sebe.
+tupé zření soch.  
+Zbývá ti  
+utříbit si sloh.
 
 Hloupé  
 — co bylo,  
@@ -51,16 +56,19 @@ třesk hlavy.
 
 Ten prostor  
 mezi nimi  
-(tak akorát na 2 knihy)  
+(zhruba na 2 knihy)  
 zdá se být  
 aspoň životem.  
 
 Flagrantní  
 humánní  
 jinotaj.  
-Neptej se,  
-čeho máš se zříci.  
-Tys sám hemisférou bdící!
+Nemáš  
+jak duši  
+slova říci.  
+
+Co čumí,  
+ty hemisféry bdící?!
 
 Slova zadrhla,  
 uši něco kují.  
