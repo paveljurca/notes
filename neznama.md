@@ -13,14 +13,14 @@ chvílí vyklouzla ti
  
 to ty, to ty!  
 plaché její boky  
-jeden mezi soky
+jeden mezi soky  
 etuda hrst sloky  
 *(tři něžné kroky)*
 
 &nbsp;Slečno,  
 
 hleďte, naše roky  
-berme jich, loky
+protékají, loky
 
 Neztraťme cit  
 pro styky  
