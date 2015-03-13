@@ -39,7 +39,7 @@ kde věci per se,
 bez přídavných jmen,  
 do nepoznané  
 roboty.  
-Ztratit 'pozor',  
+Ztratit *pozor*,  
 ať chřípí zas  
 dítkem bezobsažné  
 holoty.  
