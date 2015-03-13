@@ -229,6 +229,13 @@ Celé věty
 
 .
 
+> Ten kůň je chromý, prašivý a šilhá.  
+> Ten člověk má pravdu, ale k čemu mi ta pravda je?  
+> Jiného koně nemám.
+> *Karel Steigerwald, Marta Peschek jde do nebe*
+
+.
+
 > Umění se nikdy nesmí stát katalogem
 > hotových odpovědí na životní otázky.
 > *Václav Černý, Co je kritika*
@@ -334,7 +341,6 @@ Celé věty
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
-
 
 (pj)
 
