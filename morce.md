@@ -9,7 +9,7 @@ na malém kousíčku
 kdo zavřel ho  
 prázdnit pítko sté  
 to malé morčátko  
-smutní, je mu zle  
-  
+blouzní, je mu bléé
+ 
 (pj)  
   
