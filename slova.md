@@ -1231,8 +1231,8 @@ prvenství
 vztažný bod
 * _predikce_
 předpověď
-* _predikovat_
-předpovídat
+* _predikát_
+přísudek
 * _preemptivní_
 předběžný
 * _pregnantní_
