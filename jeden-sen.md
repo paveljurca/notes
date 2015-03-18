@@ -1,37 +1,19 @@
 Jeden sen
 ========= 
-  
-než stane se to,  
-ptáš se Kdy už?  
-  
-když stalo se to,  
-ptáš se Proč?  
-  
-sen má zůstat snem,  
-kdyby jím nebyl,  
-už jsi v něm  
-(fait accompli)  
+ 
+nejdříve  
+— Kdy už?
+ 
+vposledy  
+— Proč?
+ 
+sen ať zůstane
 
-máš je rád, hezky  
-vyplní čas při cestě  
-vlakem; vystoupíš  
-a chápeš, že svou  
-realitu máš radši  
-  
-mít sen znamená  
-být s ostatními;  
-dělat z něj dennost,  
-pak je osamět  
+&nbsp;snem
 
-uskutečnit sen  
-je mrzutost  
-  
-nikdo  
-to od tebe  
-nečeká  
-  
-nedělej  
-(hloupost)  
-  
+kdyby jím nebyl
+
+&nbsp;už jsme v něm
+ 
 (pj)
-  
+ 
