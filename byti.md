@@ -5,11 +5,10 @@ Neběžné
 neběžně sebe krátit?  
 Vůle lidu,  
 těžko se bránit.  
-Zrajeme  
-v prasátka  
-pyšnící se noblesou.  
+Domov je  
+u druhých na prsou.  
 Nestačí  
-kdo nejsme?  
+čím nejsme?  
 My chceme se  
 přetatit.  
 — Sub specie hele,  
