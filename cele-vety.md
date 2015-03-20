@@ -133,6 +133,11 @@ Celé věty
 
 .
 
+> There is no effort without error and shortcoming.
+> *Theodore Roosevelt, Man in the Arena*
+
+.
+
 > Nejdříve vás ignorují,  
 > pak se vám smějí,  
 > pak s vámi bojují,  
@@ -304,7 +309,7 @@ Celé věty
 .
 
 > Living well implies dying well.
-> *Octavio Paz*
+> *Octavio Paz, In Search of the Present*
 
 .
 
