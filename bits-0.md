@@ -89,10 +89,12 @@ second get [package manager](http://sublime.wbond.net/installation).
 
 Then via the package manager install [SublimeLinter3](http://github.com/SublimeLinter/SublimeLinter3)
 and [SublimeCodeIntel](http://github.com/SublimeCodeIntel/SublimeCodeIntel).
-If doing [Perl](http://www.perl.org) you may try [SublimeLinter-perl](http://github.com/oschwald/SublimeLinter-perl).
+If doing [Perl](http://www.perl.org) you may try [SublimeLinter-perl](http://github.com/oschwald/SublimeLinter-perl)
+or even [ModernPerl](https://github.com/Blaizer/ModernPerl-sublime) highlighter.
 
 Additionaly get a nice [theme](http://colorsublime.com/)
-or a [font](http://font.ubuntu.com/).
+or a [font](http://font.ubuntu.com/) (which extract
+somewhere at `/usr/local/share/fonts/truetype/Ubuntu`).
 
 Finally do something like:
 
