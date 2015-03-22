@@ -25,9 +25,9 @@ tváří se
 evoluce pospíchá  
 až moc honem
 
-z průseru  
+z nesnáze  
 se nechá dostat  
-větším průserem
+větší nesnází
 
 nebo  
 
