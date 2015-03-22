@@ -11,7 +11,7 @@ posledy
 
 je brzy
 
-sen chybuje   
+sen uhýbá   
 — snem
 
 až vzdá to
