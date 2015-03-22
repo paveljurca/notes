@@ -2,12 +2,12 @@ Frak
 ====
 
 přišla nemoc  
-vzdor světské víře  
+sekulární zvíře  
 sláb jen tuhle noc  
-nazítří zpět, doma, v pýše  
+nazítří zpět, doma, v pýše
 
 dál, dál  
-ještě výše!  
+ještě výše!
 
 &nbsp;blíže věcem
 
@@ -15,7 +15,8 @@ nehezčí se zdají
 dále srdcem  
 tehdy záleželo — teď nezáleží  
 
-&nbsp;světu klesá tlak
+dovětkem:  
+&nbsp;světu zklesal tlak
 
 pršel stáří mrak  
 o strom života  
