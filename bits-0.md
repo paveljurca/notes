@@ -56,6 +56,10 @@ then
 Have a look at the `/etc/grub.d/30_os-prober` file
 particularly those `--class windows` lines.
 
+Additionaly, if you're on openSUSE you should
+now about their lovely penguin splash screen
+via [gfxboot](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen).
+
 ## Vim setup
 
 The following forces [Vim](http://www.vim.org/)
