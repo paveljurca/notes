@@ -70,6 +70,7 @@ just 2 spaces:
     set number
     set shiftwidth=2
     set softtabstop=2
+    set shiftround
     set expandtab
     set t_Co=256
     set autoindent
@@ -110,29 +111,45 @@ Finally do something like:
     "bold_folder_labels": true,
     "caret_style": "phase",
     "close_windows_when_empty": false,
-    "color_scheme": "Packages/Colorsublime-Themes/Darkside.tmTheme",
+    "color_scheme": "Packages/User/Darkside.tmTheme",
+    "default_line_ending": "unix",
     "find_selected_text": true,
     "fold_buttons": false,
     "font_face": "Ubuntu Mono",
-    "font_size": 13.0,
+    "font_size": 14.0,
     "highlight_line": true,
-    "line_padding_bottom": 2,
-    "line_padding_top": 2,
-    "tab_size": 2,
-    "theme": "Centurion Blue.sublime-theme",
+    "highlight_modified_tabs": true,
+    "hot_exit": false,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_numbers": true,
+    "line_padding_bottom": 0,
+    "line_padding_top": 0,
+    "rulers":
+    [
+        65
+    ],
+    "show_encoding": true,
+    "show_full_path": true,
+    "show_line_endings": true,
+    "tab_size": 4,
+    "theme": "Default.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
-    "word_wrap": "true"
+    "word_wrap": "true",
+    "wrap_width": 65
     }
     Ctrl^D
 
-And in a theme file `$HOME/.config/sublime-text-3/Packages/Colorsublime-Themes/Darkside.tmTheme`
+And in a theme file `$HOME/.config/sublime-text-3/Packages/User/Darkside.tmTheme`
 you may colorize variables by locating the `Variable`
 section and having it like:
 
     <string>Variable</string>
     <key>scope</key>
-    <string>variable</string>
+    <string>variable, punctuation.definition.var.perl</string>
     <key>settings</key>
     <dict>
        <key>fontStyle</key>
@@ -142,6 +159,11 @@ section and having it like:
     </dict>
 
 ![Sublime](m/sublime.png)
+
+To determine the `scope` just highlight
+a variable/keyword/function/whatever and
+then press `Ctr+Alt+Shift+P` when it's gonna
+show up at the status bar.
 
 (pj)
 
