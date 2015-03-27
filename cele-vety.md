@@ -347,6 +347,11 @@ Celé věty
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
 
+.
+
+> We should have been bolder. 
+> *Joel Klein, Lessons of Hope*
+
 (pj)
 
 * __Yet Another Quotes__
