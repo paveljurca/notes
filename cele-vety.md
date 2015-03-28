@@ -286,6 +286,11 @@ Celé věty
 
 .
 
+> The only real influence I've ever had was myself.
+> *Edward Hopper*
+
+.
+
 > Dělat něco, aniž by si člověk mohl naplánovat  
 > alespoň den dopředu, je nemožné.
 > *Slawomir Mroček*
@@ -349,7 +354,7 @@ Celé věty
 
 .
 
-> We should have been bolder. 
+> We should have been bolder.
 > *Joel Klein, Lessons of Hope*
 
 (pj)
