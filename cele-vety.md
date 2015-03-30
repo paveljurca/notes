@@ -176,9 +176,8 @@ Celé věty
 
 .
 
-> The difference between a dream  
-> and reality is just doing it.
-> *Boey Chimming, TED Ads*
+> I shall live unhonored and be nobody nowhere.
+> *Epictetus, Enchiridion XXIV*
 
 .
 
