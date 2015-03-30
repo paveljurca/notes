@@ -176,6 +176,12 @@ Celé věty
 
 .
 
+> The difference between a dream  
+> and reality is just doing it.
+> *Boey Chimming, TED Ads*
+
+.
+
 > If it moves, tax it.  
 > If it keeps moving, regulate it.  
 > And if it stops moving, subsidize it.
@@ -334,11 +340,6 @@ Celé věty
 
 > Svět je dříve krásný než pravdivý.
 > *Václav Černý, Co je kritika*
-
-.
-
-> Sláb jenom ten, kdo v sebe ztratil víru.
-> *Svatopluk Čech*
 
 .
 
