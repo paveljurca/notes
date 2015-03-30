@@ -337,8 +337,13 @@ Celé věty
 
 .
 
-> Sláb jenom ten, kdo v sebe ztratil víru. 
+> Sláb jenom ten, kdo v sebe ztratil víru.
 > *Svatopluk Čech*
+
+.
+
+> Wish the things which happen to be as they are.
+> *Epictetus, Enchiridion VIII*
 
 .
 
