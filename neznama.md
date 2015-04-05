@@ -28,15 +28,15 @@ cudnost ba zvyky
 v penzi vzdychy
 
 &nbsp;nikolivěk  
-&nbsp;láska — díky
+&nbsp;láska — vděky
 
 z letargie rána  
 v očích milé dráma  
 ústy spěchá zpráva  
 *My* dva, dnes — káva?  
 
-ve skráních pláče  
-  
+v skráních pláče  
+ 
 &nbsp;mañana  
   
 hezký sen  
