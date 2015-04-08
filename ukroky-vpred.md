@@ -39,8 +39,6 @@ Zima
 
 za nocí mrazy  
 vkreslí vrásky do krajiny  
-stejnorodé k těm  
-jež brázdí tváře stařešiny  
 vločky volným pádem  
 seskupí se do peřiny  
 z bláta strání  
@@ -53,9 +51,7 @@ beránek v jesle dá se
 vzpomněl Adama a Evy jmeniny  
 rozpuštěny sbory ptactva  
 duší táhnoucí se rytiny  
-starosti k přemíře hladu  
-zbožným přáním vzdechliny  
-ticho v patronátu luny  
+zvůle v režii luny  
 daleko do jarní květiny  
 vítr na větvoví hraje  
 abonenty pusté kopce hlušiny  
@@ -63,8 +59,8 @@ a při úpatí meze
 spočinutí rodiny
 
 
-Neznámá
--------
+Fáma
+----
 
 zpatříš ji  
 jste na vzdálenost ruky  
@@ -81,7 +77,7 @@ plaché její boky
 těžko mezi soky  
 etuda hrst sloky  
 
-*(tři něžné kroky)*
+*[tři něžné kroky]*
 
 &nbsp;Slečno,
 
@@ -102,142 +98,147 @@ hezký sen
 &nbsp;a hezčí fáma
 
 
-Proč jsme tu
-------------
+Proč
+----
 
-Můžu všechno  
+můžu všechno  
 nezmůžu víc  
-Nadchnu se  
+nadchnu se  
 s nadšením neudělám nic
 
-Jsem zarmoucen  
+jsem zarmoucen  
 tápu kudy nahoru  
-Někdy také šťasten  
+někdy také šťasten  
 když běžím k po-hovoru
 
-Třeba kdyby.. ba ne  
+třeba kdyby.. ba ne  
 smysl skončil ve shonu  
-Zpravím proto vale  
+zpravím proto vale  
 najdu jinou osnovu
 
-Ideje ztrácívám  
+ideje ztrácívám  
 v jednotkách mamonu  
-Medúzy nevnímám  
+medúzy nevnímám  
 ač plavu bez voru
 
-Přehmaty zdrátuju  
+přehmaty zdrátuju  
 jestli tohle stačí?  
-Nevím, křivky maluju  
+nevím, křivky maluju  
 mám to tak radši
 
-Chvátám do nových dnů  
+chvátám do nových dnů  
 haním Andromedu  
-Dluh vůči snům  
+dluh vůči snům  
 beztak splatit nedovedu
 
-K tomu krok předchozí  
+k tomu krok předchozí  
 zas úšlapem stranou  
-Hvězdy večera spí  
+hvězdy večera spí  
 jsou navždy mou vadou
 
-Hrůzné zjištění  
+hrůzné zjištění  
 neumím prý žít  
-Snad odstup od lidí  
+snad odstup od lidí  
 s vlky věnce vít
 
-To vysoko nade krou  
+to vysoko nade krou  
 kormorán z pobřeží  
-Jen on zná bolest mou  
+jen on zná bolest mou  
 jen on nehřeší
 
-Z lomozu světa  
+z lomozu světa  
 v ten čas jsem uniknul  
-Zmizela též vlídná věta  
+zmizela též vlídná věta  
 já dospělost zavrhnul
 
-*(zahazuji úlohu)*
+*[zahazuji úlohu]*
 
-Stále mlád (a bez dluhu)  
+stále mlád (a bez dluhu)  
 srdce tajem obzoru  
-Nějak se už rozhodnu  
+nějak se už rozhodnu  
 pár knih, trocha rozumu
 
-Mračna mlží zjihle  
-a prasopes dí tklivě  
+mračna mlží zjihle  
+i prasopes dí tklivě  
 Bytí není hra  
-víc nevím, přišla tma
-
-Ležíc ve vlastním hrobě  
-tehdy napovím sám sobě  
-Tak vzpomeň si Lou  
-proč jsme tu!
+víc nevím (nadešla tma)
 
 
-Rozprava
---------
+Třeba
+-----
 
-Déle setrvám,  
-více to jsem.  
-Není jak  
-být si jist,   
+déle setrvám  
+více to jsem  
+
+není jak  
+být si jist   
 že právě tohle  
-chci.  
-Strach,  
+chci
+
+strach  
 pro nic se nehodím  
-a strach,  
-začnu s jedním,  
-uteče druhé.  
-A tak  
+a strach  
+začnu s jedním  
+uteče druhé  
+
+a tak  
 trávím dny, věčně  
 
 &nbsp;roz-  
 &nbsp;&nbsp;-kročen
 
-mezi možnostmi.  
+mezi možnostmi
 
-Domnění  
-hmotu odstíní.  
-Oči morčete  
-byly by upřímnější.  
-Raději tam,  
-kde věci per se.  
-Zem kulatá,  
-není rohu k odbočení.  
-Však sejít možno  
-s kýmkoli.  
-Stezkou doleva  
+domnění  
+hmotu odstíní  
+oči morčete  
+byly by upřímnější
+
+zem kulatá  
+není rohu  
+k odbočení
+
+však sejít možno  
+s kýmkoli
+
+stezkou doleva  
 — kariéra na truc  
-doprava.
+doprava
 
-Provolání psát,  
+provolání psát  
 a právě proto  
-díkuvzdání odkládat.  
-Večer to nad moštem  
+díkuvzdání odkládat
+
+večer to nad moštem  
 s výchovnými poradci  
-— omlouvat.
+— omlouvat
 
-Když zdá se,  
+když zdá se  
 že jsem  
-do dlaně pochopil,  
+do dlaně pochopil  
 noc pohnutí  
-překryje.  
-Nad ránem  
-pak vzpomenu jen,  
-že jsem zapomněl.  
-Vlastně žiji proto,  
-abych znovu zítra  
-začínal.  
-Nepostačí první  
-rozhodnutí,  
-potřebuji druhá,  
-třetí.  
-Naděje  
-na nový sen,  
-udatnější sliby.
+překryje
 
-Bordel,  
+nad ránem  
+pak vzpomenu jen  
+že jsem zapomněl
+
+vlastně žiji proto  
+abych znovu zítra  
+začínal
+
+nepostačí první  
+rozhodnutí  
+potřebuji druhá  
+třetí
+
+naděje  
+na nový sen  
+udatnější sliby
+
+bordel  
 a nic než bordel  
-v sobě.
+v sobě
 
 
 (pj)

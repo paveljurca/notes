@@ -1,5 +1,5 @@
-Úkroky vpřed 2
-==============
+Úkroky vzad
+===========
 
 
 Kotleta
@@ -15,15 +15,14 @@ upálena doběla
 sádelníkem snědena  
 dezert čoko poleva
 
-*(jídelníčku obměna)*
-
-teď zožereme  
+*jídelníčku* obměna  
+venku běhá ještě   
 stehno jelena
 
 
 Morče
 -----
-  
+ 
 naráží morče  
 do stěny plastové  
 na malém kousíčku  
@@ -35,41 +34,24 @@ to malé morčátko
 blouzní, je mu bléé
  
 
-Po krok 
--------
-
-obkročmo  
-  
-z nezdarů blok  
-a přes mrtvoly skok  
-  
-zázračno  
-  
-neposedný  
-tlustý hroch  
- 
-v pochroumaném lese
-  
-už dnes tam  
-co napřesrok  
-
-
 Ochmelka
 --------
 
-_\*Prolog\*_
+*prolog*  
+— *světlá chvilka*
 
 hloupé  
-(co bylo)  
+co bylo  
 lepší  
-(co jistě bude)
+co jistě bude
 
 blíže věcem  
-(nehezčí se zdají)  
+nehezčí se zdají  
 dále srdcem  
-(tehdy záleželo — teď nezáleží)  
+tehdy záleželo — teď nezáleží
 
-_\*Epilog\*_
+*epilog*  
+— *delirium*
 
 zcela prostě  
 změnil žití břeh  
@@ -77,17 +59,17 @@ krvácí mu dásně
 chtěl mít svěží dech
 
 pod očima kruhy  
-lidí rytmus nestíhá  
+nohou rytmus nestíhá  
 vzpomněl mouder sovy  
-ráno pěsti zatíná  
+s ránem dečku vyšívá
 
 &nbsp;večer dojde vlohy
 
 u rumu se vyzpívá
 
 
-Klima
------
+Branci
+------
 
 zatuchá klima  
 se špetkou nevkusu  
@@ -99,21 +81,28 @@ negramotných úvodů
 i rozdávejme knihy  
 řka při porodu
 
-odměnou pak  
-chytří branci  
+nadějí nám  
+chytří branci
 u výkopu
 
 
 Zkouškové
 ---------
 
-zkoušející by rád komtesu  
-vydýcháno jako na plesu  
-študák dává se všanc forbesu  
-zadrhává lehce v přednesu  
-místo dlaní vúdú od vřesu  
-závěr klouzá z partesu  
-kredity zahrabaly noblesu
+ovzduší  
+&nbsp;deštného pralesu
+
+študák rozehrál    
+&nbsp;partii forbesu
+
+paměť křepčí  
+&nbsp;v přednesu
+
+místo dlaní  
+&nbsp;vúdú od vřesu
+
+kredity ve strmém  
+&nbsp;poklesu
 
 
 (pj)
