@@ -17,16 +17,17 @@ letí, od života
 pospíchá
 
 je prázdně  
-vědomí bolí  
+vědomí brojí  
 sklo v lebce  
 bližní nedýchá
 
 Bůh
 
-&nbsp;a bezpečí
+ze žalu  
+&nbsp;sebe usvědčí
 
 pomýlená smrt  
-když nebrečí
+proč nebrečí
 
 (pj)
 
