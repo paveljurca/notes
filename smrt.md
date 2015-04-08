@@ -1,40 +1,32 @@
+Smrt
+====
 
-celý svět
-se zvrátí
-pozdní chvíle
-teď umírá
+celý svět  
+se zvrátí  
+nějak rychle  
+agonií umírá
 
-sklo v očích
-vposledy
+kůže chladne  
+oči cizí  
+nikdo v nich  
+dnes nebývá
 
-
-zůstalo tělo
-stejné jako kdysi
-jen nikdo
-v něm nebývá
-
-snad duše
-nebo srdce
-letí, na onen svět
+snad duše  
+nebo srdce  
+letí, od života  
 pospíchá
 
-stojíš, civíš
-je pozdě
-smutek
-prosvítá
+je prázdně  
+vědomí bolí  
+sklo v lebce  
+bližní nedýchá
 
+Bůh
 
-zpola stejné
+&nbsp;a bezpečí
 
-už nedýchá
-
-smrt
-skočí do řeči
-drzost
-ještě se osočí
-
-faleš
-prý bezpečí
-chybuje
+pomýlená smrt  
 když nebrečí
+
+(pj)
 
