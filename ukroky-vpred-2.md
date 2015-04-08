@@ -57,19 +57,19 @@ co napřesrok
 Ochmelka
 --------
 
-*Prolog*
+_*Prolog*_
 
 hloupé  
 (co bylo)  
 lepší  
 (co jistě bude)
 
-blíže věcem
-(nehezčí se zdají)
-dále srdcem
-(tehdy záleželo — teď nezáleží)
+blíže věcem  
+(nehezčí se zdají)  
+dále srdcem  
+(tehdy záleželo — teď nezáleží)  
 
-*Epilog*
+_*Epilog*_
 
 zcela prostě  
 změnil žití břeh  
