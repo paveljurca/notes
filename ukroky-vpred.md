@@ -2,8 +2,8 @@
 ============
 
 
-Smrt
-----
+Tma
+---
 
 celý svět  
 se zvrátí  
@@ -98,7 +98,7 @@ hezký sen
 &nbsp;a hezčí fáma
 
 
-Proč
+Můžu
 ----
 
 můžu všechno  
@@ -164,8 +164,8 @@ Bytí není hra
 víc nevím (nadešla tma)
 
 
-Třeba
------
+V sobě
+------
 
 déle setrvám  
 více to jsem  

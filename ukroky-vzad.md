@@ -15,9 +15,9 @@ upálena doběla
 sádelníkem snědena  
 dezert čoko poleva
 
-*jídelníčku* obměna  
-venku běhá ještě   
-stehno jelena
+jídelníčku obměna  
+Ave pia!  
+bude stehno jelena
 
 
 Morče
