@@ -52,7 +52,7 @@ Ideje
 
 > I accepted the inevitable: I became an adult.  
 > That was how my expulsion from the present began.
-> *Octavio Paz*
+> *Octavio Paz, In Search of the Present*
 
 .
 
@@ -293,6 +293,12 @@ Ideje
 
 > The only real influence I've ever had was myself.
 > *Edward Hopper*
+
+.
+
+> Neither should a ship rely on one small anchor,  
+> nor should life rest on a single hope.
+> *Epictetus, Fragments LXXXIX*
 
 .
 
