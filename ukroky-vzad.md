@@ -82,7 +82,7 @@ i rozdávejme knihy
 řka při porodu
 
 nadějí nám  
-chytří branci
+zdatní branci
 u výkopu
 
 
@@ -103,6 +103,27 @@ místo dlaní
 
 kredity ve strmém  
 &nbsp;poklesu
+
+
+MŠMT
+----
+
+sbor  
+ve straně  
+nesrozuměn  
+v podstatě  
+jedničky  
+to hlavně  
+Cermat vážní  
+hrr na ně  
+propálen čas  
+bezvadně  
+diplomy  
+na planetě  
+bolehlavem  
+po létě  
+MŠMT  
+strůjce mě
 
 
 (pj)
