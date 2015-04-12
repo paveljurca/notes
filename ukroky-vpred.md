@@ -2,8 +2,8 @@
 ============
 
 
-Tma
----
+Smrt
+----
 
 celý svět  
 se zvrátí  
@@ -22,7 +22,7 @@ pospíchá
 
 je prázdně  
 vědomí brojí  
-sklo v lebce  
+hřeb v lebce  
 bližní nedýchá
 
 Bůh
@@ -44,14 +44,14 @@ seskupí se do peřiny
 z bláta strání  
 bez poskvrny planiny  
 spěšné stopy zvěře  
-ani náznak rutiny  
-říčnost toků jihne  
-v leduplné praskliny  
-beránek v jesle dá se  
-vzpomněl Adama a Evy jmeniny  
+ani povzdech rutiny  
+blízkost smrti  
+mene tekel rokliny  
+tvorstvo doptává se  
+*Adama a Evy jmeniny?*  
 rozpuštěny sbory ptactva  
-duší táhnoucí se rytiny  
-zvůle v režii luny  
+duše tvarů rytiny  
+naděje v režii luny  
 daleko do jarní květiny  
 vítr na větvoví hraje  
 abonenty pusté kopce hlušiny  
@@ -70,19 +70,21 @@ zbývá překonat veletoky
 neřekl jsi nic  
 chvílí vyklouzla ti
 
-&nbsp;kdo zvojtil osud?
- 
+&nbsp;Kdo zvojtil osud?
+
 to ty, to ty!  
 plaché její boky  
 těžko mezi soky  
-etuda hrst sloky  
-
-*[tři něžné kroky]*
+tři něžné kroky
 
 &nbsp;Slečno,
 
 hleďte, naše roky  
-protékají (loky)
+mizejí rychleji   
+než vody loky
+mládí záchvěv sloky
+
+*(Snad máte pravdu..)*
 
 z letargie rána  
 v očích milé dráma  
@@ -146,99 +148,31 @@ kormorán z pobřeží
 jen on zná bolest mou  
 jen on nehřeší
 
-z lomozu světa  
-v ten čas jsem uniknul  
-zmizela též vlídná věta  
-já dospělost zavrhnul
+lomoz světa  
+do hlav proniknul  
+těžkost vlídná věta  
+— jsem vůl
 
-*[zahazuji úlohu]*
 
-stále mlád (a bez dluhu)  
+Oblak
+-----
+
+vposledy u pluhu  
 srdce tajem obzoru  
-nějak se už rozhodnu  
-pár knih, trocha rozumu
+pár knih, trocha rozumu  
+nepostřehnout domluvu
 
-mračna mlží zjihle  
-i prasopes dí tklivě  
-Bytí není hra  
-víc nevím (nadešla tma)
+smyslem  
+je dělat chyby  
+otázkou  
+kolik svět unese
 
+*(zavření očí)*
 
-V sobě
-------
-
-déle setrvám  
-více to jsem  
-
-není jak  
-být si jist   
-že právě tohle  
-chci
-
-strach  
-pro nic se nehodím  
-a strach  
-začnu s jedním  
-uteče druhé  
-
-a tak  
-trávím dny, věčně  
-
-&nbsp;roz-  
-&nbsp;&nbsp;-kročen
-
-mezi možnostmi
-
-domnění  
-hmotu odstíní  
-oči morčete  
-byly by upřímnější
-
-zem kulatá  
-není rohu  
-k odbočení
-
-však sejít možno  
-s kýmkoli
-
-stezkou doleva  
-— kariéra na truc  
-doprava
-
-provolání psát  
-a právě proto  
-díkuvzdání odkládat
-
-večer to nad moštem  
-s výchovnými poradci  
-— omlouvat
-
-když zdá se  
-že jsem  
-do dlaně pochopil  
-noc pohnutí  
-překryje
-
-nad ránem  
-pak vzpomenu jen  
-že jsem zapomněl
-
-vlastně žiji proto  
-abych znovu zítra  
-začínal
-
-nepostačí první  
-rozhodnutí  
-potřebuji druhá  
-třetí
-
-naděje  
-na nový sen  
-udatnější sliby
-
-bordel  
-a nic než bordel  
-v sobě
+oblak odvál nebe  
+dole, kde zebe  
+bytí není hra  
+pozdě, člověk správcem jha
 
 
 (pj)

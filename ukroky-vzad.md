@@ -37,8 +37,7 @@ blouzní, je mu bléé
 Ochmelka
 --------
 
-*prolog*  
-— *světlá chvilka*
+*světlá chvilka*
 
 hloupé  
 co bylo  
@@ -50,8 +49,7 @@ nehezčí se zdají
 dále srdcem  
 tehdy záleželo — teď nezáleží
 
-*epilog*  
-— *delirium*
+*procitá*
 
 zcela prostě  
 změnil žití břeh  
@@ -61,15 +59,14 @@ chtěl mít svěží dech
 pod očima kruhy  
 nohou rytmus nestíhá  
 vzpomněl mouder sovy  
-s ránem dečku vyšívá
+s ránem slova odžitá
 
-&nbsp;večer dojde vlohy
+večer dojde vlohy  
+u [rumu](http://youtu.be/D3bRWm3mxPc) sny promítá
 
-u rumu se vyzpívá
 
-
-Branci
-------
+Knihy
+-----
 
 zatuchá klima  
 se špetkou nevkusu  
@@ -78,12 +75,8 @@ pronárody v poklusu
 
 příliš někdy je  
 negramotných úvodů  
-i rozdávejme knihy  
+brát v knihy  
 řka při porodu
-
-nadějí nám  
-zdatní branci
-u výkopu
 
 
 Zkouškové
@@ -118,10 +111,10 @@ Cermat vážní
 hrr na ně  
 propálen čas  
 bezvadně  
-diplomy  
-na planetě  
-bolehlavem  
-po létě  
+osvědčení  
+o bradě  
+Proč?  
+větrník k poradě  
 MŠMT  
 strůjce mě
 
