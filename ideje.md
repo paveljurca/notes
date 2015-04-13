@@ -358,6 +358,12 @@ Ideje
 
 .
 
+> Čekalo na ni velké nakladatelství.  
+> Stačilo, aby to Hester napsala.
+> *Charles Bukowski, Všechny řitě světa i ta má*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
