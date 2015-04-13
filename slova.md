@@ -1624,10 +1624,10 @@ potvrdit
 * _žoviální_
 bodrý
 
-\*
+&nbsp;—
 
-A proto,  
-raději **česky** mluvme ;-)
+Není slova,
+kde by už čeština nevládla. 
 
 (pj)
 
