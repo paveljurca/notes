@@ -50,8 +50,8 @@ mene tekel rokliny
 tvorstvo doptává se  
 *Adama a Evy jmeniny?*  
 rozpuštěny sbory ptactva  
-duše tvarů rytiny  
-naděje v režii luny  
+duše výkřik rytiny  
+naděje v úvaze luny  
 daleko do jarní květiny  
 vítr na větvoví hraje  
 abonenty pusté kopce hlušiny  
@@ -70,18 +70,18 @@ zbývá překonat veletoky
 neřekl jsi nic  
 chvílí vyklouzla ti
 
-&nbsp;Kdo zvojtil osud?
+&nbsp;kdo zvojtil osud?
 
 to ty, to ty!  
 plaché její boky  
 těžko mezi soky  
-tři něžné kroky
+dva něžné kroky
 
 &nbsp;Slečno,
 
 hleďte, naše roky  
 mizejí rychleji   
-než vody loky
+než vody loky  
 mládí záchvěv sloky
 
 *(Snad máte pravdu..)*
@@ -133,7 +133,7 @@ haním Andromedu
 dluh vůči snům  
 beztak splatit nedovedu
 
-k tomu krok předchozí  
+k tomu věk předchozí  
 zas úšlapem stranou  
 hvězdy večera spí  
 jsou navždy mou vadou
@@ -157,22 +157,23 @@ těžkost vlídná věta
 Oblak
 -----
 
-vposledy u pluhu  
+usínáme u pluhu  
 srdce tajem obzoru  
 pár knih, trocha rozumu  
-nepostřehnout domluvu
+zvážit příkrou domluvu
 
 smyslem  
 je dělat chyby  
 otázkou  
-kolik svět unese
+kolik svět unese  
+— ještě 
 
 *(zavření očí)*
 
 oblak odvál nebe  
 dole, kde zebe  
 bytí není hra  
-pozdě, člověk správcem jha
+pozdě, člověk výdobytek jha
 
 
 (pj)
