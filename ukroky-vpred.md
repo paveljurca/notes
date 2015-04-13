@@ -157,10 +157,10 @@ těžkost vlídná věta
 Oblak
 -----
 
-usínáme u pluhu  
+dřímot, u pluhu  
 srdce tajem obzoru  
 pár knih, trocha rozumu  
-zvážit příkrou domluvu
+navážit, ženě omluvu
 
 smyslem  
 je dělat chyby  
@@ -170,10 +170,10 @@ kolik svět unese
 
 *(zavření očí)*
 
-oblak odvál nebe  
+oblak, odvál nebe  
 dole, kde zebe  
 bytí není hra  
-pozdě, člověk výdobytek jha
+společenství, výdobytek jha
 
 
 (pj)
