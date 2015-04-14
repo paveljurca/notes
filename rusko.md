@@ -9,12 +9,12 @@ jeví se hanebně. Vavřínové věnce teď sklízí
 právo na sebeurčení, ačkoli na pomnících této
 myšlenky leží už věnce smuteční. Občané chtějí
 za lepším, těžko jim bránit. Melodramata, jež
-Putin [tuze](http://youtu.be/sUNslUmQNiw) rád.
+Putina [baví](http://youtu.be/sUNslUmQNiw).
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
 Žij krásně, jen potud udržíš-li patřičnou výši
-svého konta. Odeznělo budovatelské
+svého příjmu. Odeznělo budovatelské
 *každému dle jeho potřeb*.
 A ublížený dav udává cestu — tím komu tleská.
 Putin tu slabost poddaných zná a posiluje ji kde může
@@ -78,7 +78,7 @@ tatarů, tmářství, bolševismu. Tápání se stalo
 naturelem. Snad proto ta *vlast* namnoze bývá
 přenašečem ba původcem hrozeb. Století minulá,
 i ta dnešní, jsou očividná. Zvrácené nápady
-a podivní lidé tam asi vždy snáze splácají kariéru.
+a podivní lidé tam asi vždy snáze uplácají kariéru.
 
 > Nechte Rusy být, nechte je dělat ve vlastní zemi,
 > co chtějí, ale nenechte je vyjít z jejich státních
@@ -109,9 +109,9 @@ Proč? Asi prostoduchost. Nukleární třaskavina
 už není záležitostí nějaké země, nýbrž
 konkrétní Země. Nedivme se tak, že voják Rudé
 armády není povinován zabít, ale být zabit.
-Národní ctižádostí je trpět. A ještě větší
-ctižádostí je do toho vtáhnout rovnou celou
-Evropu. Seschlých makovic máme pro to
+Národní ctižádostí je trpět. Rádi by o tom
+přesvědčili i své (dnes občasně bývalé) satelity.
+Seschlých makovic máme pro to
 v Čechách, na Moravě i Slezsku dost.
 Čeká se jen na kombajny z Východu.
 Ne, rozum nad tím nezůstává
@@ -124,20 +124,20 @@ stát, protože v tom žádný není.
 Matička Rus navykla už synonymu armády,
 arzenálu zbraní, bigotnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
-Škoda těch srdečných lidí — kteří tam někde —
+Škoda těch srdečných lidí, kteří — tam někde —
 stále jsou. Škoda, že s tím nic nedělají.
 Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
 Vlastní zoufalost ale politruci nikdy nepřipustí.
-Zjistili jsme ji totiž dříve nežli oni.
+Přišli jsme jim na ni totiž dříve nežli oni.
 A to jim teď brání.
 Maxim Gorkij jednou napsal:
 *Rus je od přirozenosti náchylný ke krutosti*.
-Doufejme raději v dnešní křivdu těch slov.
+Raději ale věřit v dnešní renonc těchto slov.
 
 Počátek 20. století byl k Rusku nevlídný,
 k Evropě nezasloužený. Tehdy totiž rozvědčíci,
-horující za zájmy svých potentátů, podali ruku
+horující za zájmy svých potentátů, podali nemytou ruku
 bolševikům na cestě k destabilizaci. Naneštěstí
 rozumější menševici byli toho času jen uťáplou
 kulisou. A geopolitika, ve které si nikdo nepřeje
@@ -151,7 +151,7 @@ zatvrzuje obě strany. Proč vůbec pronášet slova,
 od kterých změnu nečekáme, nechceme.
 Možná si [mlčky](http://jurcapavel.cz/blog/mluvit)
 odžít pár příštích let a doufat v novou generaci
-nezatíženou tunelovým viděním.
+nezatíženou tunelovým *Blanka* viděním.
 To by platilo pro *východní* i *západní* kliku.
 Ony ale trvají na vlastním epilogu.
 Chtějí ho hned.
@@ -168,11 +168,14 @@ Tedy, když i diplomacie
 Je jedno, co člověk udělá.
 Vždy to totiž udělá špatně.
 
-Přitom není tak daleko k letům,
+Přitom není tak daleko k rokům,
 ve kterých tito dnešní **samozvanci**
 a strůjci aparátů s vámi
 ve školce ujídali krupicovou kaši
-i nosili stejné punčocháčky.
+i měli stejné bačkůrky.
+Jsou to pořád ti samí troubové,
+"oni", "stát", "svět", cokoli.
+Jsme to my sami.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
@@ -181,7 +184,7 @@ Stačí si jen vzpomenout na tajnosti,
 jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská imbecilita. A proti té se
-těžko pochoduje — máme ji všichni. 
+těžko vyčleňuje — máme ji všichni. 
 
 > Konečně každý hřích koná se vůlí a má hnízdo
 > ve vůli [..] Lidé nejtěžší pokušení mívají v myšlení.
