@@ -73,8 +73,8 @@ chvílí vyklouzla ti
 &nbsp;kdo zvojtil osud?
 
 to ty, to ty!  
-plaché její boky  
-těžko mezi soky  
+#
+#těžko mezi soky  
 dva něžné kroky
 
 &nbsp;Slečno,
@@ -157,10 +157,10 @@ těžkost vlídná věta
 Oblak
 -----
 
-dřímot, u pluhu  
+u pluhu  
 srdce tajem obzoru  
 pár knih, trocha rozumu  
-navážit, ženě omluvu
+#navážit, ženě omluvu
 
 smyslem  
 je dělat chyby  
@@ -173,7 +173,7 @@ kolik svět unese
 oblak, odvál nebe  
 dole, kde zebe  
 bytí není hra  
-společenství, výdobytek jha
+#společenství, výdobytek jha
 
 
 (pj)
