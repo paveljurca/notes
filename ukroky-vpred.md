@@ -73,8 +73,8 @@ chvílí vyklouzla ti
 &nbsp;kdo zvojtil osud?
 
 to ty, to ty!  
-#
-#těžko mezi soky  
+pole s jaky  
+stydno mezi soky  
 dva něžné kroky
 
 &nbsp;Slečno,
@@ -154,13 +154,13 @@ těžkost vlídná věta
 — jsem vůl
 
 
-Oblak
------
+Kracie
+------
 
 u pluhu  
 srdce tajem obzoru  
 pár knih, trocha rozumu  
-#navážit, ženě omluvu
+bude líp, když nebudu
 
 smyslem  
 je dělat chyby  
@@ -171,9 +171,9 @@ kolik svět unese
 *(zavření očí)*
 
 oblak, odvál nebe  
-dole, kde zebe  
+dole, kde lidem jebe  
 bytí není hra  
-#společenství, výdobytek jha
+-kracie, výdobytek jha
 
 
 (pj)
