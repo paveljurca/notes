@@ -1624,10 +1624,10 @@ potvrdit
 * _žoviální_
 bodrý
 
-&nbsp;—
+—
 
-Není slova,
-kde by už čeština nevládla. 
+Není pojmu ni slova,  
+kde by čeština nebyla (už).
 
 (pj)
 
