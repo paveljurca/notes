@@ -364,6 +364,11 @@ Ideje
 
 .
 
+> Vůbec nejde o peníze, dokud vám nedojdou.
+> *Charles Bukowski, Kapitán odešel na oběd*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
