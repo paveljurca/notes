@@ -364,8 +364,10 @@ Ideje
 
 .
 
-> Vůbec nejde o peníze, dokud vám nedojdou.
-> *Charles Bukowski, Kapitán odešel na oběd*
+> Téměř nic nikde není hříchem v těchto časech  
+> [..] a nejvíce učení, kteří hříchům říkají:  
+> Neškodí, sluší se.
+> *Petr Chelčický, Ze sítě víry*
 
 .
 
