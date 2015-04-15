@@ -2,25 +2,25 @@ Nejsme
 ======
 
 nejsme víc  
-než nápřah kata
-
-nejsme víc  
-než bratr bratra
+než rozpřah kata
 
 nejsme víc  
 než úškleb Ratha
 
 nejsme víc  
-než posměch rána 
+než citů hrana
 
 nejsme víc  
-než citů hrana
+než pnutí rána
 
 nejsme víc  
 než deště z jara
 
 nejsme víc  
 než úprk kraba 
+
+nejsme víc  
+než oční vada
 
 nejsme víc  
 než slza vraha
@@ -32,9 +32,12 @@ nejsme víc
 než zadek paviána
 
 nejsme víc  
-než kyj Abraháma
+než pohrobci Abraháma
 
 jsme nic
 
 (pj)
+
+* __v odpovědi__
+* Jiří Orten, Co jsme
 
