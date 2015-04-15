@@ -13,8 +13,7 @@ Putina [baví](http://youtu.be/sUNslUmQNiw).
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
-Žij krásně, jen potud udržíš-li patřičnou výši
-svého příjmu. Odeznělo budovatelské
+Žij krásně, máš-li na to. Odeznělo budovatelské
 *každému dle jeho potřeb*.
 A ublížený dav udává cestu — tím komu tleská.
 Putin tu slabost poddaných zná a posiluje ji kde může
@@ -36,6 +35,7 @@ a tučné krky z dobrot v Bruselu.
 Pak odkud ta jejich rozpínavost? Vcelku jedno-duchá věc:
 každý hraniční patník k dobru oddálí vyčerpání enklávního
 obzoru, ke kterému se modlí a vztahují.
+Snad povolaní šikovatelé panslavismu.
 Věčná škoda, že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
@@ -78,7 +78,7 @@ tatarů, tmářství, bolševismu. Tápání se stalo
 naturelem. Snad proto ta *vlast* namnoze bývá
 přenašečem ba původcem hrozeb. Století minulá,
 i ta dnešní, jsou očividná. Zvrácené nápady
-a podivní lidé tam asi vždy snáze uplácají kariéru.
+a podivní lidé tam asi vždy snáze udělají kariéru.
 
 > Nechte Rusy být, nechte je dělat ve vlastní zemi,
 > co chtějí, ale nenechte je vyjít z jejich státních
@@ -109,7 +109,8 @@ Proč? Asi prostoduchost. Nukleární třaskavina
 už není záležitostí nějaké země, nýbrž
 konkrétní Země. Nedivme se tak, že voják Rudé
 armády není povinován zabít, ale být zabit.
-Národní ctižádostí je trpět. Rádi by o tom
+Tomuto kečupu ruské nátury je už všechno jedno;
+národní ctižádostí je trpět. Rádi by o tom
 přesvědčili i své (dnes občasně bývalé) satelity.
 Seschlých makovic máme pro to
 v Čechách, na Moravě i Slezsku dost.
@@ -169,8 +170,8 @@ Je jedno, co člověk udělá.
 Vždy to totiž udělá špatně.
 
 Přitom není tak daleko k rokům,
-ve kterých tito dnešní **samozvanci**
-a strůjci aparátů s vámi
+ve kterých tito dnešní *samozvanci*
+a lešenáři aparátů s vámi
 ve školce ujídali krupicovou kaši
 i měli stejné bačkůrky.
 Jsou to pořád ti samí troubové,
@@ -184,7 +185,8 @@ Stačí si jen vzpomenout na tajnosti,
 jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská imbecilita. A proti té se
-těžko vyčleňuje — máme ji všichni. 
+těžko pořádá **exodus nebo exitus**
+— jedeme v ní všichni. 
 
 > Konečně každý hřích koná se vůlí a má hnízdo
 > ve vůli [..] Lidé nejtěžší pokušení mívají v myšlení.

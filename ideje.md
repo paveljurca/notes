@@ -364,6 +364,12 @@ Ideje
 
 .
 
+> Důležitá je jen další věta.  
+> A když nepřijde, budu mrtvej.
+> *Charles Bukowski, Kapitán odešel na oběd*
+
+.
+
 > Téměř nic nikde není hříchem v těchto časech  
 > [..] a nejvíce učení, kteří hříchům říkají:  
 > Neškodí, sluší se.
