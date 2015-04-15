@@ -8,7 +8,7 @@ nejsme víc
 než bratr bratra
 
 nejsme víc  
-než konto Ratha
+než úškleb Ratha
 
 nejsme víc  
 než posměch rána 
