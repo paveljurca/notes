@@ -50,7 +50,7 @@ mene tekel rokliny
 tvorstvo doptává se  
 *Adama a Evy jmeniny?*  
 rozpuštěny sbory ptactva  
-duše výkřik rytiny  
+duše předvoj rytiny  
 naděje v úvaze luny  
 daleko do jarní květiny  
 vítr na větvoví hraje  
@@ -154,8 +154,8 @@ těžkost vlídná věta
 — jsem vůl
 
 
-Kracie
-------
+Demos
+-----
 
 u pluhu  
 srdce tajem obzoru  
@@ -173,7 +173,7 @@ kolik svět unese
 oblak, odvál nebe  
 dole, kde lidem jebe  
 bytí není hra  
--kracie, výdobytek jha
+-kracie, srozumění jha
 
 
 (pj)
