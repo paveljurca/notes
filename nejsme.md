@@ -2,16 +2,10 @@ Nejsme
 ======
 
 nejsme víc  
-než rozpřah kata
-
-nejsme víc  
-než úškleb Ratha
+než průsak Sava
 
 nejsme víc  
 než citů hrana
-
-nejsme víc  
-než pnutí rána
 
 nejsme víc  
 než deště z jara
