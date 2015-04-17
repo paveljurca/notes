@@ -52,12 +52,15 @@ tehdy záleželo — teď nezáleží
 *procitá*
 
 tam kde oči, vrby  
-nohou rytmus nestíhá  
+chlastu rytmus nestíhá  
 vzpomněl mouder sovy  
-s ránem slova odžitá
+(sere na ni)  
+je to liška podšitá
 
 večer dojde vlohy  
-u [rumu](http://youtu.be/D3bRWm3mxPc) sny promítá
+u [rumu](http://youtu.be/D3bRWm3mxPc) sny promítá  
+— nechápe ho  
+kdo se usmívá
 
 
 OKa
@@ -93,8 +96,8 @@ negramotných úvodů
 řka při porodu
 
 
-Vyzkúšaj
---------
+Debet
+-----
 
 ovzduší  
 &nbsp;deštného pralesu
