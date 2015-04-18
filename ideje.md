@@ -329,6 +329,12 @@ Ideje
 
 .
 
+> Bezbřehost a specializovanost  
+> se navzájem podmiňují jako samota a nekonečno.
+> *autor neznámý, novinový výstřižek, asi 1978*
+
+.
+
 > "Dá se to vyléčit?"  
 > "Ne."  
 > Hm, no tak ne.  
