@@ -665,8 +665,8 @@ příkaz
 rozpínavost
 * _impertinentní_
 drzý
-* _implikace_
-vyplývání
+* _implikovat_
+znamenat
 * _impregnovat_
 vštípit
 * _imprese_
