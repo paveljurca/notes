@@ -133,7 +133,7 @@ haním Andromedu
 dluh vůči snům  
 beztak splatit nedovedu
 
-k tomu věk předchozí  
+věk předchozí  
 zas úšlapem stranou  
 hvězdy večera spí  
 jsou navždy mou vadou
@@ -151,19 +151,19 @@ jen on nehřeší
 lomoz světa  
 do hlav proniknul  
 těžkost vlídná věta  
-— jsem vůl
+je mě půl
 
 
-Demos
------
+Jsme
+----
 
 u pluhu  
-srdce tajem obzoru  
 pár knih, trocha rozumu  
-bude líp, když nebudu
+srdce tajem obzoru  
+tak proč jsme tu?
 
-smyslem  
-je dělat chyby  
+s časem  
+dělat chyby  
 otázkou  
 kolik svět unese  
 — ještě 
@@ -173,7 +173,7 @@ kolik svět unese
 oblak, odvál nebe  
 dole, kde lidem jebe  
 bytí není hra  
--kracie, srozumění jha
+kracie, znaménko jha
 
 
 (pj)
