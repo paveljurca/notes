@@ -2,7 +2,7 @@ Nejsme
 ======
 
 nejsme víc  
-než průsak Sava
+než výheň sama 
 
 nejsme víc  
 než citů hrana
@@ -11,19 +11,25 @@ nejsme víc
 než deště z jara
 
 nejsme víc  
-než úprk kraba 
-
-nejsme víc  
 než oční vada
 
 nejsme víc  
-než slza vraha
+než delikt blaha
 
 nejsme víc  
-než chůze sláva
+než kusá snaha
 
 nejsme víc  
-než zadek paviána
+než chůze chvála
+
+nejsme víc  
+než patník dávna
+
+nejsme víc  
+než tesknost rána
+
+nejsme víc  
+než úškleb páva 
 
 nejsme víc  
 než pohrobci Abraháma

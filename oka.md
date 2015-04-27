@@ -115,5 +115,27 @@ a kredity
 &nbsp;bez hlesu
 
 
+Kuřecí sen
+----------
+
+všechno to pospíchá  
+až moc honem  
+— oni byli  
+my zbudem
+
+zhruba  
+a vzato  
+klystýr  
+s výhledem
+
+zapřahat  
+náš nový vjem  
+udatněji  
+cítit cizím dnem
+
+polévka  
+kuřecím snem
+
+
 (pj)
 

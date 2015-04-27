@@ -8,21 +8,18 @@ Mluvit
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
 neschopnosti i k mluvení. A jak s ním začne,
-začne i přehánět.
+začne i těch svých pár pravd plést.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
-Potkávat se, a mluvit. Znovu se potkat, a znovu
+Potkávat se a mluvit. Znovu se potkat a znovu
 mluvit. A zase o ničem. Většina interakce k ničemu
 nespěje. Nic neřeší. Protože nikdo o ničem nic
 pořádně neví. A když ví, neví to zase ten druhý.
 
-> There was a Princess Somebody of Denmark
-> sitting at a table.. She turned to me and
-> said, "Oh! You're one of the Nobel-Prize-winners.
-> In what field did you do your work?"  
+> [..] "In what field did you do your work?"  
 > "In physics," I said.  
 > "Oh. Well, nobody knows anything about that,
 > so I guess we can't talk about it."  
@@ -31,19 +28,15 @@ pořádně neví. A když ví, neví to zase ten druhý.
 > talk about physics. It's the things that nobody
 > knows anything about that we can discuss. We can
 > talk about the weather; we can talk about social
-> problems; we can talk about psychology; we can
-> talk about international finance — gold transfers
-> we can't talk about, because those are understood
-> — so it's the subject that nobody knows anything
-> about that we can all talk about!"
+> problems; we can talk about psychology; [..]"
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman!. Vintage, London 1992, s. 310.*
 
 Ticho se nesnese. Sám člověk se nesnese. Proto
 televize, rádio, týdeník nebo sekačka na trávu.
-Stát vedle sebe, nic neříkat, jen se navzájem
-uctít přítomností. Prostě držet hubu.
+Stát vedle sebe, nic neříkat, jen se uctít
+chvílí, prostým faktem zhmotnění. Vzato držet hubu.
 
-> Nikdy mě nenapadá nic tak zvláštního.
+> Nikdy mě nenapadá nic tak zvláštního.  
 > Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
@@ -55,7 +48,8 @@ Ani ostatní nic nenapadá, jen o tom musí mluvit.
 > znamená rozeznávat.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 154.*
 
-I mluvit mnohdy znamená říkat víc než je pravda.
+Mluvit někdy znamená zapomenout, co pravda je,
+byla — a teď už není.
 
 > Lhát neznamená jen říkat to, co není pravda.
 > Znamená to hlavně říkat víc než to, co je ve
@@ -72,41 +66,55 @@ zjištění k užitku.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 96.*
 
 Nevíme mluvit, nevíme užívat slov.
-Každá věta je rozpačitost. Místo ve dvou větách
-se to řekne v pětadvaceti.
-Z toho pro jistotu ve čtyřech kopiích.
-Asi na důkaz kritického myšlení.
+Každá věta je rozpačitost. Netušíme
+*jestli* a *jak dlouho* mluvit (ještě).
+Namísto čtyř vět složíme **přerývané souvětí holé**
+o pětadvaceti.
 
-> Jsou lidé, kteří musí mluvit.. Stane-li se mi,
-> že se sejdu s takovou kreaturou.. štvu ho, tak
+> Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
+> že se sejdu s takovou kreaturou [..] štvu ho, tak
 > aby stále povídal, až nakonec sám pozná, že je
 > blbec.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 118.*
 
-Je mnoho věcí, o kterých je zapotřebí psát,
-ale je už méně těch, o kterých lze mluvit.
+Psát lze o smyslu — mluvit jen o nesmyslu.
 
-> ..jestli se mnou můžou udělat interview.
+> [..] jestli se mnou můžou udělat interview.
 > Podobný žádosti dostávám dvakrát tejdně.
 > Ale není o čem mluvit. Můžu psát o spoustě
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
 Většina pocitů, zpráv, hlášení i polopravd
-jen plýtvá vzduchem.
-Hádka, při které nikdo nemluví?
-O co by byla kratší.
+jen híří vzduchem. Hádka, při které nikdo
+nemluví? O co by byla kratší.
 
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
 > hovořil vždy jen rozvážně a hlasem odpovídajícím
 > předmětu, o němž byla řeč.
 > *Boccaccio, G.: Život Dantův. In: Alighieri, D.: Peklo. Mladá fronta, Praha 1978, s. 228.*
 
-Lépe je nemluvit, lépe je číst.
+Přeháníme jen proto,
+abychom se nemuseli poslouchat (už).
 
 > Když to řekl,
 > vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
+
+Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
+
+> Nerad mluvím, rád poslouchám. Vycházím
+> z předpokladu, že když mluvím, nedozvím
+> se nic, co bych nevěděl, ale když poslouchám
+> — dovědět se mohu mnoho.
+> *Mroček, S.: Baltazar. Slovart, Praha 2008, s. 24.*
+
+Lépe je nemluvit, lépe je číst.
+Raději tak ohrozit jen sebe.
+
+> Běda těm, kdo jsou moudří ve vlastních
+> očích a rozumní sami před sebou.
+> *Iz 5, 21*
 
 (pj)
 

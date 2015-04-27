@@ -1347,6 +1347,8 @@ tělesné zdraví
 nemocniční
 * _sanskrt_
 indický jazyk starověku
+* _sapere aude_
+chtěj vědět
 * _sapientia_
 moudrost
 * _sardonický_
@@ -1537,6 +1539,8 @@ sbohem
 stráž
 * _veni, vidi, fugi_
 přišel, viděl, uprchl
+* _Veritas vincit_
+Pravda vítězí
 * _verzálka_
 velké tiskace
 * _vexilologie_

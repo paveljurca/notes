@@ -154,7 +154,7 @@ těžkost vlídná věta
 je mě půl
 
 
-Jsme
+Pluh
 ----
 
 u pluhu  
@@ -162,10 +162,10 @@ pár knih, trocha rozumu
 srdce tajem obzoru  
 tak proč jsme tu?
 
-s časem  
+dnem  
 dělat chyby  
 otázkou  
-kolik svět unese  
+koho svět unese  
 — ještě 
 
 *(zavření očí)*
