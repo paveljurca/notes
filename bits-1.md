@@ -6,9 +6,9 @@ bits #1
 We're gonna use [Mplayer], so get
 one by doing like
     % [[ which mplayer ]] && 
-    % sudo zypper in mplayer 
-    % sudo apt-get install in mplayer 
-    % sudo rpm -i mplayer 
+    % sudo zypper in mplayer (Suse)
+    % sudo apt-get install in mplayer (Debian)
+    % sudo rpm -i mplayer (Fedora)
 
     % cat >> ~/.bashrc
     play() { mplayer "$1" -volume 68 -noconsolecontrols &>/dev/null; & }
@@ -43,6 +43,28 @@ make a shell function
     % d() { cd "$@" && ls -CF; }
     % d /tmp
 
+## .config/autostart/terminal.desktop
 
-(pj)
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/gnome-terminal
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=terminal
+Comment=#!
+
+##
+
+/etc/ssh/ssh_config
+CLIENT
+comment out SendEnv
+
+as pointed out here[https://superuser.com/questions/485569/how-to-disable-sendenv-variables-set-in-ssh-config-from-ssh-config]
+you can't do it in $HOME dir
+
+https://wiki.archlinux.org/index.php/Environment_variables
+or simply run 
+
+    % env LANG=C ssh realname@hostname
 
