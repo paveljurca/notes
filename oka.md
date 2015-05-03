@@ -99,11 +99,11 @@ negramotných úvodů
 Zkusmo
 ------
 
-sebevíra  
-&nbsp;z útesu
+pochopení  
+&nbsp;skáče z útesu
 
 študák stižen   
-&nbsp;partií forbesu
+&nbsp;rozmarem forbesu
 
 paměť křepčí  
 &nbsp;v přednesu
@@ -111,8 +111,8 @@ paměť křepčí
 místo dlaní  
 &nbsp;vúdú od vřesu
 
-a kredity  
-&nbsp;bez hlesu
+zas něco  
+&nbsp;co nesnesu
 
 
 Kuřecí sen
@@ -123,18 +123,27 @@ až moc honem
 — oni byli  
 my zbudem
 
-zhruba  
-a vzato  
-klystýr  
-s výhledem
+zmatení  
+hle nový vjem!  
+udatnost  
+leč nepřeje jí den
 
-zapřahat  
-náš nový vjem  
-udatněji  
-cítit cizím dnem
+kuře  
+a v něm sen
 
-polévka  
-kuřecím snem
+
+Zjev
+----
+
+přemítám  
+bych našel zjev  
+tak synem čeho  
+keřík v řádce plev
+
+obelisk ksichtu  
+plachý srdcí let  
+k tíži zrcadlo  
+piha, pupek, dech
 
 
 (pj)

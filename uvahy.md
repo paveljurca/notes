@@ -353,9 +353,34 @@
 
 .
 
+> The extraordinary reveals the ordinary  
+> in an enlarged and intensified image.
+> *James Hillman, The Soul's Code*
+
+.
+
+> The two most important days  
+> in your life are the day  
+> you are born and the day  
+> you find out why.
+> *Tom Sawyer, The Adventures of Tom Sawyer*
+
+.
+
 > Dobří kráčejí vyrovnaným krokem.  
 > Ostatní, aniž to vědí, tančí kolem nich dobové tance.
 > *Franz Kafka*
+
+.
+
+> Ale ten zkurvysyn to vůbec nechtěl chápat.
+> *Albert Cossery, Bohem zapomenutí lidé*
+
+.
+
+> Od nynějška  
+> bude mít moje láska smysl a můj život důvod. 
+> *Albert Cossery, Bohem zapomenutí lidé*
 
 .
 
