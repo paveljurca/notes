@@ -1,18 +1,9 @@
 Komu?ismus
 ==========
 
-> Svoboda je hodnota, jejíž přítomnost přínáší
-> méně potěšení než její nepřítomnost bolesti.
-> *Jean Paul*
-
-> Madness is rare in individuals
-> – but in groups, parties, nations,
-> and ages it is the rule.
-> *Friedrich Nietzsche*
 
 
-*Dotazník* do zaměstnání ve ŠKODA PRAHA  
-rok 1986
+dotazník do zaměstnání ve ŠKODA PRAHA ještě z roku 1986..
 
 6. Třídní - sociální původ
 7. Politická příslušnost
@@ -39,71 +30,16 @@ Podrobněji je rozveďte v životopise, který je součástí
 tohoto dotazníku, a to svou dosavadní politickou a veřejnou
 činnost, své politické postoje v **kritickém období let 1968-69**
 a další údaje ze života [..] informace o politické angažovanosti
-své rodiny ...
+své rodiny apod.
 
 ![dotazník](m/dotaznik.png)
 
-> Velmi jsme si vážili Kim Čong-ila,
-> jenž se obětoval, aby přinesl blaho
-> korejskému lidu, zajistil bezpečnost
-> KLDR a dosáhl mírového sjednocení
-> Koreje. KSČM pevně věří, že Korejská
-> strana práce překoná nynější smutek
-> a nadále povede hrdinný boj korejského
-> lidu za obranu socialismu ve Vaší
-> krásné zemi.
-> *Vojtěch Filip, kondolence KLDR, 2011. In: Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 17.*
-
-
-Jedna z vyslýchaných ohluchla, když
-ji referent udeřil. A kdo jsou tihle
-"referenti", "vychovatelé", "dozorci"?
-Mnozí z nich pokračovali ve své práci
-a kariéře i po převratu v roce 1989,
-stejně jako řada soudců a státních
-zástupců.
-(Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 23.)
-
-[..] hlásí se [Steigerwald] k ideálu
-a riskuje, že bude "lecjakými Vojty",
-ale i frikulíny, kteří předstírají,
-že jsou "cool", "free" a "in",
-napadnut z idealismu, z heroizace
-a patetizace, z toho, že některé
-hodnoty prostě bere příliš vážně...
-A on skutečně bere své hrdinky
-vážně, on si jich opravdu nelíčeně
-váží.
-(Vedral, J.: Dobové tance na nápěv budovatelského kýče. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 45.)
-
->>
-Spravedlnost je slepá; u nás bohudík ne,
-nýbrž jen šilhá (nalevo).
-<<
-(Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.)
-
->>
-Nic horšího nemůže komunista spáchat
-než udělat něco v zájmu státu československého.
-To se musí našim komunistům nechat, že pro
-tenhle zájem mají tuze málo smyslu. Ještě
-se jim nestala ta hanba, že by se něčeho
-dopustili v zájmu státu československého;
-že by mu byli nějak ke cti, že by přinesli
-něco, co by vůbec mělo co dělat s touto zemí,
-že by vůbec teď či příště byli k něčemu
-kloudnému pro to prostředí, ve kterém žijí.
-<<
-Karel Čapek, 19. 10. 1928, Lidové noviny
-(Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.)
 
 A Čapek tyto své zcela přesné názory
 projevoval už o desítky let dříve,
 nežli komunisté opravdu dostali mezi
 léty 1948 a 1989 příležitost
 demaskovat se.
-
-Komu?ismus.
 
 >>
 JUDr. PhDr. Zdeněk Ondráček, Ph.D.
@@ -144,45 +80,6 @@ kterou jsme my okázale nezakázali. Je pro ně
 teď krásné sklízet sladké plody demokracie,
 kterou oni pomáhali zadupat.
 
-
-
-Rusko a vubec
-(
-mozna to propojit i s KOMUNISMUS
-+hnuti za zakazani propagace komunismu,
-zeptat se senatora Stetiny,
-Mikolase Kroupy..
-(odvolat se i na rezignacni dopis
-Daniela Kroupy, via hotmail)
-Daniel Herman,
-Karla Steigerwalda,
-Jana Třísku (herec),
-Petra Pitharta,
-Jiriho Stranskeho,
-Karla Vepreka,
-Vladimira Novaka (cjl)
-Pavla Novaka (ujezd)
-Marka Belzu (http://mbelza.sweb.cz/jan%20bata.htm)
-Vladimir Kucera
-Ludek Navara (MFDNES)
-Miroslav Korecky (MFDNES)
-Tomas Bursik, Pavel Zacek (historici)
-Miroslava Nemcova
-Barbora Hrzanova (herecka, Vikend)
-Karel Strachota (Clovek v tisni)
-
-=> jsou PRO? Vydeli by to jako reseni?
-(zjistit, zda-li je zakazan i jinde ve svete)
-
-=> podivat se do zakona, jak je to se
-zakazanim propagace nacismu
-
-at uz jde o semelovou, konecnou, sloupa, grebenicka, dolejse, ransdorfa, exnera
-..tyhle lidi vazne nemuzete mit radi
-
-+projit vsechny vystrizeny novinovy clanky!
-)
-
 Stejne jako tech "nasich" 750k volicu a
 jeste bohuzel o neco vice sympatizantu s komunismem
 nebo - vzneseneji - socialismem nema v sobe pranic
@@ -206,26 +103,15 @@ z těch závaží na špatné straně.
 Žel bohu, kdyby lidé komunismus skutečně nechtěli -
 nebyl by tady.
 
-"Říkám jen pro naše lidi, ke kterým v našich věcech
-mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
-sám je politik a státník velikého stylu, velikého vzdělání,
-železné energie a dalekozrakého politického obzoru, že Stalin
-a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
-dovedou cenit patriotismu druhých, jsouce přitom pronikavými
-politickými realisty, kteří vědí co chtějí a co mohou."
-
-Edvard Beneš: Šest let exilu a druhé světové války
-Praha: Orbis, 1947
-6. vydání
-strana 372
-
 ČSR
 byla sovětským satelitem už 12 let před Sputnikem.
 
 Vojáky mají sveřepé a obhroublé. Zatímco Amerikáni
-za válečných let rozdávali konzervy a čokolády, první
+za válečných let rozdávali čokoládu a konzervy, první
 ruská slovíčka byla: Davaj časy! Ženy znásilnili,
-voňavky vypili, zásoby vyjedli. Nebýt ale v květnu
+voňavky vypili, zásoby vyjedli, dobytek odvedli.
+
+Nebýt ale v květnu
 1945 vlasovců, Praha by dopadla špatně. A Rudá armáda
 je pár dní na to pochytala, a popravila.
 
@@ -263,9 +149,8 @@ Cela zastupitelska demokracie je vlastne o tom, ze si vyberete nekoho,
 kdo pote o vas bude urcity cas rozhodovat. Lisi se to od
 diktatury tim, <em>ze si vyberete</em>.
 
-Problem ale je, pokud vyberete spatne.
-Protoze jako ve firme i tady plati, ze staci jen
-jedine Becko. To pak najme Cecka, ty pak Decka a uz to nezastavite.[link]
+Problém ale je, pokud vyberete špatně.
+Špatní lidé naberou ještě horší
 
 jeden neodvede svoji praci poradne - a uz se vezeme.
 
@@ -305,8 +190,10 @@ zamysli pred tim, nez pro neco zvedne ruku.
 Jednodussi je vzdycky delat to, co ostatni.
 
 
-"Demokracie? Ano. - Ale ne proboha v řečnění. V práci.
-V srdci. V každém dechu, v konání a myšlení. Tam demokracie."[13]
+> Demokracie? Ano — ale ne proboha v řečnění. V práci.
+> V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
+> [13]
+
 
 Spatny system muze fungovat a dobry nefungovat - vzdy to totiz
 skonci na lidech.
@@ -327,31 +214,31 @@ jak psal Aristotelés v pripade demokracie:
 "pravem se stava to, co vetsina za pravo prohlasi"
 
 hranice=
-postavíme ploty, do nich pustíme
+
+Postavíme ploty, do nich pustíme
 proud, položíme miny a před to
-všechno vysadíme ty poslušné
-vojáky, co budou střílet do vlastních,
+všechno vysázíme ty uvědomělé
+brance, co budou střílet do vlastních,
 protože z ráje socialismu se neutíká,
 protože republiku si rozvrátit nedáme,
-protože.. Davaj časy!
+protože.. spojka na Vatikán!
 
-Málokdo vydrží byť jen 45 minutové
-dloubání do zad spolužákovo propiskou,
-oproti tomu STB, lágry a ten aparát
-přisluhovačů kolem prováděl zvrácenosti
-po desítky let. Zapomenete kdo jste
+Státní bezpečnost, lágry a ten aparát
+patolízalů kolem prováděl zvrácenosti
+po desítky let. Zapomenete, kdo jste
 a kdo nejste. Nemůže být nic horšího.
-
-
 
 
 -----------------------------
 KOMUNISMUS?
-(*souhlas aka fb like*)
 
-Psal Masaryk " O bolševictví"
-i Capek "Proc nejsem komunistou"
-- nestacilo to, museli jsme si to osahat.
+Psal Masaryk *O bolševictví*
+i Čapek *Proč nejsem komunistou*
+— nestačilo to, museli jsme si to osahat.
+A znovu to nesta
+
+teď si to chceme pohladit
+
 
 uz samotny fakt vystaveni zelezne opony, aby lide
 byli zbaveni moznosti z bidy marxismu a lenismu
@@ -365,24 +252,11 @@ Zvrhlí lidé zákonitě inklinují k režimu zvrhlému.
 Komunismus jest jedna z dob, ve kterých ze sebe většina
 lidí vydá jen to nejhorší.
 
-"Komunisté, kteří nejdříve chtějí revoluci a pak teprve
-všechno ostatní, nemají ze svého stanoviska tak docela pravdu,
-nepřejí-li si zlepšení hospodářských poměrů a doufají-li v těžké
-krize a bídu mas, neboť maso na talíři je sice přátelské lidu,
-avšak nepřátelské revoluci.
-<strong>Čím hůře, tím lépe - taková je komunistická strategická moudrost.</strong>"
-STRANA 115
--- Ferdinand Peroutka, Jací jsme
 
-"Historie učí, že ničeho není dosaženo jednou provždy."
-STRANA 139
--- Ferdinand Peroutka, Demokratický manifest
+snad někdy platí *Si vis pacem, para bellum*
 
-=> Si vis pacem, para bellum
-
-"Přestala existovat porážka, existuje jen zničení."
-STRANA 133
--- Ferdinand Peroutka, Demokratický manifest
+> Přestala existovat porážka, existuje jen zničení.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 133.*
 
 Nejde o myslenku kolektivismu, nybrz o zpusob,
 kterym ho ma byti dosazeno.
@@ -396,46 +270,33 @@ ani Bible to po nas nechce.
 
 Nebezi tu o upreni moznosti socialistickeho citeni.
 
-"Demokracie do sebe přijímá tezi a antitezi a dává jim ochranu
-práva a zákona."
-tamtez, s. 140
+Demokracie může být lidská i méně lidská. Komunismus je ovšem vždy nelidský.
 
-"Komunismus - ze své vlastní volby - je největším žijícím nepřítelem svobody.
-V zápase <em>proti sobě stojí systém demokratický a komunistický, ne kapitalistický
-a socialistický.</em>"
-strana 141
--- PEROUTKA, Ferdinand: Jací jsme. Demokratický manifest, Praha, 1991, Středočeské nakl. a knih.
+Nevěřili byste, že pomatenost je vlastní
+už i hlavám [nově příchozím](http://www.juniorproject.eu/).
 
-Demokracie muze byt lidska i mene lidska. Komunismus je ovsem vzdy nelidsky.
-
-Nevěřili byste, že pomatenost zakořenila už i v hlavách nově příchozích.
-<a href="http://www.juniorproject.eu/">Komise pro mládež KSČM</a>
-
-Jejich neustala pritomnost, jejich 1. maje, jejich vylevy v parlamentu,
-jejich dosud nevymrela volicska zakladna vede k uprimne
-naivnim napadum:
-"Pokud byli komunisté skutečně tak hrozní - jak se tvrdí,
-proč jsou po 25 letech od sametu třetí nejsilnější v parlamentu?"
+kdyby byli tak špatní, jak se tvrdí, už dávno
 
 Tahle mantra se jim stala tim, co je zvráceně ospravedlnuje,
 co prihrava nove obecenstvo.
 
-Nemusi dlouho trvat, a muzeme budovat vlast
-a posilovat mir ex novo - kariéristů na to máme dost.
+Vzato nemusí dlouho trvat, abychom *jednotně k práci,
+jednotně k volbám* ex novo - kariéristů na to máme dost.
 
-Na stranu druhou,
-"komunismus sám pobil daleko více komunistů,
-než stačili všichni ostatní dohromady."
--- tamtez, s. 142
+Na stranu druhou..
+
+> [..] komunismus sám pobil daleko více komunistů,
+> než stačili všichni ostatní dohromady.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
 Ale spolehnout se na to nemůžeme.
 
-nejde o zmenu nazvu strany nebo vylouceni nekterych
-pomatenych clenu - tady bezi o naprostou vymletost
-celeho jejich aparatu.
-
-at klidne debatuji a shazeji se u rumu - jen ne uz
-v parlamentni putyce.
+Nejde však o změnu názvu strany nebo o vyloučení
+těch nejubožejších z jejich řad — tady běží o naprostou
+vymletost **celého jejich aparátu**. Ať třeba
+i nadále kují převraty u píva — jen ne už
+v parlamentní putyce. Sami to nejsou s to
+pochopit. Musí se 
 
 sami nejsou s to to pochopit - musi se jim to tedy
 dat prikazem - myslim, ze na ty jeste porad slysi.
@@ -876,4 +737,98 @@ A přesně takoví rozhodují volby.
 __zdroje__
 * detstvivsocialismu.cz
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
+
+
+=====================================
+=================================
+
+
+
+> Svoboda je hodnota, jejíž přítomnost přínáší
+> méně potěšení než její nepřítomnost bolesti.
+> *Jean Paul*
+
+> Madness is rare in individuals
+> – but in groups, parties, nations,
+> and ages it is the rule.
+> *Friedrich Nietzsche*
+
+> Velmi jsme si vážili Kim Čong-ila,
+> jenž se obětoval, aby přinesl blaho
+> korejskému lidu, zajistil bezpečnost
+> KLDR a dosáhl mírového sjednocení
+> Koreje. KSČM pevně věří, že Korejská
+> strana práce překoná nynější smutek
+> a nadále povede hrdinný boj korejského
+> lidu za obranu socialismu ve Vaší
+> krásné zemi.
+> *Vojtěch Filip, kondolence KLDR, 2011. In: Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 17.*
+
+
+> Jedna z vyslýchaných ohluchla, když
+> ji referent udeřil. A kdo jsou tihle
+> "referenti", "vychovatelé", "dozorci"?
+> Mnozí z nich pokračovali ve své práci
+> a kariéře i po převratu v roce 1989,
+> stejně jako řada soudců a státních
+> zástupců.
+> *Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 23.*
+
+> [..] hlásí se [Steigerwald] k ideálu
+> a riskuje, že bude "lecjakými Vojty",
+> ale i frikulíny, kteří předstírají,
+> že jsou "cool", "free" a "in",
+> napadnut z idealismu, z heroizace
+> a patetizace, z toho, že některé
+> hodnoty prostě bere příliš vážně...
+> A on skutečně bere své hrdinky
+> vážně, on si jich opravdu nelíčeně
+> váží.
+> *Vedral, J.: Dobové tance na nápěv budovatelského kýče. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 45.*
+
+> Spravedlnost je slepá; u nás bohudík ne,
+> nýbrž jen šilhá (nalevo).
+> *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
+
+> Nic horšího nemůže komunista spáchat
+> než udělat něco v zájmu státu československého.
+> To se musí našim komunistům nechat, že pro
+> tenhle zájem mají tuze málo smyslu. Ještě
+> se jim nestala ta hanba, že by se něčeho
+> dopustili v zájmu státu československého;
+> že by mu byli nějak ke cti, že by přinesli
+> něco, co by vůbec mělo co dělat s touto zemí,
+> že by vůbec teď či příště byli k něčemu
+> kloudnému pro to prostředí, ve kterém žijí.  
+> __Lidové noviny, 19. 10. 1928__  
+> *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
+
+> Říkám jen pro naše lidi, ke kterým v našich věcech
+> mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
+> sám je politik a státník velikého stylu, velikého vzdělání,
+> železné energie a dalekozrakého politického obzoru, že Stalin
+> a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
+> dovedou cenit patriotismu druhých, jsouce přitom pronikavými
+> politickými realisty, kteří vědí co chtějí a co mohou.
+> *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
+
+> Demokracie do sebe přijímá tezi a antitezi
+> a dává jim ochranu práva a zákona.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 140.*
+
+> Komunismus — ze své vlastní volby — je největším žijícím
+> nepřítelem svobody. V zápase proti sobě stojí systém
+> demokratický a komunistický, ne kapitalistický a socialistický.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 141.*
+
+> Komunisté, kteří nejdříve chtějí revoluci a pak teprve
+> všechno ostatní, nemají ze svého stanoviska tak docela pravdu,
+> nepřejí-li si zlepšení hospodářských poměrů a doufají-li v těžké
+> krize a bídu mas, neboť maso na talíři je sice přátelské lidu,
+> avšak nepřátelské revoluci. Čím hůře, tím lépe — taková je
+> komunistická strategická moudrost.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 115.*
+
+> Historie učí, že ničeho není dosaženo jednou provždy.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
