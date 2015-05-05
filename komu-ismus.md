@@ -34,7 +34,7 @@ své rodiny apod.
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
 I dnes bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. 
+natěšených respondentů. Trockij, 
 
 
 
@@ -52,18 +52,9 @@ demaskovat se.
 [JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s)
 
 
-[policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926). Oni mi to poradili, já jen mlátil.
+[policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926).
+Oni mi to poradili, já jen mlátil.
 
-
-Komunita komunismu.
-Ve světě pro smích, ale jen u nás se
-rozhořívá. Jen my jsme totiž tak
-pošetilí, abychom přikládali. Jen
-my máme komunitu s imunitou, s
-imunitou parlamentní. A jsa obdařeni
-milostivou pamětí, zapomínáme,
-že naše vlastní odolnost vůči hlouposti
-není žádná.
 
 Trockij provedl převrat v zemi, která
 kapitalistu paradoxně nikdy neviděla.
@@ -77,7 +68,7 @@ Z ráje se neutíká, a jestli ten ráj neuznáš,
 jsi jen další spojka na Vatikán ohrožující
 naše socialistické zřízení. *Republiku si rozvrátit
 nedáme!* Kéž by o res publice té doby mohla
-být řeč.
+být vůbec řeč.
 
 
 
@@ -149,7 +140,9 @@ odboru hospodářské správy Úřadu vlády:
 
 jsme zaští
 
-Ústavy, jen to, co povoluje.
+Nebo je to nešťastná formulka Ústavy,
+že úřad nesmí činnit více než ukládá zákon?
+
 
 
 
