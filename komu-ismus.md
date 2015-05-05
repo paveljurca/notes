@@ -1,9 +1,8 @@
 Komu?ismus
 ==========
 
-
-
-dotazník do zaměstnání ve ŠKODA PRAHA ještě z roku 1986..
+Začněme s dotazníkem do zaměstnání ve ŠKODA PRAHA
+ještě z roku 1986:
 
 6. Třídní - sociální původ
 7. Politická příslušnost
@@ -23,54 +22,66 @@ dotazník do zaměstnání ve ŠKODA PRAHA ještě z roku 1986..
 27. Jména dalších osob v zahraničí, s nimiž udržujete styky
 28. Účast v domácím a zahraničním odboji
 
-Údaje prostudoval a ověřil pracovník kádrového útvaru
+*Údaje prostudoval a ověřil pracovník kádrového útvaru*
 
-Poznámka: Dotazník soustřeďuje pouze závažné údaje.
+__Poznámka__: Dotazník soustřeďuje pouze závažné údaje.
 Podrobněji je rozveďte v životopise, který je součástí
 tohoto dotazníku, a to svou dosavadní politickou a veřejnou
-činnost, své politické postoje v **kritickém období let 1968-69**
+činnost, své politické postoje v __kritickém období let 1968-69__
 a další údaje ze života [..] informace o politické angažovanosti
 své rodiny apod.
 
-![dotazník](m/dotaznik.png)
+![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
+
+I dnes bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
+natěšených respondentů. 
+
+
+
 
 
 A Čapek tyto své zcela přesné názory
-projevoval už o desítky let dříve,
+projevoval už o desítky let dříve
 nežli komunisté opravdu dostali mezi
-léty 1948 a 1989 příležitost
+léty 1948 (vzato už 1946) a 1989 příležitost
 demaskovat se.
 
->>
-JUDr. PhDr. Zdeněk Ondráček, Ph.D.
-iframe => http://youtu.be/W21maRT1sm0
 
-Gustáv Husák
-iframe => http://youtu.be/CvbMM0fyV5U?t=7m9s
-<<
+[JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0)
+
+[JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s)
+
+
+[policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926). Oni mi to poradili, já jen mlátil.
+
 
 Komunita komunismu.
-Ve světě doutná, ale jen u nás se
+Ve světě pro smích, ale jen u nás se
 rozhořívá. Jen my jsme totiž tak
 pošetilí, abychom přikládali. Jen
 my máme komunitu s imunitou, s
 imunitou parlamentní. A jsa obdařeni
 milostivou pamětí, zapomínáme,
 že naše vlastní odolnost vůči hlouposti
-není žádná. Na tenhle nešvar není Actimelu.
+není žádná.
 
-750k voličů
+Trockij provedl převrat v zemi, která
+kapitalistu paradoxně nikdy neviděla.
 
-Trockij provedl převrat v zemi, která kapitalistu
-paradoxně nikdy neviděla.
+bylo vaše, jste kulak
 
-Ráj mluví sám za sebe. Nepotřebuje
-se prokazovat elektrickými dráty na výstupu.
+Ráj mluví sám za sebe. Nemá zapotřebí
+honit si triko elektřinou v hraničních
+plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
 Z ráje se neutíká, a jestli ten ráj neuznáš,
-zastřelíme tě, případně převychováme.
+jsi jen další spojka na Vatikán ohrožující
+naše socialistické zřízení. *Republiku si rozvrátit
+nedáme!* Kéž by o res publice té doby mohla
+být řeč.
 
-Soudruzi, mějte ráj rádi!
 
+
+zaprodaný revanšista západu
 
 Mají naši přeživší STB příslušníci, prokurátoři,
 milicionáři, stmelovači režimu přiznat, že 50 let
@@ -80,40 +91,23 @@ kterou jsme my okázale nezakázali. Je pro ně
 teď krásné sklízet sladké plody demokracie,
 kterou oni pomáhali zadupat.
 
-Stejne jako tech "nasich" 750k volicu a
-jeste bohuzel o neco vice sympatizantu s komunismem
-nebo - vzneseneji - socialismem nema v sobe pranic
-Ceskeho ducha, ani Palackeho, ani J. A. Bati.
-Meli by se sami profackovat - tolika zabednenosti
-pohromade se totiz nevidi casto.
-Jen je mi divne, co vlastne delaji u nas v Ceske
-republice? Snad brzy popojdou dale na Vychod -
-jen republiku at tady nechaji!
+Chtějí komunismus? Socialismus? Rovnost
+nebo bratrství? Chtějí Východ? Ať si
+tedy popojdou. Republika ale zůstává tady.
 
-Nevím zcela jistě, proč k zatemnění myslí
-tak začasté dochází.
-
+Jak se ale stane, že člověk rezignuje na rozum?
 U Edvarda Beneše to byl fanatický strach
-z nacistického "Drang nach Osten" i opakování Mnichova.
+z nacistického *Drang nach Osten* i opakování Mnichova.
 A spásu viděl zcela nekriticky v Sovětském svazu.
 Jím iniciované četné dohody o spolupráci, vzájemném
 přátelství s SSSR i přehnaná servilita byly jedním
-z těch závaží na špatné straně.
+z těch závaží na špatné straně argumentů.
 
-Žel bohu, kdyby lidé komunismus skutečně nechtěli -
-nebyl by tady.
+Žel bohu, kdyby lidé komunismus skutečně
+nechtěli — nebyl by tady. Na stranu druhou
+jsme zvládli být sovětským satelitem o 9 let
+dříve než Sputnik sám. A to zahřeje.
 
-ČSR
-byla sovětským satelitem už 12 let před Sputnikem.
-
-Vojáky mají sveřepé a obhroublé. Zatímco Amerikáni
-za válečných let rozdávali čokoládu a konzervy, první
-ruská slovíčka byla: Davaj časy! Ženy znásilnili,
-voňavky vypili, zásoby vyjedli, dobytek odvedli.
-
-Nebýt ale v květnu
-1945 vlasovců, Praha by dopadla špatně. A Rudá armáda
-je pár dní na to pochytala, a popravila.
 
 
 dle Havla je problem demokracie ten,
@@ -121,19 +115,8 @@ ze tem, kteri to s ni mysli dobre,
 ruce svazuje a tem s nekalymi umysly
 naopak ruce do siroka rozevira[1]
 
-ja bych to jeste zobecnil:
-V demokracii zkratka verite, ze lide nebudou
-dementi.
-Kazdy totiz ma svuj svobodny prostor.
-Verite, ze ten clovek ma rozum, umi se chovat,
-vstrebal ty spravne hodnoty, chape, ze clovek
-neni vsehomirou sveta[8], i treba do skoly chodil.
+Lidské oko není všehomíra.
 
-Pokud se ale Putin jako dement zachova, vlastne s tim
-nic nezmuzete. Vy jen verite, ze se v nem bude umet chovat.
-A pokud ne: meli jste se zkratka starat, nez ten clovek
-vyrostl. Starat se kazdy den.
-V dospelosti uz se s jeho demenci jen tezko hne.
 
 V demokracii nemuzete ohlidat vsechnu lidskou blbost.
 Je ji proste az moc.
@@ -150,24 +133,36 @@ kdo pote o vas bude urcity cas rozhodovat. Lisi se to od
 diktatury tim, <em>ze si vyberete</em>.
 
 Problém ale je, pokud vyberete špatně.
-Špatní lidé naberou ještě horší
+Špatní lidé naberou ještě horší. Někdy
+proto, že ruka ruku myje a někdy proto,
+že jsou skutečně blbí.
 
-jeden neodvede svoji praci poradne - a uz se vezeme.
-
-Prikladem:
-Šéf Strakovy akademie Radek Augustin o jmenování
-rozporuplné osoby Ivana Noveského na místo ředitele
+Příkladem šéf Strakovy akademie Radek Augustin
+o jmenování osoby Ivana Noveského na místo ředitele
 odboru hospodářské správy Úřadu vlády:
-"Jeho jmenováním jsem však neporušil nic, veškeré
-podmínky pro jmenování splnil: měl čistý trestní
-rejstřík, nebyl v žádném statutárním orgánu firmy
-a byl schopen samostatně řešit úkoly."[9]
 
-Kolikrat pořádně neznate ani treba spoluzaky ze stredni,
-a to jste s nimi byli 4 roky.
+> Jeho jmenováním jsem však neporušil nic, veškeré
+> podmínky pro jmenování splnil: měl čistý trestní
+> rejstřík, nebyl v žádném statutárním orgánu firmy
+> a byl schopen samostatně řešit úkoly.
+> *Bártová, E.: Kariéra plná 'náhodných' státních zakázek i funkcí. MFDNES, 7. března 2014, A2.*
+
+jsme zaští
+
+Ústavy, jen to, co povoluje.
+
+
+
+jen tupé ohánění se zákonem. Možná jsi neporušil
+špatné pravidlo, ale zradil jsi morálku, pravdu
+
+
+
 
 Ted si ale chcete/musite vybrat nekoho na zaklade jedne debaty,
 3 plakatu a dvou brozurek.
+
+Přitom často neznáte ani vlastní sourozence.
 
 Dalsim problemem je to, ze vetsinou o zivote tech druhych chteji rozhodovat lide,
 kteri se spatne rozhoduji ve svem. Snazi se chytit hesla, ze kdo nic neumi,
@@ -192,7 +187,7 @@ Jednodussi je vzdycky delat to, co ostatni.
 
 > Demokracie? Ano — ale ne proboha v řečnění. V práci.
 > V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
-> [13]
+> *Baťa, J.A.: Za obchodem kolem světa. s. 230.*
 
 
 Spatny system muze fungovat a dobry nefungovat - vzdy to totiz
@@ -210,18 +205,10 @@ omezenost. Podobna te, ktera za tucnymi zdmi uradu rozhoduje dnes
 o nasich zivotech.
 
 demos znamena lid. a lid znamena neriditelne stado. bohuzel.
-jak psal Aristotelés v pripade demokracie:
-"pravem se stava to, co vetsina za pravo prohlasi"
 
-hranice=
+Aristotelés si nedělal iluzí: "Právem se stává to,
+co většina za právo prohlásí."
 
-Postavíme ploty, do nich pustíme
-proud, položíme miny a před to
-všechno vysázíme ty uvědomělé
-brance, co budou střílet do vlastních,
-protože z ráje socialismu se neutíká,
-protože republiku si rozvrátit nedáme,
-protože.. spojka na Vatikán!
 
 Státní bezpečnost, lágry a ten aparát
 patolízalů kolem prováděl zvrácenosti
@@ -234,29 +221,17 @@ KOMUNISMUS?
 
 Psal Masaryk *O bolševictví*
 i Čapek *Proč nejsem komunistou*
-— nestačilo to, museli jsme si to osahat.
-A znovu to nesta
+— nestačilo to, museli jsme si sáhnout.
+A zase to nestačí, protože teď
+si je chceme i pohladit.
 
-teď si to chceme pohladit
-
-
-uz samotny fakt vystaveni zelezne opony, aby lide
-byli zbaveni moznosti z bidy marxismu a lenismu
-uteci - mi staci k tomu, abych mel dozivotni chut
-fackovat komunisty na potkani.
-
-jsou to Mengelovy praktiky:
-pochytat lidi a provadet sve pokusy.
-
-Zvrhlí lidé zákonitě inklinují k režimu zvrhlému.
-Komunismus jest jedna z dob, ve kterých ze sebe většina
-lidí vydá jen to nejhorší.
+Komunismus je z těch dob, ve kterých
+ze sebe vydáváme to nejhorší.
+Někomu to vyhovuje, jinak by to stejně
+neuměl. 
 
 
 snad někdy platí *Si vis pacem, para bellum*
-
-> Přestala existovat porážka, existuje jen zničení.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 133.*
 
 Nejde o myslenku kolektivismu, nybrz o zpusob,
 kterym ho ma byti dosazeno.
@@ -266,14 +241,20 @@ ale at by byl zpusob sebe prijemnejsi - vzdy ztroskota:
 blizniho sveho nikdy nebudeme mit radeji, nez sama sebe.
 jen stejne, ale nikdy vice.
 
-ani Bible to po nas nechce.
+ani Bible 
+
+Druhého stejně nemůžeme mít radši než sebe.
+
+<< ta citace Chelčického >>
+
 
 Nebezi tu o upreni moznosti socialistickeho citeni.
 
-Demokracie může být lidská i méně lidská. Komunismus je ovšem vždy nelidský.
-
-Nevěřili byste, že pomatenost je vlastní
+Demokracie může být lidská i méně lidská.
+Komunismus je ovšem vždy nelidský.
+A nevěřili byste, že negramotnost je vlastní
 už i hlavám [nově příchozím](http://www.juniorproject.eu/).
+
 
 kdyby byli tak špatní, jak se tvrdí, už dávno
 
@@ -281,7 +262,7 @@ Tahle mantra se jim stala tim, co je zvráceně ospravedlnuje,
 co prihrava nove obecenstvo.
 
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
-jednotně k volbám* ex novo - kariéristů na to máme dost.
+jednotně k volbám* vyráželi ex novo - kariéristů na to máme dost.
 
 Na stranu druhou..
 
@@ -320,7 +301,7 @@ samotne myslenky nejsou nic, pranic neublizi
 nehlede na fakt, ze nebyt tupcu (na obou stranach),
 nebylo by treba explicitnich zakazu.
 
-zpusobil az moc bolesti a utrpeni, nez abychom
+Komančové zpusobil az moc bolesti a utrpeni, nez abychom
 to mohli prejit netaktnim mlcenim.
 
 
@@ -330,58 +311,61 @@ za kterou nikdo nenese odpovednost.
 co je to rozkaz: ta abstraktni vec muze za smrt?
 
 
+
+
 "Věř svým očím, ale uším moc nevěř."
--- Kostohryz, Rakovina
+-- Kostohryz, z knihy Rakovina (bolševismu).
 
-"Propaganda vyzývá občana, aby nenáviděl to,
-o čem čte, ne to, co zažil."
-STRANA 163
--- Ferdinand Peroutka, Demokratický manifest
+> Propaganda vyzývá občana, aby nenáviděl to,
+> o čem čte, ne to, co zažil.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
 
-!!!
+> Sláva, socialismus zvítězil,
+> člověk už si nemůže koupit, co potřebuje.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-"Sláva, socialismus zvítězil, člověk už si nemůže
-koupit, co potřebuje."
-STRANA 193
--- Ferdinand Peroutka, Demokratický manifest
+> [..] někdy více lidí umíralo na politiku než na nemoci.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
 
-"...někdy více lidí umíralo na politiku než na nemoci."
-s. 202
--- Ferdinand Peroutka, Demokratický manifest
+> Demokracie musí pečovat o to, aby byla většinou.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
 
-"Demokracie musí pečovat o to, aby byla většinou."
-s. 209
--- Ferdinand Peroutka, Demokratický manifest
+> Neurotik se chytá své životní lži a pokud je postaven před volbu,
+> zda se má zříci této lži, anebo logického myšlení, dává přednost
+> obětování logiky. Neboť život by byl pro něho nesnesitelný bez útěchy,
+> kterou nachází v socialistické ideji. Ta mu ukazuje, že chyby,
+> jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-"Neurotik se chytá své životní lži a pokud je postaven před volbu,
-zda se má zříci této lži, anebo logického myšlení, dává přednost
-obětování logiky. Neboť život by byl pro něho nesnesitelný bez útěchy,
-kterou nachází v socialistické ideji. <strong>Ta mu ukazuje, že chyby,
-jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.</strong>"
--- MISES, von Ludwig: Liberalismus, Praha, 1998, Ekopress, s. 24
-
-"Ale až jednou vybledne čerstvý dojem z bolševických zločinů, bude
-socialistický program znovu přitažlivý pro masy."
--- MISES, von Ludwig: Liberalismus, Praha, 1998, Ekopress, s. 24
+> Ale až jednou vybledne čerstvý dojem z bolševických
+> zločinů, bude socialistický program znovu přitažlivý
+> pro masy.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 =========
-Demokracie ma tedy dvě, snad protikladne, tendence: svobodu a disciplinu, kazen, rad.
-To druhe chrani to prvni.
-"Dvě tendence proplétají se historií, protikladné, ale obě nepopiratelné,
-tendence ke svobodě a tendence k disciplíně."
-s. 224
--- Ferdinand Peroutka, Demokratický manifest
 
-prace je nekonecne, jen ne za kazdou vam nekdo zaplati.
+> Přestala existovat porážka, existuje jen zničení.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 133.*
 
-nuda je zvracenost, zabijeni casu je zvracenost.
+Volnost před vlastním prahem,
+pravidla před prahem druhého.
 
-prehnana volnost, kdy si clovek uvedomi, ze muze zacit
-delat cokoli, vse mu prijde jednoduche a přesto tak zmatené
-- a to ho prave desi.
+> Dvě tendence proplétají se historií, protikladné,
+> ale obě nepopiratelné, tendence ke svobodě
+> a tendence k disciplíně.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 224.*
+
+
+
 ===
 
-.
+ÚSTR zkoumá komunismus jako totalitní
+režim, Ministersto obrany odškodňuje
+3. odboj a naproti tomu Parlament ČR
+rozdává desítky miliónů rudým poslancům.
+
+
+
 Proc Ustav pro studium totalitnich rezimu
 zkouma komunismus, kdyz je ten system
 v nasem pravnim radu zcela legalni, tedy
@@ -389,22 +373,6 @@ ospravedlnitelny, znovu (boze!) zaveditelny?
 Na jednu stranu ho zkoumame jako totalitu a
 na stranu druhou ho do parlamentu volíme?!
 
-Proc tedy paneboze mame policejni
-Urad dokumentace a vysetrovani zlocinu
-komunismu? Jasne, vysetrujeme prece
-konkretni lidi, ne system. Vyborne,
-ale kteryze system tem lidem umoznil,
-aby se chovali jako prasata? Nebyl
-to prave nahodu ten komunismus, jez
-ma ten urad v nazvu? Nebyl to nahodou
-jeste pred tim nacismus, pred kterym
-nas dnes uz "chrani" zakon?
-(Proc v uvozovkach? Protoze zakon nechrani,
-jen odskodni. Jestli se toho
-ale dozijete - je na vas.
-Kazdy sam za sebe. To je tvrda realita.
-A pred komunismem nas nic chranit nemusi?
-Ptam se proc? Paneboze, proc?
 .
 v soudnim preliceni v zaveru filmu Dva muži ve městě.
 spravedlnost je slepa. je strasne slepa a subjektivni.
@@ -430,11 +398,6 @@ ktere nikdo necte. kucharky prebijime dalsi kucharkou.
 na vse musi byt zakon. pro vlastni rozum a vnitrni zakonnost (filosofii)
 uz nezbyva misto. Jednodušší než něco vysvětlovat, je něco nařídit.
 
-!!
-uzkost prameni z toho, ze premyslite vice o tom, jak by to
-udelali ostatni (tedy domnele spravne), nez o tom, jak byste to udelali vy sami
-!!
-
 netahejme do toho, ze je to v necim zajmu - neni.
 
 zakon ma byt ukaz zcela ojedinely.
@@ -456,14 +419,8 @@ vsechny jsi zahodil svym cinem.
 
 spolecnost ale musi hledet, aby k tomu nebyl dohnan.
 nikdo nemuze byt na okraji spolecnosti.
-samozrejme, kazdy tvar ma obrys, tedy periferii
+samozrejme, kazdy obrazec ma i obrys, tedy periferii
 - jen at tam nikdo neni trvale.
-
-vsichni se rodime s prazdnou hlavou. jedno velke nic.
-nikdo se ale nerodi zly (snad jen trochu zákeřný).
-kazda hlava muze mit sve vlastni
-potreby. je ale na okoli, aby je vytusila a usmernila.
-nikdo to nemuze zvladnout sam.
 
 neoddelitelne s tim prichazi i pozadavek
 na ty absolutne nejvyssi mravni hodnoty lidi o spravedlnosti
@@ -480,10 +437,14 @@ kazdy clovek ma moc dobre vyvinuty smysl pro to, co spravne
 je a neni. bohuzel to opovazlive casto nechce videt.
 uznava zvracene hodnoty. je to jednodussi, protoze to tak delaji ostatni.
 nevycnivate. kdyz mam moznost, vyuziji ji. kdo neokrada stat, okrada rodinu.
-kdyz muzu, tak to znamena, ze bych i mel.
+ikdyz muzu, tak to znamena, ze bych i mel.
+
+Můžu? To asi znamená, že bych měl.
 
 kazdy den zivota se spatnymi hodnotami znamena o to
 nasledne bolestivejsi popreni sveho dosavadniho zivota.
+
+
 
 
 aby kazdy clovek znal vsechny zakony. vsechny.
@@ -501,13 +462,14 @@ ale muze se stat, ze si jdete jen pro rozsudekk
 .
 Karl Marx měl snad co říct ve
 svém 19. století, kdy "jeho nadhodnota"
-i chybějící pracovní zákoník, <b>v době
-průmyslové revoluce</b>, byly skutečně
+i chybějící pracovní zákoník, *v době
+průmyslové revoluce*, byly skutečně
 problémem.
 Ovšem ještě větším problémem bylo
 ale to, jak to hodlal řešit -
 chtěl zrušit soukromé vlastnictví.
 Tedy, buďme si všichni rovni!
+
 (musime vsichni mit hole zadky,
 abychom si byli rovni)
 
@@ -516,28 +478,13 @@ dělat. Bohužel tu utopii převzali
 bolševici v Rusku, kteří paradoxně
 nikdy žádného kapitalistu neviděli.
 
-A hned tu Marxovu rovnost začali
-uvádět do praxe. Ta rovnost, ta
-lepší společnost stála život milóny
-lidí.
-
-Známe to Orwellovské -
-všechna zvířata jsou si rovna,
-ale některá jsou si rovnější!
-
 Komunismus není možný,
 aniž by to někoho nestálo život a
 myšlení lidí se přitom nezatemnilo,
 hnusně nezvrátilo.
 
-Na tohle těch <a href="http://volby.cz/pls/ps2013/ps2?xjazyk=CZ">
-741.044</a> voličů KSČM
-nostalgicky vzpomíná? Proto jsme
-rozprodali Karlovy Vary a zasněně
-hledíme na východ? Vážně -
-pro tohle?
 
-A nezapomeňte: Pracovní iniciativou ku splnění ..
+A nezapomeňte: Pracovní iniciativou ku splnění úkolu
 
 = sebereflexe =
 neni to tak cernobily.
@@ -564,8 +511,8 @@ Otázkou je, kolik našich chyb může
 okolí unést.
 
 Komunismus je sám o sobě tak absurdní,
-že ani argumentace proti němu [nemá smyslu]
-<< Tomáš Matonoha - otevřený dopis KSČM >>
+že jakákoli protiargumentace  [nemá smyslu](https://youtu.be/djFcjDyaZNY)
+
 Nemusíte už nic víc říkat.
 
 Patříme na západ, ne na východ.
@@ -575,7 +522,7 @@ nejlepsi lidi do Evropy soudruhy z KSCM nebo rovnou jako
 nejlepsiho zastupce vsech 10 milionu vysle Fuleho, ktery
 za normalizace sbiral zkusenosti v Moskve
 
-rozhovor s Ing. Konečnou, 33 let, odbornice z hnízda KSČM
+rozhovor s Ing. Konečnou, 33 let, odbornice KSČM
 http://prehravac.rozhlas.cz/audio/3061945
 
 [priloha:
@@ -589,12 +536,15 @@ http://prehravac.rozhlas.cz/audio/3159834
 
 -----------------------------
 
+Je snad 
 Nastesti je porad vice dobreho.
 Bohuzel to ale neni omluva, abychom donekonecna tolerovali to spatne.
 
 Je pro vas milion hodne penez? Zdvihaci most v Koline stal takovych
-milionu 1200. Jeste se nezvedl. Dokonce i byrokrate[http://youtu.be/hZrEIvUnm-o] ze samotneho sidla
-obzerstvi a prepychu, totiz z Bruselu/Strasburku/Lucemburku, se nad tim zhrozili.[14]
+milionu 1200. Jeste se nezvedl. Dokonce i byrokrate ze samotneho sidla
+[obžerství a přepychu](http://youtu.be/hZrEIvUnm-o),
+totiž z Bruselu/Štrasburku/Lucemburku,
+se nad tím [zhrozili](http://zpravy.idnes.cz/televize-ard-natacela-v-cesku-predrazene-stavby-z-penez-eu-pn3-/domaci.aspx?c=A140402_2052275_domaci_jav).
 
 A jako obvykle: je to jen vrcholek ledovce.
 A ve skolstvi pry nejsou penize. Aha.
@@ -606,19 +556,12 @@ pro lidskou hloupost neni slov, ba co vic - neni ani vet!
 Zakon o sluzebni sprave? WTF? nelze vsechno resit zakonem, jen konecne zacnete delat
 svoji praci, budte dusledni, premyslejte, kazdy u sebe, pujde to pomalu, ale prece!
 
-"Pouze dvě věci jsou nekonečné: vesmír a lidská hloupost.
-Ačkoli tím prvním si nejsem jist."
-Albert Einstein
+Demokracie je vlada lidu, tedy vetsiny. vetsinou se vetsina
+myli. Menšina to jen ospravedlní
 
-Demokracie je vlada lidu, tedy vetsiny. vetsinou je to ale tak, ze vetsina
-se myli. a mensina lidi s tim nemuze nic udelat. to se mi nezda moc demokraticke.
 mozna by se to dalo opsat, jako diktatura vetsiny.
 
-a vy populisti jeste chcete primou demokracii? tedy dejme jeste vetsi moc do rukou
-lidem 750k volicum KSCM, zavistivcum, lidem maleho i temneho mysleni,
-lidem ctoucim Blesk, Aha, Pestry svet, lidem sledujicim zpravy na Nove i TopStar na Prime,
-lidem zabijejicim patky a vecery v hospodach a barech. a jak se zavrou hospody -
-jde se na facebook!
+Té, jež 
 
 To je ta nase vetsina.
 
@@ -629,8 +572,8 @@ rucemi ale sama se o nic nepricini, a jestli, tak negativne, pomuze te spatne
 strane, sama se nechova podle toho, co by (u jinych) chtela videt
 
 "Pokrytče, vyjmi nejprv trám
-z vlastního oka, a tehdy prohlédneš,
-abys vyňal třísku z oka bratra svého."
+z oka svého, a tehdy prohlédneš,
+abys vyňal třísku z oka bratra."
 Mt. 7,3-5
 
 asi to bude hodne namyslene, kdyz si myslim,
@@ -704,12 +647,12 @@ http://www.psp.cz/docs/texts/constitution_1960.html
 
 [7]Deklarace nezavislosti
 [8]Dalkovy vyslech
-[9]MFDNES, 7/3/2014, "Kariéra plná 'náhodných' státních zakázek i funkcí", sešit A2, Eliška Bártová
+
 [10]MFDNES, 4/3/2014, "Velké Rusko", sešit A10, Vladimír Kučera
 [11]tamtéž
 [12]MFDNES, 14/3/2014, "Rusko už není náš partner, ale agresor", sešit A11, Luboš Dobrovský
-[13]J.A. Baťa: Za obchodem kolem světa, strana 230
-[14]http://zpravy.idnes.cz/televize-ard-natacela-v-cesku-predrazene-stavby-z-penez-eu-pn3-/domaci.aspx?c=A140402_2052275_domaci_jav
+[13]
+[14]
 
 ---
 Béďa, Opilé banány:
@@ -719,34 +662,37 @@ A ted si myslete, jak moc nekorektni to je.
 
 
 materialy:
-capek: proc nejsem komunistou,pamet naroda, drda, pruvodce inteligentni zeny..,
-havel: do ruznych stran, historie.cs, farma zvirat, komun. manifest nebo z. saroch: vystrely z hranice,
+pruvodce inteligentni zeny..,
+
+
+
+
+
+havel: do ruznych stran, historie.cs, komun. manifest nebo z. saroch: vystrely z hranice,
 rasin: me vzpominky z mladi, kryl: zeme lhostejnost,
 palacky: myslenky,
-peroutka: demokraticky manifest,
 bata: za obchodem kolem sveta;
 atd. apod.
+
+> Svoboda je hodnota, jejíž přítomnost přínáší
+> méně potěšení než její nepřítomnost bolesti.
+> *Jean Paul*
 
 Kdo nechce, ten nebude vědět.
 A přesně takoví rozhodují volby.
 
-12-09-14
 (pj)
 
 
-__zdroje__
-* detstvivsocialismu.cz
+* __zdroje__
+* [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
-
+* Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
 
 =====================================
 =================================
 
 
-
-> Svoboda je hodnota, jejíž přítomnost přínáší
-> méně potěšení než její nepřítomnost bolesti.
-> *Jean Paul*
 
 > Madness is rare in individuals
 > – but in groups, parties, nations,

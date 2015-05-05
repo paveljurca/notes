@@ -162,8 +162,8 @@ section and having it like:
 
 To determine the `scope` just highlight
 a variable/keyword/function/whatever and
-then press `Ctr+Alt+Shift+P` when it's gonna
-show up at the status bar.
+then press `Ctr+Alt+Shift+P` while it's gonna
+show up in the status bar.
 
 (pj)
 
