@@ -34,7 +34,79 @@ své rodiny apod.
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
 I dnes bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. Trockij, 
+natěšených respondentů. A další věc:
+ráj mluví sám za sebe. Nemá zapotřebí
+honit si triko elektřinou v hraničních
+plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
+Z ráje se neutíká, a jestli ten ráj neuznáš,
+jsi jen další spojka na Vatikán ohrožující
+naše socialistické zřízení. *Republiku si rozvrátit
+nedáme!* Kéž by o res publice té doby mohla
+být vůbec řeč. A pro odlehčení:
+[JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s)
+nebo poslanec dneška [JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0).
+
+Kde tedy byla chyba? V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
+Jistě: oni mi to poradili, já jen mlátil.
+
+
+Je to (snad) nešťastná formulka >> DNEŠNÍ << Ústavy,
+kdy úřad nesmí činnit nic nad imperativ zákona?
+Jde jen o tupé zastření vlastní úvahy
+zmocněnce, který tu (zlo)vůli *královo* jménem
+koná? Pohraniční stráž střílela
+a prokurátor nasazoval
+oprátky dle **tehdy** platných **zákonů**.
+Odvolávat se na (psanost) pravidla
+je hrozivé slabošství. Na něm právě
+stojí totalitní i trudné
+**demo**kratické režimy. Kánon ožívá
+až v rukách a křiku někoho.
+Zákon/rozkaz/směrnice/dekret ještě
+**nikdy nikoho** nezabil.
+Člověk člověka ale už ano.
+
+
+Psal Masaryk *O bolševictví*
+i Čapek *Proč nejsem komunistou*
+— nestačilo to, museli jsme si sáhnout.
+A zase to nestačí, protože teď
+si je chceme i pohladit.
+
+Komunismus je z těch dob, ve kterých
+ze sebe vydáme to nejhorší. Někomu to
+vyhovuje, jinak by to stejně neuměl.
+A pak je tu většina, která se **jen**
+křivě rozhodla. U Edvarda Beneše to byl fanatický strach
+z nacistického *Drang nach Osten* i opakování Mnichova.
+A spásu viděl zcela nekriticky v Sovětském svazu.
+Jím iniciované četné dohody o spolupráci, vzájemném
+přátelství i přehnaná servilita byly jedním
+z těch závaží na hloupé straně snah.
+
+> Říkám jen pro naše lidi, ke kterým v našich věcech
+> mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
+> sám je politik a státník velikého stylu, velikého vzdělání,
+> železné energie a dalekozrakého politického obzoru, že Stalin
+> a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
+> dovedou cenit patriotismu druhých, jsouce přitom pronikavými
+> politickými realisty, kteří vědí co chtějí a co mohou.
+> *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
+
+Žel bohu, kdyby lidé komunismus skutečně
+nechtěli — nebyl by tady. Na stranu druhou
+jsme zvládli být sovětským satelitem o světelné
+týdny před Sputnikem samým.
+
+
+
+Chtějí komunismus? Socialismus? (Odbočka: snad
+škoda toho slova, jež dík rudým tvářím nabylo
+šedi, jak vzpomenul V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
+Rovnost nebo bratrství? Chtějí Východ? Ať si popojdou.
+Republika však zůstává tady.
+
+
 
 
 
@@ -47,59 +119,17 @@ léty 1948 (vzato už 1946) a 1989 příležitost
 demaskovat se.
 
 
-[JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0)
 
-[JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s)
-
-
-[policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926).
-Oni mi to poradili, já jen mlátil.
-
-
-Trockij provedl převrat v zemi, která
-kapitalistu paradoxně nikdy neviděla.
-
-bylo vaše, jste kulak
-
-Ráj mluví sám za sebe. Nemá zapotřebí
-honit si triko elektřinou v hraničních
-plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
-Z ráje se neutíká, a jestli ten ráj neuznáš,
-jsi jen další spojka na Vatikán ohrožující
-naše socialistické zřízení. *Republiku si rozvrátit
-nedáme!* Kéž by o res publice té doby mohla
-být vůbec řeč.
+40 let svého pomýleného života nepřiznají.
+Nemohou. Zůstalo by jim už jenom stáří.
+A to slabé povahy budovatelů neunesou.
 
 
 
-zaprodaný revanšista západu
+Dle Havla je 
 
-Mají naši přeživší STB příslušníci, prokurátoři,
-milicionáři, stmelovači režimu přiznat, že 50 let
-jejich života byl omyl? Zůstalo by jim už jenom stáří.
-Lépe ve svém omylu vytrvat a i dnes volit KSČM,
-kterou jsme my okázale nezakázali. Je pro ně
-teď krásné sklízet sladké plody demokracie,
-kterou oni pomáhali zadupat.
-
-Chtějí komunismus? Socialismus? Rovnost
-nebo bratrství? Chtějí Východ? Ať si
-tedy popojdou. Republika ale zůstává tady.
-
-Jak se ale stane, že člověk rezignuje na rozum?
-U Edvarda Beneše to byl fanatický strach
-z nacistického *Drang nach Osten* i opakování Mnichova.
-A spásu viděl zcela nekriticky v Sovětském svazu.
-Jím iniciované četné dohody o spolupráci, vzájemném
-přátelství s SSSR i přehnaná servilita byly jedním
-z těch závaží na špatné straně argumentů.
-
-Žel bohu, kdyby lidé komunismus skutečně
-nechtěli — nebyl by tady. Na stranu druhou
-jsme zvládli být sovětským satelitem o 9 let
-dříve než Sputnik sám. A to zahřeje.
-
-
+Havel viděl neduh demokracie zcela ostře,
+když si jednou "
 
 dle Havla je problem demokracie ten,
 ze tem, kteri to s ni mysli dobre,
@@ -127,29 +157,6 @@ Problém ale je, pokud vyberete špatně.
 Špatní lidé naberou ještě horší. Někdy
 proto, že ruka ruku myje a někdy proto,
 že jsou skutečně blbí.
-
-Příkladem šéf Strakovy akademie Radek Augustin
-o jmenování osoby Ivana Noveského na místo ředitele
-odboru hospodářské správy Úřadu vlády:
-
-> Jeho jmenováním jsem však neporušil nic, veškeré
-> podmínky pro jmenování splnil: měl čistý trestní
-> rejstřík, nebyl v žádném statutárním orgánu firmy
-> a byl schopen samostatně řešit úkoly.
-> *Bártová, E.: Kariéra plná 'náhodných' státních zakázek i funkcí. MFDNES, 7. března 2014, A2.*
-
-jsme zaští
-
-Nebo je to nešťastná formulka Ústavy,
-že úřad nesmí činnit více než ukládá zákon?
-
-
-
-
-jen tupé ohánění se zákonem. Možná jsi neporušil
-špatné pravidlo, ale zradil jsi morálku, pravdu
-
-
 
 
 Ted si ale chcete/musite vybrat nekoho na zaklade jedne debaty,
@@ -212,16 +219,6 @@ a kdo nejste. Nemůže být nic horšího.
 -----------------------------
 KOMUNISMUS?
 
-Psal Masaryk *O bolševictví*
-i Čapek *Proč nejsem komunistou*
-— nestačilo to, museli jsme si sáhnout.
-A zase to nestačí, protože teď
-si je chceme i pohladit.
-
-Komunismus je z těch dob, ve kterých
-ze sebe vydáváme to nejhorší.
-Někomu to vyhovuje, jinak by to stejně
-neuměl. 
 
 
 snad někdy platí *Si vis pacem, para bellum*
@@ -255,7 +252,7 @@ Tahle mantra se jim stala tim, co je zvráceně ospravedlnuje,
 co prihrava nove obecenstvo.
 
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
-jednotně k volbám* vyráželi ex novo - kariéristů na to máme dost.
+jednotně k volbám* vyráželi ex novo - chtivých očí a lysých hlav kariéristů na to máme dost.
 
 Na stranu druhou..
 
@@ -741,15 +738,6 @@ A přesně takoví rozhodují volby.
 > kloudnému pro to prostředí, ve kterém žijí.  
 > __Lidové noviny, 19. 10. 1928__  
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
-
-> Říkám jen pro naše lidi, ke kterým v našich věcech
-> mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
-> sám je politik a státník velikého stylu, velikého vzdělání,
-> železné energie a dalekozrakého politického obzoru, že Stalin
-> a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
-> dovedou cenit patriotismu druhých, jsouce přitom pronikavými
-> politickými realisty, kteří vědí co chtějí a co mohou.
-> *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
 > Demokracie do sebe přijímá tezi a antitezi
 > a dává jim ochranu práva a zákona.
