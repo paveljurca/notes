@@ -1,74 +1,89 @@
 Test Driven Development
 =======================
 
-Code a little, test a little, **redo**.
+First, I should confess I'm no
+pro on TDD by any means.
+It's just I'd like to list
+a few (obvious) notes I've get
+to know alongside.
 
-You test a fixture (contract, behaviour)
-but *NOT* the implementation.
+My TDD's incentive is that
+I feel less pressure knowing
+the tests sit there, so they
+will tell me if my last added
+block of code broke everything.
+Did it passed? Then move on :)
 
-No happy path testing, you intend to break
-your code.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">[Without unit tests] You&#39;re not refactoring, you&#39;re just changing shit. — Hamlet D&#39;Arcy</p>&mdash; Alexander Gugel (@alexanderGugel) <a href="https://twitter.com/alexanderGugel/status/566656504422752257">February 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Single responsibility of tested classes
-(methods), i.e. a class does too much.
+The only tricky (or funny)
+part of this might be that
+if your test fails you may
+not know (at first) whether
+there's a bug in your code
+or in the test itself.
 
-NO code smells, i.e. a constructor
-with unreachable objects.
+Of course TDD is an extra effort
+but it pays off in terms of thinking
+about a new code you're gonna write.
+To put it simply: if you can't test it,
+you're probably doing it wrong.
 
-NO multiple assertions, rather having more
-test methods.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">If you can&#39;t figure out how to write the tests for something, how will you figure out how to write the something?</p>&mdash; Evan Phoenix (@evanphx) <a href="https://twitter.com/evanphx/status/504735308932333568">August 27, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-A test cannot be more complicated than
-a code under the test.
+- Test a fixture (contract, behaviour)
+but *NOT* the implementation
 
+- No happy path testing, you intend
+to break that code
 
-comments say only what the code does not say,
-i.e. your intentions, technical quirks or so.
+- Single responsibility of tested classes
+(methods), i.e. a class does too much
 
+> Don't ask for the data that you need to do something;
+> ask the object that has the data to do the work for you
+> *Allen Holub*
 
+- Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell),
+i.e. no constructor with unreachable objects
 
-There's a funny thing 
+- Comments are not yet another layer of code,
+use them to clarify your intentions, quirks etc.
 
-If keep failing, you don't know whether it's
-that code under testing or the test itself :)
+- Code a little, test a little, **redo**
 
+And considering the test itself..
 
-actually my first @Test ever,
-more than 2 years old
+- No multiple (unrelated) assertions,
+rather have more @Test methods
 
-
-<script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
-
-[HraTest.java](https://github.com/paveljurca/adventura/blob/master/test/slepec/hra/HraTest.java)
+- A test *cannot* be more complicated than
+the actual code we run the test for 
 
 0. set up a [test fixture](https://github.com/junit-team/junit/wiki/Test-fixtures) first 
-1. declare the expected results
-2. exercise the unit under a test
-3. get the actual results
+1. declare expected results
+2. run your code
+3. get real results
 4. assert that they match the expected results
 
 `assertEquals("Calculation wrong", expResult, result);`
 
+I've got some example tests in Perl or Java
+(but especially that Java code's not good
+for it was my first test ever). Anyway,
+here they are:
 
-++ pridej Perl findAirport test!!
+<script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
-
-
-There's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) ;)
-
-
-PARADIGMA
-http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
->>TDD is dead
-http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
-
-
-> Don't ask for the data that you need to do something;
-> ask the object that has the data to do the work for you.
-> *Allen Holub*
-
-For more I've found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html) or [Thing I Have Learned About Software Testing
-](http://qntm.org/test) simply great!
+There's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+or some [bad](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
+[points](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+about TDD.
+I've also found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
+and [Thing I Have Learned About Software Testing](http://qntm.org/test)
+simply great.
 
 (pj)
 
