@@ -46,11 +46,13 @@ být vůbec řeč. A pro odlehčení:
 [JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s)
 nebo poslanec dneška [JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0).
 
-Kde tedy byla chyba? V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
+Kde se stala chyba (ptá se pár chytrých hlav z NDR)?
+V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
 Jistě: oni mi to poradili, já jen mlátil.
 Je to (snad) nešťastná formulka čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
 kdy úřad nesmí činit nic nad imperativ zákona?
-Té z roku [1960](http://www.psp.cz/docs/texts/constitution_1960.html) ale takováto pasáž chybí *(sic!)*. My ale víme, kde se tupost bere:
+Té z roku [1960](http://www.psp.cz/docs/texts/constitution_1960.html) ale tahle pasáž chybí *(sic!)*.
+My ale víme, kde se tupost bere:
 pohraniční stráž střílela
 a prokurátor nasazoval
 oprátky dle **tehdy** platných **zákonů**.
@@ -102,19 +104,15 @@ smířlivější.
 Nic víc než relikt trapného soucitu.
 Mantra z éry Listopadu *Nejsme jako oni!*
 měla úspěch: ti chlapíci a údernice KSČ(M)
-požívají imunity, polehávají v lavicích
+požívají imunity, meškají v lavicích
 Parlamentu ČR (Pozn. red. pro pomalejší:
 v **našem** parlamentu), inkasují desítky
 miliónů za volební období a ve veřejno**právních**
-médiích rozdávají úsměvy. Nebo si vystřihnou
-angažmá jako [radní](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
+médiích srší [vtipem](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
+Nebo si vystřihnou angažmá jako [radní](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
-
-
-A [Paměť národa](http://www.pametnaroda.cz/)
-teď pláče bolestí
-
-
+Jen [paměti národa](http://www.pametnaroda.cz/)
+to nejde do hlavy. Paměti obyvatelů však ano.
 
 Stručně: chtějí komunismus? Socialismus? (Odbočka: snad
 škoda toho slova, jež dík rudým tvářím nabylo
@@ -122,7 +120,263 @@ Stručně: chtějí komunismus? Socialismus? (Odbočka: snad
 Rovnost nebo bratrství? Chtějí Východ? Ať si popojdou.
 Republika však zůstává tady.
 
+Bohužel, 40 let života jako pomýlený nevykáží.
+Nemohou. Zůstalo by jim už jenom stáří.
+A to křehké mysli budovatelů neunesou.
+Neběží tu však o upření možnosti
+"socialistického" cítění. Nejde ani
+o otrockou myšlenku kolektivismu,
+nýbrž o způsob, kterým ho má býti
+dosaženo. Protože nikdo neumí mít
+**raději** bližního než sebe:
 
+> Ne tak má rozuměno být, když by někdo činil
+> hmotnou almužnu jednomu bližnímu, že by každému
+> na celém světě mohl totéž učinit, ale jako kdyby
+> nemocnou ruku léčil, to by prospívalo celému
+> tělu i všem údům toho těla.
+> *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 136.*
+
+Ano, demokracie může být lidská
+i méně lidská. Komunismus je ovšem
+vždy nelidský. Přesto už stačil
+zahnízdit i v [hlavách](http://www.juniorproject.eu/)
+nově [příchozích](http://prehravac.rozhlas.cz/audio/3061945).
+Vzato nemusí dlouho trvat, abychom *jednotně k práci,
+jednotně k volbám* vyráželi ex novo
+— chtivých očí a lysých hlav je za
+každého počasí sdostatek. Na stranu druhou..
+
+> [..] komunismus sám pobil daleko více komunistů,
+> než stačili všichni ostatní dohromady.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
+
+Ale spolehnout se na to nemůžeme.
+Nic by neřešila změna názvu strany
+ani vyloučení těch nejubožejších z jejich
+řad — tady běží o naprostou vymletost
+*celého* jejich aparátu.
+Ať třeba i nadále kují podvraty u píva
+— jen ne už v parlamentní putyce.
+
+**Propagace komunismu měla být dávno trestná.**
+
+Prapor srpu a kladiva ukrývá [více obětí](https://en.wikipedia.org/wiki/Mass_killings_under_Communist_regimes)
+než svastika hákového kříže. Třeba proto,
+že jsme hvězdu krve nechali nad Evropou (a světem)
+zářit desítky let. Ústav 
+přesto není trestný.
+
+Jak se to ale má s těmi zákazy? Nejdříve
+vysvětlit, poté zakázat. A zakázat
+jen kvůli těm, co nechtěli pochopit.
+Potírat šíření myšlenky, nikoliv
+osvětu, vlast
+
+potirat ale propagaci, nikoliv osvetu, mysleni.
+
+necht je o komunismu dostupnych maximum informaci,
+necht se o nem z gusta debatuje a treba i polemizuje,
+jen at uz ho proboha nikdo nepousti ke slovu.
+
+komunismus uz jednou cele stoleti dostal - dalsi nepotrebuje.
+
+samotne myslenky nejsou nic, pranic neublizi
+
+
+
+- jejich obhajoba, tedy propagace, uz ano.
+
+nehlede na fakt, ze nebyt tupcu (na obou stranach),
+nebylo by treba explicitnich zakazu.
+
+Komančové zpusobil az moc bolesti a utrpeni, nez abychom
+to mohli prejit netaktnim mlcenim.
+
+
+je vystaven na rozkazu, na te abstraktni veci,
+za kterou nikdo nenese odpovednost.
+
+co je to rozkaz: ta abstraktni vec muze za smrt?
+
+
+
+
+"Věř svým očím, ale uším moc nevěř."
+-- Kostohryz, z knihy Rakovina (bolševismu).
+
+> Propaganda vyzývá občana, aby nenáviděl to,
+> o čem čte, ne to, co zažil.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
+
+> Sláva, socialismus zvítězil,
+> člověk už si nemůže koupit, co potřebuje.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
+
+> [..] někdy více lidí umíralo na politiku než na nemoci.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
+
+> Demokracie musí pečovat o to, aby byla většinou.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
+
+> Neurotik se chytá své životní lži a pokud je postaven před volbu,
+> zda se má zříci této lži, anebo logického myšlení, dává přednost
+> obětování logiky. Neboť život by byl pro něho nesnesitelný bez útěchy,
+> kterou nachází v socialistické ideji. Ta mu ukazuje, že chyby,
+> jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
+=========
+
+> Přestala existovat porážka, existuje jen zničení.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 133.*
+
+Volnost před vlastním prahem,
+pravidla před prahem druhého.
+
+> Dvě tendence proplétají se historií, protikladné,
+> ale obě nepopiratelné, tendence ke svobodě
+> a tendence k disciplíně.
+> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 224.*
+
+
+
+===
+
+ÚSTR zkoumá komunismus jako totalitní
+režim, Ministersto obrany odškodňuje
+3. odboj a přesto není bolševická
+idea trestná.
+
+Kde se váží spravedlnost; v soudní síni?
+Přelíčení je slepé a subjektivní. Vládnou
+podbízivé emoce (zesměšnění výpovědí,
+senilní osazenstvo síně, prostoje,
+demagogie)
+
+
+[Dva muži ve městě](http://www.csfd.cz/film/12036-dva-muzi-ve-meste/)
+
+
+
+sepsani zakonu musi clovek zasvetit more casu a uvah.
+nepise kucharku. bohuzel se tak domniva.
+spatny recept prebijeme dalsim, novelu novelou, dodatek, dodatkem.
+hlavne at je vagni
+a co nejobsahlejsi. zacneme tim, ze lidem rekneme,
+kde se kupuje nadobi. ze ho musi omyt. a ze maji
+vseho davat tak akorat.
+vydame kucharku, pridame prilepky.
+
+neexistuje, aby zakon byl spatny.
+nemuze byt nic svatejsiho nez-li akt vydani zakonu.
+bohuzel nam zevsednel. leky nezabraly?
+
+Zákon nezabral? Zkusíme další.
+
+zakon ma byt ukaz zcela ojedinely.
+naprosto presny a urcujici a predevsim
+neusilujici o popsani lidske hlouposti.
+jen vybizi k hledani hlouposti nove,
+o ktere se jeste nepsalo.
+
+neprisuzujici pachateli vice prav nez-li obeti,
+a tudiz nezamenujici pachatele za obet.
+jasne vysilajici tvrdost.
+na mysl muze prijit cokoli, ale vule neprivoli.
+
+Zhruba: prisel jsi v noci do ciziho domu s umyslem loupit?
+nemas narok dovolavat se jakykoliv prav.
+vsechny jsi zahodil svym cinem.
+
+spolecnost ale musi hledet, aby k tomu nebyl dohnan.
+nikdo nemuze byt na okraji spolecnosti.
+samozrejme, kazdy obrazec ma i obrys, tedy periferii
+- jen at tam nikdo neni trvale.
+
+kazdy clovek ma moc dobre vyvinuty smysl pro to, co spravne
+je a neni. bohuzel to opovazlive casto nechce videt.
+uznava zvracene hodnoty. je to jednodussi, protoze to tak delaji ostatni.
+nevycnivate. kdyz mam moznost, vyuziji ji. kdo neokrada stat, okrada rodinu.
+ikdyz muzu, tak to znamena, ze bych i mel.
+
+Můžu? To asi znamená, že bych měl.
+
+kazdy den zivota se spatnymi hodnotami znamena o to
+nasledne bolestivejsi popreni sveho dosavadniho zivota.
+
+
+
+
+aby kazdy clovek znal vsechny zakony. vsechny.
+vsechny ho totiz definuji.
+
+namisto rikanek, ma byt ctena ustava.
+
+malokdo zna vsechny zakony.
+malokdo tudiz vi, kde a v cem zije.
+
+jen diky tomu muze vzniknout neco jako stat.,
+polozila 
+u soudu by ta spravedlnost mela byt nalezena,
+ale muze se stat, ze si jdete jen pro rozsudekk
+
+==
+
+Ale to jsme odbočili.
+
+
+.
+Karl Marx měl snad co říct ve
+svém 19. století, kdy "jeho nadhodnota"
+i chybějící pracovní zákoník, *v době
+průmyslové revoluce*, byly skutečně
+problémem.
+Ovšem ještě větším problémem bylo
+ale to, jak to hodlal řešit -
+chtěl zrušit soukromé vlastnictví.
+Tedy, buďme si všichni rovni!
+
+(musime vsichni mit hole zadky,
+abychom si byli rovni)
+
+Ve 20. stol. už ale neměl Marx co
+dělat. Bohužel tu utopii převzali
+bolševici v Rusku, kteří paradoxně
+nikdy žádného kapitalistu neviděli.
+
+Komunismus není možný,
+aniž by to někoho nestálo život a
+myšlení lidí se přitom nezatemnilo,
+hnusně nezvrátilo.
+
+
+A nezapomeňte: Pracovní iniciativou ku splnění úkolu
+
+= sebereflexe =
+neni to tak cernobily.
+dnes se mohu ze sve bezpecne
+pozice nakrasne vymezovat vuci vsem,
+kteri podlehli.
+
+ja tu moznost podlehnout
+nedostal, takze jsem z obliga.
+
+Jen by nam chybela svoboda.
+A bez ni asi nejsme nic.
+
+Musíte udělat chybu, abyste poznali,
+že to chyba je. To je svoboda.
+
+Nikdo ale nedělá chyby 40 let.
+
+
+Otázkou je, kolik našich chyb může
+okolí unést.
+
+Komunismus je sám o sobě tak absurdní,
+že jakákoli protiargumentace  [nemá smyslu](https://youtu.be/djFcjDyaZNY)
+
+Nemusíte už nic víc říkat.
 
 
 
@@ -138,10 +392,6 @@ léty 1948 (vzato už 1946) a 1989 příležitost
 demaskovat se.
 
 
-
-40 let svého pomýleného života nepřiznají.
-Nemohou. Zůstalo by jim už jenom stáří.
-A to slabé povahy budovatelů neunesou.
 
 
 
@@ -242,300 +492,8 @@ KOMUNISMUS?
 
 snad někdy platí *Si vis pacem, para bellum*
 
-Nejde o myslenku kolektivismu, nybrz o zpusob,
-kterym ho ma byti dosazeno.
+nepřipadá mi, že bychom měli dobojováno.
 
-ale at by byl zpusob sebe prijemnejsi - vzdy ztroskota:
-
-blizniho sveho nikdy nebudeme mit radeji, nez sama sebe.
-jen stejne, ale nikdy vice.
-
-ani Bible 
-
-Druhého stejně nemůžeme mít radši než sebe.
-
-<< ta citace Chelčického >>
-
-
-Nebezi tu o upreni moznosti socialistickeho citeni.
-
-Demokracie může být lidská i méně lidská.
-Komunismus je ovšem vždy nelidský.
-A nevěřili byste, že negramotnost je vlastní
-už i hlavám [nově příchozím](http://www.juniorproject.eu/).
-
-
-kdyby byli tak špatní, jak se tvrdí, už dávno
-
-Tahle mantra se jim stala tim, co je zvráceně ospravedlnuje,
-co prihrava nove obecenstvo.
-
-Vzato nemusí dlouho trvat, abychom *jednotně k práci,
-jednotně k volbám* vyráželi ex novo - chtivých očí a lysých hlav kariéristů na to máme dost.
-
-Na stranu druhou..
-
-> [..] komunismus sám pobil daleko více komunistů,
-> než stačili všichni ostatní dohromady.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
-
-Ale spolehnout se na to nemůžeme.
-
-Nejde však o změnu názvu strany nebo o vyloučení
-těch nejubožejších z jejich řad — tady běží o naprostou
-vymletost **celého jejich aparátu**. Ať třeba
-i nadále kují převraty u píva — jen ne už
-v parlamentní putyce. Sami to nejsou s to
-pochopit. Musí se 
-
-sami nejsou s to to pochopit - musi se jim to tedy
-dat prikazem - myslim, ze na ty jeste porad slysi.
-
-propagace komunismu by mela byt trestna.
-
-nejdrive vysvetlit, pote zakazat.
-a zakazat jen kvuli tem, co nechteli pochopit.
-
-potirat ale propagaci, nikoliv osvetu, mysleni.
-
-necht je o komunismu dostupnych maximum informaci,
-necht se o nem z gusta debatuje a treba i polemizuje,
-jen at uz ho proboha nikdo nepousti ke slovu.
-
-komunismus uz jednou cele stoleti dostal - dalsi nepotrebuje.
-
-samotne myslenky nejsou nic, pranic neublizi
-- jejich obhajoba, tedy propagace, uz ano.
-
-nehlede na fakt, ze nebyt tupcu (na obou stranach),
-nebylo by treba explicitnich zakazu.
-
-Komančové zpusobil az moc bolesti a utrpeni, nez abychom
-to mohli prejit netaktnim mlcenim.
-
-
-je vystaven na rozkazu, na te abstraktni veci,
-za kterou nikdo nenese odpovednost.
-
-co je to rozkaz: ta abstraktni vec muze za smrt?
-
-
-
-
-"Věř svým očím, ale uším moc nevěř."
--- Kostohryz, z knihy Rakovina (bolševismu).
-
-> Propaganda vyzývá občana, aby nenáviděl to,
-> o čem čte, ne to, co zažil.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
-
-> Sláva, socialismus zvítězil,
-> člověk už si nemůže koupit, co potřebuje.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
-
-> [..] někdy více lidí umíralo na politiku než na nemoci.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
-
-> Demokracie musí pečovat o to, aby byla většinou.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
-
-> Neurotik se chytá své životní lži a pokud je postaven před volbu,
-> zda se má zříci této lži, anebo logického myšlení, dává přednost
-> obětování logiky. Neboť život by byl pro něho nesnesitelný bez útěchy,
-> kterou nachází v socialistické ideji. Ta mu ukazuje, že chyby,
-> jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
-> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
-=========
-
-> Přestala existovat porážka, existuje jen zničení.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 133.*
-
-Volnost před vlastním prahem,
-pravidla před prahem druhého.
-
-> Dvě tendence proplétají se historií, protikladné,
-> ale obě nepopiratelné, tendence ke svobodě
-> a tendence k disciplíně.
-> *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 224.*
-
-
-
-===
-
-ÚSTR zkoumá komunismus jako totalitní
-režim, Ministersto obrany odškodňuje
-3. odboj a naproti tomu Parlament ČR
-rozdává desítky miliónů rudým poslancům.
-
-
-
-Proc Ustav pro studium totalitnich rezimu
-zkouma komunismus, kdyz je ten system
-v nasem pravnim radu zcela legalni, tedy
-ospravedlnitelny, znovu (boze!) zaveditelny?
-Na jednu stranu ho zkoumame jako totalitu a
-na stranu druhou ho do parlamentu volíme?!
-
-.
-v soudnim preliceni v zaveru filmu Dva muži ve městě.
-spravedlnost je slepa. je strasne slepa a subjektivni.
-vladnou emoce, dobre mirene provokace
-(zesmesneni vypovedi svedku, osazenstvo sine,
-prostoje, demagogie..)
-
-sepsani zakonu musi clovek zasvetit more casu a uvah.
-nepise kucharku. bohuzel se tak domniva.
-spatny recept prebijeme dalsim, novelu novelou, dodatek, dodatkem.
-hlavne at je vagni
-a co nejobsahlejsi. zacneme tim, ze lidem rekneme,
-kde se kupuje nadobi. ze ho musi omyt. a ze maji
-vseho davat tak akorat.
-vydame kucharku, pridame prilepky.
-
-neexistuje, aby zakon byl spatny.
-nemuze byt nic svatejsiho nez-li akt vydani zakonu.
-bohuzel nam zevsednel. leky nezabraly?
-zkusime tedy napsat dalsi recept. proto vydavame kucharky,
-ktere nikdo necte. kucharky prebijime dalsi kucharkou.
-
-na vse musi byt zakon. pro vlastni rozum a vnitrni zakonnost (filosofii)
-uz nezbyva misto. Jednodušší než něco vysvětlovat, je něco nařídit.
-
-netahejme do toho, ze je to v necim zajmu - neni.
-
-zakon ma byt ukaz zcela ojedinely.
-naprosto presny a urcujici a predevsim
-neusilujici o popsani lidske hlouposti.
-jen vybizi k hledani hlouposti nove,
-o ktere se jeste nepsalo.
-
-neprisuzujici pachateli vice prav nez-li obeti,
-a tudiz nezamenujici pachatele za obet.
-jasne vysilajici tvrdost.
-na mysl muze prijit cokoli, ale vule neprivoli.
-stejne jako prikazani nezabijes. nesmi se to stat.
-nemuze to porusit, kdo by potom byl?
-
-prisel jsi v noci do ciziho domu s umyslem loupit?
-nemas narok dovolavat se jakykoliv prav.
-vsechny jsi zahodil svym cinem.
-
-spolecnost ale musi hledet, aby k tomu nebyl dohnan.
-nikdo nemuze byt na okraji spolecnosti.
-samozrejme, kazdy obrazec ma i obrys, tedy periferii
-- jen at tam nikdo neni trvale.
-
-neoddelitelne s tim prichazi i pozadavek
-na ty absolutne nejvyssi mravni hodnoty lidi o spravedlnosti
-rozhodujicich.
-neni misto pro omyly.
-neni to obycejna prace a ani z vas nedela vyssi moc.
-lide v justici rozhoduji o zivote druhych.
-neni vetsi odpovednosti. vsednost ani samozrejmost
-tam nema co delat.
-zivot nikoho neni stejny, vsedni, bezny.
-neni to jen oznaceni spisu. je to <b>clovek</b>.
-
-kazdy clovek ma moc dobre vyvinuty smysl pro to, co spravne
-je a neni. bohuzel to opovazlive casto nechce videt.
-uznava zvracene hodnoty. je to jednodussi, protoze to tak delaji ostatni.
-nevycnivate. kdyz mam moznost, vyuziji ji. kdo neokrada stat, okrada rodinu.
-ikdyz muzu, tak to znamena, ze bych i mel.
-
-Můžu? To asi znamená, že bych měl.
-
-kazdy den zivota se spatnymi hodnotami znamena o to
-nasledne bolestivejsi popreni sveho dosavadniho zivota.
-
-
-
-
-aby kazdy clovek znal vsechny zakony. vsechny.
-vsechny ho totiz definuji.
-
-namisto rikanek, ma byt ctena ustava.
-
-malokdo zna vsechny zakony.
-malokdo tudiz vi, kde a v cem zije.
-
-jen diky tomu muze vzniknout neco jako stat.,
-polozila 
-u soudu by ta spravedlnost mela byt nalezena,
-ale muze se stat, ze si jdete jen pro rozsudekk
-.
-Karl Marx měl snad co říct ve
-svém 19. století, kdy "jeho nadhodnota"
-i chybějící pracovní zákoník, *v době
-průmyslové revoluce*, byly skutečně
-problémem.
-Ovšem ještě větším problémem bylo
-ale to, jak to hodlal řešit -
-chtěl zrušit soukromé vlastnictví.
-Tedy, buďme si všichni rovni!
-
-(musime vsichni mit hole zadky,
-abychom si byli rovni)
-
-Ve 20. stol. už ale neměl Marx co
-dělat. Bohužel tu utopii převzali
-bolševici v Rusku, kteří paradoxně
-nikdy žádného kapitalistu neviděli.
-
-Komunismus není možný,
-aniž by to někoho nestálo život a
-myšlení lidí se přitom nezatemnilo,
-hnusně nezvrátilo.
-
-
-A nezapomeňte: Pracovní iniciativou ku splnění úkolu
-
-= sebereflexe =
-neni to tak cernobily.
-dnes se mohu ze sve bezpecne
-pozice nakrasne vymezovat vuci vsem,
-kteri podlehli.
-
-ja tu moznost podlehnout
-nedostal, takze jsem z obliga.
-
-S nazorem se nikdo nerodime.
-
-Hadam, ze pro mnoho z nas by
-bylo bezpecnejsi tem svodum nebyt
-vystaven. Pak nezklameme.
-
-Jen by nam ale chybela svoboda.
-A bez ni uprimne nejsme nic.
-
-Musíte udělat chybu, abyste poznali,
-že to chyba je. To je svoboda.
-
-Otázkou je, kolik našich chyb může
-okolí unést.
-
-Komunismus je sám o sobě tak absurdní,
-že jakákoli protiargumentace  [nemá smyslu](https://youtu.be/djFcjDyaZNY)
-
-Nemusíte už nic víc říkat.
-
-Patříme na západ, ne na východ.
-
-CR majic za sebou desetileti stalinismu vysila jako svoje
-nejlepsi lidi do Evropy soudruhy z KSCM nebo rovnou jako
-nejlepsiho zastupce vsech 10 milionu vysle Fuleho, ktery
-za normalizace sbiral zkusenosti v Moskve
-
-rozhovor s Ing. Konečnou, 33 let, odbornice KSČM
-http://prehravac.rozhlas.cz/audio/3061945
-
-[priloha:
-nekteri komuniste to mysleli dobre
-http://prehravac.rozhlas.cz/audio/2356363
-proc nas stehujete
-http://prehravac.rozhlas.cz/audio/3059233
-Václav Vaško
-http://prehravac.rozhlas.cz/audio/3159834
-]
 
 -----------------------------
 
@@ -690,6 +648,17 @@ A přesně takoví rozhodují volby.
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
 * Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
 * Drda, A.: [Proč nejsem Rusku vděčný za osvobození](http://hlidacipes.org/adam-drda-proc-nejsem-rusku-vdecny-za-osvobozeni/)
+
+
+
+[priloha:
+nekteri komuniste to mysleli dobre
+http://prehravac.rozhlas.cz/audio/2356363
+proc nas stehujete
+http://prehravac.rozhlas.cz/audio/3059233
+Václav Vaško
+http://prehravac.rozhlas.cz/audio/3159834
+]
 
 
 
