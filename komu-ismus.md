@@ -48,13 +48,10 @@ nebo poslanec dneška [JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W2
 
 Kde tedy byla chyba? V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
 Jistě: oni mi to poradili, já jen mlátil.
-
-
-Je to (snad) nešťastná formulka >> DNEŠNÍ << Ústavy,
-kdy úřad nesmí činnit nic nad imperativ zákona?
-Jde jen o tupé zastření vlastní úvahy
-zmocněnce, který tu (zlo)vůli *královo* jménem
-koná? Pohraniční stráž střílela
+Je to (snad) nešťastná formulka čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
+kdy úřad nesmí činit nic nad imperativ zákona?
+Té z roku [1960](http://www.psp.cz/docs/texts/constitution_1960.html) ale takováto pasáž chybí *(sic!)*. My ale víme, kde se tupost bere:
+pohraniční stráž střílela
 a prokurátor nasazoval
 oprátky dle **tehdy** platných **zákonů**.
 Odvolávat se na (psanost) pravidla
@@ -63,15 +60,8 @@ stojí totalitní i trudné
 **demo**kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
 Zákon/rozkaz/směrnice/dekret ještě
-**nikdy nikoho** nezabil.
+**nikdy nikoho** nepopravil.
 Člověk člověka ale už ano.
-
-
-Psal Masaryk *O bolševictví*
-i Čapek *Proč nejsem komunistou*
-— nestačilo to, museli jsme si sáhnout.
-A zase to nestačí, protože teď
-si je chceme i pohladit.
 
 Komunismus je z těch dob, ve kterých
 ze sebe vydáme to nejhorší. Někomu to
@@ -96,15 +86,44 @@ z těch závaží na hloupé straně snah.
 Žel bohu, kdyby lidé komunismus skutečně
 nechtěli — nebyl by tady. Na stranu druhou
 jsme zvládli být sovětským satelitem o světelné
-týdny před Sputnikem samým.
+týdny před Sputnikem samým. Psal Masaryk *O bolševictví*
+i Čapek *Proč nejsem komunistou*
+— nestačilo to, museli jsme si sáhnout.
+A zase to nestačí, protože teď
+si je chceme i pohladit. S každým
+rokem je sentiment hlubší, fakta
+smířlivější.
+
+> Ale až jednou vybledne čerstvý dojem z bolševických
+> zločinů, bude socialistický program znovu přitažlivý
+> pro masy.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
+
+Nic víc než relikt trapného soucitu.
+Mantra z éry Listopadu *Nejsme jako oni!*
+měla úspěch: ti chlapíci a údernice KSČ(M)
+požívají imunity, polehávají v lavicích
+Parlamentu ČR (Pozn. red. pro pomalejší:
+v **našem** parlamentu), inkasují desítky
+miliónů za volební období a ve veřejno**právních**
+médiích rozdávají úsměvy. Nebo si vystřihnou
+angažmá jako [radní](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
+pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
+
+
+A [Paměť národa](http://www.pametnaroda.cz/)
+teď pláče bolestí
 
 
 
-Chtějí komunismus? Socialismus? (Odbočka: snad
+Stručně: chtějí komunismus? Socialismus? (Odbočka: snad
 škoda toho slova, jež dík rudým tvářím nabylo
-šedi, jak vzpomenul V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
+šedi panelu, jak vzpomenul V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Rovnost nebo bratrství? Chtějí Východ? Ať si popojdou.
 Republika však zůstává tady.
+
+
+
 
 
 
@@ -326,12 +345,6 @@ co je to rozkaz: ta abstraktni vec muze za smrt?
 > kterou nachází v socialistické ideji. Ta mu ukazuje, že chyby,
 > jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
-
-> Ale až jednou vybledne čerstvý dojem z bolševických
-> zločinů, bude socialistický program znovu přitažlivý
-> pro masy.
-> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
-
 =========
 
 > Přestala existovat porážka, existuje jen zničení.
@@ -630,8 +643,6 @@ Stejne jako k tomu vyzyva uz preambule Ustavy:
 
 Ted uz na to zbyva jen nezapomenout.
 
-ústava z roku 1960; je to hnus!
-http://www.psp.cz/docs/texts/constitution_1960.html
 
 [1]Do ruznych stran, Politika a svedomi
 
@@ -678,6 +689,10 @@ A přesně takoví rozhodují volby.
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
 * Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
+* Drda, A.: [Proč nejsem Rusku vděčný za osvobození](http://hlidacipes.org/adam-drda-proc-nejsem-rusku-vdecny-za-osvobozeni/)
+
+
+
 
 =====================================
 =================================
