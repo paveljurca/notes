@@ -1,16 +1,17 @@
-Test Driven Development
-=======================
+@Test
+=====
 
 First, I should confess I'm no
-pro on TDD by any means.
+pro on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf)
+by any means.
 It's just I'd like to list
 a few (obvious) notes I've get
 to know alongside.
 
-My TDD's incentive is that
+My *@Test*'s incentive is that
 I feel less pressure knowing
-the tests sit there, so they
-will tell me if my last added
+the "magic" sits there, so
+it's gonna tell me if my last added
 block of code broke everything.
 Did it passed? Then move on :)
 
@@ -24,11 +25,11 @@ not know (at first) whether
 there's a bug in your code
 or in the test itself.
 
-Of course TDD is an extra effort
+Of course a `@Test` is an extra effort
 but it pays off in terms of thinking
 about a new code you're gonna write.
 To put it simply: if you can't test it,
-you're probably doing it wrong.
+you're likely to be wrong.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">If you can&#39;t figure out how to write the tests for something, how will you figure out how to write the something?</p>&mdash; Evan Phoenix (@evanphx) <a href="https://twitter.com/evanphx/status/504735308932333568">August 27, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -37,7 +38,7 @@ you're probably doing it wrong.
 but *NOT* the implementation
 
 - No happy path testing, you intend
-to break that code
+to break (humiliate) your own code
 
 - Single responsibility of tested classes
 (methods), i.e. a class does too much
@@ -71,16 +72,17 @@ the actual code we run the test for
 `assertEquals("Calculation wrong", expResult, result);`
 
 I've got some example tests in Perl or Java
-(but especially that Java code's not good
+(but especially that Java code's not the best one
 for it was my first test ever). Anyway,
 here they are:
 
 <script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
-There's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-or some [bad](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
-[points](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
-about TDD.
+[TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
+[some](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+[dark sides](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf).
+FYI there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+and likewise many other [test levels](https://en.wikipedia.org/wiki/Software_testing#Testing_levels).
 I've also found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
 and [Thing I Have Learned About Software Testing](http://qntm.org/test)
 simply great.
