@@ -13,7 +13,7 @@ Putina [baví](http://youtu.be/sUNslUmQNiw).
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
-Žij krásně, máš-li na to. Odeznělo budovatelské
+Žij krásně, máš-li na to. Odeznělo "mírotvorné"
 *každému dle jeho potřeb*.
 A ublížený dav udává cestu — tím komu tleská.
 Putin tu slabost poddaných zná a posiluje ji kde může
@@ -27,24 +27,19 @@ Putin tu slabost poddaných zná a posiluje ji kde může
 Byrokraté opírají se o lichou naději, že Obyvatel
 snad ví, jak se má chovat. **Neví to**, nikde se to neučí. 
 Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
-Patočka zmiňoval zákonitosti vnitřní (filosofie)
+Patočka zmínil zákonitosti vnitřní (filosofie)
 a vnější (právo). Rusům se nedostává obého.
-Dříve by byla válka, dnes jsme humánější: máme sankce
-a tučné krky z dobrot v Bruselu.
+Dříve by byla válka, dnes jsme humánější: máme sankce.
 
-Pak odkud ta jejich rozpínavost? Vcelku jedno-duchá věc:
-každý hraniční patník k dobru oddálí vyčerpání enklávního
-obzoru, ke kterému se modlí a vztahují.
+Rozpínavost, asi jedno-duchá věc:
+každý hraniční patník k dobru dá zapomenout
+vlastním těžkostem.
 Snad povolaní šikovatelé panslavismu.
 Věčná škoda, že Rus už drahné věky znamená okupant.
 O to větší škoda, že jim nejsme s to
 jejich radost odepřít.
-
-Vzdálenosti ale bývají Damoklovým mečem.
-Jakákoli názorová shoda utopí se v kosmatých
-dálavách. A nádavkem je ta samá dálava oblíbeným
-kolbištěm bláznů, jež tak zkoušejí vlastní variace
-režimu *pevné ruky*.
+A ta vzývaná dálava? Jen kolbiště bláznů, jež tak
+zkoušejí vlastní variace režimu *pevné ruky*.
 
 > Alexandr Jakoblev ve své knize Rusko plné
 > křížů jmenuje tři určující zdroje ruské historie:
@@ -56,25 +51,20 @@ režimu *pevné ruky*.
 > *Kučera, V.: Velké Rusko. MFDNES, 4. března 2014, A10.*
 
 Být a Mít — práva, kterým se nechce.
-Rusové vždy věděli proč:
-*zpátečnictví* je bez nich snazší.
+*Zpátečnictví* je bez nich snazší
+(asi tautologie: k čemu se vracet,
+byvše stále na začátku?).
 Minulost? Bylo tam teplo a jistoty (sic!).
 Obyčejně se lépe vzpomíná než se žije.
-Carové, inspektoři, gubernátoři ani
-sověti *člověka* nepotřebovali. Prý co s ním.
-Však Míťa v Bratrech Karamazových měl řešení:
+Míťa v Bratrech Karamazových měl řešení:
 *Široký, příliš široký je člověk. Zúžil bych jej!*
-
-Milic, kádrů, gulagů, aparátů i prokuratur,
-Komsomolu, kolchozů, národních výborů,
-rukovanců ideologie i fízlů strany rojily se
-včelíny. Drnkot na "kolegialitu" davu jen
+Drnkot na "kolegialitu" davu jen
 pojistil, aby každého bylo méně než nic.
 Až tehdy rovnost. A někdy dle nálady:
 *Čtyři nohy dobré, dvě nohy lepší!*
 
 Trpěli však své pod botou mongolů,
-tatarů, tmářství, bolševismu. Tápání se stalo
+tatarů, tmářství, sněním Nejvyššího sovětu. Tápání se stalo
 naturelem. Snad proto ta *vlast* namnoze bývá
 přenašečem ba původcem hrozeb. Století minulá,
 i ta dnešní, jsou očividná. Zvrácené nápady
@@ -87,7 +77,7 @@ a podivní lidé tam asi vždy snáze udělají kariéru.
 
 Prosté a poddajné *dělnictvo* je tak tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
-ze stromů nebylo v hladových časech důvodem k otázkám.
+ze stromů (v hladových časech) nebylo důvodem k otázkám.
 Navykli si přežít, nikolivěk žít.
 Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
 Pro co ale? Ubránili jen svůj nerozum. A co dělat,
@@ -109,14 +99,12 @@ Proč? Asi prostoduchost. Nukleární třaskavina
 už není záležitostí nějaké země, nýbrž
 konkrétní Země. Nedivme se tak, že voják Rudé
 armády není povinován zabít, ale být zabit.
-Tomuto kečupu ruské nátury je už všechno jedno;
-národní ctižádostí je trpět. Rádi by o tom
-přesvědčili i své (dnes občasně bývalé) satelity.
-Seschlých makovic máme pro to
-v Čechách, na Moravě i Slezsku dost.
-Čeká se jen na kombajny z Východu.
+Kečupu ruské nátury je už všechno jedno;
+národní ctižádostí je trpět. A rádi by o tom
+přesvědčili i své (dnes občasně bývalé) ideo-bratříčky.
 Ne, rozum nad tím nezůstává
-stát, protože v tom žádný není.
+stát, protože v tom žádný není.. přesto naše vrátka
+stále nedovírají.
 
 > Už Puškin píše, že jsou Rusové, jimž vlastní
 > život za půl kopejky a cizí už docela zadarmo.
@@ -128,13 +116,11 @@ bránit není co, tahle armáda může jen útočit.
 Škoda těch srdečných lidí, kteří — tam někde —
 stále jsou. Škoda, že s tím nic nedělají.
 Více Solženicynů, Zubovů, Bukovských,
-Gorbaněvských, Čechovů, Lermontovů a jiných a dalších!
-Vlastní zoufalost ale politruci nikdy nepřipustí.
-Přišli jsme jim na ni totiž dříve nežli oni.
-A to jim teď brání.
+Gorbaněvských, Čechovů, Lermontovů a jiných a dalších.
+Zoufalost ale politruci nikdy nepřipustí.
+My už na ni však přišli, a to jim teď brání.
 Maxim Gorkij jednou napsal:
 *Rus je od přirozenosti náchylný ke krutosti*.
-Raději ale věřit v dnešní renonc těchto slov.
 
 Počátek 20. století byl k Rusku nevlídný,
 k Evropě nezasloužený. Tehdy totiž rozvědčíci,
@@ -150,9 +136,6 @@ Avšak zbytečná polarizace a striktní papouškování
 omleté linie směrem k "ruskému světadílu" jen
 zatvrzuje obě strany. Proč vůbec pronášet slova,
 od kterých změnu nečekáme, nechceme.
-Možná si [mlčky](http://jurcapavel.cz/blog/mluvit)
-odžít pár příštích let a doufat v novou generaci
-nezatíženou tunelovým *Blanka* viděním.
 To by platilo pro *východní* i *západní* kliku.
 Ony ale trvají na vlastním epilogu.
 Chtějí ho hned.
@@ -169,13 +152,13 @@ Tedy, když i diplomacie
 Je jedno, co člověk udělá.
 Vždy to totiž udělá špatně.
 
-Přitom není tak daleko k rokům,
-ve kterých tito dnešní *samozvanci*
-a lešenáři aparátů s vámi
-ve školce ujídali krupicovou kaši
+Přitom není tak daleko k rokům
+dětským,
+ve kterých s vámi tito dnešní 
+lešenáři aparátů
+ujídali krupicovou kaši
 i měli stejné bačkůrky.
-Jsou to pořád ti samí troubové,
-"oni", "stát", "svět", cokoli.
+Jsou to "Oni", "stát", "svět", atd. apod.
 Jsme to my sami.
 
 Dobrat se dnes pravdy o stavu světa je vinou
@@ -185,7 +168,7 @@ Stačí si jen vzpomenout na tajnosti,
 jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská imbecilita. A proti té se
-těžko pořádá **exodus nebo exitus**
+těžko pořádá *exodus nebo exitus*
 — jedeme v ní všichni. 
 
 > Konečně každý hřích koná se vůlí a má hnízdo
