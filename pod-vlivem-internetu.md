@@ -1,5 +1,5 @@
-Nezvratnost internetu
-=====================
+Pod vlivem internetu
+====================
 
 _a translation of_  
 [The Irreversible Change Of The Internet](http://issuu.com/wesc1999/docs/no3/14)  
@@ -137,7 +137,7 @@ skrze Hypebeast. Ona touha je
 sdílena nikoliv jen mnou, ale
 jsem si jist, že i mými vrstevníky,
 jež všichni stvořili mnohá sebevyjádření
-skrze hmotné i nehmotné produkty.
+skrze hmotné i nehmotné výdobytky.
 
 Navzdory oddávání se mnohým věcem
 zároveň, kdy se nám nedostává směr,

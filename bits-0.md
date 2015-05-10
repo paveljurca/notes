@@ -62,18 +62,35 @@ via [gfxboot](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen).
 
 ## Vim setup
 
-The following forces [Vim](http://www.vim.org/)
-to translate tabs and use indentation with
-just 2 spaces:
+The following forces [Vim](http://mamchenkov.net/wordpress/2004/05/10/vim-for-perl-developers/)
+to translate tabs into 4 spaces, use `M` to comment out lines
+or to check the [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
 
     % cat >> ~/.vimrc
     set number
-    set shiftwidth=2
-    set softtabstop=2
+    set shiftwidth=4
+    set softtabstop=4
     set shiftround
     set expandtab
     set t_Co=256
     set autoindent
+    set wrap
+    set showmatch
+    " :make
+    set makeprg=perl\ -c\ %\ $*
+    set errorformat+=%m\ at\ %f\ line\ %l\.
+    set errorformat+=%m\ at\ %f\ line\ %l
+    set autowrite
+    " color complex things
+    let perl_extended_vars=1
+    let perl_include_pod=1
+    " quit instead of Ex mode
+    map Q :q
+    " toggle comment
+    command -range=% M :<line1>,<line2>s/^/#/
+    command -range=% MM :<line1>,<line2>s/^#//
+    map ,m :s/^/#/g<CR>
+    map ,mm :s/^#//g<CR>
     filetype indent on
     syntax on
     colorscheme peachpuff
@@ -83,9 +100,9 @@ just 2 spaces:
 ![Vim](m/vim.png)
 (gnome-terminal)
 
-Checkout [vi-improved](http://vi-improved.org/)
-or [vim-perl](http://github.com/vim-perl/vim-perl)
-for more.
+* [vi reference page](http://www.kichwa.com/quik_ref/vi_ref.html)
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+* [vi-improved](http://vi-improved.org/)
 
 ## Sublime setup
 
@@ -163,7 +180,7 @@ section and having it like:
 To determine the `scope` just highlight
 a variable/keyword/function/whatever and
 then press `Ctr+Alt+Shift+P` while it's gonna
-show up in the status bar.
+show up in a status bar.
 
 (pj)
 

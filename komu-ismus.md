@@ -46,7 +46,7 @@ plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/
 Z ráje se neutíká, a jestli ten ráj neuznáš,
 jsi jen další spojka na Vatikán ohrožující
 naše socialistické zřízení. *Republiku si rozvrátit
-nedáme!* Do res publiky měl ale ten aparát
+nedáme!* Do res publiky ale měl ten aparát
 patolízalů daleko. Namátkou [JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s),
 [Ing. Miroslav Štěpán, CSc.](https://youtu.be/c89MIWlqSNw)
 nebo současně uvědomělý poslanec [JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0)
@@ -66,13 +66,13 @@ Pár chytrých hlav z NDR se ptá, kde byla chyba:
 V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
 Jistě, oni mi to poradili, já jen mlátil.
 Nebo je na vině čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
-kdy úřad nesmí činit více (nebo méně) oproti liteře zákona?
+kdy úřad nesmí činit nic za literu zákona?
 Té [dřívější](http://www.psp.cz/docs/texts/constitution_1960.html)
 ale podobné znění chybí *(sic!)*.
 Navzdory tomu víme, kde se tupost bere:
 pohraniční stráž střílela
 a prokurátor nasazoval
-oprátky dle *tehdy* platných zákonů.
+oprátky dle **tehdy platných** zákonů.
 Odvolávat se na *(psanost!)* pravidla
 je hrozivé slabošství. Na něm právě
 stojí totalitní i trudné
@@ -87,11 +87,11 @@ Zákon (rozkaz nebo dekret) ještě
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
 
 Komunismus je z těch dob, ve kterých
-ze sebe vydáme to nejhorší. Někomu to
+ze sebe vydáme to horší. Někomu to
 vyhovuje, jinak by to stejně neuměl.
-A pak je tu většina, která se **jen**
+A pak je tu většina, která se *jen*
 křivě rozhodla. U Edvarda Beneše to byl fanatický strach
-z neměckého *Drang nach Osten* i opakování Mnichova.
+z německého *Drang nach Osten* i opakování Mnichova.
 A spásu viděl zcela nekriticky v Sovětském svazu.
 Jím iniciované četné dohody o spolupráci, vzájemném
 přátelství i přehnaná servilita byly jedním
@@ -123,7 +123,7 @@ smířlivější.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Mantra z éry Listopadu *Nejsme jako oni!*
-má výsledky: chlapíci a údernice KSČ(M)
+měla opodstatnění: chlapíci a údernice KSČ(M)
 požívají imunity, meškají v lavicích
 Parlamentu ČR (Pozn. red. pro pomalejší:
 v **našem** parlamentu), inkasují zlaťáky
@@ -138,11 +138,11 @@ to nejde do hlavy. Paměti obyvatelů však ano.
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus, slovo co chutná po umakartu
+Socialismus, slovo s příchutí panelového bloku
 (více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Rovnost a bratrství je pleťová maska Východu.
 Kdo chce jistoty, může popojít.
-Republika však zůstává tady.
+Republika na lítost nezajde.
 
 > Neurotik se chytá své životní lži a pokud je postaven před volbu,
 > zda se má zříci této lži, anebo logického myšlení, dává přednost
@@ -153,12 +153,12 @@ Republika však zůstává tady.
 
 Bohužel, 40 let života jako pomýlený nevykáží.
 Nemohou. Zůstalo by jim už jenom stáří.
-Avšak nejde o upření práva na
-socialistické (ať už to znamená cokoli)
-cítění. Nejde ani
-o otrockou myšlenku kolektivismu,
-nýbrž o způsob, kterým ho má být
-dosaženo. Protože nikdo neumí mít
+Leč neupírejme budovatelům (ani těm po třech lobotomiích)
+právo na socialistické (ať už to znamená cokoli)
+cítění. Nechme jim i poníženou myšlenku kolektivismu,
+ale už **nikdy** nedovolme způsob,
+kterým ho má nebo mělo být
+dosaženo, protože nikdo neumí mít
 *raději* bližního než sebe:
 
 > To se nemá chápat tak, že člověk má milovat
@@ -175,11 +175,12 @@ A obdobně:
 > tělu i všem údům toho těla.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 136.*
 
-Demokracie může být lidská
-i méně lidská. Komunismus je
-vždy bezpříkladně nelidský. Přesto opětovně zahnízdil
-i v [hlavách](http://www.juniorproject.eu/)
-světa [nechápavých](http://prehravac.rozhlas.cz/audio/3061945).
+Demokracie umí být lidská
+i méně lidská. Komunismus nic neumí:
+je vždy bezpříkladně nelidský.
+Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
+to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
+chápat.
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
 jednotně k volbám* vyráželi ex novo
 — chtivých očí a lysých hlav je za
@@ -199,7 +200,19 @@ ni exkomunikace těch nejubožejších z jejich
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
 
 **Záliba v komunismu měla být už 26 let trestná.**  
-Není.
+Není. Asi tak mnozí dávají vyniknout své velikosti
+a dobrotě. Nepochopili ale jedno:
+
+> Zač pokání při zpovědi přijali, to
+> i s pokáním bez přestání dělají [..]
+> neodpouští Bůh pražádnému hříchy, jedině
+> jestliže odstoupí od nich vůlí, úmyslem
+> i skutkem.
+> *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
+
+Ta domýšlivost ponechala červené knížky
+klidnému stáří a ideologii v pozadí
+ještě klidnější budoucnosti.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -224,11 +237,9 @@ od věci nacismu).
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 115.*
 
 Zákazy. Pravda, nejsme jako oni, ale stát
-je proto, že je právo. Ne vice versa.
-Jen tu hloupost zregulovat nelze
-(tak rychle nikdo zákony nepíše).
-Nejde o svobodu jednotlivce,
-ale jednotlivců. Z preambule Ústavy:
+stojí proto, že je právo. Vice versa není nic.
+Řád jednoho je svobodou druhého.
+Z preambule Ústavy:
 *[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.*
 A to se komunismu příčí:
 
@@ -245,14 +256,15 @@ A to se komunismu příčí:
 > __Lidové noviny, 19. 10. 1928__  
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
 
-Potírat šíření (stavění na odiv) myšlenky
+Potírat šíření (stavění na odiv) tužby
 komunismu, nikoliv osvětu nebo soukromé
 (třeba polohlasné) "zvážení". Nechť je
 o něm dostupných maximum informací,
 nechť se o něm z gusta debatuje a třeba
 i polemizuje, jen ať už ho proboha
-nikdo nepouští ke slovu. Komunismus
-už jednou celé století dostal —
+nikdo nepouští ke slovu (ani ke stolu).
+Komunismus
+jednou celé století dostal —
 další nepotřebuje. Nelze jej přejít
 netaktním mlčením.
 
@@ -302,8 +314,8 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-až je z toho každé slovo v debatě
-o něm [zhnuseno](https://youtu.be/djFcjDyaZNY).
+že každé slovo v debatě o něm končí
+rychle [opotřebeno](https://youtu.be/djFcjDyaZNY).
 Vyzněním z Opilých banánů: *Komunismus je svinstvo
 a bolševici jsou svině.* Kéž je to dostatečně
 korektní. *Si vis pacem, para bellum* nezaniklo.
@@ -313,7 +325,7 @@ Ni my máme vyhráno.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
 Demokracie může mít trny: *Právem se stává to,
-co většina za právo prohlásí (Aristotelés)*.
+co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
 nikdo ho neslyší (jak se jednou vyjádřil
@@ -338,7 +350,7 @@ A přesně takoví rozhodují (i vyhrávají) volby.
 > *Jean Paul*
 
 Zbývá jen rada Kostohryze Demkovi:  
-*Věř svým očím, ale uším moc nevěř (Solženicyn)*.
+*Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 (pj)
 
