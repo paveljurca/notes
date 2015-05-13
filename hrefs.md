@@ -90,7 +90,7 @@ A collection of mine..
 * [Zátiší R1](http://http://www.radio1.cz/archiv-poradu/download-list/2-zatisi)
 * [TED radio hour](http://www.npr.org/templates/archives/archive.php?thingId=57)
 * [The Gently Mad](http://thegentlymad.com/)
-* [Show me your mic](http://goodstuff.fm/smym)
+* [GoodStuff Broadcasting](http://goodstuff.fm)
 * [People Who Know Their Shit](http://businessrepublic.net/the-podcast/)
 
 * __dev__
