@@ -12,7 +12,7 @@ pod prachem doby
 já a já  
 jsme sami  
 stínohra mysli  
-přídavkem stavy  
+nádavkem stavy  
 vakuem čela  
 temní úvahy  
 tak vzdálené  
