@@ -6,7 +6,7 @@ Komu?ismus
 > demokratický a komunistický, ne kapitalistický a socialistický.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 141.*
 
-Začněme s dotazníkem do zaměstnání ve ŠKODA PRAHA
+Začněme s dotazníkem do zaměstnání (ŠKODA PRAHA)
 ještě z roku 1986:
 
 6. Třídní - sociální původ
@@ -39,17 +39,16 @@ své rodiny apod.
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
 I dnes bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. A další věc:
-ráj mluví sám za sebe. Nemá zapotřebí
+natěšených respondentů. Ráj mluví sám za sebe.
+Nemá zapotřebí
 honit si triko elektřinou v hraničních
 plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
-Z ráje se neutíká, a jestli ten ráj neuznáš,
-jsi jen další spojka na Vatikán ohrožující
-naše socialistické zřízení. *Republiku si rozvrátit
-nedáme!* Do res publiky ale měl ten aparát
-patolízalů daleko. Namátkou [JUDr. Gustáv Husák, CSc.](http://youtu.be/CvbMM0fyV5U?t=7m9s),
-[Ing. Miroslav Štěpán, CSc.](https://youtu.be/c89MIWlqSNw)
-nebo současně uvědomělý poslanec [JUDr. PhDr. Zdeněk Ondráček, Ph.D.](http://youtu.be/W21maRT1sm0)
+[Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
+dělo *Republiku si rozvrátit nedáme!*
+Do res publicae měl však náš aparát patolízalů těžce daleko.
+Z ráje se neutíká. A jestli ten ráj neuznáš,
+jsi jen další spojka na Vatikán ...ohrožující
+naše socialistické zřízení.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -66,7 +65,7 @@ Pár chytrých hlav z NDR se ptá, kde byla chyba:
 V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
 Jistě, oni mi to poradili, já jen mlátil.
 Nebo je na vině čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
-kdy úřad nesmí činit nic za literu zákona?
+kdy úřad nesmí činit nic nad (nebo pod) literu zákona?
 Té [dřívější](http://www.psp.cz/docs/texts/constitution_1960.html)
 ale podobné znění chybí *(sic!)*.
 Navzdory tomu víme, kde se tupost bere:
@@ -76,7 +75,7 @@ oprátky dle **tehdy platných** zákonů.
 Odvolávat se na *(psanost!)* pravidla
 je hrozivé slabošství. Na něm právě
 stojí totalitní i trudné
-**demo**kratické režimy. Kánon ožívá
+*demo*kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
 Zákon (rozkaz nebo dekret) ještě
 *nikdy nikoho* nezabil.
@@ -87,15 +86,15 @@ Zákon (rozkaz nebo dekret) ještě
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
 
 Komunismus je z těch dob, ve kterých
-ze sebe vydáme to horší. Někomu to
+"čím hůře, tím lépe". Někomu to
 vyhovuje, jinak by to stejně neuměl.
-A pak je tu většina, která se *jen*
-křivě rozhodla. U Edvarda Beneše to byl fanatický strach
+A pak mějme většinu, která se přejícně
+pro rovnější zítřky rozhodla. U Edvarda Beneše to byl fanatický strach
 z německého *Drang nach Osten* i opakování Mnichova.
 A spásu viděl zcela nekriticky v Sovětském svazu.
 Jím iniciované četné dohody o spolupráci, vzájemném
 přátelství i přehnaná servilita byly jedním
-z těch závaží na hloupé straně snah.
+z těch závaží na hloupé straně úvah.
 
 > Říkám jen pro naše lidi, ke kterým v našich věcech
 > mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
@@ -107,15 +106,19 @@ z těch závaží na hloupé straně snah.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
 Žel bohu, kdyby lidé komunismus skutečně
-nechtěli — nebyl by tady. Odměnou jsme
-byli sovětským satelitem o světelné
-týdny před Sputnikem samým. Psal Masaryk *O bolševictví*
-i Čapek *Proč nejsem komunistou*
+nechtěli — nebyl by tady. Třeba jsme národem
+"kosmologů", který než by čekal na Sputnik,
+raději sám začne obíhat jako sovětský satelit.
+Nadšení proletářského davu bylo hutnější
+než obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
+zapůsobily: bylo po válce a všichni chtěli
+bratrství a mír. Pár let zpátky psal Masaryk
+*O bolševictví* nebo Čapek *Proč nejsem komunistou*
 — nestačilo to, museli jsme si sáhnout.
-A zase to nestačí, protože teď
-si je chceme i pohladit. S každým
-rokem je sentiment hlubší, fakta
-smířlivější.
+A zase to nestačí, protože nedlouho
+odtud si je budeme chtít i pohladit.
+S každým rokem je sentiment hlubší,
+fakta smířlivější.
 
 > Ale až jednou vybledne čerstvý dojem z bolševických
 > zločinů, bude socialistický program znovu přitažlivý
@@ -123,26 +126,24 @@ smířlivější.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Mantra z éry Listopadu *Nejsme jako oni!*
-měla opodstatnění: chlapíci a údernice KSČ(M)
-požívají imunity, meškají v lavicích
-Parlamentu ČR (Pozn. red. pro pomalejší:
-v **našem** parlamentu), inkasují zlaťáky
-za volební období a s veřejno**právním**
-divákem [laškují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
-Nebo si vystřihnou angažmá jako [radní](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
+nedopadla, levota (odleva) zůstala.
+I po 26 letech jsou úderníci stále s námi.
+A každé 4 roky jim
+předáme pár lavic Parlamentu ČR a něco málo
+milionů, aby měli co na sebe.
+Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
-Jen [paměti národa](http://www.pametnaroda.cz/)
-to nejde do hlavy. Paměti obyvatelů však ano.
+Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus, slovo s příchutí panelového bloku
+Socialismus, slovo s příchutí (nejen) panelového bloku
 (více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
-Rovnost a bratrství je pleťová maska Východu.
 Kdo chce jistoty, může popojít.
-Republika na lítost nezajde.
+Na Východ.
+Republika lítostí nezajde.
 
 > Neurotik se chytá své životní lži a pokud je postaven před volbu,
 > zda se má zříci této lži, anebo logického myšlení, dává přednost
@@ -156,10 +157,10 @@ Nemohou. Zůstalo by jim už jenom stáří.
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
 právo na socialistické (ať už to znamená cokoli)
 cítění. Nechme jim i poníženou myšlenku kolektivismu,
-ale už **nikdy** nedovolme způsob,
+ale už *nikdy* nedovolme způsob,
 kterým ho má nebo mělo být
-dosaženo, protože nikdo neumí mít
-*raději* bližního než sebe:
+dosaženo. Nikdo nedovede mít
+*raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
 > bližního stejně jako sám sebe, ale podobně
@@ -180,11 +181,13 @@ i méně lidská. Komunismus nic neumí:
 je vždy bezpříkladně nelidský.
 Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
 to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
-chápat.
+chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
 jednotně k volbám* vyráželi ex novo
-— chtivých očí a lysých hlav je za
-každého počasí sdostatek. Na stranu druhou:
+— chtivost a lysé hlavy to nikdy
+a nikam nemají daleko.
+Dorazí rychle.
+Na stranu druhou:
 
 > [..] komunismus sám pobil daleko více komunistů,
 > než stačili všichni ostatní dohromady.
@@ -194,13 +197,13 @@ Ale spolehnout se na to nemůžeme.
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
 řad — tady běží o naprostou vymletost
-*celého* jejich aparátu.
+*celého* jejich skupenství.
 
 > [..] někdy více lidí umíralo na politiku než na nemoci.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
 
-**Záliba v komunismu měla být už 26 let trestná.**  
-Není. Asi tak mnozí dávají vyniknout své velikosti
+Záliba v komunismu by měla být trestná. Není.
+Asi tak mnozí dávají vyniknout své velikosti
 a dobrotě. Nepochopili ale jedno:
 
 > Zač pokání při zpovědi přijali, to
@@ -210,9 +213,9 @@ a dobrotě. Nepochopili ale jedno:
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Ta domýšlivost ponechala červené knížky
+Ta domýšlivost ponechala režimní knížky
 klidnému stáří a ideologii v pozadí
-ještě klidnější budoucnosti.
+ještě klidnější adolescenci.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -238,7 +241,7 @@ od věci nacismu).
 
 Zákazy. Pravda, nejsme jako oni, ale stát
 stojí proto, že je právo. Vice versa není nic.
-Řád jednoho je svobodou druhého.
+Řád jednotlivce je svobodou jednotlivců.
 Z preambule Ústavy:
 *[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.*
 A to se komunismu příčí:
@@ -256,7 +259,7 @@ A to se komunismu příčí:
 > __Lidové noviny, 19. 10. 1928__  
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
 
-Potírat šíření (stavění na odiv) tužby
+Zpovídat šíření (stavění na odiv) tužeb
 komunismu, nikoliv osvětu nebo soukromé
 (třeba polohlasné) "zvážení". Nechť je
 o něm dostupných maximum informací,
@@ -282,9 +285,11 @@ netaktním mlčením.
 
 Je vpravdě snazší se dnes nakrásně
 vymezit vůči všem, kteří podlehli.
-Já tu možnost nedostal, tedy jsem
-z obliga. Je i rovněž nasnadě,
-že chybu musíme nejprve udělat,
+Já tu možnost nedostal, asi jsem
+tak z obliga. Hodnotit věci lze
+však právě proto, že jich nejste
+součástí. Třeba platí, že chybu
+musíme nejprve udělat,
 abychom věděli, že to chyba je.
 Nikdo ale nedělá chyby 40 let.
 
@@ -298,8 +303,8 @@ Nikdo ale nedělá chyby 40 let.
 > *Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 23.*
 
 Marx mohl mít něco na srdci
-ve svém 19. století, kdy byla jím zmíněná
-nadhodnota [unfair](https://youtu.be/MxldKIiZ3EA?t=40s)
+ve svém 19. století, kdy jím zmíněná
+nadhodnota byla [unfair](https://youtu.be/MxldKIiZ3EA?t=40s)
 a pracovní zákoník raději nebyl vůbec.
 Řešit to hodlal vypovězením práva Mít.
 Ano, strašně šlechetné, ale společenství
@@ -317,14 +322,14 @@ Komunismus je sám o sobě tak absurdní,
 že každé slovo v debatě o něm končí
 rychle [opotřebeno](https://youtu.be/djFcjDyaZNY).
 Vyzněním z Opilých banánů: *Komunismus je svinstvo
-a bolševici jsou svině.* Kéž je to dostatečně
-korektní. *Si vis pacem, para bellum* nezaniklo.
-Ni my máme vyhráno.
+a bolševici jsou svině.* A to, myslím, ani nejsme
+dostatečně korektní. *Si vis pacem, para bellum*
+svítí do tmy.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
-Demokracie může mít trny: *Právem se stává to,
+Demokracie třeba má trny: *Právem se stává to,
 co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
@@ -336,7 +341,7 @@ ospravedlněním svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
 Spektrum mezi černou a bílou je pryč.
-Zůstává jen šedý monolit.
+Vyhnívá v něm šedý monolit.
 
 > Demokracie? Ano — ale ne proboha v řečnění. V práci.
 > V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
@@ -349,7 +354,7 @@ A přesně takoví rozhodují (i vyhrávají) volby.
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
-Zbývá jen rada Kostohryze Demkovi:  
+Zůstává rada Kostohryze Demkovi:  
 *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 (pj)
@@ -357,6 +362,7 @@ Zbývá jen rada Kostohryze Demkovi:
 * __zdroje__
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
 * Šaroch, Z.: Výstřely z hranice
+* [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), uvědomělý [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
 * Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
