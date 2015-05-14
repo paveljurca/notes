@@ -73,22 +73,25 @@ chvílí vyklouzla ti
 &nbsp;kdo zvojtil osud?
 
 to ty, to ty!  
-pole s jaky  
-stydno mezi soky  
-dva něžné kroky
+kam běží  
+ty něžné roky  
+jsi rýmem   
+její sloky
 
-&nbsp;Slečno,
+nedlouho pak  
+lom bez vody  
+skončíš sám  
+zanevřeš na boty
 
-hleďte, naše roky  
-mizejí rychleji   
-než vody loky  
-mládí záchvěv sloky
+vrstevníci  
+lásky dobroty  
+nečekej  
+oslov ji taky
 
-*(Snad máte pravdu..)*
-
-z letargie rána  
-v očích milé dráma  
-ústy spěchá zpráva  
+letargie rána  
+oči, milé dráma  
+vším tělem, kořínky vlasů  
+..spěchá zpráva  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
@@ -121,7 +124,7 @@ najdu jinou osnovu
 ideje ztrácívám  
 v jednotkách mamonu  
 medúzy nevnímám  
-ač plavu bez voru
+ač pluju bez voru
 
 přehmaty zdrátuju  
 jestli tohle stačí?  
@@ -129,7 +132,7 @@ nevím, křivky maluju
 mám to tak radši
 
 chvátám do nových dnů  
-haním Andromedu  
+dotírám na Andromedu  
 dluh vůči snům  
 beztak splatit nedovedu
 
@@ -154,13 +157,13 @@ těžkost vlídná věta
 je mě půl
 
 
-Pluh
-----
+Poledne
+-------
 
 u pluhu  
 pár knih, trocha rozumu  
 srdce tajem obzoru  
-tak proč jsme tu?
+..proč jsme tu?
 
 dnem  
 dělat chyby  
@@ -168,7 +171,7 @@ otázkou
 koho svět unese  
 — ještě 
 
-*(zavření očí)*
+*(Válet sudy)*
 
 oblak, odvál nebe  
 dole, kde lidem jebe  

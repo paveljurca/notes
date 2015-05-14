@@ -80,8 +80,8 @@ tak prosim
 prosim
 
 
-N/A
----
+Mlha
+----
 
 zatuchá klima  
 se špetkou nevkusu  
