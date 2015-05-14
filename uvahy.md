@@ -279,6 +279,12 @@
 
 .
 
+> Boys in high school tell me I was too competitive
+> when I did not even know that we were in a competition.
+> *Justine Musk*
+
+.
+
 > Neither should a ship rely on one small anchor,  
 > nor should life rest on a single hope.
 > *Epictetus, Fragments LXXXIX*
