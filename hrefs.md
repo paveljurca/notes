@@ -3,6 +3,20 @@ hrefs
 
 A collection of mine..
 
+I had to undergo a lot of sorting
+
+    perl -ni -e '$t=1 if /===END/;!$t && /blog/ ? next : print' hrefs.txt
+
+and even more formatting
+
+    $link = 'http://'.$link if $link =~ !/^http/;
+    # pretty
+    my $a_name = ($link =~ s!^https?://(?:www\.)?!!ir);
+    $a_name =~ s!/?$!!;
+    say '* [', $a_name, '](', $link, ($title ? qq( "$title") : ''), ')';
+
+..and I'm never gonna do it again :-]
+
 ## events 
 
 * __misc__
@@ -16,11 +30,11 @@ A collection of mine..
 
 * __czech__
 * [barcamp.cz](http://barcamp.cz)
-* [devfest.cz](http://devfest.cz "google, Praha")
-* [ms-fest.cz](http://ms-fest.cz "microsoft, Praha")
-* [linuxdays.cz](http://linuxdays.cz "foss, Praha")
-* [linuxalt.cz](http://linuxalt.cz "foss, Brno")
-* [devconf.cz](http://devconf.cz "foss, Brno")
+* [devfest.cz](http://devfest.cz "Google, Praha")
+* [ms-fest.cz](http://ms-fest.cz "Microsoft, Praha")
+* [linuxdays.cz](http://linuxdays.cz "FOSS, Praha")
+* [linuxalt.cz](http://linuxalt.cz "FOSS, Brno")
+* [devconf.cz](http://devconf.cz "FOSS, Brno")
 * [google developer days](http://google developer days)
 * [installfest.cz](http://installfest.cz)
 * [inovaceprospolecnost.cz/social-innovation-camp/current](http://inovaceprospolecnost.cz/social-innovation-camp/current)
@@ -30,10 +44,9 @@ A collection of mine..
 * [uxcamp.cz](http://uxcamp.cz)
 * [mobera.eu](http://mobera.eu "mobile conf, Brno")
 * [conference.opensuse.org](http://conference.opensuse.org)
-* [mdevcamp.cz](http://mdevcamp.cz "mobile devS")
+* [mdevcamp.cz](http://mdevcamp.cz "mobile devs")
 * [czechict.cz/startcamp](http://czechict.cz/startcamp "SV Startup Camp, Praha")
 * [startupcamppraha.cz](http://startupcamppraha.cz)
-* [microconf.com](http://microconf.com "self-funded 'ups, Praha")
 * [coderetreat.cz](http://coderetreat.cz)
 * [devel.cz/konference](http://devel.cz/konference)
 * [marketingfestival.cz](http://marketingfestival.cz "PR, SEO, mktg")
@@ -53,6 +66,7 @@ A collection of mine..
 * [opensourcebridge.org](http://opensourcebridge.org "oss citizens")
 * [fosdem.org](https://fosdem.org "FOSS, Brussels")
 * [angelhack.com/apphack](http://angelhack.com/apphack)
+* [microconf.com](http://microconf.com "bootstrappers")
 * [velocityconf.com](http://velocityconf.com/)
 * [fluentconf.com](http://fluentconf.com "web O'Reilly, SF")
 * [launchfestival.com](http://www.launchfestival.com/ "SF")
