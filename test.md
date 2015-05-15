@@ -66,7 +66,7 @@ the actual code we run the test for
 0. set up a [test fixture](https://github.com/junit-team/junit/wiki/Test-fixtures) first 
 1. declare expected results
 2. run your code
-3. get real results
+3. get actual results
 4. assert that they match the expected results
 
 `assertEquals("Calculation wrong", expResult, result);`
@@ -86,6 +86,8 @@ and likewise many other [test levels](https://en.wikipedia.org/wiki/Software_tes
 I've also found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
 and [Thing I Have Learned About Software Testing](http://qntm.org/test)
 simply great.
+
+And definitely [The Testability Explorer Blog](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/).
 
 (pj)
 
