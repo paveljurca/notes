@@ -323,7 +323,7 @@ Komunismus je sám o sobě tak absurdní,
 rychle [opotřebeno](https://youtu.be/djFcjDyaZNY).
 Vyzněním z Opilých banánů: *Komunismus je svinstvo
 a bolševici jsou svině.* A to, myslím, ani nejsme
-dostatečně korektní. *Si vis pacem, para bellum*
+úplně korektní. *Si vis pacem, para bellum*
 svítí do tmy.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
@@ -354,7 +354,7 @@ A přesně takoví rozhodují (i vyhrávají) volby.
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
-Zůstává rada Kostohryze Demkovi:  
+Radí tak Kostohryz Demkovi:  
 *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 (pj)

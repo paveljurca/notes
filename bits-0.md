@@ -4,8 +4,12 @@ bits #0
 ## Dropbox as a backup
 
 The service is free up to 2GB so given
-that my most important things are just
-regular txt files I'm more than backed.
+that my most important stuff is just
+text files, I'm more than backed.
+
+So you update a file, it updates on Dropbox.
+You (accidentally) delete a file, it *stays* on Dropbox!
+This is what I would call *the* bonus ;)
 
 First install [Dropbox](https://www.dropbox.com/install?os=lnx),
 second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/using-cron.html).
@@ -28,7 +32,11 @@ Yes, [pm-utils](http://www.google.com/search?q=pm+utils) handle that.
     % source ~/.bashrc
     % asleep
 
-You might need to adjust the [sudoers file](http://help.ubuntu.com/community/Sudoers#Shutting_Down_From_The_Console_Without_A_Password).
+You might need to adjust the [sudoers file](http://help.ubuntu.com/community/Sudoers#Shutting_Down_From_The_Console_Without_A_Password)
+to have it *password-less*:
+
+    Cmnd_Alias SHUTDOWNS = /sbin/shutdown, /sbin/poweroff, /sbin/reboot, /usr/sbin/pm-suspend
+    pavel ALL=(ALL) NOPASSWD: SHUTDOWNS
 
 ## Grub2 boot entry
 
@@ -56,9 +64,8 @@ then
 Have a look at the `/etc/grub.d/30_os-prober` file
 particularly those `--class windows` lines.
 
-Additionaly, if you're on openSUSE you should
-now about their lovely penguin splash screen
-via [gfxboot](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen).
+Additionaly, if you're on [openSUSE](https://www.opensuse.org) you should
+now about their lovely penguin splash screen ([gfxboot](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen)).
 
 ## Vim setup
 

@@ -1,5 +1,5 @@
-Idéefixe
-========
+Zhůry
+=====
 
 shledá tělo —  
 bol hlavy  
