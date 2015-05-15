@@ -89,7 +89,7 @@ Komunismus je z těch dob, ve kterých
 "čím hůře, tím lépe". Někomu to
 vyhovuje, jinak by to stejně neuměl.
 A pak mějme většinu, která se přejícně
-pro rovnější zítřky rozhodla. U Edvarda Beneše to byl fanatický strach
+rozhodla pro rovnější zítřky. U Edvarda Beneše to byl fanatický strach
 z německého *Drang nach Osten* i opakování Mnichova.
 A spásu viděl zcela nekriticky v Sovětském svazu.
 Jím iniciované četné dohody o spolupráci, vzájemném
@@ -159,7 +159,13 @@ právo na socialistické (ať už to znamená cokoli)
 cítění. Nechme jim i poníženou myšlenku kolektivismu,
 ale už *nikdy* nedovolme způsob,
 kterým ho má nebo mělo být
-dosaženo. Nikdo nedovede mít
+dosaženo.
+
+> Komunismus je názor,
+> že vypálením Louvru se všichni naučí malovat.
+> *[Zbyněk Dráb](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
+
+Nikdo nedovede mít
 *raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
