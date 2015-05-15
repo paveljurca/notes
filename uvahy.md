@@ -39,6 +39,11 @@
 
 .
 
+> Inhumanity is due to inhuman parenting. 
+> *James Hillman, The Soul's Code*
+
+.
+
 > V Jaspersově pojetí je člověk jen možnou existencí;  
 > ne každý člověk se existencí skutečně stává.
 > *Ladislav Hejdánek, Člověk a jeho dluhy*
@@ -392,6 +397,12 @@
 
 > We should have been bolder.
 > *Joel Klein, Lessons of Hope*
+
+.
+
+> Ať mete každý tam,  
+> kde toho třeba podle svých zkušeností.
+> *Antonín Sova, Básně*
 
 .
 
