@@ -163,7 +163,7 @@ dosaženo.
 
 > Komunismus je názor,
 > že vypálením Louvru se všichni naučí malovat.
-> *[Zbyněk Dráb](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
+> *Zbyněk Dráb, [zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
 Nikdo nedovede mít
 *raději* bližního než sebe.
