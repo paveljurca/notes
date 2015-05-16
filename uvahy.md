@@ -432,6 +432,7 @@
 (pj)
 
 * __Yet Another Quotes__
+* [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
 * [Familiar and Unfamiliar Quotations](http://norvig.com/quotations.html)
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
 
