@@ -47,8 +47,8 @@ plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/
 dělo *Republiku si rozvrátit nedáme!*
 Do res publicae měl však náš aparát patolízalů těžce daleko.
 Z ráje se neutíká. A jestli ten ráj neuznáš,
-jsi jen další spojka na Vatikán ...ohrožující
-naše socialistické zřízení.
+jsi jen další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
+...ohrožující naše socialistické zřízení.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -219,9 +219,9 @@ a dobrotě. Nepochopili ale jedno:
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Ta domýšlivost ponechala režimní knížky
+Ta domýšlivost ponechala "levicové" knížky
 klidnému stáří a ideologii v pozadí
-ještě klidnější adolescenci.
+ještě klidnějšímu dospívání.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -329,13 +329,13 @@ Komunismus je sám o sobě tak absurdní,
 rychle [opotřebeno](https://youtu.be/djFcjDyaZNY).
 Vyzněním z Opilých banánů: *Komunismus je svinstvo
 a bolševici jsou svině.* A to, myslím, ani nejsme
-úplně korektní. *Si vis pacem, para bellum*
-svítí do tmy.
+zcela korektní. *Si vis pacem, para bellum*
+zeje do tmy.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
-Demokracie třeba má trny: *Právem se stává to,
+Demokracie má třeba trny: *Právem se stává to,
 co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
@@ -376,6 +376,7 @@ Radí tak Kostohryz Demkovi:
 * [Někteří komunisté to mysleli dobře](http://prehravac.rozhlas.cz/audio/2356363)
 * [Proč nás stěhujete](http://prehravac.rozhlas.cz/audio/3059233)
 * [Václav Vaško](http://prehravac.rozhlas.cz/audio/3159834)
+* [Mons. ThDr. Oto Mádr](http://www.pametnaroda.cz/story/madr-oto-1917-106)
 * Hvížďala, K., Havel, V.: Dálkový výslech
 * Havel, V.: Do různých stran
 * Rašín, A.: Mé vzpomínky z mládí
