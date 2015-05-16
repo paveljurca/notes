@@ -1277,6 +1277,8 @@ skutečnější
 mravokárce
 * _quantité négligeable_
 zanedbatelné množství
+* _quotidie morior_
+umírám kdykoliv
 * _quo vadis_
 kam kráčíš?
 * _raison d'etre_
