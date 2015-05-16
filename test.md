@@ -4,9 +4,9 @@
 First, I should confess I'm no
 pro on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf)
 by any means.
-It's just I'd like to list
-a few (obvious) notes I've get
-to know alongside.
+It's just I'd like to write
+down a few remarks to keep
+a future reference for myself.
 
 My *@Test*'s incentive is that
 I feel less pressure knowing
@@ -87,12 +87,12 @@ I've also found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_pra
 and [Thing I Have Learned About Software Testing](http://qntm.org/test)
 simply great.
 
-And definitely [The Testability Explorer Blog](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/).
-
 (pj)
 
 * __shownotes__
 * [http://sscce.org/]
+* [The Testability Explorer Blog](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/)
+* [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [http://en.wikipedia.org/wiki/Action_at_a_distance_%28computer_programming%29]
 * [http://en.wikipedia.org/wiki/Single_responsibility_principle]
 * [http://en.wikipedia.org/wiki/God_object]
