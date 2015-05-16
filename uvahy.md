@@ -18,6 +18,12 @@
 
 .
 
+> [..] for character is not what you do,  
+> it's the way you do it.
+> *James Hillman, The Soul's Code*
+
+.
+
 > Remember there are no shortcuts, son.
 > *Lou Mannheim, Wall Street*
 
@@ -36,11 +42,6 @@
 
 > Uč se, nekurvi se, neflámuj.
 > *Karel Steigerwald, Tatarská pouť*
-
-.
-
-> Inhumanity is due to inhuman parenting. 
-> *James Hillman, The Soul's Code*
 
 .
 
@@ -94,6 +95,11 @@
 > Přišli jsme na to, že člověk  
 > nemá umírat, nýbrž žít.
 > *Ferdinand Peroutka, Jací jsme*
+
+.
+
+> Inhumanity is due to inhuman parenting. 
+> *James Hillman, The Soul's Code*
 
 .
 
