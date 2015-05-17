@@ -3,19 +3,17 @@ hrefs
 
 A collection of mine..
 
-I had to undergo a lot of sorting
+===== MOVE DOWN =====
 
-    perl -ni -e '$t=1 if /===END/;!$t && /blog/ ? next : print' hrefs.txt
+Processed with [Perl](https://www.perl.org/).
 
-and even more formatting
+    % perl -ni -e '$t=1 if /===END/;!$t && /blog/ ? next : print' hrefs.txt
+    ...
+    my $pretty = ($link =~ s!^https?://(?:www\.)?!!ir);
 
-    $link = 'http://'.$link if $link =~ !/^http/;
-    # pretty
-    my $a_name = ($link =~ s!^https?://(?:www\.)?!!ir);
-    $a_name =~ s!/?$!!;
-    say '* [', $a_name, '](', $link, ($title ? qq( "$title") : ''), ')';
+(pj)
 
-..and I'm never gonna do it again :-]
+======================
 
 ## events 
 
@@ -51,8 +49,8 @@ and even more formatting
 * [devel.cz/konference](http://devel.cz/konference)
 * [marketingfestival.cz](http://marketingfestival.cz "PR, SEO, mktg")
 * [webovina.cz](http://webovina.cz "mezioborová konference")
-* [tuesday.cz/akce/new-media-inspiration-2014](http://www.tuesday.cz/akce/new-media-inspiration-2014/ "FF CUNI")
-* [kisked.cz](http://kisked.cz "minikonf, Brno")
+* [New Media Inspiration](http://www.tuesday.cz/akce/new-media-inspiration-2014/ "FF CUNI")
+* [kisked.cz](https://www.facebook.com/kisked "kisk.cz, Brno")
 
 * __abroad__
 * [liftconference.com/about](http://liftconference.com/about "digital")
@@ -108,7 +106,7 @@ and even more formatting
 * [People Who Know Their Shit](http://businessrepublic.net/the-podcast/)
 
 * __dev__
-* [front-end vývojáři](http://bruskodu.cz)
+* [Brus kódu](http://bruskodu.cz)
 * [The Changelog on OSS](http://thechangelog.com/podcast/)
 * [Free Libre Open Source Software](http://twit.tv/show/floss-weekly)
 * [boagworld](http://boagworld.com/category/podcast/)
@@ -139,7 +137,4 @@ and even more formatting
 * [Casablanca](hledani.rozhlas.cz/iradio/?porad[]=Casablanca)
 
 __bbc__
-
-
-
 
