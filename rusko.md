@@ -190,6 +190,7 @@ ještě stále hodně. A netřeba snad připomínat,
 (pj)
 
 * __zdroje__
+* [Rusové proti Rusům](http://www.rozhlas.cz/zpravy/data/_zprava/rusove-proti-rusum-zeme-v-nevyhlasene-obcanske-valce--1484099)
 * [Vítr se vrací](http://prehravac.rozhlas.cz/audio/2876556)
 * [rok 1968](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/),
 [jaro 1968](http://www.pametnaroda.cz/anniversary/detail/id/7),
