@@ -148,8 +148,8 @@ vyzkoušet tolik věcí, které jsme dříve
 nemohli. Kdokoli, kdo chce zkusit
 nebo porozumět čemukoli, má možnost,
 tím spíše projít si několikero odlišných
-cest, jež pro vás mohou být skutečným
-souzněním. Zatímco už jsem
+cest, jež by pro vás třeba jednou mohly
+být skutečným souzněním. Zatímco už jsem
 připustil ustoupení takzvaného odborníka
 ve prospěch všeuměla, jsem zvědav, zdali
 trendům náchylní otakus (japonský termín pro posedlé)
