@@ -18,9 +18,8 @@ temní úvahy
 tak vzdálené  
 volnosti vlohy  
 — v okně smích  
-vklíněn do postavy
-
-snad jednou  
+vklíněn do postavy  
+tou chvílí  
 zamířím s davy
 
 (pj)
