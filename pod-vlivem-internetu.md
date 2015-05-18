@@ -41,7 +41,7 @@ Podnět k tomuto se dostavil při
 registrování se do ještě další
 sociální sítě. Přibližně z padesáti
 různorodých možností jsem jen málokdy
-dvakrát zvažoval předem zdali kliknu
+zvažoval dvakrát předem zdali kliknu
 na onu ze tří čtvrtin nebo více
 zaručenou "zajímavost". Problesklo
 mi, že ta neustálá neukojitelnost
@@ -52,7 +52,7 @@ o pouhém sběru povyražení jako spíše
 o opravdové touze nálezt to vše,
 co je tam venku k vědění o přehršli
 témat — věcných i všedních —
-přesto nám to může chvílemi více ublížit.
+přesto je nám to někdy na škodu.
 Je zřejmé, že díky internetu
 je informace nikdy nekončící, stejně
 jako s každým novým videem i blogem
@@ -68,8 +68,8 @@ médií kolem je neustálé zachvácení
 pozornosti. Vlastní mediální
 zařízení nás ustavičně bombardují
 upozorněními a soustředění bere za své.
-Zatímco nás nepřekvapují řady skutečně
-zavedených odborníků, jež mohou být více odolní
+Zatímco od již prověřených odborníků
+očekáváme, že by mohli být více odolní
 útokům od pozornost kradoucích médií
 díky jejich výchově mimo digitální
 hřiště, sleduji se zájmem, co tohle
@@ -79,8 +79,8 @@ pár let bude vyrůstat přímo v hustotě
 věcí s haldami dat a médii
 soupeřícími o upřenost očí. Mám teorii,
 že nejvýše možná úroveň odbornosti už
-nebude růst ve stejném tempu jako
-se tomu dělo dosud. Lidé už nezasvěcují
+neporoste tak jako doposud.
+Lidé už nezasvěcují
 roky života jedné oblasti, ale spíše
 vyznávají vícero zájmů, ježto každý
 ukusuje část celkového koláče.
@@ -104,10 +104,10 @@ jež nestráví poměrnou část jejich
 času online (stále větší vzácnost)
 v důsledku jejich generační nelibosti
 k internetu, budou věcí minulosti.
-Pozoruji značné uvolnění v užívání
-termínu *experti*, tedy budou lidé
-brzo spíše ztělesněním
-pojmu "všeumělé". Už jsme toho byli
+Pozoruji značné uvolnění kontur
+ve významu slova *experti*, čímž lidé
+jen dostojí pojmu "všeumělé".
+Už jsme toho byli
 svědky, jen nepatrně lidí vytrvá
 u jednoho pracovního titulu. Více než
 kdy předtím jsou nám dopřávány bulváry
@@ -122,11 +122,11 @@ odborníka? Mám za to, že bude
 nadále jen těžší věnovat veškerý
 váš čas jednomu zaujetí.
 
-V minulosti tištěné magazíny
-vyhlížely jako úzce dané
+V minulosti vyhlížely
+tištěné magazíny jako úzce dané
 specifikum. Přesto pro web
-jako Hypebeast, tištěný magazín
-a maloobchod už nejsou tak
+jako Hypebeast už tištěný magazín
+a maloobchod nejsou tak
 překvapivé směry. Pocházející
 z generace, která tráví více
 času na straně digitálu nežli
@@ -140,16 +140,16 @@ jež všichni stvořili mnohá sebevyjádření
 skrze hmotné i nehmotné výdobytky.
 
 Navzdory oddávání se mnohým věcem
-zároveň, kdy se nám nedostává směr,
+zároveň, kdy se nám nedostává směru,
 shledávám to jako přece hodnotnější oproti
 monotónosti života s jen hrstí zájmů.
 Demokratizace internetu nám dovolila
 vyzkoušet tolik věcí, které jsme dříve
 nemohli. Kdokoli, kdo chce zkusit
 nebo porozumět čemukoli, má možnost,
-tím spíše vyzkoušet si několikero odlišných
-cest, jež mohou možná představovat vaše
-skutečné určení. Zatímco už jsem
+tím spíše projít si několikero odlišných
+cest, jež pro vás mohou být skutečným
+souzněním. Zatímco už jsem
 připustil ustoupení takzvaného odborníka
 ve prospěch všeuměla, jsem zvědav, zdali
 trendům náchylní otakus (japonský termín pro posedlé)
