@@ -95,7 +95,6 @@ A collection of mine..
 ## podcasts
 
 __dev__
-
 * [Brus kódu](http://bruskodu.cz)
 * [The Changelog](http://thechangelog.com/podcast/)
 * [Free Libre Open Source Software](http://twit.tv/show/floss-weekly)
@@ -115,9 +114,7 @@ __dev__
 
 __bbc__
 
-
 __cro__
-
 * [Hovory o víře](http://hledani.rozhlas.cz/iradio/?porad[]=Hovory+o+víře)
 * [Doteky víry](http://hledani.rozhlas.cz/iradio/?porad[]=Doteky+víry)
 * [To byl swing](http://hledani.rozhlas.cz/iradio/?porad[]=To+byl+swing)
@@ -143,7 +140,6 @@ __cro__
 * [Radiotéka](http://www.radioteka.cz/)
 
 __misc__
-
 * [Zátiší R1](http://http://www.radio1.cz/archiv-poradu/download-list/2-zatisi)
 * [TED radio hour](http://www.npr.org/templates/archives/archive.php?thingId=57)
 * [The Gently Mad](http://thegentlymad.com/)
@@ -168,7 +164,6 @@ __misc__
 ## observanda
 
 __dev__
-
 * [Lobsters](http://lobste.rs/)
 * [startup.lupa.cz](http://startup.lupa.cz)
 * [news.layervault.com/new](http://news.layervault.com/new)
@@ -198,7 +193,6 @@ __dev__
 * [alistapart.com](http://alistapart.com/)
 
 __misc__
-
 * [online.muni.cz](http://online.muni.cz)
 * [materialtimes.com](http://www.materialtimes.com/)
 * [nytimes.com](http://www.nytimes.com/)
@@ -220,7 +214,6 @@ __misc__
 ## video
 
 __dev__
-
 * [avc-cvut.cz](http://avc-cvut.cz)
 * [Norwegian Developers Conference](https://vimeo.com/ndcconferences/videos)
 * [MIT](http://www.youtube.com/user/MIT)
@@ -237,7 +230,6 @@ __dev__
 * [nytm.org](http://nytm.org/)
 
 __misc__
-
 * [multimedia.vse.cz](http://multimedia.vse.cz)
 * [kisk.phil.muni.cz](https://vimeo.com/kisk/videos)
 * [FF MU Brno](https://www.youtube.com/channel/UC5u725Llbktp4DprixNx63A)
@@ -279,7 +271,6 @@ __misc__
 ## events 
 
 __dev__
-
 * [devfest.cz](http://devfest.cz)
 * [ms-fest.cz](http://ms-fest.cz)
 * [linuxdays.cz](http://linuxdays.cz)
@@ -345,7 +336,6 @@ __dev__
 * [startupgrind.com](http://startupgrind.com)
 
 __misc__
-
 * [informuji.cz](http://www.informuji.cz/)
 * [Kulturní přehled](http://goout.cz)
 * [srazy.info](http://srazy.info)
@@ -420,7 +410,6 @@ __misc__
 ## jobs
 
 __tips__
-
 * [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
 * [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
 * [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
@@ -429,7 +418,6 @@ __tips__
 * [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
 
 __jobs__
-
 * [itjobs.cz](http://itjobs.cz)
 * [hledani.monster.cz/it-vývoj-softwaru_4](http://hledani.monster.cz/it-vývoj-softwaru_4)
 * [careers.stackoverflow.com](http://careers.stackoverflow.com)
