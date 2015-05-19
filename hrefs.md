@@ -278,25 +278,6 @@ __misc__
 
 ## events 
 
-* [informuji.cz](http://www.informuji.cz/)
-* [Kulturní přehled](http://goout.cz)
-* [srazy.info](http://srazy.info)
-* [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
-* [mlp.cz/cz/akce](http://www.mlp.cz/cz/akce/)
-* [kinohled.cz](http://kinohled.cz/)
-* [barcamp.cz](http://barcamp.cz)
-* [marketingfestival.cz](http://marketingfestival.cz)
-* [New Media Inspiration](http://www.tuesday.cz/akce/new-media-inspiration-2014/)
-* [kisk.phil.muni.cz](http://kisk.phil.muni.cz/cs/komunita)
-* [vaclavhavel-library.org](http://www.vaclavhavel-library.org/cs/index/kalendar)
-* [designsupermarket.cz](http://www.designsupermarket.cz)
-* [designblok.cz](http://www.designblok.cz)
-* [pechakucha.cz](http://www.pechakucha.cz)
-* [Film Fest Krno](http://krrr.cz)
-* [Social Innovation Camp](http://inovaceprospolecnost.cz/social-innovation-camp/current)
-* [tedxprague.cz](http://tedxprague.cz)
-* [mexpo.sk](http://mexpo.sk)
-
 __dev__
 
 * [devfest.cz](http://devfest.cz)
@@ -362,6 +343,27 @@ __dev__
 * [techweek.com](http://techweek.com)
 * [seedstarsworld.com](http://seedstarsworld.com)
 * [startupgrind.com](http://startupgrind.com)
+
+__misc__
+
+* [informuji.cz](http://www.informuji.cz/)
+* [Kulturní přehled](http://goout.cz)
+* [srazy.info](http://srazy.info)
+* [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
+* [mlp.cz/cz/akce](http://www.mlp.cz/cz/akce/)
+* [kinohled.cz](http://kinohled.cz/)
+* [barcamp.cz](http://barcamp.cz)
+* [marketingfestival.cz](http://marketingfestival.cz)
+* [New Media Inspiration](http://www.tuesday.cz/akce/new-media-inspiration-2014/)
+* [kisk.phil.muni.cz](http://kisk.phil.muni.cz/cs/komunita)
+* [vaclavhavel-library.org](http://www.vaclavhavel-library.org/cs/index/kalendar)
+* [designsupermarket.cz](http://www.designsupermarket.cz)
+* [designblok.cz](http://www.designblok.cz)
+* [pechakucha.cz](http://www.pechakucha.cz)
+* [Film Fest Krno](http://krrr.cz)
+* [Social Innovation Camp](http://inovaceprospolecnost.cz/social-innovation-camp/current)
+* [tedxprague.cz](http://tedxprague.cz)
+* [mexpo.sk](http://mexpo.sk)
 
 ## data
 
