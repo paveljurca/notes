@@ -5,6 +5,7 @@ A collection of mine..
 
 ## blog
 
+* [Rob Nagler](http://www.viarob.com)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
 * [Tim Bray](https://www.tbray.org/ongoing/)
 * [Bill Gates](http://www.gatesnotes.com/All)
@@ -45,7 +46,7 @@ A collection of mine..
 * [Aleš Michl](http://blog.aktualne.centrum.cz/blogy/ales-michl.php)
 * [weblogy.cz](http://weblogy.cz)
 * [gayadesign.com](http://gayadesign.com)
-* [official google czech blog](http://google-cz.blogspot.com)
+* [Google blog](http://google-cz.blogspot.com/search/label/Vývojáři)
 * [Jan Šedivý](http://jsedivy.blogspot.com)
 * [Martin Malý](http://misantrop.info)
 * [David Grudl](http://latrine.cz)
@@ -59,7 +60,7 @@ A collection of mine..
 * [Ondřej Válka](http://futourist.tumblr.com)
 * [startuplessonslearned.com](http://startuplessonslearned.com)
 * [Jeanne Trojan](http://outstandingpresentations.blogspot.com)
-* [czech microsoft developers](http://blogs.msdn.com/b/vyvojari)
+* [msdn.com/b/vyvojari](http://blogs.msdn.com/b/vyvojari)
 * [somerandomdude.com](http://somerandomdude.com)
 * [Václav Lorenc](http://pricingidiot.com)
 * [Jan Sládek](http://withoutanswers.com)
@@ -91,6 +92,14 @@ A collection of mine..
 * [Maria Popova](http://brainpickings.org)
 * [Cushion Journal](http://cushionapp.com/journal/)
 * [Jonnie Hallman](http://destroytoday.com/blog/)
+* [The GitHub Blog](https://github.com/blog/category/hire)
+* [The Twitter Blog](https://blog.twitter.com/developer)
+* [The Yahoo Blog](http://yahooeng.tumblr.com/)
+* [Paul Irish](http://www.paulirish.com/)
+* [Juriy Zaytsev](http://perfectionkills.com/)
+* [Andy Brice](http://successfulsoftware.net/articles/)
+* [Ben Galbraith](http://benzilla.galbraiths.org/)
+* [Peter-Paul Koch](http://www.quirksmode.org/blog/)
 
 ## podcasts
 
@@ -160,11 +169,16 @@ __misc__
 * [ecorner.stanford.edu/podcasts.html](http://ecorner.stanford.edu/podcasts.html)
 * [itc.conversationsnetwork.org](http://itc.conversationsnetwork.org)
 * [soundcloud.com/harvard](http://soundcloud.com/harvard)
+* [Product Hunt Radio](https://soundcloud.com/product-hunt)
+* [UnMarketing](http://www.unmarketing.com/category/podcast/)
 
-## observanda
+## news 
 
 __dev__
-* [Lobsters](http://lobste.rs/)
+* [lobste.rs](http://lobste.rs/)
+* [dev.opera](https://dev.opera.com/)
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+* [devx.com/opensource](http://www.devx.com/opensource/)
 * [startup.lupa.cz](http://startup.lupa.cz)
 * [news.layervault.com/new](http://news.layervault.com/new)
 * [czechcrunch.cz](http://www.czechcrunch.cz/)
@@ -191,12 +205,19 @@ __dev__
 * [thehackernews.com](http://thehackernews.com)
 * [hckrnews.com](http://hckrnews.com)
 * [alistapart.com](http://alistapart.com/)
+* [net magazine](http://www.creativebloq.com/tag/opinion)
+* [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
+* [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
+* [Codrops](http://tympanus.net/codrops/collective/)
+* [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
+* [Max Design](http://maxdesign.com.au/category/news/)
+* [Six Revisions](http://sixrevisions.com/)
+* [justit.cz](http://justit.cz)
 
 __misc__
 * [online.muni.cz](http://online.muni.cz)
 * [materialtimes.com](http://www.materialtimes.com/)
-* [nytimes.com](http://www.nytimes.com/)
-* [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
+* [designspiration.net](http://designspiration.net/popular/)
 * [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
 * [Marathon](http://www.valencik.cz/marathon/)
 * [Host](http://casopis.hostbrno.cz/archiv)
@@ -209,7 +230,6 @@ __misc__
 * [text.radio.cz/en](http://text.radio.cz/en)
 * [mediar.cz](http://mediar.cz)
 * [hoax.cz](http://hoax.cz)
-* [justit.cz](http://justit.cz)
 
 ## video
 
@@ -253,6 +273,7 @@ __misc__
 * [Sociální nauka](http://www.youtube.com/user/socialninauka/videos)
 * [VH](http://www.youtube.com/user/knihovnavaclavahavla/videos)
 * [Kristoffer Borgli](https://vimeo.com/kristofferborgli/videos)
+* [Matthijs Vlot](http://www.mattatjeoorlog.nl/)
 * [House of Radon](https://vimeo.com/houseofradon/videos)
 * [Internet Info](https://vimeo.com/iinfo/videos)
 * [ByznysPark](https://vimeo.com/byznyspark/videos)
@@ -353,6 +374,7 @@ __misc__
 * [Film Fest Krno](http://krrr.cz)
 * [Social Innovation Camp](http://inovaceprospolecnost.cz/social-innovation-camp/current)
 * [tedxprague.cz](http://tedxprague.cz)
+* [Spark the Change](http://sparkthechange.co.uk)
 * [mexpo.sk](http://mexpo.sk)
 
 ## data
@@ -409,15 +431,6 @@ __misc__
 
 ## jobs
 
-__tips__
-* [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
-* [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
-* [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
-* [Questions for Design Interview](https://www.evernote.com/shard/s196/sh/a3d73e74-62c7-40a5-9fe2-16f1e32fc2e9/826f07f295ad50207f916fa7cd5ed450)
-* [How to Test Java Programming Skills in an Interview](https://medium.com/@rope_zg/how-to-test-java-programming-skills-in-an-interview-cc7c6a575ff9)
-* [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
-
-__jobs__
 * [itjobs.cz](http://itjobs.cz)
 * [hledani.monster.cz/it-vývoj-softwaru_4](http://hledani.monster.cz/it-vývoj-softwaru_4)
 * [careers.stackoverflow.com](http://careers.stackoverflow.com)
@@ -446,7 +459,18 @@ __jobs__
 * [workinstartups.com](http://workinstartups.com)
 * [uni-jobs.cz](http://uni-jobs.cz)
 * [f6s.com/jobs](http://f6s.com/jobs)
-* [inhiro.com/sk/job#list](http://inhiro.com/sk/job#list)
+* [inhiro.com](http://inhiro.com/sk/job#list)
+
+__addendum__
+* [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
+* [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
+* [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
+* [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
+* [Questions for Design Interview](https://www.evernote.com/shard/s196/sh/a3d73e74-62c7-40a5-9fe2-16f1e32fc2e9/826f07f295ad50207f916fa7cd5ed450)
+* [How to Test Java Programming Skills in an Interview](https://medium.com/@rope_zg/how-to-test-java-programming-skills-in-an-interview-cc7c6a575ff9)
+* [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
+* [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
+* [ABC: Always Be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2)
 
 ## @TODO 
 
@@ -768,7 +792,6 @@ __jobs__
 * fichtlkramek.cz 'best jawa/moto shop ever
 * styx.sk 'motorcycles and accessories
 * jamendo.com/en 'free music for all
-* paulirish.com 'html5 guy
 * capsus.tv 'inspiration and influences
 * change.org 'campaigns and petitions
 * mapbox.com 'beatiful maps
