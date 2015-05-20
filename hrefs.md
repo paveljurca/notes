@@ -171,6 +171,7 @@ __misc__
 * [soundcloud.com/harvard](http://soundcloud.com/harvard)
 * [Product Hunt Radio](https://soundcloud.com/product-hunt)
 * [UnMarketing](http://www.unmarketing.com/category/podcast/)
+* [Tim Ferriss](http://fourhourworkweek.com/podcast/)
 
 ## news 
 
