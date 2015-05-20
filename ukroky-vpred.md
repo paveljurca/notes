@@ -179,5 +179,31 @@ bytí není hra
 kracie, znaménko jha
 
 
+Zdánlivě
+--------
+
+Déle setrvám,  
+více to jsem.  
+Není jak  
+být si jist,  
+že právě tohle  
+chci.  
+Strach,  
+pro nic se nehodím  
+a strach,  
+začnu s jedním,  
+uteče druhé.  
+A tak  
+trávím dny, věčně  
+roz-  
+&nbsp;-kročen  
+mezi možnostmi.  
+Zem kulatá,  
+není rohu  
+k odbočení.
+
+Zdánlivě.
+
+
 (pj)
 
