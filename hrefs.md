@@ -3,6 +3,75 @@ hrefs
 
 A collection of mine..
 
+## news 
+
+__dev__
+* [lobste.rs](http://lobste.rs/)
+* [dev.opera](https://dev.opera.com/)
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+* [devx.com/opensource](http://www.devx.com/opensource/)
+* [startup.lupa.cz](http://startup.lupa.cz)
+* [news.layervault.com/new](http://news.layervault.com/new)
+* [czechcrunch.cz](http://www.czechcrunch.cz/)
+* [technet.cz](http://technet.cz)
+* [diit.cz](http://diit.cz)
+* [root.cz](http://root.cz)
+* [engadget.com](http://engadget.com)
+* [aoltech.com](http://aoltech.com)
+* [news.ycombinator.com](http://news.ycombinator.com)
+* [viry.cz](http://viry.cz)
+* [security-portal.cz](http://security-portal.cz)
+* [soom.cz](http://soom.cz)
+* [infoq.com](http://www.infoq.com)
+* [interval.cz](http://interval.cz)
+* [techradar.com](http://techradar.com)
+* [crypto-world.info](http://crypto-world.info/news/index.php)
+* [alltop.com](http://alltop.com)
+* [reddit.com/r/technology](http://reddit.com/r/technology/)
+* [devlogy.cz/kvalitka](http://devlogy.cz/kvalitka)
+* [readwrite.com](http://readwrite.com)
+* [recode.net](http://recode.net)
+* [theregister.co.uk](http://theregister.co.uk)
+* [queue.acm.org](http://queue.acm.org/)
+* [thehackernews.com](http://thehackernews.com)
+* [hckrnews.com](http://hckrnews.com)
+* [alistapart.com](http://alistapart.com/)
+* [net magazine](http://www.creativebloq.com/tag/opinion)
+* [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
+* [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
+* [Codrops](http://tympanus.net/codrops/collective/)
+* [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
+* [Max Design](http://maxdesign.com.au/category/news/)
+* [Six Revisions](http://sixrevisions.com/)
+* [justit.cz](http://justit.cz)
+
+__design__
+* [designspiration.net](http://designspiration.net/popular/)
+* [cargocollective.com](http://cargocollective.com)
+* [spacecollective.org](http://spacecollective.org)
+* [exp.lore.com](http://explore.noodle.com/)
+* [artsy.net](https://www.artsy.net/artists)
+* [20x200](http://20x200.com/collections/all)
+* [scene360](http://illusion.scene360.com/)
+* [FFFFOUND!](http://ffffound.com/)
+
+__misc__
+* [online.muni.cz](http://online.muni.cz)
+* [materialtimes.com](http://www.materialtimes.com/)
+* [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
+* [Marathon](http://www.valencik.cz/marathon/)
+* [Host](http://casopis.hostbrno.cz/archiv)
+* [Psí víno](http://www.psivino.cz/?page_id=22)
+* [Tvar](http://www.itvar.cz/cz/archiv/)
+* [publo.cz](http://publo.cz)
+* [faqs.org](http://www.faqs.org/)
+* [zpravy.rozhlas.cz](http://zpravy.rozhlas.cz)
+* [praguepost.com](http://praguepost.com)
+* [news.google.com](http://news.google.com)
+* [text.radio.cz/en](http://text.radio.cz/en)
+* [mediar.cz](http://mediar.cz)
+* [hoax.cz](http://hoax.cz)
+
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
@@ -100,6 +169,7 @@ A collection of mine..
 * [Andy Brice](http://successfulsoftware.net/articles/)
 * [Ben Galbraith](http://benzilla.galbraiths.org/)
 * [Peter-Paul Koch](http://www.quirksmode.org/blog/)
+* [Sylva Ficová](http://utrzky.tumblr.com/)
 
 ## podcasts
 
@@ -120,6 +190,7 @@ __dev__
 * [herdingcode.com](http://herdingcode.com)
 * [thisdeveloperslife.com](http://thisdeveloperslife.com)
 * [devminutes.cz](http://devminutes.cz)
+* [rebuild.fm](http://rebuild.fm)
 
 __bbc__
 
@@ -172,65 +243,8 @@ __misc__
 * [Product Hunt Radio](https://soundcloud.com/product-hunt)
 * [UnMarketing](http://www.unmarketing.com/category/podcast/)
 * [Tim Ferriss](http://fourhourworkweek.com/podcast/)
-
-## news 
-
-__dev__
-* [lobste.rs](http://lobste.rs/)
-* [dev.opera](https://dev.opera.com/)
-* [Mozilla Hacks](https://hacks.mozilla.org/)
-* [devx.com/opensource](http://www.devx.com/opensource/)
-* [startup.lupa.cz](http://startup.lupa.cz)
-* [news.layervault.com/new](http://news.layervault.com/new)
-* [czechcrunch.cz](http://www.czechcrunch.cz/)
-* [technet.cz](http://technet.cz)
-* [diit.cz](http://diit.cz)
-* [root.cz](http://root.cz)
-* [engadget.com](http://engadget.com)
-* [aoltech.com](http://aoltech.com)
-* [news.ycombinator.com](http://news.ycombinator.com)
-* [viry.cz](http://viry.cz)
-* [security-portal.cz](http://security-portal.cz)
-* [soom.cz](http://soom.cz)
-* [infoq.com](http://www.infoq.com)
-* [interval.cz](http://interval.cz)
-* [techradar.com](http://techradar.com)
-* [crypto-world.info](http://crypto-world.info/news/index.php)
-* [alltop.com](http://alltop.com)
-* [reddit.com/r/technology](http://reddit.com/r/technology/)
-* [devlogy.cz/kvalitka](http://devlogy.cz/kvalitka)
-* [readwrite.com](http://readwrite.com)
-* [recode.net](http://recode.net)
-* [theregister.co.uk](http://theregister.co.uk)
-* [queue.acm.org](http://queue.acm.org/)
-* [thehackernews.com](http://thehackernews.com)
-* [hckrnews.com](http://hckrnews.com)
-* [alistapart.com](http://alistapart.com/)
-* [net magazine](http://www.creativebloq.com/tag/opinion)
-* [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
-* [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
-* [Codrops](http://tympanus.net/codrops/collective/)
-* [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
-* [Max Design](http://maxdesign.com.au/category/news/)
-* [Six Revisions](http://sixrevisions.com/)
-* [justit.cz](http://justit.cz)
-
-__misc__
-* [online.muni.cz](http://online.muni.cz)
-* [materialtimes.com](http://www.materialtimes.com/)
-* [designspiration.net](http://designspiration.net/popular/)
-* [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
-* [Marathon](http://www.valencik.cz/marathon/)
-* [Host](http://casopis.hostbrno.cz/archiv)
-* [Psí víno](http://www.psivino.cz/?page_id=22)
-* [publo.cz](http://publo.cz)
-* [faqs.org](http://www.faqs.org/)
-* [zpravy.rozhlas.cz](http://zpravy.rozhlas.cz)
-* [praguepost.com](http://praguepost.com)
-* [news.google.com](http://news.google.com)
-* [text.radio.cz/en](http://text.radio.cz/en)
-* [mediar.cz](http://mediar.cz)
-* [hoax.cz](http://hoax.cz)
+* [On Point with Tom Ashbrook](http://www.npr.org/podcasts/510053/on-point-with-tom-ashbrook)
+* [Boston University World of Ideas](http://feeds.wbur.org/worldofideas]
 
 ## video
 
@@ -377,6 +391,7 @@ __misc__
 * [tedxprague.cz](http://tedxprague.cz)
 * [Spark the Change](http://sparkthechange.co.uk)
 * [mexpo.sk](http://mexpo.sk)
+* [Šrámkova Sobotka](http://www.sramkovasobotka.cz/program/)
 
 ## data
 
@@ -954,7 +969,6 @@ __addendum__
 * teachingtree.co 'online knowledge for students of technology
 * piazza.com 'Q&A web service for learning
 * scene360.com 'talented individuals artworks
-* exp.lore.com 'a discovery engine for meaningful knowledge
 
 
 * pismak.cz 'amateurish writing for gurmans
@@ -1019,8 +1033,6 @@ __addendum__
 * readtapestry.com 'create beautiful tappable stories
 * napadroku.cz 'business of the year in the czech rep
 * angel.co 'platform for startups
-* cargocollective.com 'personal publishing platform for creatives
-* spacecollective.org 'THE FORWARD THINKING TERRESTRIALS EXCHANGE MARKET
 * plus.google.com/+GoogleforEntrepreneurs 'entrepreneur's shit
 * good.is/explore 'community of people who give a damn
 * processing.org 'programming language for a data visualisation
