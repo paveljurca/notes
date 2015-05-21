@@ -1,10 +1,10 @@
-Zhůry
-=====
+Sólo
+====
 
 shledá tělo —  
 bol hlavy  
 nehybní ruce  
-a nohy  
+spí nohy  
 úzko až běda  
 ve svalu snahy  
 křídla motýlí  
@@ -19,8 +19,10 @@ tak vzdálené
 volnosti vlohy  
 — v okně smích  
 vklíněn do postavy  
-tou chvílí  
-zamířím s davy
+vprostřed někoho  
+bokem vřavy  
+&nbsp;kde vidina  
+ve kraj únavy
 
 (pj)
 
