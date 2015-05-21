@@ -11,7 +11,13 @@ nejsme víc
 než deště z jara
 
 nejsme víc  
+než příruční sada 
+
+nejsme víc  
 než oční vada
+
+nejsme víc  
+než pnutí hada 
 
 nejsme víc  
 než delikt blaha
