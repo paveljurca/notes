@@ -3,43 +3,19 @@ Nejsme
 
 nejsme víc  
 než výheň sama 
-
-nejsme víc  
 než citů hrana
-
-nejsme víc  
 než deště z jara
-
-nejsme víc  
 než příruční sada 
-
-nejsme víc  
 než oční vada
-
-nejsme víc  
 než pnutí hada 
-
-nejsme víc  
 než delikt blaha
-
-nejsme víc  
 než kusá snaha
-
-nejsme víc  
 než chůze chvála
-
-nejsme víc  
 než patník dávna
-
-nejsme víc  
 než tesknost rána
-
-nejsme víc  
-než úškleb páva 
-
+než stud páva 
 nejsme víc  
 než pohrobci Abraháma
-
 jsme nic
 
 (pj)
