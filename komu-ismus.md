@@ -45,10 +45,10 @@ honit si triko elektřinou v hraničních
 plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
 [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
 dělo *Republiku si rozvrátit nedáme!*
-Do res publicae měl však náš aparát patolízalů těžce daleko.
+Do res publicae měl aparát patolízalů daleko.
 Z ráje se neutíká. A jestli ten ráj neuznáš,
-jsi jen další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
-...ohrožující naše socialistické zřízení.
+jsi další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
+..ohrožující naše socialistické zřízení.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -72,13 +72,13 @@ Navzdory tomu víme, kde se tupost bere:
 pohraniční stráž střílela
 a prokurátor nasazoval
 oprátky dle **tehdy platných** zákonů.
-Odvolávat se na *(psanost!)* pravidla
+Odvolávat se na *psanost!* pravidla
 je hrozivé slabošství. Na něm právě
 stojí totalitní i trudné
 *demo*kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
-Zákon (rozkaz nebo dekret) ještě
-*nikdy nikoho* nezabil.
+Zákon, rozkaz nebo dekret ještě
+*nikdy nikoho* nevraždil.
 Člověk člověka ale už ano.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
@@ -111,8 +111,8 @@ nechtěli — nebyl by tady. Třeba jsme národem
 raději sám začne obíhat jako sovětský satelit.
 Nadšení proletářského davu bylo hutnější
 než obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
-zapůsobily: bylo po válce a všichni chtěli
-bratrství a mír. Pár let zpátky psal Masaryk
+zapůsobily: bylo po válce a i dívky chtěli
+být bratry. Pár let zpátky psal Masaryk
 *O bolševictví* nebo Čapek *Proč nejsem komunistou*
 — nestačilo to, museli jsme si sáhnout.
 A zase to nestačí, protože nedlouho
@@ -139,7 +139,7 @@ Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus, slovo s příchutí (nejen) panelového bloku
+Socialismus, slovo křtěné drtí panelu
 (více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Kdo chce jistoty, může popojít.
 Na Východ.
@@ -156,7 +156,7 @@ Bohužel, 40 let života jako pomýlený nevykáží.
 Nemohou. Zůstalo by jim už jenom stáří.
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
 právo na socialistické (ať už to znamená cokoli)
-cítění. Nechme jim i poníženou myšlenku kolektivismu,
+cítění. Nechme jim i závistivou myšlenku kolektivizmu,
 ale už *nikdy* nedovolme způsob,
 kterým ho má nebo mělo být
 dosaženo.
@@ -192,7 +192,7 @@ Vzato nemusí dlouho trvat, abychom *jednotně k práci,
 jednotně k volbám* vyráželi ex novo
 — chtivost a lysé hlavy to nikdy
 a nikam nemají daleko.
-Dorazí rychle.
+Přirazí rychle.
 Na stranu druhou:
 
 > [..] komunismus sám pobil daleko více komunistů,
@@ -208,7 +208,7 @@ ni exkomunikace těch nejubožejších z jejich
 > [..] někdy více lidí umíralo na politiku než na nemoci.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
 
-Záliba v komunismu by měla být trestná. Není.
+Záliba v komunismu měla a má být trestná. Není.
 Asi tak mnozí dávají vyniknout své velikosti
 a dobrotě. Nepochopili ale jedno:
 
@@ -219,9 +219,9 @@ a dobrotě. Nepochopili ale jedno:
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Ta domýšlivost ponechala "levicové" knížky
+Ta domýšlivost ponechala knížky tmeličů
 klidnému stáří a ideologii v pozadí
-ještě klidnějšímu dospívání.
+ještě klidnější dospělosti.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -235,7 +235,7 @@ než svastika hákového kříže. Třeba proto,
 komunismus jako totalitní režim, Ministersto
 obrany odškodňuje 3. odboj a přesto není
 bolševická idea zákonem odmítnutá (na rozdíl
-od věci nacismu).
+od věci nácismu).
 
 > Komunisté, kteří nejdříve chtějí revoluci a pak teprve
 > všechno ostatní, nemají ze svého stanoviska tak docela pravdu,
@@ -274,8 +274,8 @@ i polemizuje, jen ať už ho proboha
 nikdo nepouští ke slovu (ani ke stolu).
 Komunismus
 jednou celé století dostal —
-další nepotřebuje. Nelze jej přejít
-netaktním mlčením.
+další nepotřebuje. A my netaktně
+(a netakticky) mlčíme.
 
 > [..] hlásí se [Steigerwald] k ideálu
 > a riskuje, že bude "lecjakými Vojty",
@@ -292,7 +292,7 @@ netaktním mlčením.
 Je vpravdě snazší se dnes nakrásně
 vymezit vůči všem, kteří podlehli.
 Já tu možnost nedostal, asi jsem
-tak z obliga. Hodnotit věci lze
+tak z obliga. Nahlížet věci lze
 však právě proto, že jich nejste
 součástí. Třeba platí, že chybu
 musíme nejprve udělat,
@@ -325,12 +325,10 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-že každé slovo v debatě o něm končí
-rychle [opotřebeno](https://youtu.be/djFcjDyaZNY).
-Vyzněním z Opilých banánů: *Komunismus je svinstvo
-a bolševici jsou svině.* A to, myslím, ani nejsme
-zcela korektní. *Si vis pacem, para bellum*
-zeje do tmy.
+že vůbec argumentovat je [non-sense](https://youtu.be/djFcjDyaZNY).
+Víc než korektním vyzněním z Opilých banánů:
+*Komunismus je svinstvo a bolševici jsou svině.*
+A *Si vis pacem, para bellum* zeje do tmy.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
@@ -342,7 +340,7 @@ dnes mluvit může, ale
 nikdo ho neslyší (jak se jednou vyjádřil
 Jaroslav Hutka). Stejně jako může většina
 většinou pravdu míjet, zatímco menšina končí
-proformou, kreditem, argumentem,
+proformou, kreditem, oporou,
 ospravedlněním svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
@@ -389,20 +387,20 @@ __Peroutka__
 > Demokracie musí pečovat o to, aby byla většinou.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
 
-.
+#
 
 > Demokracie do sebe přijímá tezi a antitezi
 > a dává jim ochranu práva a zákona.
 > *Ibid., s. 140.*
 
-.
+#
 
 > Dvě tendence proplétají se historií, protikladné,
 > ale obě nepopiratelné, tendence ke svobodě
 > a tendence k disciplíně.
 > *Ibid., s. 224.*
 
-.
+#
 
 > Přestala existovat porážka, existuje jen zničení.
 > *Ibid., s. 133.*

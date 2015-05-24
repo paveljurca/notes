@@ -1280,7 +1280,7 @@ zanedbatelné množství
 * _quotidie morior_
 umírám kdykoliv
 * _quo vadis_
-kam kráčíš?
+kam kráčíš
 * _raison d'etre_
 důvod být
 * _raptus a afflatus_
@@ -1632,8 +1632,10 @@ bodrý
 
 —
 
-Není pojmu ni slova,  
-kde by čeština nebyla (už).
+A teď už to jen zpeněžit,
+teda pardon, vlastně **monetizovat**.
+
+A čeština chřadne.
 
 (pj)
 

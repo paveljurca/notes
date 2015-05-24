@@ -39,6 +39,7 @@ __dev__
 * [net magazine](http://www.creativebloq.com/tag/opinion)
 * [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
 * [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
+* [Bēhance Insights](http://99u.com/)
 * [Codrops](http://tympanus.net/codrops/collective/)
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
@@ -170,6 +171,7 @@ __misc__
 * [Ben Galbraith](http://benzilla.galbraiths.org/)
 * [Peter-Paul Koch](http://www.quirksmode.org/blog/)
 * [Sylva Ficová](http://utrzky.tumblr.com/)
+* [Lukáš Kovanda](http://kovanda.blog.tyden.cz/)
 
 ## podcasts
 
@@ -869,7 +871,6 @@ __addendum__
 * volnonozci.cz/zapisy 'thoughts of czech freelancers
 * cssdesignawards.com 'world's greatest websites every-month-contest
 * webbyawards.com 'honoring excellence on the internet
-* 99u.com 'best practices for creative professionals
 * uniegd.cz 'czech designers, webdesigners, typographers
 * google.com/alerts 'monitor your interests via google right in your inbox
 * openshift.com 'free paas hosting environment maden by red hat!
