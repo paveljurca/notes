@@ -1,7 +1,14 @@
 Perl
 ====
 
-@TODO twitter handlers
+
+## Larry Wall
+
+
+## jobs 
+
+* [adzuna.ca](http://www.adzuna.ca/search?q=perl)
++ fb post z Perl grupy
 
 
 
