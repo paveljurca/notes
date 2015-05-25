@@ -11,19 +11,20 @@ __dev__
 * [Mozilla Hacks](https://hacks.mozilla.org/)
 * [devx.com/opensource](http://www.devx.com/opensource/)
 * [startup.lupa.cz](http://startup.lupa.cz)
+* [justit.cz](http://justit.cz)
 * [news.layervault.com/new](http://news.layervault.com/new)
 * [czechcrunch.cz](http://www.czechcrunch.cz/)
-* [technet.cz](http://technet.cz)
-* [diit.cz](http://diit.cz)
-* [root.cz](http://root.cz)
 * [engadget.com](http://engadget.com)
+* [technet.cz](http://technet.cz)
 * [aoltech.com](http://aoltech.com)
+* [diit.cz](http://diit.cz)
 * [news.ycombinator.com](http://news.ycombinator.com)
+* [root.cz](http://root.cz)
 * [viry.cz](http://viry.cz)
 * [security-portal.cz](http://security-portal.cz)
 * [soom.cz](http://soom.cz)
-* [infoq.com](http://www.infoq.com)
 * [interval.cz](http://interval.cz)
+* [infoq.com](http://www.infoq.com)
 * [techradar.com](http://techradar.com)
 * [crypto-world.info](http://crypto-world.info/news/index.php)
 * [alltop.com](http://alltop.com)
@@ -44,7 +45,6 @@ __dev__
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
-* [justit.cz](http://justit.cz)
 
 __design__
 * [designspiration.net](http://designspiration.net/popular/)
@@ -77,6 +77,8 @@ __misc__
 
 * [Rob Nagler](http://www.viarob.com)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
+* [Rand Fishkin](https://moz.com/rand/)
+* [Mitch Goldstein](http://www.mitchgoldstein.com/writing/)
 * [Tim Bray](https://www.tbray.org/ongoing/)
 * [Bill Gates](http://www.gatesnotes.com/All)
 * [Petr Robejšek](http://blog.aktualne.cz/blogy/petr-robejsek.php)
@@ -188,6 +190,7 @@ __dev__
 * [boagworld.com](http://boagworld.com)
 * [CZ Podcast](http://java.cz/article/czpodcast)
 * [startupsfortherestofus.com](http://startupsfortherestofus.com)
+* [Tech Shift](https://soundcloud.com/techshift)
 * [hanselminutes.com](http://hanselminutes.com)
 * [herdingcode.com](http://herdingcode.com)
 * [thisdeveloperslife.com](http://thisdeveloperslife.com)
@@ -195,6 +198,8 @@ __dev__
 * [rebuild.fm](http://rebuild.fm)
 
 __bbc__
+* [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
+* [bbc.co.uk/podcasts/series/docarchive](http://bbc.co.uk/podcasts/series/docarchive)
 
 __cro__
 * [Hovory o víře](http://hledani.rozhlas.cz/iradio/?porad[]=Hovory+o+víře)
@@ -237,8 +242,6 @@ __misc__
 * [economix.cz/ekofora](http://economix.cz/ekofora)
 * [eslpod.com](http://eslpod.com)
 * [venturevoice.com](http://venturevoice.com)
-* [bbc.co.uk/podcasts/series/docarchive](http://bbc.co.uk/podcasts/series/docarchive)
-* [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
 * [ecorner.stanford.edu/podcasts.html](http://ecorner.stanford.edu/podcasts.html)
 * [itc.conversationsnetwork.org](http://itc.conversationsnetwork.org)
 * [soundcloud.com/harvard](http://soundcloud.com/harvard)
@@ -247,6 +250,9 @@ __misc__
 * [Tim Ferriss](http://fourhourworkweek.com/podcast/)
 * [On Point with Tom Ashbrook](http://www.npr.org/podcasts/510053/on-point-with-tom-ashbrook)
 * [Boston University World of Ideas](http://feeds.wbur.org/worldofideas]
+* [The Semi-Random Walks](http://www.derekscruggs.com/category/semi-random-walks)
+* [RadioWest](http://radiowest.kuer.org/)
+* [all things considered](http://www.npr.org/programs/all-things-considered/)
 
 ## video
 
@@ -291,6 +297,7 @@ __misc__
 * [VH](http://www.youtube.com/user/knihovnavaclavahavla/videos)
 * [Kristoffer Borgli](https://vimeo.com/kristofferborgli/videos)
 * [Matthijs Vlot](http://www.mattatjeoorlog.nl/)
+* [One Potato Productions](https://vimeo.com/user10578118/videos)
 * [House of Radon](https://vimeo.com/houseofradon/videos)
 * [Internet Info](https://vimeo.com/iinfo/videos)
 * [ByznysPark](https://vimeo.com/byznyspark/videos)
@@ -372,6 +379,7 @@ __dev__
 * [techweek.com](http://techweek.com)
 * [seedstarsworld.com](http://seedstarsworld.com)
 * [startupgrind.com](http://startupgrind.com)
+* [OpenTech](http://www.opentech.org.uk)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
@@ -489,6 +497,7 @@ __addendum__
 * [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
 * [ABC: Always Be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2)
+* [CV go digital](https://medium.com/@write4research/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b)
 
 ## @TODO 
 
