@@ -77,6 +77,7 @@ __misc__
 
 * [Rob Nagler](http://www.viarob.com)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
+* [Hugh Ballou](http://transformationalstrategist.com/category/friday-five/)
 * [Rand Fishkin](https://moz.com/rand/)
 * [Mitch Goldstein](http://www.mitchgoldstein.com/writing/)
 * [Tim Bray](https://www.tbray.org/ongoing/)
