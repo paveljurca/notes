@@ -403,6 +403,8 @@ __misc__
 * [Spark the Change](http://sparkthechange.co.uk)
 * [mexpo.sk](http://mexpo.sk)
 * [Šrámkova Sobotka](http://www.sramkovasobotka.cz/program/)
+* [Edu Hack CZ](http://eduhackcz.weebly.com/akce)
+* [Social Impact Award CZ](http://socialimpactaward.cz/prubeh/)
 
 ## data
 
