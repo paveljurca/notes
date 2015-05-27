@@ -10,6 +10,7 @@ __dev__
 * [dev.opera](https://dev.opera.com/)
 * [Mozilla Hacks](https://hacks.mozilla.org/)
 * [devx.com/opensource](http://www.devx.com/opensource/)
+* [Techmeme](http://www.techmeme.com/)
 * [startup.lupa.cz](http://startup.lupa.cz)
 * [justit.cz](http://justit.cz)
 * [news.layervault.com/new](http://news.layervault.com/new)
@@ -22,11 +23,12 @@ __dev__
 * [root.cz](http://root.cz)
 * [viry.cz](http://viry.cz)
 * [security-portal.cz](http://security-portal.cz)
+* [crypto-world.info](http://crypto-world.info/news/index.php)
 * [soom.cz](http://soom.cz)
 * [interval.cz](http://interval.cz)
 * [infoq.com](http://www.infoq.com)
 * [techradar.com](http://techradar.com)
-* [crypto-world.info](http://crypto-world.info/news/index.php)
+* [GrowthHackers](https://growthhackers.com/)
 * [alltop.com](http://alltop.com)
 * [reddit.com/r/technology](http://reddit.com/r/technology/)
 * [devlogy.cz/kvalitka](http://devlogy.cz/kvalitka)
@@ -42,7 +44,6 @@ __dev__
 * [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
 * [Bēhance Insights](http://99u.com/)
 * [Codrops](http://tympanus.net/codrops/collective/)
-* [GrowthHackers](https://growthhackers.com/)
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
@@ -58,8 +59,14 @@ __design__
 * [FFFFOUND!](http://ffffound.com/)
 
 __misc__
+* [Room for Debate](http://www.nytimes.com/roomfordebate)
+* [Opinionator](http://opinionator.blogs.nytimes.com/)
+* [Guernica](http://www.guernicamag.com/)
+* [n+1](https://nplusonemag.com/online-only/)
+* [The Paris Review](http://www.theparisreview.org/interviews/)
 * [online.muni.cz](http://online.muni.cz)
 * [materialtimes.com](http://www.materialtimes.com/)
+* [The Daily Beast](http://www.thedailybeast.com/books.html)
 * [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
 * [Marathon](http://www.valencik.cz/marathon/)
 * [Host](http://casopis.hostbrno.cz/archiv)
@@ -70,6 +77,7 @@ __misc__
 * [zpravy.rozhlas.cz](http://zpravy.rozhlas.cz)
 * [praguepost.com](http://praguepost.com)
 * [news.google.com](http://news.google.com)
+* [Mediagazer](http://www.mediagazer.com/)
 * [text.radio.cz/en](http://text.radio.cz/en)
 * [mediar.cz](http://mediar.cz)
 * [hoax.cz](http://hoax.cz)
@@ -82,6 +90,7 @@ __misc__
 * [Rand Fishkin](https://moz.com/rand/)
 * [Mitch Goldstein](http://www.mitchgoldstein.com/writing/)
 * [Tim Bray](https://www.tbray.org/ongoing/)
+* [Dries Buytaert](http://buytaert.net/)
 * [Bill Gates](http://www.gatesnotes.com/All)
 * [Petr Robejšek](http://blog.aktualne.cz/blogy/petr-robejsek.php)
 * [Tomáš Sedláček](http://blog.aktualne.cz/blogy/tomas-sedlacek.php)
@@ -173,6 +182,7 @@ __misc__
 * [Juriy Zaytsev](http://perfectionkills.com/)
 * [Andy Brice](http://successfulsoftware.net/articles/)
 * [Ben Galbraith](http://benzilla.galbraiths.org/)
+* [Jonah Lehrer](http://www.jonahlehrer.com/)
 * [Peter-Paul Koch](http://www.quirksmode.org/blog/)
 * [Sylva Ficová](http://utrzky.tumblr.com/)
 * [Lukáš Kovanda](http://kovanda.blog.tyden.cz/)
@@ -314,6 +324,7 @@ __misc__
 * [billmoyers.com](https://vimeo.com/user9013478/videos)
 * [The Atlantic](https://vimeo.com/atlanticvideo/videos)
 * [Shuttleworth Foundation](https://vimeo.com/shuttleworthfoundation/videos)
+* [Advanced Hindsight](https://vimeo.com/advancedhindsight)
 
 ## events 
 
@@ -406,6 +417,7 @@ __misc__
 * [Šrámkova Sobotka](http://www.sramkovasobotka.cz/program/)
 * [Edu Hack CZ](http://eduhackcz.weebly.com/akce)
 * [Social Impact Award CZ](http://socialimpactaward.cz/prubeh/)
+* [Hay Festival](http://www.hayfestival.com)
 
 ## data
 
