@@ -42,6 +42,7 @@ __dev__
 * [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
 * [Bēhance Insights](http://99u.com/)
 * [Codrops](http://tympanus.net/codrops/collective/)
+* [GrowthHackers](https://growthhackers.com/)
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
@@ -489,6 +490,7 @@ __misc__
 * [uni-jobs.cz](http://uni-jobs.cz)
 * [f6s.com/jobs](http://f6s.com/jobs)
 * [inhiro.com](http://inhiro.com/sk/job#list)
+* [growthhackers.com/jobs](https://growthhackers.com/jobs/)
 
 __addendum__
 * [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
