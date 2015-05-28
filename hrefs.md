@@ -239,6 +239,7 @@ __cro__
 * [Radiotéka](http://www.radioteka.cz/)
 
 __misc__
+* [Serial](http://serialpodcast.org/#episodes)
 * [Zátiší R1](http://http://www.radio1.cz/archiv-poradu/download-list/2-zatisi)
 * [TED radio hour](http://www.npr.org/templates/archives/archive.php?thingId=57)
 * [The Gently Mad](http://thegentlymad.com/)
@@ -325,6 +326,7 @@ __misc__
 * [The Atlantic](https://vimeo.com/atlanticvideo/videos)
 * [Shuttleworth Foundation](https://vimeo.com/shuttleworthfoundation/videos)
 * [Advanced Hindsight](https://vimeo.com/advancedhindsight)
+* [The Veritas Forum](http://www.veritas.org/talks/?view=all-talks)
 
 ## events 
 
@@ -518,6 +520,7 @@ __addendum__
 
 ## @TODO 
 
+* http://bara.ujc.cas.cz/ssjc/ 'Slovník spisovného jazyka českého
 * alpha.app.net 'ad-free social network
 * http://postach.io 'Evernote as a blog
 * http://hackathon.launch.co/projects
