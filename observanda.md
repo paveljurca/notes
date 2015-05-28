@@ -2294,4 +2294,3 @@ hodnotící procesy a prostřednictvím pozitivních
 emocí zabezpečují i zvýšení motivace ke studiu."
 (Sirotová, M.: Rozvoj kreativity v procese prípravy budúcich učitelov. In: Komenský, J.A.: Odkaz kultuře vzdělávání, (eds. Chocholová, S., Pánková, M., Steiner, M.). Academia, Praha 2009, s. 616.)
 
-
