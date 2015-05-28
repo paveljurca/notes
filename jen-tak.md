@@ -22,9 +22,9 @@ vteřiny
 nic nemění  
 minulé  
 na zvážení  
-víčka  
-tmy šálení  
-ruptura  
+víčky  
+klenba šálení  
+&nbsp;ruptura  
 dí holeni
 
 
@@ -33,6 +33,7 @@ Jsme
 
 *Jiřímu Ortenovi*
 
+zhruba —  
 výheň sama   
 citů hrana  
 deště z jara  

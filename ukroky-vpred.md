@@ -50,7 +50,7 @@ mene tekel rokliny
 tvorstvo doptává se  
 *Adama a Evy jmeniny?*  
 rozpuštěny sbory ptactva  
-duše předvoj rytiny  
+duše mědí rytiny  
 naděje v úvaze luny  
 daleko do jarní květiny  
 vítr na větvoví hraje  
@@ -81,7 +81,7 @@ její sloky
 nedlouho pak  
 lom bez vody  
 skončíš sám  
-zanevřeš na boty
+zanevřeš na slohy
 
 vrstevníci  
 lásky dobroty  
@@ -170,8 +170,6 @@ dělat chyby
 otázkou  
 koho svět unese  
 — ještě 
-
-*(Válet sudy)*
 
 oblak, odvál nebe  
 dole, kde lidem jebe  
