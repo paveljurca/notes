@@ -1,5 +1,5 @@
-Domluvit
-========
+Přemluvit
+=========
 
 > Všichni mluvili o tý operaci naprosto ležérně.
 > Je to procházka parkem. Nikoho jsem se na nic
@@ -7,8 +7,8 @@ Domluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-neschopnosti i k mluvení. A jak s ním začne,
-začne i těch svých pár pravd plést.
+nepořádku i k mluvení. A jak s ním začne,
+může se splést.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
@@ -32,7 +32,7 @@ pořádně neví. A když ví, neví to zase ten druhý.
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman!. Vintage, London 1992, s. 310.*
 
 Ticho se nesnese. Sám člověk se nesnese. Proto
-televize, rádio, týdeník nebo sekačka na trávu.
+televize, rádio nebo týdeník.
 Stát vedle sebe, nic neříkat, jen se uctít
 chvílí, prostým faktem zhmotnění. Vzato držet hubu.
 
@@ -68,7 +68,7 @@ zjištění k užitku.
 Nevíme mluvit, nevíme užívat slov.
 Každá věta je rozpačitost. Netušíme
 *jestli* a *jak dlouho* mluvit (ještě).
-Namísto čtyř vět složíme **přerývané souvětí holé**
+Namísto čtyř vět složíme *přerývané souvětí holé*
 o pětadvaceti.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
