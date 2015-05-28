@@ -2,8 +2,10 @@ Jen tak
 =======
 
 
-Odcizit (se)
-------------
+Odcizit
+-------
+
+(..se)
 
 naloženi v sedačkách  
 cestou uondáni  
@@ -22,16 +24,14 @@ vteřiny
 nic nemění  
 minulé  
 na zvážení  
-víčky  
-klenba šálení  
-&nbsp;ruptura  
+a víčka  
+co klenba šálení  
+tak ruptura —  
 dí holeni
 
 
 Jsme
 ----
-
-*Jiřímu Ortenovi*
 
 zhruba —  
 výheň sama   
