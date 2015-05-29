@@ -8,15 +8,16 @@ It's just I'd like to write
 down a few remarks to keep
 a future reference for myself.
 
-My *@Test*'s incentive is that
+My `@Test` incentive is that
 I feel less pressure knowing
 the "magic" sits there, so
 it's gonna tell me if my last added
 block of code broke everything.
 Did it passed? Then move on :)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">[Without unit tests] You&#39;re not refactoring, you&#39;re just changing shit. — Hamlet D&#39;Arcy</p>&mdash; Alexander Gugel (@alexanderGugel) <a href="https://twitter.com/alexanderGugel/status/566656504422752257">February 14, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> [Without unit tests] You're not refactoring,
+> you're just changing shit. — Hamlet D'Arcy
+> *[Alexander Gugel](https://twitter.com/alexanderGugel/status/566656504422752257)*
 
 The only tricky (or funny)
 part of this might be that
@@ -31,8 +32,9 @@ about a new code you're gonna write.
 To put it simply: if you can't test it,
 you're likely to be wrong.
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">If you can&#39;t figure out how to write the tests for something, how will you figure out how to write the something?</p>&mdash; Evan Phoenix (@evanphx) <a href="https://twitter.com/evanphx/status/504735308932333568">August 27, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> If you can't figure out how to write the tests for something,
+> how will you figure out how to write the something?
+> *[Evan Phoenix](https://twitter.com/evanphx/status/504735308932333568)*
 
 - Test a fixture (contract, behaviour)
 but *NOT* the implementation
