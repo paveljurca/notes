@@ -47,7 +47,7 @@ to break (humiliate) your own code
 
 > Don't ask for the data that you need to do something;
 > ask the object that has the data to do the work for you
-> *Allen Holub*
+> *[Allen Holub](https://youtu.be/HZyRQ8Uhhmk)*
 
 - Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell),
 i.e. no constructor with unreachable objects
