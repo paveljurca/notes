@@ -13,7 +13,7 @@ every time I've pressed one too many `BACKSPACE`*s* or so
 
 ## /sbin/route
 
-Being connected to LAN and WiFi simultaneously
+Being connected to [RJ-45](https://en.wikipedia.org/wiki/Ethernet) and WiFi simultaneously
 may cause one's packets don't find
 the way out (because another DHCP server
 confused one's route table). Just look up a proper
