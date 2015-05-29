@@ -5,7 +5,7 @@ Jen tak
 Odcizit
 -------
 
-(..se)
+..sebe
 
 naloženi v sedačkách  
 cestou uondáni  
@@ -26,7 +26,7 @@ minulé
 na zvážení  
 a víčka  
 co klenba šálení  
-tak ruptura —  
+ruptura —  
 dí holeni
 
 
