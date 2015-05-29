@@ -517,6 +517,8 @@ __addendum__
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
 * [ABC: Always Be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2)
 * [CV go digital](https://medium.com/@write4research/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b)
+* [Ako personalisti vnímajú ajťákov a benefity](http://content.fczbkk.com/ako-personalisti-vnimaju-ajtakov-a-benefity/)
+* [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
 
 ## @TODO 
 
