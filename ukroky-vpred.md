@@ -81,17 +81,17 @@ její sloky
 nedlouho pak  
 lom bez vody  
 skončíš sám  
-zanevřeš na slohy
+nesneseš slohy
 
-vrstevníci  
-lásky dobroty  
 nečekej  
-oslov ji taky
+oslov ji tady  
+jen nekoukej  
+..na vnady
 
 letargie rána  
 oči, milé dráma  
 vším tělem, kořínky vlasů  
-..spěchá zpráva  
+spěchá, ta zpráva!  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
@@ -163,7 +163,7 @@ Poledne
 u pluhu  
 pár knih, trocha rozumu  
 srdce tajem obzoru  
-..proč jsme tu?
+potíž, při porodu?
 
 dnem  
 dělat chyby  
@@ -174,11 +174,11 @@ koho svět unese
 oblak, odvál nebe  
 dole, kde lidem jebe  
 bytí není hra  
-kracie, znaménko jha
+kracie, Manitu jha
 
 
-Zdánlivě
---------
+Není rohu
+---------
 
 Déle setrvám,  
 více to jsem.  
@@ -198,9 +198,8 @@ roz-
 mezi možnostmi.  
 Zem kulatá,  
 není rohu  
-k odbočení.
-
-Zdánlivě.
+k odbočení.  
+Asi.
 
 
 (pj)
