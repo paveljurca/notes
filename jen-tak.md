@@ -2,15 +2,21 @@ Jen tak
 =======
 
 
-Odcizit
+Zajíček
 -------
 
-..sebe
-
-naloženi v sedačkách  
-cestou uondáni  
-nezájem při zatáčkách  
-— kvapí páni
+zajíček  
+stopu brázd prohání  
+fousky po větru  
+rád za každé svítání  
+ve skrytu  
+činí stráni pokání  
+čmuchá trávy omladinu  
+nemyslí na stáří  
+bystří lidskou lavinu  
+broky ji předchází  
+&nbsp;kubík asfaltu  
+parkují mu do mlází
 
 
 Fraktura
@@ -33,7 +39,7 @@ dí holeni
 Jsme
 ----
 
-zhruba —  
+cože —  
 výheň sama   
 citů hrana  
 deště z jara  
