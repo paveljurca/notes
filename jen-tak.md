@@ -12,10 +12,12 @@ rád za každé svítání
 ve skrytu  
 činí stráni pokání  
 čmuchá trávy omladinu  
-nemyslí na stáří  
+znalec bio bádání  
 bystří lidskou lavinu  
-broky ji předchází  
-&nbsp;kubík asfaltu  
+jíž broky předchází  
+míří v novou kotlinu  
+na kulturu nesází  
+..kubík asfaltu  
 parkují mu do mlází
 
 
