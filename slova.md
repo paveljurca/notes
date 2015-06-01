@@ -1255,6 +1255,8 @@ vynikající
 není, ale má být
 * _prizma_
 hledisko
+* _pro bono_
+nezištně
 * _proforma_
 naoko
 * _profánní_
