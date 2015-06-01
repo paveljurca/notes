@@ -85,6 +85,8 @@ __misc__
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
+* [Jo Facer](http://readingallthebooks.com/)
+* [Amy Hoy](http://unicornfree.com/archives/)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
 * [Hugh Ballou](http://transformationalstrategist.com/category/friday-five/)
 * [Rand Fishkin](https://moz.com/rand/)
