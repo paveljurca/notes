@@ -18,7 +18,7 @@ jíž broky předchází
 míří v novou kotlinu  
 na kulturu nesází  
 — kubík asfaltu  
-přistává ve mlází  
+dotírá ve mlází  
 i jezevce  
 to obyčejně rozhází
 
