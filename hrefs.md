@@ -271,6 +271,7 @@ __misc__
 * [The Semi-Random Walks](http://www.derekscruggs.com/category/semi-random-walks)
 * [RadioWest](http://radiowest.kuer.org/)
 * [all things considered](http://www.npr.org/programs/all-things-considered/)
+* [We Can Cut This Out](http://wecancutthisout.com/)
 
 ## video
 
