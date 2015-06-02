@@ -7,7 +7,7 @@ Zajíček
 
 zajíček  
 stopu brázd prohání  
-fousky po větru  
+ušiska do větru  
 rád za každé svítání  
 ve skrytu  
 činí stráni pokání  
@@ -17,8 +17,10 @@ bystří lidskou lavinu
 jíž broky předchází  
 míří v novou kotlinu  
 na kulturu nesází  
-..kubík asfaltu  
-parkují mu do mlází
+— kubík asfaltu  
+přistává ve mlází  
+i jezevce  
+to obyčejně rozhází
 
 
 Fraktura
