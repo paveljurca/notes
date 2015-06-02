@@ -85,6 +85,7 @@ __misc__
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
+* [Michael Lopp](http://randsinrepose.com/blog/)
 * [Alex Payne](https://al3x.net/archive.html)
 * [Evan Miller](http://www.evanmiller.org/)
 * [Jo Facer](http://readingallthebooks.com/)
