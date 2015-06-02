@@ -85,6 +85,8 @@ __misc__
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
+* [Alex Payne](https://al3x.net/archive.html)
+* [Evan Miller](http://www.evanmiller.org/)
 * [Jo Facer](http://readingallthebooks.com/)
 * [Amy Hoy](http://unicornfree.com/archives/)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
