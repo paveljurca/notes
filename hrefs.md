@@ -47,6 +47,7 @@ __dev__
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
+* [PragPub](https://pragprog.com/magazines)
 
 __design__
 * [designspiration.net](http://designspiration.net/popular/)
@@ -69,6 +70,7 @@ __misc__
 * [The Daily Beast](http://www.thedailybeast.com/books.html)
 * [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
 * [Marathon](http://www.valencik.cz/marathon/)
+* [Gentlemanův deníček](http://www.gentleman.cz/)
 * [Host](http://casopis.hostbrno.cz/archiv)
 * [Psí víno](http://www.psivino.cz/?page_id=22)
 * [Tvar](http://www.itvar.cz/cz/archiv/)
@@ -90,6 +92,8 @@ __misc__
 * [Evan Miller](http://www.evanmiller.org/)
 * [Jo Facer](http://readingallthebooks.com/)
 * [Amy Hoy](http://unicornfree.com/archives/)
+* [Josette Garcia](http://www.josetteorama.com/)
+* [Piers Cawley](http://www.bofh.org.uk/)
 * [Mary Rose Cook](http://maryrosecook.com/blog/)
 * [Hugh Ballou](http://transformationalstrategist.com/category/friday-five/)
 * [Rand Fishkin](https://moz.com/rand/)
@@ -191,6 +195,8 @@ __misc__
 * [Peter-Paul Koch](http://www.quirksmode.org/blog/)
 * [Sylva Ficová](http://utrzky.tumblr.com/)
 * [Lukáš Kovanda](http://kovanda.blog.tyden.cz/)
+* [Ask a Mathematician](http://www.askamathematician.com/)
+* [John D. Cook](https://feeds.feedburner.com/theendeavour)
 
 ## podcasts
 
@@ -208,6 +214,7 @@ __dev__
 * [CZ Podcast](http://java.cz/article/czpodcast)
 * [startupsfortherestofus.com](http://startupsfortherestofus.com)
 * [Tech Shift](https://soundcloud.com/techshift)
+* [The Pragmatic Bookshelf](https://pragprog.com/podcasts)
 * [hanselminutes.com](http://hanselminutes.com)
 * [herdingcode.com](http://herdingcode.com)
 * [thisdeveloperslife.com](http://thisdeveloperslife.com)
@@ -267,7 +274,7 @@ __misc__
 * [UnMarketing](http://www.unmarketing.com/category/podcast/)
 * [Tim Ferriss](http://fourhourworkweek.com/podcast/)
 * [On Point with Tom Ashbrook](http://www.npr.org/podcasts/510053/on-point-with-tom-ashbrook)
-* [Boston University World of Ideas](http://feeds.wbur.org/worldofideas]
+* [Boston University World of Ideas](http://feeds.wbur.org/worldofideas)
 * [The Semi-Random Walks](http://www.derekscruggs.com/category/semi-random-walks)
 * [RadioWest](http://radiowest.kuer.org/)
 * [all things considered](http://www.npr.org/programs/all-things-considered/)
@@ -401,6 +408,7 @@ __dev__
 * [seedstarsworld.com](http://seedstarsworld.com)
 * [startupgrind.com](http://startupgrind.com)
 * [OpenTech](http://www.opentech.org.uk)
+* [How to Web](http://howtoweb.co/)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
