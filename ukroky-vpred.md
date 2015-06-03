@@ -132,7 +132,7 @@ nevím, křivky maluju
 mám to tak radši
 
 chvátám do nových dnů  
-dotírám na Andromedu  
+prosím Andromedu  
 dluh vůči snům  
 beztak splatit nedovedu
 
@@ -174,7 +174,7 @@ koho svět unese
 oblak, odvál nebe  
 dole, kde lidem jebe  
 bytí není hra  
-kracie, Manitu jha
+kracie, Manitou jha
 
 
 Není rohu
