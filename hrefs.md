@@ -325,6 +325,7 @@ __misc__
 * [Sociální nauka](http://www.youtube.com/user/socialninauka/videos)
 * [VH](http://www.youtube.com/user/knihovnavaclavahavla/videos)
 * [Kristoffer Borgli](https://vimeo.com/kristofferborgli/videos)
+* [Stephen Rae](https://vimeo.com/mediahauspng/videos)
 * [Matthijs Vlot](http://www.mattatjeoorlog.nl/)
 * [One Potato Productions](https://vimeo.com/user10578118/videos)
 * [House of Radon](https://vimeo.com/houseofradon/videos)
@@ -527,6 +528,7 @@ __misc__
 * [growthhackers.com/jobs](https://growthhackers.com/jobs/)
 * [jobs.mindtheproduct.com](http://jobs.mindtheproduct.com/)
 * [Developer Company Jobs](http://www.devcojobs.com/)
+* [firstround.com/jobs](http://firstround.com/jobs)
 
 __addendum__
 * [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
