@@ -200,6 +200,7 @@ __misc__
 * [Ask a Mathematician](http://www.askamathematician.com/)
 * [John D. Cook](https://feeds.feedburner.com/theendeavour)
 * [nixCraft](http://www.cyberciti.biz/)
+* [Outspeaking.com](http://outspeaking.com/)
 
 ## podcasts
 
