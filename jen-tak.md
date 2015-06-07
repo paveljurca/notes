@@ -2,25 +2,29 @@ Jen tak
 =======
 
 
+Strom
+-----
+
+člověk ke stromu  
+námořník o úkolu  
+les bez krovu  
+klekání, pojď domu  
+ke komu?  
+
+
 Zajíček
 -------
 
-zajíček  
 stopu brázd prohání  
-ušiska do větru  
+jen tak, do větru  
 rád za každé svítání  
 ve skrytu  
 činí stráni pokání  
 čmuchá trávy omladinu  
 znalec bio bádání  
 bystří lidskou lavinu  
-jíž broky předchází  
-míří v novou kotlinu  
-na kulturu nesází  
-— kubík asfaltu  
-dotírá ve mlází  
-i jezevce  
-to obyčejně rozhází
+životním moudrem však  
+..žvýkání  
 
 
 Fraktura
