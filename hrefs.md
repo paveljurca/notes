@@ -9,6 +9,7 @@ __dev__
 * [lobste.rs](http://lobste.rs/)
 * [dev.opera](https://dev.opera.com/)
 * [Mozilla Hacks](https://hacks.mozilla.org/)
+* [High Scalability](http://highscalability.com/)
 * [devx.com/opensource](http://www.devx.com/opensource/)
 * [Techmeme](http://www.techmeme.com/)
 * [startup.lupa.cz](http://startup.lupa.cz)
@@ -201,6 +202,7 @@ __misc__
 * [John D. Cook](https://feeds.feedburner.com/theendeavour)
 * [nixCraft](http://www.cyberciti.biz/)
 * [Outspeaking.com](http://outspeaking.com/)
+* [Gabriel Weinberg](https://medium.com/@yegg)
 
 ## podcasts
 
