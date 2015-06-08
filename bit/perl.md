@@ -8,8 +8,14 @@ Perl
 ## jobs 
 
 * [adzuna.ca](http://www.adzuna.ca/search?q=perl)
-+ fb post z Perl grupy
-
+* [findmjob.com](http://findmjob.com/search/perl.html)
+* [jobs.perl.org](http://jobs.perl.org/)
+* [perl.careers](http://perl.careers/)
+* [eligo.co.uk](http://eligo.co.uk/technology/)
+* [builtinperl.com](http://www.builtinperl.com/perl-jobs)
+* [linkedin.com](https://www.linkedin.com/groups/Perl-Jobs-1332857)
+* [linkedin.com #2](https://www.linkedin.com/job/perl-developer-jobs/)
+* [facebook.com](https://www.facebook.com/groups/perljobs)
 
 
 
