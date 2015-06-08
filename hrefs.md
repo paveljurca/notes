@@ -418,6 +418,7 @@ __dev__
 * [startupgrind.com](http://startupgrind.com)
 * [OpenTech](http://www.opentech.org.uk)
 * [How to Web](http://howtoweb.co/)
+* [SaaStr Annual](http://www.saastr.com/saastr-annual-2016/)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
