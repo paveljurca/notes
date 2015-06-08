@@ -61,6 +61,7 @@ __design__
 * [FFFFOUND!](http://ffffound.com/)
 
 __misc__
+* [The Review](http://firstround.com/review/)
 * [Room for Debate](http://www.nytimes.com/roomfordebate)
 * [Opinionator](http://opinionator.blogs.nytimes.com/)
 * [Guernica](http://www.guernicamag.com/)
