@@ -61,6 +61,7 @@ __design__
 * [FFFFOUND!](http://ffffound.com/)
 
 __misc__
+* [Aeon Ideas](http://ideas.aeon.co/)
 * [The Review](http://firstround.com/review/)
 * [Room for Debate](http://www.nytimes.com/roomfordebate)
 * [Opinionator](http://opinionator.blogs.nytimes.com/)
