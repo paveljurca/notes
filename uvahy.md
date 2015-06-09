@@ -175,6 +175,11 @@
 
 .
 
+> I have often regretted my speech, never my silence.
+> *Publilius Syrus*
+
+.
+
 > Teď potřebí, abychom se vzdělávali  
 > a dle vzdělaného rozumu jednali.
 > *František Palacký*
