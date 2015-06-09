@@ -367,6 +367,8 @@ Radí tak Kostohryz Demkovi:
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
 * Šaroch, Z.: Výstřely z hranice
 * [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), uvědomělý [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
+* [Hodní a nevinní komunisté](http://myego.cz/item/hodni-a-nevinni-komuniste-aneb-jak-se-nam-pod-nimi-zilo)
+* [Babičko, povídej](http://www.misantrop.info/babicko-povidej/)
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
 * Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
