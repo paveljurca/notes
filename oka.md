@@ -120,7 +120,7 @@ Kuřecí sen
 
 všechno to pospíchá  
 až moc honem  
-— oni byli  
+oni byli —  
 my zbudem
 
 zmatení  

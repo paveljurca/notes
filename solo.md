@@ -17,7 +17,7 @@ vakuem čela
 temní úvahy  
 tak vzdálené  
 volnosti vlohy  
-— v okně smích  
+v okně smích —  
 vklíněn do postavy  
 vprostřed někoho  
 bokem vřavy  
