@@ -78,16 +78,6 @@ ty něžné roky
 jsi rýmem   
 její sloky
 
-nedlouho pak  
-lom bez vody  
-skončíš sám  
-nesneseš slohy
-
-nečekej  
-oslov ji tady  
-jen nekoukej  
-..na vnady
-
 letargie rána  
 oči, milé dráma  
 vším tělem, kořínky vlasů  
@@ -200,6 +190,24 @@ Zem kulatá,
 není rohu  
 k odbočení.  
 Asi.
+
+
+Po krok
+-------
+
+obkročmo  
+z nezdarů blok  
+a přes mrtvoly
+
+&nbsp;..skok  
+
+zázračno  
+neposedný  
+tlustý hroch  
+
+v pochroumaném lese  
+už dnes tam  
+co napřesrok
 
 
 (pj)
