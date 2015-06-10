@@ -423,6 +423,11 @@
 
 .
 
+> He not busy being born is busy dying.
+> *Bob Dylan*
+
+.
+
 > Důležitá je jen další věta.  
 > A když nepřijde, budu mrtvej.
 > *Charles Bukowski, Kapitán odešel na oběd*
