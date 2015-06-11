@@ -215,6 +215,13 @@
 
 .
 
+> Že když něco děláme, ať to neděláme
+> jen proto, že nás to baví. Ať to děláme
+> líp než ostatní.
+> *Andrea Musilová*
+
+.
+
 > Svět je ztracen jen do té míry,  
 > do jaké míry já sám jsem ztracen.
 > *Václav Havel*
