@@ -1,5 +1,5 @@
-Sólo
-====
+Jinak
+=====
 
 shledá tělo —  
 bol hlavy  
