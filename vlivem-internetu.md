@@ -1,5 +1,5 @@
-Pod vlivem internetu
-====================
+Vlivem internetu
+================
 
 _a translation of_  
 [The Irreversible Change Of The Internet](http://issuu.com/wesc1999/docs/no3/14)  
