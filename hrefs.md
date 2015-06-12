@@ -447,6 +447,7 @@ __misc__
 * [Social Impact Award CZ](http://socialimpactaward.cz/prubeh/)
 * [Hay Festival](http://www.hayfestival.com)
 * [Houpačka](http://www.houpej.se/)
+* [Mobile User Experience](http://www.pmn.co.uk/mex/)
 
 ## data
 
