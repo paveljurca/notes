@@ -1043,8 +1043,8 @@ ne pro školu, pro život
 naše
 * _nostrifikovat_
 uznat
-* _notabene_
-mimoto
+* _nota bene_
+všimni si
 * _novela_
 kratší próza s vyústěním
 * _novum_
@@ -1371,6 +1371,10 @@ vyměšování
 bezbožný
 * _semper fidelis_
 věrni navždy
+* _sensu lato_
+volně
+* _sensu stricto_
+přísně
 * _sensus, ratio, fides_
 smysl, rozum, víra
 * _sepse_
