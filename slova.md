@@ -213,6 +213,8 @@ nesnášenlivý
 utvrzení křestu
 * _bliss point_
 vrchol blaženosti
+* _bonum_
+dobro
 * _bona fide_
 v dobré víře
 * _bonanza_
