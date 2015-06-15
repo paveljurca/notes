@@ -325,14 +325,14 @@ stavění, a to pro vraždu, loupeže a násilí.
 [..] Proto vražda ho přivedla ke stavění
 měst a města ho vedla k loupežím porušujícím
 právo.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 26.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 26.)
 
 U všech lidí, i u učených, vzácný je hřích
 a téměř nic nikde hříchem není v těchto časech.
 [..] a nejvíce učení, kteří hříchům říkají:
 Neškodí, sluší se. Neboť poněvadž lidé nevěří
 přikázáním božím a ani jim nerozumějí [..]
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 14.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 14.)
 
 Lid lotrovsky je spojený, u něhož žádné
 přikázání boží nezůstává a ani nemůže
@@ -341,26 +341,26 @@ lid městský založen je, nelze, aby s jejich
 úmysly jakékoliv přikázání boží zůstalo
 u nich. A poněvadž nejsou u nich přikázání
 boží, tedy je přestoupení všech.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 28.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 28.)
 
 A tu chlouba místo nemá, když se člověk
 za neužitečného považuje. Spíše se obává
 a neodvažuje se mnoho výt o svých dobrých
 skutcích ani lidem spasení slibovat na
 jejich základě.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 46.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 46.)
 
 Antikrist, bez nich neuměl by sebe a své
 bludy ani zpola bránit, kdyby ty univerzity
 s učeností pohanskou neměl na pomoc.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 57.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 57.)
 
 Zač pokání při zpovědi přijali, to
 i s pokáním bez přestání dělají [..]
 neodpouští Bůh pražádnému hříchy, jedině
 jestliže odstoupí od nich vůlí, úmyslem
 i skutkem.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 74.)
 
 [..] obchody dělají s lidmi jako s hovady
 a jako s voly, aby s nimi orali, a s kravami,
@@ -369,12 +369,12 @@ obstarávaly. Neboť ti dva páni, světský
 i duchovní, k jinému nesměřují, jen k uvalení
 na lidi břemen těžkých, aby vždy sténali
 pod nimi.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 83.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 83.)
 
 A kdo také pokorně snáší, co ho potkává
 špatného, a proti tomu nereptá a nečiní
 zlé za zlé, tomu se mnoho hříchů snímá.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 90.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 90.)
 
 Také o pomocech mnohých svatých jim vyprávějí
 smyšlenky, o nichž dříve pověděno je, že cokoli
@@ -383,7 +383,7 @@ slibován některý svatý, který vládne nad jejich
 neštěstím [..] kněz vždy dí: Svatému jsi dal,
 co jsem já sežral. A blázen vida, že kněz žere,
 nicméně se domnívá, že svatému tím slouží.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 102.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 102.)
 
 [..] ani sám člověk nemůže sebe úplně znát,
 ale toliko sám Pán Bůh zná srdce lidská
@@ -392,7 +392,7 @@ i svatý člověk modlí se k němu za některé
 věci, které se mu zdají dobré, a on ho
 nevyslyší, věda, že mu nejsou tak dobré,
 jak se člověku zdají dobré [..]
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 106.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 106.)
 
 [..] všecko dohromady pomíchav, blábolí
 ústy, nevěda, co je lepší anebo lahodnější:
@@ -402,7 +402,7 @@ Mrská modlitbami, bije se v prsa. A to
 vše v jejich učení zapleteno je jako
 rohož, všechny věci do úst stejně dávajíc,
 co se nahodí.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 113.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 113.)
 
 Neboť on Bůh můj je a Spasitel můj,
 pomocník můj, a proto nezahynu. V Bohu
@@ -410,7 +410,7 @@ spasení mé a chvála má, Bůh pomoci mé
 a naděje má v Bohu je. Doufej v něho
 každý sbor lidu, vylijte před ním srdce
 svá, neboť Bůh pomocník náš je navěky.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 113.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 113.)
 
 Proto víra slavná, na Bohu založená
 je pomoci všeliké hledat u něho. [..]
@@ -421,24 +421,24 @@ sílu pro cokoli, on mu může pomoc
 poskytnout. [..] Není taková nesnáz,
 aby na ni nestačil a člověka z ní
 nevyprostil, který jeho pomoc hledá.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 114.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 114.)
 
 Chtěli by prostřednictvím svatých k Bohu,
 ale cestou za svatými v dobrých činech
 nechtějí jít.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 116.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 116.)
 
 [..] Bůh hříšných lidí modlitby neslyší
 ani svatých modlitby za ně nepřijímá.
 Neboť kdo odchyluje ucho své, aby neslyšel
 Zákon boží, modlitba jeho prokletá je
 a v hřích se mu obrátí. 
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 117.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 117.)
 
 Všichni jsou uznáni za hodné žaloby
 kromě Krista, jak dí svatý Pavel:
 Všichni zhřešili [..] 
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 119.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 119.)
 
 [..] svatý Petr dobro před smrtí zamýšlel,
 které po smrti nemohl konat. Tu měl lásku
@@ -448,20 +448,20 @@ mohl právě tolik nebo více učinit. A proto
 činil, co mohl a dokud mohl, věda, že po
 smrti ani kázat ani napomínat ani epištoly
 psát jim nebude moci.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 130.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 130.)
 
 Neboť přestoupiv přikázání boží, je zcela
 prokletý se všemi skutky svými. Proto čím
 chce prokletý požehnané uctívat? Nemá, co
 by od něho přijali.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 135.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 135.)
 
 Ne tak má rozuměno být, když by někdo činil
 hmotnou almužnu jednomu bližnímu, že by každému
 na celém světě mohl totéž učinit, ale jako kdyby
 nemocnou ruku léčil, to by prospívalo celému
 tělu i všem údům toho těla.
-(Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 136.)
+(Chelčický, P.: Ze sítě víry. Českosl. spis., Praha 1990, s. 136.)
 
 
 BUKOWSKI
@@ -472,6 +472,82 @@ už ve škole. A taky jsem brzy zjistil, že
 se strašně pomalu učím. Všichni ostatní
 věděli všechno. Já věděl úplný hovno.
 (Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 65.)
+
+--
+
+"Peníze jsou jako sex," poznamenal jsem.
+"Zdají se být mnohem důležitější, když
+žádný nemáte."
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 21.)
+
+[..] můj otec prakticky celý život splácel
+hypotéku na dům. Říkal mi: "Podívej, já zaplatím
+za život jeden barák, a až umřu, ty ten barák
+zdědíš a pak za svůj život splatíš další barák,
+a až umřeš, přenecháš ty dva domy svýmu synovi.
+[..]" dům za domem, smrt za smrtí. Deset generací,
+deset domů. Pak stačí jediný člověk, aby všechny
+ty domy prohrál [..]
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 46.)
+
+Všechno se vždycky děje uprostřed natáčení.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 65.)
+
+Povídal, že v Americe musíš peníze utratit,
+jinak ti je seberou.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 89.)
+
+Ze špatnýho vkusu vznikne daleko víc milionářů
+než z vkusu dobrýho. [..] V zemi křečků je králem
+křeček.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 92.)
+
+"To je tvoje odpověď na všechno: chlastat."
+"Ne, to není odpověď na nic."
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 92.)
+
+[..] newyorský způsoby. Lidi tam chodí, jako
+by měli v prdeli zaraženej banán.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 100.)
+
+To nejlepší ze spisovatele je na papíře.
+Zbytek jsou většinou nesmysly.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 171.)
+
+Miluju profíky, kteří umí to,
+o čem se předpokládá, že by to umět měli.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 214.)
+
+[..] vyhrabeme nohy zpod peřiny, položíme
+je na podlahu a pomyslíme si:
+Ach jo, do prdele, co teď?
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 198.)
+
+Obecenstvo si nikdy nepamatuje,
+kdo napsal scénář, jenom kdo to posral
+a kdo to dal dohromady [..]
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 201.)
+
+Báseň má jistou hodnotu, věřte mi.
+Chrání vás, abyste se úplně nezbláznili.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 209.)
+
+"O tom se nedá dopředu mluvit."
+"Proč ne?"
+"Člověk tak jen upouští vzduch z pneumatik."
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 210.)
+
+Naše limuzína pomalu vycouvala a děti běžely
+s ní podél plotu. Do háje, já už brzo umřu,
+a polovina z nich bude jednoho dne sedět
+u textových editorů a psát nepředstavitelný
+sračky.
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 213.)
+
+"[..] V čem spočívá tvoje tajemství?"
+"Nikdy nevstávej před polednem."
+(Bukowski, Ch.: Hollywood. Argo, Praha 2014, s. 233.)
+
 
 THIEL
 =====
