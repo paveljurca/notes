@@ -621,6 +621,8 @@ vyšší společnost
 rozkoš
 * _hereze_
 kacířství
+* _hic et nunc_
+tady a teď
 * _hipolog_
 koňák
 * _historia magistra vitae_
