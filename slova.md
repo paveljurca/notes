@@ -707,6 +707,8 @@ nespavý
 nedělitelný
 * _intence_
 záměr
+* _inter alia_
+mimoto
 * _interesantní_
 zajímavý
 * _interpolace_
