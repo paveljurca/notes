@@ -209,6 +209,12 @@
 
 .
 
+> The question is not, "What am I?",
+> but, "What can/should I be?"
+> *Karl Jaspers*
+
+.
+
 > Givers need to set limits  
 > because takers rarely do.
 > *Rachel Wolchin*
@@ -385,6 +391,12 @@
 > The extraordinary reveals the ordinary  
 > in an enlarged and intensified image.
 > *James Hillman, The Soul's Code*
+
+.
+
+> The unphilosophical person does not exists:  
+> he is sleeping.
+> *Jiří Fiala, Reviving the Idea of the University*
 
 .
 
