@@ -91,6 +91,7 @@ __misc__
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
+* [Tereza Matějčková](http://ceskapozice.lidovky.cz/autori.aspx?idnovinare=3193)
 * [Sha Wang](http://blog.postarchitectural.com/)
 * [Michael Lopp](http://randsinrepose.com/blog/)
 * [Alex Payne](https://al3x.net/archive.html)
