@@ -13,10 +13,10 @@ Perl
 * [perl.careers](http://perl.careers/)
 * [eligo.co.uk](http://eligo.co.uk/technology/)
 * [builtinperl.com](http://www.builtinperl.com/perl-jobs)
-* [linkedin.com](https://www.linkedin.com/groups/Perl-Jobs-1332857)
-* [linkedin.com #2](https://www.linkedin.com/job/perl-developer-jobs/)
-* [facebook.com](https://www.facebook.com/groups/perljobs)
-
+* [linkedin.com/groups/Perl-Jobs](https://www.linkedin.com/groups/Perl-Jobs-1332857)
+* [linkedin.com/job/perl-developer-jobs](https://www.linkedin.com/job/perl-developer-jobs/)
+* [facebook.com/groups/perljobs](https://www.facebook.com/groups/perljobs)
+* [Perl Jobs and Career Network](https://www.facebook.com/groups/562636647130232/)
 
 
 yeah, I know about [perl.org](https://www.perl.org/about.html)
