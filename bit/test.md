@@ -2,10 +2,11 @@
 =====
 
 First, I should confess I'm no
-pro on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf)
+*somebody* on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf)
 by any means.
+I didn't really started yet.
 It's just I'd like to write
-down a few remarks to keep
+down a few marks to keep
 a future reference for myself.
 
 My `@Test` incentive is that
@@ -25,6 +26,10 @@ if your test fails you may
 not know (at first) whether
 there's a bug in your code
 or in the test itself.
+
+> Testing can be used very effectively to show
+> the presence of bugs but never to show their absence.
+> *Edsger W. Dijkstra*
 
 Of course a `@Test` is an extra effort
 but it pays off in terms of thinking
