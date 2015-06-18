@@ -17,6 +17,13 @@ a staroslavný už zvyk nemyslit ničeho
 upřímně.
 (Sova, A.: Básně. Host, Brno 2014, s. 51.)
 
+[..] typický moderní člověk [..] "vykloubený",
+příliš brzy zrazený a zhnusený, příliš silný
+než aby se asimiloval, a příliš slabý než aby
+si dovedl podrobiti a po svém zformovati život
+— a proto předurčený ke zhynu.
+(Šalda, F.X. In: Sova, A.: Básně. Host, Brno 2014, s. 560.)
+
 HILLMAN
 =======
 
