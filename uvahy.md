@@ -275,6 +275,12 @@
 
 .
 
+> Každé období života má jinou podobu,
+> to je zákon přírody a nemá cenu se tím trápit.
+> *Marie Vaculíková*
+
+.
+
 > Umění se nikdy nesmí stát katalogem
 > hotových odpovědí na životní otázky.
 > *Václav Černý, Co je kritika*
