@@ -206,6 +206,7 @@ __misc__
 * [nixCraft](http://www.cyberciti.biz/)
 * [Outspeaking.com](http://outspeaking.com/)
 * [Gabriel Weinberg](https://medium.com/@yegg)
+* [Amanda Helm](http://amandaspoetry.tumblr.com/)
 
 ## podcasts
 
