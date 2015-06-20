@@ -2,18 +2,27 @@ Jen tak
 =======
 
 
-Strom
------
+Jehličí
+-------
 
-člověk ke stromu  
-námořník o úkolu  
-les bez krovu  
+šlápneš naň  
+nekvičí  
+vezmi v dlaň —  
+synapsí zacvičí  
+
+u stromu  
+volá námořník  
+po úkolu  
+jak truchlit  
+bez krovu  
+řezat les  
+pro bramboru  
 klekání, pojď domu  
 ke komu?  
 
 
-Zajíček
--------
+Zajíc
+-----
 
 stopu brázd prohání  
 jen tak, do větru  
@@ -23,14 +32,14 @@ ve skrytu
 čmuchá trávy omladinu  
 znalec bio bádání  
 bystří lidskou lavinu  
-životním moudrem však  
-..žvýkání  
+ušatým moudrem však  
+
+žvýkání  
 
 
 Fraktura
 --------
 
-bolest  
 v kostýmu smíření  
 nespěchá —  
 chvíle hoření  
@@ -40,14 +49,13 @@ minulé
 na zvážení  
 a víčka  
 co klenba šálení  
-ruptura —  
+tak ruptura má  
 dí holeni
 
 
-Jsme
-----
+Nebo ne
+-------
 
-cože —  
 výheň sama   
 citů hrana  
 deště z jara  
@@ -59,9 +67,9 @@ kusá snaha
 chůze sláva  
 patník dávna  
 tesknost rána  
-stud páva   
+studem páva —   
 pohrobci Abraháma  
-jsme  
+nebo ne  
 ..kde?
 
 
