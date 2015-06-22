@@ -24,10 +24,10 @@ stopu brázd prohání
 jen tak, do větru  
 rád za každé svítání  
 ve skrytu  
-činí stráni pokání  
+ke stráni pokání  
 čmuchá trávy omladinu  
-znalec bio bádání  
-ušatým moudrem pak  
+docent bio bádání  
+ušatým moudrem  
 žvýkání
 
 
@@ -47,7 +47,6 @@ ruptura krá
 do omdlení
 
 
-
 —
 -
 
@@ -62,7 +61,8 @@ kusá snaha
 chůze sláva  
 patník dávna  
 tesknost rána  
-studem páva —   
+studem páva
+
 pohrobci Abraháma
 
 
