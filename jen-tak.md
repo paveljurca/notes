@@ -47,14 +47,14 @@ ruptura krá
 do omdlení
 
 
-Stud
-----
+
+—
+-
 
 nic než  
 výheň sama  
 citů hrana  
 deště z jara  
-příruční sada  
 oční vada  
 pnutí hada   
 delikt blaha  
