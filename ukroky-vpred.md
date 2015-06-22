@@ -44,7 +44,7 @@ seskupí se do peřiny
 z bláta strání  
 bez poskvrny planiny  
 spěšné stopy zvěře  
-ani povzdech rutiny  
+ni vzdech rutiny  
 blízkost smrti  
 mene tekel rokliny  
 tvorstvo doptává se  
@@ -81,7 +81,7 @@ její sloky
 letargie rána  
 oči, milé dráma  
 vším tělem, kořínky vlasů  
-spěchá, ta zpráva!  
+spěchá, ta zpráva  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
@@ -93,8 +93,8 @@ hezký sen
 &nbsp;a hezčí fáma
 
 
-Můžu
-----
+—
+-
 
 můžu všechno  
 nezmůžu víc  
@@ -122,23 +122,23 @@ nevím, křivky maluju
 mám to tak radši
 
 chvátám do nových dnů  
-prosím Andromedu  
+žádám Andromedu  
 dluh vůči snům  
 beztak splatit nedovedu
 
 věk předchozí  
 zas úšlapem stranou  
 hvězdy večera spí  
-jsou navždy mou vadou
+navždy tou vadou
 
 hrůzné zjištění  
 neumím prý žít  
 snad odstup od lidí  
 s vlky věnce vít
 
-to vysoko nade krou  
+vysoko nade krou  
 kormorán z pobřeží  
-jen on zná bolest mou  
+jen on zná lepru mou  
 jen on nehřeší
 
 lomoz světa  
@@ -147,13 +147,13 @@ těžkost vlídná věta
 je mě půl
 
 
-Poledne
--------
+Silhouetta
+----------
 
 u pluhu  
 pár knih, trocha rozumu  
 srdce tajem obzoru  
-potíž, při porodu?
+tehdy, při proslovu
 
 dnem  
 dělat chyby  
@@ -164,11 +164,11 @@ koho svět unese
 oblak, odvál nebe  
 dole, kde lidem jebe  
 bytí není hra  
-kracie, Manitou jha
+kracie, silhouetta jha
 
 
-Není rohu
----------
+Odbočit
+-------
 
 Déle setrvám,  
 více to jsem.  
@@ -189,7 +189,6 @@ mezi možnostmi.
 Zem kulatá,  
 není rohu  
 k odbočení.  
-Asi.
 
 
 Po krok

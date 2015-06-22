@@ -16,19 +16,12 @@ to malé morčátko
 blouzní, je mu bléé
  
 
-Pečeně
+Stehno
 ------
 
-vřeští tuhá kotleta  
-pachuť v čase oběda  
 kus zvířátka bez jména  
-rozžvýkána docela
-
-života neužila  
-upálena doběla  
-sádelníkem snědena  
-dezert čoko poleva
-
+pachuť v čase oběda  
+dezert čoko poleva  
 jídelníčku obměna  
 Ave pia!  
 bude stehno jelena
@@ -80,8 +73,8 @@ tak prosim
 prosim
 
 
-Mlha
-----
+Mlžení
+------
 
 zatuchá klima  
 se špetkou nevkusu  
@@ -111,8 +104,8 @@ paměť křepčí
 místo dlaní  
 &nbsp;vúdú od vřesu
 
-zas něco  
-&nbsp;co nesnesu
+tak schválně  
+&nbsp;co si odnesu 
 
 
 Kuřecí sen

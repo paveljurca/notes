@@ -1,7 +1,7 @@
 Jinak
 =====
 
-shledá tělo —  
+shledá tělo  
 bol hlavy  
 nehybní ruce  
 spí nohy  
@@ -17,11 +17,11 @@ vakuem čela
 temní úvahy  
 tak vzdálené  
 volnosti vlohy  
-v okně smích —  
+v okně smích  
 vklíněn do postavy  
 vprostřed někoho  
 bokem vřavy  
-&nbsp;kde vidina  
+kde vidina  
 ve kraj únavy
 
 (pj)
