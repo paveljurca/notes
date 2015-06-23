@@ -94,13 +94,12 @@ v Evropě, kam pro sichr **čas od času** pošlou tanky.
 > v zabíjení jako v umírání..
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 117.*
 
-Atomovými hlavicemi vyzbrojili Čínu i Indii.
+Atomovými hlavicemi vystrojili Čínu i Indii.
 Proč? Asi prostoduchost. Nukleární třaskavina
 už není záležitostí nějaké země, nýbrž
 konkrétní Země. Nedivme se tak, že voják Rudé
 armády není povinován zabít, ale být zabit.
-Kečupu ruské nátury je už všechno jedno;
-národní ctižádostí je trpět. A rádi by o tom
+Národní ctižádostí je trpět. A rádi by o tom
 přesvědčili i své (dnes občasně bývalé) ideo-bratříčky.
 Ne, rozum nad tím nezůstává
 stát, protože v tom žádný není.. přesto naše vrátka
@@ -179,7 +178,7 @@ těžko pořádá *exodus nebo exitus*
 > *Hus, J.: Dcerka. Kalich, Praha 1995, s. 31.*
 
 Možná je Rusko jen takové, jaké ho chceme mít.
-Havel v americkém kongresu 21. února 1990 řekl:
+Havel v americkém Kongresu 21. února 1990 řekl:
 *Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.*
 Vyšumělo už 25 let, leč mnoho se nezměnilo:
 postranních úmyslů mají Rusové (žel i Západ)
