@@ -31,8 +31,8 @@ ušatým moudrem
 žvýkání
 
 
-Fraktura
---------
+Ruptura
+-------
 
 v kostýmu smíření  
 nespěchá —  
@@ -43,7 +43,7 @@ minulé
 na zvážení  
 a víčka  
 co klenba šálení  
-ruptura krá  
+fraktura krá  
 do omdlení
 
 
