@@ -1644,10 +1644,8 @@ bodrý
 
 —
 
-A teď už to jen zpeněžit,
-teda pardon, vlastně **monetizovat**.
-
-A čeština chřadne.
+A teď to jen zpeněžit  
+nebo snad **monetizovat**?
 
 (pj)
 
