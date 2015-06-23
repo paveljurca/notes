@@ -45,6 +45,12 @@
 
 .
 
+> Už toho, chlapče, nech a dělejme to,
+> co je nutné. Písně si zapějem lépe potom.
+> *Vergilius, Zpěvy pastýřské*
+
+.
+
 > V Jaspersově pojetí je člověk jen možnou existencí;  
 > ne každý člověk se existencí skutečně stává.
 > *Ladislav Hejdánek, Člověk a jeho dluhy*
