@@ -189,7 +189,6 @@ ještě stále hodně. A netřeba snad připomínat,
 (pj)
 
 * __zdroje__
-* [Ukrajina](https://medium.com/@Hromadske/ukraines-decentralization-explained-7b83e1897dfc)
 * [Rusové proti Rusům](http://www.rozhlas.cz/zpravy/data/_zprava/rusove-proti-rusum-zeme-v-nevyhlasene-obcanske-valce--1484099)
 * [Vítr se vrací](http://prehravac.rozhlas.cz/audio/2876556)
 * [rok 1968](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/),
@@ -199,6 +198,8 @@ ještě stále hodně. A netřeba snad připomínat,
 * [Děti ze stanice Leningradská](http://youtu.be/0JW6Qslwd3w)
 * [Romancov](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
 [Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
+* [Ukrajina](https://medium.com/@Hromadske/ukraines-decentralization-explained-7b83e1897dfc)
+* Gide, A.: [Návrat ze SSSR](http://search.mlp.cz/cz/titul/navrat-ze-sssr-a-poopraveni-navratu-ze-sssr/4125533/)
 * Masaryk, T.G.: O bolševismu
 * Remarque, E.M.: Miluj bližního svého
 * Jaspers, K.: Otázka viny
