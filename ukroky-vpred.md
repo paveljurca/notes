@@ -167,7 +167,7 @@ bytí není hra
 kracie, silhouetta jha
 
 
-Odbočit
+Alespoň
 -------
 
 Déle setrvám,  
@@ -185,10 +185,10 @@ A tak
 trávím dny, věčně  
 roz-  
 &nbsp;-kročen  
-mezi možnostmi.  
+nad možnostmi.  
 Zem kulatá,  
 není rohu  
-k odbočení.  
+k vybočení.  
 
 
 Po krok
