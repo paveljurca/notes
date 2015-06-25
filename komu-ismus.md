@@ -6,8 +6,7 @@ Komu?ismus
 > demokratický a komunistický, ne kapitalistický a socialistický.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 141.*
 
-Začněme s dotazníkem do zaměstnání (ŠKODA PRAHA)
-ještě z roku 1986:
+Dotazník do zaměstnání (ŠKODA PRAHA) ještě z roku 1986:
 
 6. Třídní - sociální původ
 7. Politická příslušnost
@@ -45,10 +44,11 @@ honit si triko elektřinou v hraničních
 plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
 [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
 dělo *Republiku si rozvrátit nedáme!*
-Do res publicae měl aparát patolízalů daleko.
+Do res publicae měl však ten aparát patolízalů stejně daleko
+jako to mají tučňáci k Arktidě.
 Z ráje se neutíká. A jestli ten ráj neuznáš,
-jsi další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
-..ohrožující naše socialistické zřízení.
+jsi (jak jinak) další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)... ehm...
+ohrožující naše socialistické zřízení.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -79,7 +79,7 @@ stojí totalitní i trudné
 až v rukách a křiku někoho.
 Zákon, rozkaz nebo dekret ještě
 *nikdy nikoho* nevraždil.
-Člověk člověka ale už ano.
+Člověk člověka už ale ano.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
@@ -89,7 +89,7 @@ Komunismus je z těch dob, ve kterých
 "čím hůře, tím lépe". Někomu to
 vyhovuje, jinak by to stejně neuměl.
 A pak mějme většinu, která se přejícně
-rozhodla pro rovnější zítřky. U Edvarda Beneše to byl fanatický strach
+pro rovnější zítřky rozhodla. U Edvarda Beneše to byl fanatický strach
 z německého *Drang nach Osten* i opakování Mnichova.
 A spásu viděl zcela nekriticky v Sovětském svazu.
 Jím iniciované četné dohody o spolupráci, vzájemném
@@ -110,8 +110,8 @@ nechtěli — nebyl by tady. Třeba jsme národem
 "kosmologů", který než by čekal na Sputnik,
 raději sám začne obíhat jako sovětský satelit.
 Nadšení proletářského davu bylo hutnější
-než obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
-zapůsobily: bylo po válce a i dívky chtěli
+než (ještě mladé) obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
+zapůsobily: bylo po válce a i dívky chtěly
 být bratry. Pár let zpátky psal Masaryk
 *O bolševictví* nebo Čapek *Proč nejsem komunistou*
 — nestačilo to, museli jsme si sáhnout.
@@ -163,7 +163,7 @@ dosaženo.
 
 > Komunismus je názor,
 > že vypálením Louvru se všichni naučí malovat.
-> *Zbyněk Dráb, [zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
+> *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
 Nikdo nedovede mít
 *raději* bližního než sebe.
@@ -325,7 +325,7 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-že vůbec argumentovat je [non-sense](https://youtu.be/djFcjDyaZNY).
+že vůbec argumentovat je [úsměvné](https://youtu.be/djFcjDyaZNY).
 Víc než korektním vyzněním z Opilých banánů:
 *Komunismus je svinstvo a bolševici jsou svině.*
 A *Si vis pacem, para bellum* zeje do tmy.
@@ -345,7 +345,9 @@ ospravedlněním svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
 Spektrum mezi černou a bílou je pryč.
-Vyhnívá v něm šedý monolit.
+Sice to je přihrávkou "podzemní kultuře"
+a disentu vůbec, ale ti na povrchu
+jsou spitím barev všech — šedi.
 
 > Demokracie? Ano — ale ne proboha v řečnění. V práci.
 > V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
@@ -358,8 +360,7 @@ A přesně takoví rozhodují (i vyhrávají) volby.
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
-Radí tak Kostohryz Demkovi:  
-*Věř svým očím, ale uším moc nevěř [Solženicyn]*.
+Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 (pj)
 
@@ -385,7 +386,11 @@ Radí tak Kostohryz Demkovi:
 * Baťa, J.A.: Za obchodem kolem světa
 * Tigrid, P.: Kapesní průvodce inteligentní ženy po vlastním osudu
 
-__Peroutka__
+#
+
+* __Peroutka__
+* [Jak číst Peroutku](http://hlidacipes.org/milan-zeleny-poukazka-do-koncentraku-aneb-jak-cist-peroutku/)
+
 > Demokracie musí pečovat o to, aby byla většinou.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
 
@@ -406,4 +411,9 @@ __Peroutka__
 
 > Přestala existovat porážka, existuje jen zničení.
 > *Ibid., s. 133.*
+
+* __přídavek__
+
+> ![mouse trap jokes](https://pbs.twimg.com/media/CHqBUNoWIAA3Lef.jpg)
+> *[mouse trap jokes](https://www.google.cz/search?q=mouse+trap+jokes&tbm=isch)*
 
