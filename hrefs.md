@@ -87,11 +87,13 @@ __misc__
 * [mediar.cz](http://mediar.cz)
 * [hoax.cz](http://hoax.cz)
 * [Skepchick](http://skepchick.org/news/)
+* [HlídacíPes.org](http://hlidacipes.org/)
+* [Kulturní noviny](http://www.kulturni-noviny.cz)
+* [osel.cz](http://www.osel.cz/)
 
 ## blog
 
 * [Rob Nagler](http://www.viarob.com)
-* [Tereza Matějčková](http://ceskapozice.lidovky.cz/autori.aspx?idnovinare=3193)
 * [Sha Wang](http://blog.postarchitectural.com/)
 * [Michael Lopp](http://randsinrepose.com/blog/)
 * [Alex Payne](https://al3x.net/archive.html)
@@ -207,6 +209,9 @@ __misc__
 * [Outspeaking.com](http://outspeaking.com/)
 * [Gabriel Weinberg](https://medium.com/@yegg)
 * [Amanda Helm](http://amandaspoetry.tumblr.com/)
+* [Tereza Matějčková](http://ceskapozice.lidovky.cz/autori.aspx?idnovinare=3193)
+* [Zdeněk Mihalco](http://ihned.cz/?m=authors&article[aut_id]=15490880&person[id]=15490880)
+* [Milan Zelený](http://blog.aktualne.cz/blogy/milan-zeleny.php)
 
 ## podcasts
 
