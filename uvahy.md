@@ -465,6 +465,11 @@
 
 .
 
+> Ne, mimo člověka nemožno najíti nových světů.
+> *Antonín Sova, Pozdrav bouřlivé noci*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
@@ -476,6 +481,6 @@
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
 * [Familiar and Unfamiliar Quotations](http://norvig.com/quotations.html)
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
-* [Brian Clapper's collection](https://raw.githubusercontent.com/bmc/fortunes/master/fortunes)
-* [Shlomi Fish's collection](http://www.shlomifish.org/humour/fortunes/shlomif-fav)
+* [Brian Clapper's collect.](https://raw.githubusercontent.com/bmc/fortunes/master/fortunes)
+* [Shlomi Fish's collect.](http://www.shlomifish.org/humour/fortunes/shlomif-fav)
 
