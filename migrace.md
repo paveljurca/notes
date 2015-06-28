@@ -44,3 +44,4 @@ http://www.iom.int/news/migrant-arrivals-sea-italy-top-170000-2014
 
 http://www.mises.cz/clanky/libertariansky-pristehovalecky-hlavolam--608.aspx
 
+http://www.rozhlas.cz/plus/nazory/_zprava/1502458
