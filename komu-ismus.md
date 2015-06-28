@@ -79,7 +79,7 @@ stojí totalitní i trudné
 až v rukách a křiku někoho.
 Zákon, rozkaz nebo dekret ještě
 *nikdy nikoho* nevraždil.
-Člověk člověka už ale ano.
+Člověk člověka ale už ano.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
@@ -108,7 +108,7 @@ z těch závaží na hloupé straně úvah.
 Žel bohu, kdyby lidé komunismus skutečně
 nechtěli — nebyl by tady. Třeba jsme národem
 "kosmologů", který než by čekal na Sputnik,
-raději sám začne obíhat jako sovětský satelit.
+raději sám začne obíhat jako (sovětský) satelit.
 Nadšení proletářského davu bylo hutnější
 než (ještě mladé) obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
 zapůsobily: bylo po válce a i dívky chtěly
@@ -325,7 +325,7 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-že vůbec argumentovat je [úsměvné](https://youtu.be/djFcjDyaZNY).
+že argument vůbec je [skatologií](https://youtu.be/djFcjDyaZNY).
 Víc než korektním vyzněním z Opilých banánů:
 *Komunismus je svinstvo a bolševici jsou svině.*
 A *Si vis pacem, para bellum* zeje do tmy.
@@ -412,8 +412,7 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 > Přestala existovat porážka, existuje jen zničení.
 > *Ibid., s. 133.*
 
-* __přídavek__
+* __nádavek__
 
-> ![mouse trap jokes](https://pbs.twimg.com/media/CHqBUNoWIAA3Lef.jpg)
-> *[mouse trap jokes](https://www.google.cz/search?q=mouse+trap+jokes&tbm=isch)*
+[![mouse trap jokes](https://pbs.twimg.com/media/CHqBUNoWIAA3Lef.jpg)](https://www.google.cz/search?q=mouse+trap+jokes&tbm=isch)
 
