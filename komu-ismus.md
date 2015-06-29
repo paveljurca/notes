@@ -78,8 +78,8 @@ stojí totalitní i trudné
 *demo*kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
 Zákon, rozkaz nebo dekret ještě
-*nikdy nikoho* nevraždil.
-Člověk člověka ale už ano.
+nikdy *nikoho* nevraždil.
+Člověk člověka už ale ano.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
@@ -371,14 +371,16 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 * [Hodní a nevinní komunisté](http://myego.cz/item/hodni-a-nevinni-komuniste-aneb-jak-se-nam-pod-nimi-zilo)
 * [Babičko, povídej](http://www.misantrop.info/babicko-povidej/)
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
+* [Proč nejsem Rusku vděčný za osvobození](http://hlidacipes.org/adam-drda-proc-nejsem-rusku-vdecny-za-osvobozeni/)
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
-* Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
-* Drda, A.: [Proč nejsem Rusku vděčný za osvobození](http://hlidacipes.org/adam-drda-proc-nejsem-rusku-vdecny-za-osvobozeni/)
+* [Moderní dějiny](http://www.moderni-dejiny.cz/)
+* [Proti ztrátě paměti](http://www.protiztratepameti.cz/)
+* [Totalita](http://totalita.cz/)
 * [Někteří komunisté to mysleli dobře](http://prehravac.rozhlas.cz/audio/2356363)
 * [Proč nás stěhujete](http://prehravac.rozhlas.cz/audio/3059233)
 * [Václav Vaško](http://prehravac.rozhlas.cz/audio/3159834)
 * [Mons. ThDr. Oto Mádr](http://www.pametnaroda.cz/story/madr-oto-1917-106)
-* [Proti ztrátě paměti](http://www.protiztratepameti.cz/)
+* Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
 * Hvížďala, K., Havel, V.: Dálkový výslech
 * Havel, V.: Do různých stran
 * Rašín, A.: Mé vzpomínky z mládí
