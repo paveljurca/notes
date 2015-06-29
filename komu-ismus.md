@@ -378,6 +378,7 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 * [Proč nás stěhujete](http://prehravac.rozhlas.cz/audio/3059233)
 * [Václav Vaško](http://prehravac.rozhlas.cz/audio/3159834)
 * [Mons. ThDr. Oto Mádr](http://www.pametnaroda.cz/story/madr-oto-1917-106)
+* [Proti ztrátě paměti](http://www.protiztratepameti.cz/)
 * Hvížďala, K., Havel, V.: Dálkový výslech
 * Havel, V.: Do různých stran
 * Rašín, A.: Mé vzpomínky z mládí
