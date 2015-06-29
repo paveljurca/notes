@@ -1,12 +1,9 @@
 Migrace
 =======
 
-student filozofie [krákal](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022):
-"Zdroje jsou!" To už nebude filosofie ale spíš chiliasmus.
-A [televize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
-jistěže nemá neduhy (souputníků) řešit,
-spíš je umocnit, zachovat paniku, sledovanost,
-ztřeštěnost (očních bulv).
+Student filozofie [krákal](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022): "Zdroje jsou!"
+To už nebude filosofie ale chiliasmus. A [tele/vize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
+jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku.
 
 
 
