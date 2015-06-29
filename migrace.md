@@ -1,6 +1,22 @@
 Migrace
 =======
 
+student filozofie [krákal](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022):
+"Zdroje jsou!" To už nebude filosofie ale spíš chiliasmus.
+A [televize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
+jistěže nemá neduhy (souputníků) řešit,
+spíš je umocnit, zachovat paniku, sledovanost,
+ztřeštěnost (očních bulv).
+
+
+
+malý
+http://prehravac.rozhlas.cz/audio/3401623
+
+cílek
+http://prehravac.rozhlas.cz/audio/3417572
+
+
 SAE, Katar..
 => pocet prijatych syrskych uprchliku 0
 USA
