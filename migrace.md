@@ -1,9 +1,9 @@
 Migrace
 =======
 
-Student filozofie [krákal](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022): "Zdroje jsou!"
+Jistý student filozofie dával na srozuměnou, že ["zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
 To už nebude filosofie ale chiliasmus. A [tele/vize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
-jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku.
+jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
 
 
 
