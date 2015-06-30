@@ -987,8 +987,6 @@ stavebnicový
 zaběhnutý způsob
 * _modus vivendi_
 způsob soužití
-* _monetizovat_
-zpeněžit
 * _monety_
 peníze
 * _monáda_
@@ -1003,8 +1001,6 @@ Zdraví tě ti, kdož jdou na smrt!
 černoch
 * _mukl_
 muž určený k likvidaci
-* _mundus_
-svět
 * _mundus, animus, Scriptura_
 svět, duše, Písmo
 * _mytizovat_
@@ -1642,10 +1638,7 @@ potvrdit
 * _žoviální_
 bodrý
 
-—
-
-A teď to jen zpeněžit  
-nebo snad **monetizovat**?
+A teď to úsilí zpeněžit, totiž **monetizovat**.
 
 (pj)
 
