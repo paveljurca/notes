@@ -1,6 +1,8 @@
 Perl
 ====
 
+@twt
+https://twitter.com/Ptolemarch/lists/perl/
 
 ## Larry Wall
 
@@ -17,6 +19,10 @@ Perl
 * [linkedin.com/job/perl-developer-jobs](https://www.linkedin.com/job/perl-developer-jobs/)
 * [facebook.com/groups/perljobs](https://www.facebook.com/groups/perljobs)
 * [Perl Jobs and Career Network](https://www.facebook.com/groups/562636647130232/)
+
+## 
+
+* [facebook.com/groups/perlprogrammers](https://www.facebook.com/groups/perlprogrammers/)
 
 
 yeah, I know about [perl.org](https://www.perl.org/about.html)
