@@ -6,6 +6,11 @@ To už nebude filosofie ale chiliasmus. A [tele/vize](http://www.czechfreepress.
 jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
 
 
+http://denikreferendum.cz/clanek/20709-kdo-vsechno-delal-ramena-u-trech-ocasku
+
+http://style.iprima.cz/styl/jak-je-to-doopravdy-s-migrantskou-krizi-v-evrope-9-veci-nad-kterymi-byste-meli-zacit-premyslet
+
+
 " pohled z druhé strany Kanálu."
 https://www.facebook.com/edhelka/posts/10204221626280275
 
