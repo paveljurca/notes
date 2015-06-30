@@ -2,13 +2,13 @@
 ===
 
 úterý / středa  
-pyžamo / den střídá  
-větrolam / bezvětří stíha  
-máslo / ztužená víra  
+poledník / dne stěna  
+myslím / je zima  
+větrolam / bezvětří vina  
 spánky / On — se dívá  
-slovem / mi kývá  
-rakev / rodinu sžírá  
-odstavec / krále Leara
+Kazatel / kývá
+
+parte / íá
 
 (pj)
 
