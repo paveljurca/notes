@@ -19,9 +19,9 @@ tak vzdálené
 volnosti vlohy  
 v okně smích  
 vklíněn do postavy  
-vprostřed někoho  
+prostřed někoho  
 bokem vřavy  
-kde vidina  
+vidina!  
 ve kraj únavy
 
 (pj)
