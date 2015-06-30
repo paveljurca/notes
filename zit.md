@@ -2,10 +2,10 @@
 ===
 
 úterý / středa  
-zem / obloha střídá  
+usnutí / oblohu střídá  
 větrolam / bezvětří stíha  
 máslo / ztužená víra  
-mráček / On — se dívá  
+spánky / On — se dívá  
 slovem / mi kývá  
 rakev / rodinu sžírá  
 nejsi / je díra
