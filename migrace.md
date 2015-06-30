@@ -6,6 +6,13 @@ To už nebude filosofie ale chiliasmus. A [tele/vize](http://www.czechfreepress.
 jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
 
 
+" pohled z druhé strany Kanálu."
+https://www.facebook.com/edhelka/posts/10204221626280275
+
+
+"have a refugee/slave market!"
+http://www.nytimes.com/2015/06/09/opinion/creating-a-market-for-refugees-in-europe.html
+
 
 malý
 http://prehravac.rozhlas.cz/audio/3401623
