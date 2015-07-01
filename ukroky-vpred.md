@@ -20,43 +20,25 @@ nebo srdce
 letí, od života  
 pospíchá
 
-je prázdně  
-vědomí brojí  
-hřeb v lebce  
-bližní nedýchá
-
-Bůh
-
-ze žalu  
-&nbsp;sebe usvědčí
-
-pomýlená smrt  
-jež nebrečí
+kde je..  
+že se nedívá
 
 
-Zima
-----
+Mrzne
+-----
 
-za nocí mrazy  
-vkreslí vrásky do krajiny  
-vločky volným pádem  
-seskupí se do peřiny  
-z bláta strání  
-bez poskvrny planiny  
-spěšné stopy zvěře  
-ni vzdech rutiny  
-blízkost smrti  
-mene tekel rokliny  
+nocí mrazy  
+vrásky, zralost krajiny  
+vločky kvapným pádem  
+klnutím prolákliny  
+blizoučko pádu  
+do ladu hlušiny  
 tvorstvo doptává se  
 *Adama a Evy jmeniny?*  
-rozpuštěny sbory ptactva  
-duše mědí rytiny  
-naděje v úvaze luny  
-daleko do jarní květiny  
-vítr na větvoví hraje  
-abonenty pusté kopce hlušiny  
-a při úpatí meze  
-spočinutí rodiny
+daleko, snad tam  
+kde roní květiny  
+kdo přede
+nit mou, mé rodiny
 
 
 Fáma
@@ -66,13 +48,13 @@ zpatříš ji
 jste na vzdálenost ruky  
 k společnému *my*  
 zbývá překonat veletoky  
-  
 neřekl jsi nic  
-chvílí vyklouzla ti
+uklouzla ti!
 
 &nbsp;kdo zvojtil osud?
 
-to ty, to ty!  
+nesmělé noty
+
 kam běží  
 ty něžné roky  
 jsi rýmem   
@@ -99,46 +81,43 @@ hezký sen
 můžu všechno  
 nezmůžu víc  
 nadchnu se  
-s nadšením neudělám nic
+s nadšením
 
-jsem zarmoucen  
-tápu kudy nahoru  
-někdy také šťasten  
-když běžím k po-hovoru
+&nbsp;neudělám nic
 
-třeba kdyby.. ba ne  
-smysl skončil ve shonu  
-zpravím proto vale  
-najdu jinou osnovu
+smysl  
+končí ve shonu  
+vale  
+a jinou osnovu
 
-ideje ztrácívám  
+ideje  
 v jednotkách mamonu  
-medúzy nevnímám  
-ač pluju bez voru
+medúzy!  
+jsem na voru
 
-přehmaty zdrátuju  
-jestli tohle stačí?  
-nevím, křivky maluju  
-mám to tak radši
+přehmaty  
+zdrátuju  
+křivky  
+ty maluju  
 
-chvátám do nových dnů  
+do nových dnů  
 žádám Andromedu  
 dluh vůči snům  
 beztak splatit nedovedu
 
 věk předchozí  
-zas úšlapem stranou  
-hvězdy večera spí  
-navždy tou vadou
+úšlapem stranou  
+hvězdy večera zří  
+třpytící vadou
 
 hrůzné zjištění  
-neumím prý žít  
+neumím žít  
 snad odstup od lidí  
-s vlky věnce vít
+vlci, dostavení mít
 
 vysoko nade krou  
 kormorán z pobřeží  
-jen on zná lepru mou  
+jen on zná pleš mou  
 jen on nehřeší
 
 lomoz světa  
@@ -167,8 +146,8 @@ bytí není hra
 kracie, silhouetta jha
 
 
-Alespoň
--------
+A tak
+-----
 
 Déle setrvám,  
 více to jsem.  
@@ -187,8 +166,9 @@ roz-
 &nbsp;-kročen  
 nad možnostmi.  
 Zem kulatá,  
-není rohu  
-k vybočení.  
+není rohu
+
+odbočit.
 
 
 Po krok
