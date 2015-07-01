@@ -43,12 +43,12 @@ Nemá zapotřebí
 honit si triko elektřinou v hraničních
 plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
 [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
-dělo *Republiku si rozvrátit nedáme!*
-Do res publicae měl však ten aparát patolízalů stejně daleko
+mělo jasno: *Republiku si rozvrátit nedáme!*
+Jen, do res publicae měl ten aparát patolízalů stejně daleko
 jako to mají tučňáci k Arktidě.
 Z ráje se neutíká. A jestli ten ráj neuznáš,
-jsi (jak jinak) další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)... ehm...
-ohrožující naše socialistické zřízení.
+jsi (jak jinak) další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
+nebo třeba plutokrat z Wall Streetu.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -61,25 +61,26 @@ ohrožující naše socialistické zřízení.
 > krásné zemi.
 > *Vojtěch Filip, kondolence KLDR, 2011. In: Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 17.*
 
-Pár chytrých hlav z NDR se ptá, kde byla chyba:
+Někdo z NDR se ptá, kde byla chyba:
 V tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926)?
 Jistě, oni mi to poradili, já jen mlátil.
 Nebo je na vině čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
 kdy úřad nesmí činit nic nad (nebo pod) literu zákona?
 Té [dřívější](http://www.psp.cz/docs/texts/constitution_1960.html)
-ale podobné znění chybí *(sic!)*.
-Navzdory tomu víme, kde se tupost bere:
-pohraniční stráž střílela
+podobné znění chybí (sic!).
+A i kdyby.. vždyť Charta 77 nechtěla
+víc, než aby stát dodržoval vlastní zákony.
+Pohraniční stráž střílela
 a prokurátor nasazoval
-oprátky dle **tehdy platných** zákonů.
-Odvolávat se na *psanost!* pravidla
-je hrozivé slabošství. Na něm právě
-stojí totalitní i trudné
-*demo*kratické režimy. Kánon ožívá
+oprátky dle *tehdy platných* zákonů.
+Odvolávat se na **psanost**
+je rezignací na cokoli. Právě tak
+pouštějí žilou totalitní i trudné
+(demo)kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
 Zákon, rozkaz nebo dekret ještě
 nikdy *nikoho* nevraždil.
-Člověk člověka už ale ano.
+Člověk člověka ale už ano.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
@@ -88,22 +89,11 @@ nikdy *nikoho* nevraždil.
 Komunismus je z těch dob, ve kterých
 "čím hůře, tím lépe". Někomu to
 vyhovuje, jinak by to stejně neuměl.
-A pak mějme většinu, která se přejícně
-pro rovnější zítřky rozhodla. U Edvarda Beneše to byl fanatický strach
-z německého *Drang nach Osten* i opakování Mnichova.
-A spásu viděl zcela nekriticky v Sovětském svazu.
-Jím iniciované četné dohody o spolupráci, vzájemném
-přátelství i přehnaná servilita byly jedním
-z těch závaží na hloupé straně úvah.
 
-> Říkám jen pro naše lidi, ke kterým v našich věcech
-> mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
-> sám je politik a státník velikého stylu, velikého vzdělání,
-> železné energie a dalekozrakého politického obzoru, že Stalin
-> a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
-> dovedou cenit patriotismu druhých, jsouce přitom pronikavými
-> politickými realisty, kteří vědí co chtějí a co mohou.
-> *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
+> Ale až jednou vybledne čerstvý dojem z bolševických
+> zločinů, bude socialistický program znovu přitažlivý
+> pro masy.
+> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Žel bohu, kdyby lidé komunismus skutečně
 nechtěli — nebyl by tady. Třeba jsme národem
@@ -119,17 +109,29 @@ A zase to nestačí, protože nedlouho
 odtud si je budeme chtít i pohladit.
 S každým rokem je sentiment hlubší,
 fakta smířlivější.
+U Edvarda Beneše to byl fanatický strach
+z německého *Drang nach Osten* i opakování Mnichova.
+A spásu viděl zcela nekriticky v Sovětském svazu.
+Jím iniciované četné dohody o spolupráci, vzájemném
+přátelství i přehnaná servilita byly jedním
+z těch závaží na hloupé straně vah.
 
-> Ale až jednou vybledne čerstvý dojem z bolševických
-> zločinů, bude socialistický program znovu přitažlivý
-> pro masy.
-> *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
+> Říkám jen pro naše lidi, ke kterým v našich věcech
+> mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
+> sám je politik a státník velikého stylu, velikého vzdělání,
+> železné energie a dalekozrakého politického obzoru, že Stalin
+> a Molotov jsou zejména velcí sovětští patrioti a že si tudíž
+> dovedou cenit patriotismu druhých, jsouce přitom pronikavými
+> politickými realisty, kteří vědí co chtějí a co mohou.
+> *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
-Mantra z éry Listopadu *Nejsme jako oni!*
-nedopadla, levota (odleva) zůstala.
+Mantra z éry Listopadu *Nejsme jako oni!*,
+nás samé, vyplísnila.
+Rok 1945: zcela nesmyslně, české Němce, věšíme.
+Rok 1989: se všemi tančíme.
 I po 26 letech jsou úderníci stále s námi.
 A každé 4 roky jim
-předáme pár lavic Parlamentu ČR a něco málo
+vyhradíme pár lavic Parlamentu ČR a něco málo
 milionů, aby měli co na sebe.
 Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
@@ -139,11 +141,12 @@ Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus, slovo křtěné drtí panelu
+Socialismus, slovo pod sutí panelu
 (více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
-Kdo chce jistoty, může popojít.
-Na Východ.
-Republika lítostí nezajde.
+Kdo chce jistoty, může popojít — v čase.
+Idylu pětiletek [mladí trockisté](http://solidarita.socsol.cz/)
+vábí v nové kontrarevoluci, která už už musí nastat.
+Ti zasnění však nechtějí zpět režim, ale čas!
 
 > Neurotik se chytá své životní lži a pokud je postaven před volbu,
 > zda se má zříci této lži, anebo logického myšlení, dává přednost
@@ -156,10 +159,9 @@ Bohužel, 40 let života jako pomýlený nevykáží.
 Nemohou. Zůstalo by jim už jenom stáří.
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
 právo na socialistické (ať už to znamená cokoli)
-cítění. Nechme jim i závistivou myšlenku kolektivizmu,
+cítění. Nechme jim i úlisnou myšlenku kolektivizmu,
 ale už *nikdy* nedovolme způsob,
-kterým ho má nebo mělo být
-dosaženo.
+kterým ho má nebo mělo být dosaženo.
 
 > Komunismus je názor,
 > že vypálením Louvru se všichni naučí malovat.
@@ -182,9 +184,11 @@ A obdobně:
 > tělu i všem údům toho těla.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 136.*
 
+Plánované hospodářství, plánovaná radost,
+plánovaná blbost.
 Demokracie umí být lidská
-i méně lidská. Komunismus nic neumí:
-je vždy bezpříkladně nelidský.
+i méně lidská. Komunismus nic neumí.
+Je vždy bezpříkladně nelidský.
 Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
 to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
 chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
@@ -203,7 +207,7 @@ Ale spolehnout se na to nemůžeme.
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
 řad — tady běží o naprostou vymletost
-*celého* jejich skupenství.
+*celého* jejich oddílu.
 
 > [..] někdy více lidí umíralo na politiku než na nemoci.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 202.*
@@ -219,7 +223,7 @@ a dobrotě. Nepochopili ale jedno:
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Ta domýšlivost ponechala knížky tmeličů
+Ta domýšlivost ponechala zasloužilé stranické knížky
 klidnému stáří a ideologii v pozadí
 ještě klidnější dospělosti.
 
@@ -245,12 +249,12 @@ od věci nácismu).
 > komunistická strategická moudrost.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 115.*
 
-Zákazy. Pravda, nejsme jako oni, ale stát
+Pravda, nejsme jako oni, ale stát
 stojí proto, že je právo. Vice versa není nic.
+Tvé právo je můj trest.
 Řád jednotlivce je svobodou jednotlivců.
 Z preambule Ústavy:
 *[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.*
-A to se komunismu příčí:
 
 > Nic horšího nemůže komunista spáchat
 > než udělat něco v zájmu státu československého.
@@ -272,8 +276,7 @@ o něm dostupných maximum informací,
 nechť se o něm z gusta debatuje a třeba
 i polemizuje, jen ať už ho proboha
 nikdo nepouští ke slovu (ani ke stolu).
-Komunismus
-jednou celé století dostal —
+Komunismus jednou celé století dostal —
 další nepotřebuje. A my netaktně
 (a netakticky) mlčíme.
 
@@ -291,7 +294,7 @@ další nepotřebuje. A my netaktně
 
 Je vpravdě snazší se dnes nakrásně
 vymezit vůči všem, kteří podlehli.
-Já tu možnost nedostal, asi jsem
+Já tu možnost nedostal; asi jsem
 tak z obliga. Nahlížet věci lze
 však právě proto, že jich nejste
 součástí. Třeba platí, že chybu
@@ -325,8 +328,8 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-že argument vůbec je [skatologií](https://youtu.be/djFcjDyaZNY).
-Víc než korektním vyzněním z Opilých banánů:
+že argument vůbec je [h****m](https://youtu.be/djFcjDyaZNY).
+Víc než smírným vyzněním z [Opilých banánů](http://search.mlp.cz/cz/titul/opile-banany/2500821/):
 *Komunismus je svinstvo a bolševici jsou svině.*
 A *Si vis pacem, para bellum* zeje do tmy.
 
@@ -337,7 +340,7 @@ Demokracie má třeba trny: *Právem se stává to,
 co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
-nikdo ho neslyší (jak se jednou vyjádřil
+nikdo ho neslyší (jak si posteskl
 Jaroslav Hutka). Stejně jako může většina
 většinou pravdu míjet, zatímco menšina končí
 proformou, kreditem, oporou,
@@ -353,14 +356,18 @@ jsou spitím barev všech — šedi.
 > V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
 > *Baťa, J.A.: Za obchodem kolem světa. Tisk, Zlín 1937, s. 230.*
 
-Kdo nechce, ten nebude vědět.
-A přesně takoví rozhodují (i vyhrávají) volby.
+Kdo nechce, ten nebude vědět. A přesně takoví rozhodují (i vyhrávají) volby.
 
 > Svoboda je hodnota, jejíž přítomnost přínáší
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
 Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
+
+> Když jsem tehdy v Praze hostoval, byla ještě pod ruskou kontrolou.
+> Pro farmářského kluka ze státu Illinois to byla zvláštní zkušenost.
+> U nás bylo všechno dostupné, a tady najednou skoro nic.
+> *Sherrill Milnes, MFDNES, 1.7.15, A10* 
 
 (pj)
 
