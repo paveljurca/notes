@@ -19,8 +19,8 @@ blouzní, je mu bléé
 Stehno
 ------
 
-kus zvířátka bez jména  
-pachuť v čase oběda  
+kus zvířátka (bez jména)  
+dozlatova, doběla  
 dezert čoko poleva  
 jídelníčku obměna  
 Ave pia!  
@@ -104,8 +104,8 @@ paměť křepčí
 místo dlaní  
 &nbsp;vúdú od vřesu
 
-tak schválně  
-&nbsp;co si odnesu 
+kopretina  
+&nbsp;zpod přívěsu
 
 
 Kuřecí sen

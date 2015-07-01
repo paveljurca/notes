@@ -2,14 +2,11 @@ Jen tak
 =======
 
 
-Jehličí
--------
+U stromu
+--------
 
-u stromu  
 volá námořník  
 po úkolu  
-jak truchlit  
-bez krovu  
 řezat les  
 pro bramboru  
 klekání, pojď domu
@@ -20,29 +17,30 @@ ke komu?
 Zajíc
 -----
 
-stopu brázd prohání  
-jen tak, do větru  
-rád za každé svítání  
-ve skrytu  
-ke stráni pokání  
-čmuchá trávy omladinu  
-docent bio bádání  
-ušatým moudrem  
+odrážedla prohání  
+do větru  
+každé svítání  
+je v právu  
+stráně má žehnání  
+rozdíl od lidí  
+jejich plácání  
+ušaté moudro
+
 žvýkání
 
 
 Ruptura
 -------
 
-v kostýmu smíření  
-nespěchá —  
-chvíle hoření  
+kostým smíření  
+nespěchá  
+plíživost sevření  
 vteřiny  
 nic nemění  
 minulé  
 na zvážení  
-a víčka  
-co klenba šálení  
+víčka  
+klenba šálení  
 fraktura krá  
 do omdlení
 
@@ -50,19 +48,16 @@ do omdlení
 —
 -
 
-nic než  
 výheň sama  
 citů hrana  
-deště z jara  
-oční vada  
-pnutí hada   
-delikt blaha  
-kusá snaha  
-chůze sláva  
-patník dávna  
-tesknost rána  
+stranou fara  
+a delikt blaha  
+žel, kusá snaha  
+ta chůze sláva  
+patníček dávna  
 studem páva
 
+krystaly rána  
 pohrobci Abraháma
 
 
