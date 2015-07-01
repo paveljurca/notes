@@ -2,12 +2,15 @@ Migrace
 =======
 
 Že "praotec Čech byl taky imigrant" není argument, to je kyj.
+Nejnejapnější transparent vyhrává! Na můj vkus je těch seminářů
+(totiž pochodů) ve světě za poslední roky až běda. A hlavně:
+nekřičí se na něco, ale **za něco**.
 
 
-
-Jistý student filozofie dával na srozuměnou, že ["zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
-To už nebude filosofie ale chiliasmus. A [tele/vize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
-jistěže nemá naše potíže řešit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
+[Student filozofie](https://www.google.cz/search?q=luk%C3%A1%C5%A1+mato%C5%A1ka&tbm=vid) má jasno,
+že ["zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
+To už nebude filosofie ale chiliasmus. A [tele](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html) vize (Čí?!)
+jistěže nemá rozbušky hasit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
 
 
 http://denikreferendum.cz/clanek/20709-kdo-vsechno-delal-ramena-u-trech-ocasku
