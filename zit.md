@@ -5,8 +5,11 @@
 poledník / dne stěna  
 myslím / je zima  
 větrolam / bezvětří vina  
-spánky / On — se dívá  
-Kazatel / kývá
+spánky / se dívá  
+krůčeje / stíha  
+drobt chleba / hlt vína  
+— / memoár, díra  
+máma / sivější, sivá
 
 parte / íá
 
