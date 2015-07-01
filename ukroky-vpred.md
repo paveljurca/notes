@@ -37,8 +37,8 @@ tvorstvo doptává se
 *Adama a Evy jmeniny?*  
 daleko, snad tam  
 kde roní květiny  
-kdo přede
-nit mou, mé rodiny
+bourec v zimě?  
+přede nit rodiny
 
 
 Fáma
@@ -49,7 +49,8 @@ jste na vzdálenost ruky
 k společnému *my*  
 zbývá překonat veletoky  
 neřekl jsi nic  
-uklouzla ti!
+
+uklouzla ti
 
 &nbsp;kdo zvojtil osud?
 
@@ -100,19 +101,19 @@ zdrátuju
 křivky  
 ty maluju  
 
-do nových dnů  
-žádám Andromedu  
-dluh vůči snům  
-beztak splatit nedovedu
+žádat 
+Andromedu  
+dluh snů  
+splatit nedovedu
 
 věk předchozí  
-úšlapem stranou  
-hvězdy večera zří  
-třpytící vadou
+úšlap stranou  
+hvězdy bdí
+jde všechno stranou
 
-hrůzné zjištění  
+zjištění  
 neumím žít  
-snad odstup od lidí  
+odstup od lidí  
 vlci, dostavení mít
 
 vysoko nade krou  
