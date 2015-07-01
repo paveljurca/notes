@@ -8,7 +8,7 @@ spí nohy
 úzko až běda  
 ve svalu snahy  
 křídla motýlí  
-pod prachem doby  
+prach doby  
 já a já  
 jsme sami  
 stínohra mysli  
@@ -16,13 +16,16 @@ nádavkem stavy
 vakuem čela  
 temní úvahy  
 tak vzdálené  
-volnosti vlohy  
-v okně smích  
-vklíněn do postavy  
+volnosti vlohy
+
+&nbsp;*vidina*
+
+piedestal postavy  
 prostřed někoho  
 bokem vřavy  
-vidina!  
-ve kraj únavy
+
+pyžamo  
+úbor únavy
 
 (pj)
 
