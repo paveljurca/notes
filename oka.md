@@ -30,13 +30,6 @@ bude stehno jelena
 Ochmelka
 --------
 
-blíže věcem  
-nehezčí se zdají  
-dále srdcem  
-tehdy záleželo — teď nezáleží
-
-*(flaška dopitá)*
-
 tam kde oči, vrby  
 hrdla rytmus nestíhá  
 vzpomněl mouder sovy  
@@ -45,7 +38,13 @@ jistě, liška podšitá
 
 večer dojde vlohy  
 [rum](http://youtu.be/D3bRWm3mxPc), sny promítá  
-chápe se: podmíra
+
+*blíže věcem  
+nehezčí se zdají  
+dále srdcem  
+tehdy záleželo — teď nezáleží*
+
+(flaška dopitá)
 
 
 OKa
