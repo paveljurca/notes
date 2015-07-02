@@ -6,7 +6,7 @@ Komu?ismus
 > demokratický a komunistický, ne kapitalistický a socialistický.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 141.*
 
-Dotazník do zaměstnání (ŠKODA PRAHA) ještě z roku 1986:
+Dotazník do zaměstnání (ŠKODA PRAHA), L.P. 1986:
 
 6. Třídní - sociální původ
 7. Politická příslušnost
@@ -37,16 +37,16 @@ své rodiny apod.
 
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
-I dnes bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. Ráj mluví sám za sebe.
-Nemá zapotřebí
-honit si triko elektřinou v hraničních
-plotech nebo zákonem č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
+Dva roky nazpět bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
+natěšených respondentů. To už není jen pár zbloudilých ovcí. Bůh ví, že dnes by číslo bylo vyšší.
+
+Ráj obyčejně nemívá tlumočníka v elektřinou lupajících hraničních
+plotech nebo v zákoně č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
 [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
-mělo jasno: *Republiku si rozvrátit nedáme!*
-Jen, do res publicae měl ten aparát patolízalů stejně daleko
+mělo polojasno: *Republiku si rozvrátit nedáme!*
+Pochopitelně: do res publicae měl náš aparát lízalů stejně daleko
 jako to mají tučňáci k Arktidě.
-Z ráje se neutíká. A jestli ten ráj neuznáš,
+Z ráje se neutíká. Mír, míír! A jestli to neuznáš,
 jsi (jak jinak) další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
 nebo třeba plutokrat z Wall Streetu.
 
@@ -71,14 +71,14 @@ podobné znění chybí (sic!).
 A i kdyby.. vždyť Charta 77 nechtěla
 víc, než aby stát dodržoval vlastní zákony.
 Pohraniční stráž střílela
-a prokurátor nasazoval
+a prokurátor vynášel
 oprátky dle *tehdy platných* zákonů.
 Odvolávat se na **psanost**
 je rezignací na cokoli. Právě tak
 pouštějí žilou totalitní i trudné
 (demo)kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
-Zákon, rozkaz nebo dekret ještě
+"Dobře míněná rada", rozkaz nebo dekret ještě
 nikdy *nikoho* nevraždil.
 Člověk člověka ale už ano.
 
@@ -96,9 +96,8 @@ vyhovuje, jinak by to stejně neuměl.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Žel bohu, kdyby lidé komunismus skutečně
-nechtěli — nebyl by tady. Třeba jsme národem
-"kosmologů", který než by čekal na Sputnik,
-raději sám začne obíhat jako (sovětský) satelit.
+nechtěli — nebyl by tady. Třeba jsme národem,
+který si namísto [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/) sedá na (sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3).  
 Nadšení proletářského davu bylo hutnější
 než (ještě mladé) obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
 zapůsobily: bylo po válce a i dívky chtěly
@@ -145,8 +144,9 @@ Socialismus, slovo pod sutí panelu
 (více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Kdo chce jistoty, může popojít — v čase.
 Idylu pětiletek [mladí trockisté](http://solidarita.socsol.cz/)
-vábí v nové kontrarevoluci, která už už musí nastat.
+vábí v nové kontrarevoluci, která "už už" musí nastat.
 Ti zasnění však nechtějí zpět režim, ale čas!
+A taky viníka; sacharid na jejich myšlenkovou soustavu.
 
 > Neurotik se chytá své životní lži a pokud je postaven před volbu,
 > zda se má zříci této lži, anebo logického myšlení, dává přednost
@@ -167,25 +167,19 @@ kterým ho má nebo mělo být dosaženo.
 > že vypálením Louvru se všichni naučí malovat.
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
-Nikdo nedovede mít
-*raději* bližního než sebe.
+[Internacionála](https://cs.wikipedia.org/wiki/Eug%C3%A8ne_Pottier)
+a  vůbec je supr věc.
+
+Ale nebaví. Jsou to jen neumytý oči;
+nedovedete mít *raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
 > bližního stejně jako sám sebe, ale podobně
 > jako sebe [..]
 > *Akvinský, T.: O lásce. KRYSTAL OP, Praha 2005, s. 216.*
 
-A obdobně:
-
-> Ne tak má rozuměno být, když by někdo činil
-> hmotnou almužnu jednomu bližnímu, že by každému
-> na celém světě mohl totéž učinit, ale jako kdyby
-> nemocnou ruku léčil, to by prospívalo celému
-> tělu i všem údům toho těla.
-> *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 136.*
-
 Plánované hospodářství, plánovaná radost,
-plánovaná blbost.
+plánujme i blbost!
 Demokracie umí být lidská
 i méně lidská. Komunismus nic neumí.
 Je vždy bezpříkladně nelidský.
@@ -193,10 +187,9 @@ Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
 to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
 chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
-jednotně k volbám* vyráželi ex novo
-— chtivost a lysé hlavy to nikdy
-a nikam nemají daleko.
-Přirazí rychle.
+jednotně k volbám* vyráželi ex novo.
+
+
 Na stranu druhou:
 
 > [..] komunismus sám pobil daleko více komunistů,
@@ -204,6 +197,8 @@ Na stranu druhou:
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
 Ale spolehnout se na to nemůžeme.
+
+
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
 řad — tady běží o naprostou vymletost
@@ -328,10 +323,10 @@ a ne Marxe.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 91.*
 
 Komunismus je sám o sobě tak absurdní,
-že argument vůbec je [h****m](https://youtu.be/djFcjDyaZNY).
+že argument vůbec je na [h***o](https://youtu.be/djFcjDyaZNY).
 Víc než smírným vyzněním z [Opilých banánů](http://search.mlp.cz/cz/titul/opile-banany/2500821/):
 *Komunismus je svinstvo a bolševici jsou svině.*
-A *Si vis pacem, para bellum* zeje do tmy.
+A *Si vis pacem, para bellum* si utírá slzy.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*

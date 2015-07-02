@@ -1,6 +1,16 @@
 Migrace
 =======
 
+> Ne tak má rozuměno být, když by někdo činil
+> hmotnou almužnu jednomu bližnímu, že by každému
+> na celém světě mohl totéž učinit, ale jako kdyby
+> nemocnou ruku léčil, to by prospívalo celému
+> tělu i všem údům toho těla.
+> *Chelčický, P.: Ze sítě víry. Českoslov. spis., Praha 1990, s. 136.*
+
+
+
+
 Že "praotec Čech byl taky imigrant" není argument, to je kyj.
 Nejnejapnější transparent vyhrává! Na můj vkus je těch seminářů
 (totiž pochodů) ve světě za poslední roky až běda. A hlavně:

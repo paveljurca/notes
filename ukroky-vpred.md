@@ -2,7 +2,7 @@
 ============
 
 
-Smrt
+Mřít
 ----
 
 celý svět  
@@ -12,8 +12,8 @@ agonií umírá
 
 kůže chladne  
 oči cizí  
-nikdo v nich  
-dnes nebývá
+nikdo je  
+už nevzývá
 
 snad duše  
 nebo srdce  
@@ -21,6 +21,7 @@ letí, od života
 pospíchá
 
 kde je..  
+On!  
 že se nedívá
 
 
@@ -36,9 +37,10 @@ do ladu hlušiny
 tvorstvo doptává se  
 *Adama a Evy jmeniny?*  
 daleko, snad tam  
-kde roní květiny  
-bourec v zimě?  
-přede nit rodiny
+beztíže prvotiny  
+bourec chladně  
+přede  
+&nbsp;&nbsp;hedvábí rodiny
 
 
 Fáma
@@ -79,97 +81,54 @@ hezký sen
 —
 -
 
-můžu všechno  
-nezmůžu víc  
-nadchnu se  
-s nadšením
+můžu všechno / zmůžu víc? / nadšení / nedělám nic  
+smysl / pád ve shonu / zavane / při doslovu  
+ideje / jednotky mamonu / medúzy! / zpod voru  
 
-&nbsp;neudělám nic
+úšlap / na danou / hvězdy bdí / vše stranou
 
-smysl  
-končí ve shonu  
-vale  
-a jinou osnovu
-
-ideje  
-v jednotkách mamonu  
-medúzy!  
-jsem na voru
-
-přehmaty  
-zdrátuju  
-křivky  
-ty maluju  
-
-žádat 
-Andromedu  
-dluh snů  
-splatit nedovedu
-
-věk předchozí  
-úšlap stranou  
-hvězdy bdí
-jde všechno stranou
-
-zjištění  
-neumím žít  
-odstup od lidí  
-vlci, dostavení mít
-
-vysoko nade krou  
-kormorán z pobřeží  
-jen on zná pleš mou  
-jen on nehřeší
-
-lomoz světa  
-do hlav proniknul  
-těžkost vlídná věta  
-je mě půl
+dluh snů / platit sacharinem / medojedu  
 
 
 Silhouetta
 ----------
 
-u pluhu  
-pár knih, trocha rozumu  
-srdce tajem obzoru  
-tehdy, při proslovu
-
 dnem  
 dělat chyby  
 otázkou  
-koho svět unese  
-— ještě 
+svět unese, ještě  
+— koho
 
 oblak, odvál nebe  
-dole, kde lidem jebe  
+mě ne, tebe!  
 bytí není hra  
-kracie, silhouetta jha
+spíš  
+&nbsp;&nbsp;silhouetta jha
 
 
-A tak
------
 
-Déle setrvám,  
-více to jsem.  
+--------
+
+Déle nasedám,  
+pak to jsem.  
 Není jak  
 být si jist,  
-že právě tohle  
-chci.  
-Strach,  
-pro nic se nehodím  
-a strach,  
-začnu s jedním,  
-uteče druhé.  
-A tak  
-trávím dny, věčně  
+že právě tohle
+
+&nbsp;já sám!  
+Zkazka,  
+milá uším  
+a hlad,  
+do čeho kousnu,  
+co sním.  
+Meškám dny,  
 roz-  
 &nbsp;-kročen  
-nad možnostmi.  
+nad plytkostmi.  
 Zem kulatá,  
-není rohu
+kde má rohu?
 
-odbočit.
+Odbočit, teď!
 
 
 Po krok
@@ -177,16 +136,16 @@ Po krok
 
 obkročmo  
 z nezdarů blok  
-a přes mrtvoly
+a přes výlevy
 
-&nbsp;..skok  
+&nbsp;..*skok*
 
 zázračno  
 neposedný  
 tlustý hroch  
 
-v pochroumaném lese  
-už dnes tam  
+pochroumaném lese  
+borůvčí  
 co napřesrok
 
 
