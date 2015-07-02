@@ -78,7 +78,6 @@ __misc__
 * [Psí víno](http://www.psivino.cz/?page_id=22)
 * [Tvar](http://www.itvar.cz/cz/archiv/)
 * [publo.cz](http://publo.cz)
-* [faqs.org](http://www.faqs.org/)
 * [zpravy.rozhlas.cz](http://zpravy.rozhlas.cz)
 * [praguepost.com](http://praguepost.com)
 * [news.google.com](http://news.google.com)
@@ -265,6 +264,7 @@ __cro__
 * [Generace na rozcestí](http://hledani.rozhlas.cz/iradio/?porad[]=Generace+na+rozcestí)
 * [Dvacet minut Radiožurnálu](http://hledani.rozhlas.cz/iradio/?porad[]=Dvacet+minut+Radiožurnálu)
 * [Casablanca](http://hledani.rozhlas.cz/iradio/?porad[]=Casablanca)
+* [Deníček Josefa Veselého](http://hledani.rozhlas.cz/iRadio/?&porad[]=Dobr%C3%A9+r%C3%A1no%2C+Moravo!)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
 * [Radiotéka](http://www.radioteka.cz/)
 
@@ -638,7 +638,11 @@ __addendum__
     startupyard.cz 'czech accelerator
 
     web.archive.org 'wayback machine for the whole web
+
+    !!
+    http://www.faqs.org/rfcs/np.html 'RFC
     https://archive.org/details/computersandtechvideos
+    !!
 
     123people.com 'real-time people searching on the web
     www.eclub.cvutmedialab.cz 'enterpreneurs club of cvut
@@ -1312,7 +1316,7 @@ __addendum__
     mozillaopennews.org 'developers for journalists
     http://openlibrary.org/
 
-_processed_ with [Perl](https://www.perl.org/)
+_processed_ with [Perl](https://www.perl.org/about.html)
 
 (pj)
 
