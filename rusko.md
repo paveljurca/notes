@@ -31,7 +31,7 @@ Patočka zmínil zákonitosti vnitřní (filosofie)
 a vnější (právo). Rusům se nedostává obého.
 Dříve by byla válka, dnes jsme humánější: máme sankce.
 
-Rozpínavost, asi jedno-duchá věc:
+Rozpínavost, asi (jedno!)duchá věc:
 každý hraniční patník k dobru dá zapomenout
 vlastním těžkostem.
 Snad povolaní šikovatelé panslavismu.
@@ -87,7 +87,7 @@ Dilema, které načas odvrátí jen jedno: další
 nepřátelství. Výslednicí toho všeho jen zapomění a izolace.
 Nemají kamarády a to jistě bolí. Spojence poptávají
 v Íránu, Číně, Kubě, Sýrii nebo u Kimů namísto
-v Evropě, kam pro sichr **čas od času** pošlou tanky.
+v Evropě, kam pro sichr *čas od času* pošlou tanky.
 
 > U ruských revolucionářů ochota zabíjet souvisí velmi
 > zřejmě s ochotou umírat. Je to táž nálada v Rusku,
@@ -100,7 +100,7 @@ už není záležitostí nějaké země, nýbrž
 konkrétní Země. Nedivme se tak, že voják Rudé
 armády není povinován zabít, ale být zabit.
 Národní ctižádostí je trpět. A rádi by o tom
-přesvědčili i své (dnes občasně bývalé) ideo-bratříčky.
+přesvědčili i své (dnes občasně bývalé) *ideo*bratříčky.
 Ne, rozum nad tím nezůstává
 stát, protože v tom žádný není.. přesto naše vrátka
 stále nedovírají.
@@ -118,8 +118,7 @@ Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších.
 Zoufalost ale politruci nikdy nepřipustí.
 My už na ni však přišli, a to jim teď brání.
-Maxim Gorkij jednou napsal:
-*Rus je od přirozenosti náchylný ke krutosti*.
+Maxim Gorkij jednou zvažoval: *Rus je od přirozenosti náchylný ke krutosti*.
 
 Počátek 20. století byl k Rusku nevlídný,
 k Evropě nezasloužený. Tehdy totiž rozvědčíci,
@@ -152,10 +151,8 @@ Je jedno, co člověk udělá.
 Vždy to totiž udělá špatně.
 
 Přitom není tak daleko k rokům
-dětským,
-ve kterých s vámi tito dnešní 
-lešenáři aparátů
-ujídali krupicovou kaši
+dětským, ve kterých s vámi tito dnešní 
+lešenáři aparátů ujídali krupicovou kaši
 i měli stejné bačkůrky.
 Jsou to "Oni", "stát", "svět", atd. apod.
 Jsme to my sami.

@@ -30,30 +30,22 @@ bude stehno jelena
 Ochmelka
 --------
 
-*zvažuje*
-
-hloupé  
-co bylo  
-lepší  
-co jistě bude
-
 blíže věcem  
 nehezčí se zdají  
 dále srdcem  
 tehdy záleželo — teď nezáleží
 
-*procitá*
+*(flaška dopitá)*
 
 tam kde oči, vrby  
 hrdla rytmus nestíhá  
 vzpomněl mouder sovy  
-(nedá na ni)  
-je to liška podšitá
+(s**e na ni)  
+jistě, liška podšitá
 
 večer dojde vlohy  
-u [rumu](http://youtu.be/D3bRWm3mxPc) sny promítá  
-— chláme se  
-a ubývá
+[rum](http://youtu.be/D3bRWm3mxPc), sny promítá  
+chápe se: podmíra
 
 
 OKa
@@ -93,7 +85,7 @@ Zkusmo
 ------
 
 pochopení  
-&nbsp;skáče z útesu
+&nbsp;pryč, z útesu
 
 študák stižen   
 &nbsp;rozmarem forbesu
@@ -127,11 +119,6 @@ a v něm sen
 
 Zjev
 ----
-
-přemítám  
-bych našel zjev  
-tak synem čeho  
-keřík v řádce plev
 
 obelisk ksichtu  
 plachý srdcí let  
