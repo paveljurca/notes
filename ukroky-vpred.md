@@ -5,15 +5,16 @@
 Mřít
 ----
 
-celý svět  
-se zvrátí  
-nějak rychle  
-agonií umírá
+tvůj vhled  
+se nevrátí  
+vše špatně  
+v přítmí  
+&nbsp;&nbsp;knot zesiná
 
 kůže chladne  
-oči cizí  
-nikdo je  
-už nevzývá
+oči cizí 
+důvody jež  
+eon nesnímá
 
 snad duše  
 nebo srdce  
@@ -21,26 +22,23 @@ letí, od života
 pospíchá
 
 kde je..  
-On!  
+**On**!  
 že se nedívá
 
 
-Mrzne
------
+Jmeniny
+-------
 
 nocí mrazy  
 vrásky, zralost krajiny  
 vločky kvapným pádem  
-klnutím prolákliny  
+klnutí prolákliny  
 blizoučko pádu  
-do ladu hlušiny  
-tvorstvo doptává se  
-*Adama a Evy jmeniny?*  
-daleko, snad tam  
-beztíže prvotiny  
-bourec chladně  
-přede  
-&nbsp;&nbsp;hedvábí rodiny
+v lad hlušiny  
+z počátku  
+Adama.. Evy jmeniny  
+rodina  
+&nbsp;základ rodiny
 
 
 Fáma
@@ -51,17 +49,16 @@ jste na vzdálenost ruky
 k společnému *my*  
 zbývá překonat veletoky  
 neřekl jsi nic  
+&nbsp;*uklouzla ti*
 
-uklouzla ti
+„Kdo zvojtil osud?“
 
-&nbsp;kdo zvojtil osud?
-
-nesmělé noty
+„Nesmělé noty.“
 
 kam běží  
 ty něžné roky  
-jsi rýmem   
-její sloky
+chtěl jsi rým  
+máš sloky
 
 letargie rána  
 oči, milé dráma  
@@ -82,12 +79,11 @@ hezký sen
 -
 
 můžu všechno / zmůžu víc? / nadšení / nedělám nic  
-smysl / pád ve shonu / zavane / při doslovu  
+smysl / křik úmoru / zavane / při doslovu  
 ideje / jednotky mamonu / medúzy! / zpod voru  
+&nbsp;*úšlap / s tou pravou / hvězdy bdí / vše stranou*
 
-úšlap / na danou / hvězdy bdí / vše stranou
-
-dluh snů / platit sacharinem / medojedu  
+dluh snů / platit sacharinem / medojedu
 
 
 Silhouetta
@@ -100,35 +96,30 @@ svět unese, ještě
 — koho
 
 oblak, odvál nebe  
-mě ne, tebe!  
-bytí není hra  
+nene!  
+bytí, trochu hra  
 spíš  
-&nbsp;&nbsp;silhouetta jha
+&nbsp;silhouetta má
 
 
-
---------
+Promiň
+------
 
 Déle nasedám,  
 pak to jsem.  
 Není jak  
 být si jist,  
 že právě tohle
-
 &nbsp;já sám!  
 Zkazka,  
 milá uším  
 a hlad,  
 do čeho kousnu,  
-co sním.  
-Meškám dny,  
-roz-  
+co pozřím.  
+Meškám, promiň.  
+Roz-  
 &nbsp;-kročen  
 nad plytkostmi.  
-Zem kulatá,  
-kde má rohu?
-
-Odbočit, teď!
 
 
 Po krok
@@ -144,7 +135,7 @@ zázračno
 neposedný  
 tlustý hroch  
 
-pochroumaném lese  
+obtěžkaném lese  
 borůvčí  
 co napřesrok
 
