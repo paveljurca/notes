@@ -7,40 +7,25 @@ U stromu
 
 volá námořník  
 po úkolu  
-řezat les  
+rozřezat les  
 pro bramboru  
 klekání, pojď domu
 
 ke komu?
 
 
-Zajíc
------
-
-odrážedla prohání  
-do větru  
-každé svítání  
-je v právu  
-stráně má žehnání  
-rozdíl od lidí  
-jejich plácání  
-ušaté moudro
-
-žvýkání
-
-
 Ruptura
 -------
 
 kostým smíření  
-nespěchá  
+návalem  
 plíživost sevření  
 vteřiny  
 nic nemění  
 minulé  
 na zvážení  
-víčka  
-klenba šálení  
+dvě víčka  
+spod klenba šálení  
 fraktura krá  
 do omdlení
 
@@ -48,31 +33,33 @@ do omdlení
 —
 -
 
-výheň sama  
-citů hrana  
-stranou fara  
-a delikt blaha  
+fara  
+už nestojí  
+hledáš pomoc  
+jen záda, a záda  
+&nbsp;*vošoust* blaha  
 žel, kusá snaha  
 ta chůze sláva  
-patníček dávna  
-studem páva
+patník (do dávna)  
+stud páva  
+&nbsp;&nbsp;v krystalech rána
 
-krystaly rána  
+naleštění  
 pohrobci Abraháma
 
 
-Sucho
------
-  
+Ryba
+----
+
 jsme ryba  
 ryba v nádobě  
 co svými roky  
 propíjí se na dno
 
-jak.. vyčíst hrdlu  
-by pár doušků  
-za suchost světa  
-položilo..
+to dno
+
+mohlo  
+ale nemuselo
 
 
 (pj)
