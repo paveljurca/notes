@@ -96,7 +96,7 @@ místo dlaní
 &nbsp;vúdú od vřesu
 
 kopretina  
-&nbsp;zpod přívěsu
+&nbsp;pro komtesu
 
 
 Kuřecí sen
