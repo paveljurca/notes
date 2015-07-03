@@ -3,7 +3,7 @@
 
 úterý / středa  
 poledník / dne stěna  
-myslím / je zima  
+léto / podzima   
 větrolam / bezvětří vina  
 spánky / se dívá  
 krůčeje / stíha  
