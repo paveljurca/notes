@@ -8,7 +8,7 @@ Mřít
 ve světle  
 &nbsp;&nbsp;knot zesiná
 
-oči cizí 
+nám cizí 
 tupost jež  
 eon nesnímá
 
@@ -17,9 +17,9 @@ nebo srdce
 letí, od života  
 pospíchá
 
-kde je..  
-**On**!  
-se nedívá
+kde je  
+**On**, že  
+se nedívá!
 
 
 Jmeniny
@@ -31,7 +31,7 @@ vločky kvapným pádem
 klnutí prolákliny  
 blizoučko pádu  
 ve duchnu hlušiny  
-ten den  
+znovu, a znovu  
 Adama, Evy jmeniny  
 rodina  
 &nbsp;základ rodiny
