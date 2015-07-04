@@ -5,15 +5,11 @@
 Mřít
 ----
 
-tvůj vhled  
-se nevrátí  
-vše špatně  
-v přítmí  
+ve světle  
 &nbsp;&nbsp;knot zesiná
 
-kůže chladne  
 oči cizí 
-důvody jež  
+tupost jež  
 eon nesnímá
 
 snad duše  
@@ -23,20 +19,20 @@ pospíchá
 
 kde je..  
 **On**!  
-že se nedívá
+se nedívá
 
 
 Jmeniny
 -------
 
-nocí mrazy  
+nocí hlasy  
 vrásky, zralost krajiny  
 vločky kvapným pádem  
 klnutí prolákliny  
 blizoučko pádu  
-v lad hlušiny  
-z počátku  
-Adama.. Evy jmeniny  
+ve duchnu hlušiny  
+ten den  
+Adama, Evy jmeniny  
 rodina  
 &nbsp;základ rodiny
 
@@ -78,8 +74,7 @@ hezký sen
 —
 -
 
-můžu všechno / zmůžu víc? / nadšení / nedělám nic  
-smysl / křik úmoru / zavane / při doslovu  
+můžu všechno / zmůžu víc? / nadšení / a nic  
 ideje / jednotky mamonu / medúzy! / zpod voru  
 &nbsp;*úšlap / s tou pravou / hvězdy bdí / vše stranou*
 
@@ -115,7 +110,7 @@ Zkazka,
 milá uším  
 a hlad,  
 do čeho kousnu,  
-co pozřím.  
+co zřím.  
 Meškám, promiň.  
 Roz-  
 &nbsp;-kročen  
