@@ -3,8 +3,8 @@ Jinak
 
 shledá tělo  
 bol hlavy  
-nehybní ruce  
-spí nohy  
+na místě  
+jdou nohy  
 úzko až běda  
 ve svalu snahy  
 křídla motýlí  
