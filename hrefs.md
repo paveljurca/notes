@@ -298,6 +298,7 @@ __misc__
 * [all things considered](http://www.npr.org/programs/all-things-considered/)
 * [We Can Cut This Out](http://wecancutthisout.com/)
 * [Dorm Room Tycoon](http://drt.fm/)
+* [The Ex-Worker](http://www.crimethinc.com/podcast/)
 
 ## video
 

@@ -1183,7 +1183,7 @@ maňásek
 neproveditelné
 * _plenární_
 za účasti všech
-* _pluktokracie_
+* _plutokracie_
 vláda majetných
 * _pluralitní_
 mnohorodý
