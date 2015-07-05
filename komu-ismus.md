@@ -158,7 +158,7 @@ A taky viníka; sacharid na jejich myšlenkovou soustavu.
 Bohužel, 40 let života jako pomýlený nevykáží.
 Nemohou. Zůstalo by jim už jenom stáří.
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
-právo na socialistické (ať už to znamená cokoli)
+předkupní právo na socialistické (ať už to znamená cokoli)
 cítění. Nechme jim i úlisnou myšlenku kolektivizmu,
 ale už *nikdy* nedovolme způsob,
 kterým ho má nebo mělo být dosaženo.
@@ -168,18 +168,15 @@ kterým ho má nebo mělo být dosaženo.
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
 [Internacionála](https://cs.wikipedia.org/wiki/Eug%C3%A8ne_Pottier)
-a  vůbec je supr věc.
-
-Ale nebaví. Jsou to jen neumytý oči;
-nedovedete mít *raději* bližního než sebe.
+a "pracovní iniciativou ku splnění úkolu" se možná hezky poslouchá,
+ale nebaví. Jsou to jen neumytý oči; nedovedete mít *raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
 > bližního stejně jako sám sebe, ale podobně
 > jako sebe [..]
 > *Akvinský, T.: O lásce. KRYSTAL OP, Praha 2005, s. 216.*
 
-Plánované hospodářství, plánovaná radost,
-plánujme i blbost!
+Plánované hospodářství, plánovaná radost; na první dobrou blbost!
 Demokracie umí být lidská
 i méně lidská. Komunismus nic neumí.
 Je vždy bezpříkladně nelidský.
@@ -188,16 +185,13 @@ to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
 chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
 jednotně k volbám* vyráželi ex novo.
-
-
 Na stranu druhou:
 
 > [..] komunismus sám pobil daleko více komunistů,
 > než stačili všichni ostatní dohromady.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
-Ale spolehnout se na to nemůžeme.
-
+Ale **spolehnout se** na to **nemůžeme**.
 
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
@@ -218,8 +212,8 @@ a dobrotě. Nepochopili ale jedno:
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Ta domýšlivost ponechala zasloužilé stranické knížky
-klidnému stáří a ideologii v pozadí
+Ta domýšlivost ponechala zasloužilé knížky straníků,
+dozorců, referentů a vůbec klidnému stáří a ideologii v pozadí
 ještě klidnější dospělosti.
 
 > Madness is rare in individuals  
@@ -231,7 +225,7 @@ Standarta srpu a kladiva halí [více obětí](https://en.wikipedia.org/wiki/Mas
 než svastika hákového kříže. Třeba proto,
 že jsme hvězdu "míru" nechali nad Evropou
 (a světem) *zářit* desítky let. ÚSTR zkoumá
-komunismus jako totalitní režim, Ministersto
+komunismus jako totalitní režim, Ministerstvo
 obrany odškodňuje 3. odboj a přesto není
 bolševická idea zákonem odmítnutá (na rozdíl
 od věci nácismu).
@@ -326,20 +320,21 @@ Komunismus je sám o sobě tak absurdní,
 že argument vůbec je na [h***o](https://youtu.be/djFcjDyaZNY).
 Víc než smírným vyzněním z [Opilých banánů](http://search.mlp.cz/cz/titul/opile-banany/2500821/):
 *Komunismus je svinstvo a bolševici jsou svině.*
-A *Si vis pacem, para bellum* si utírá slzy.
+Maxima *Si vis pacem, para bellum* je snad protimluv (totiž **bojovat** za **mír**),
+ale protimluv na svém místě.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
-Demokracie má třeba trny: *Právem se stává to,
+A demokracie má třeba trny: *Právem se stává to,
 co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
-nikdo ho neslyší (jak si posteskl
-Jaroslav Hutka). Stejně jako může většina
+nikdo ho neslyší (posteskl
+si Jaroslav Hutka). Stejně jako může většina
 většinou pravdu míjet, zatímco menšina končí
-proformou, kreditem, oporou,
-ospravedlněním svědomí většiny:
+proformou, kreditem, ústavním doplňkem,
+rozhřešením svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
 Spektrum mezi černou a bílou je pryč.
@@ -362,7 +357,13 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 > Když jsem tehdy v Praze hostoval, byla ještě pod ruskou kontrolou.
 > Pro farmářského kluka ze státu Illinois to byla zvláštní zkušenost.
 > U nás bylo všechno dostupné, a tady najednou skoro nic.
-> *Sherrill Milnes, MFDNES, 1.7.15, A10* 
+> *Sherrill Milnes, MFDNES, 1.7.15, A10*
+
+Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluhou Boha než umu plánovačů),
+Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD).
+Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by "ke směně" nabízel komunismus 21. století.
+
+Nelibost k demokracii je u mnohých v jediném: těžkost přiznání, že jsme si to podělali sami.
 
 (pj)
 
