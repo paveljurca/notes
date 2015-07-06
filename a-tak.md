@@ -37,15 +37,25 @@ fara
 už nestojí  
 teď solárko  
 bez chloupků záda  
-&nbsp;*vošoust* blaha  
+&nbsp;*vošoust* blaha
+
 žel, kusá snaha  
 ta chůze sláva  
 patník (až dávna)  
 stud páva  
-&nbsp;v rose rána
+&nbsp;rosou rána
 
 naleštění  
 pohrobci Abraháma
+
+
+Jistě
+-----
+
+hloupé  
+co bylo  
+lepší  
+co jistě bude
 
 
 Dno

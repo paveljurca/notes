@@ -34,7 +34,7 @@ tam kde oči — vrby
 hrdla rytmus nestíhá  
 vzpomněl mouder sovy  
 (s**e na ni)  
-jistě, liška podšitá
+stejnak — liška podšitá
 
 večer dojde vlohy  
 [rum](http://youtu.be/D3bRWm3mxPc), přeludy promítá
