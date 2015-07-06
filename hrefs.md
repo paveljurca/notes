@@ -91,6 +91,7 @@ __misc__
 * [Houpací Osel](http://www.houpaciosel.cz/)
 * [osel.cz](http://www.osel.cz/)
 * [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost)
+* [Deník Referendum](http://denikreferendum.cz/rubrika/nazory)
 
 ## blog
 
@@ -213,7 +214,7 @@ __misc__
 * [Tereza Matějčková](http://ceskapozice.lidovky.cz/autori.aspx?idnovinare=3193)
 * [Zdeněk Mihalco](http://ihned.cz/?m=authors&article[aut_id]=15490880&person[id]=15490880)
 * [Milan Zelený](http://blog.aktualne.cz/blogy/milan-zeleny.php)
-* [Deník Referendum](http://denikreferendum.cz/rubrika/nazory)
+* [Bloc.cz](http://www.bloc.cz/)
 
 ## podcasts
 
