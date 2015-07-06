@@ -6,35 +6,43 @@ Mřít
 ----
 
 ve světle  
-&nbsp;&nbsp;knot zesiná
+&nbsp;knot zesiná
 
 nám cizí 
 tupost jež  
-eon nesnímá
+eon — dosyta 
 
 snad duše  
 nebo srdce  
-letí, od života  
-pospíchá
+*plachtí!*
 
-kde je  
-**On**, že  
-se nedívá!
+v ságu bdění  
+přimknuta
+
+zem skonem  
+&nbsp;*však*
+
+hlubší, a rozryta
 
 
-Jmeniny
--------
+Hodiny
+------
 
 nocí hlasy  
 vrásky, zralost krajiny  
-vločky kvapným pádem  
-klnutí prolákliny  
-blizoučko pádu  
-ve duchnu hlušiny  
-znovu, a znovu  
+doufat ve víc  
+než lad hlušiny  
+důvtipem, vědo!  
 Adama, Evy jmeniny  
+míza předků  
+za dcery, za syny  
+sečkáme  
+sečkají-li rostliny
+
 rodina  
-&nbsp;základ rodiny
+&nbsp;kmen rodiny  
+ve vínku  
+nadešlé světa — hodiny
 
 
 Fáma
@@ -53,10 +61,9 @@ neřekl jsi nic
 
 kam běží  
 ty něžné roky  
-chtěl jsi rým  
-máš sloky
+lásky rým  
+vyznání sloky
 
-letargie rána  
 oči, milé dráma  
 vším tělem, kořínky vlasů  
 spěchá, ta zpráva  
@@ -76,7 +83,7 @@ hezký sen
 
 můžu všechno / zmůžu víc? / nadšení / a nic  
 ideje / jednotky mamonu / medúzy! / zpod voru  
-&nbsp;*úšlap / s tou pravou / hvězdy bdí / vše stranou*
+&nbsp;*úšlap / s tou pravou / hvězdy ví / vše stranou*
 
 dluh snů / platit sacharinem / medojedu
 
@@ -90,22 +97,22 @@ otázkou
 svět unese, ještě  
 — koho
 
-oblak, odvál nebe  
+oblak, vraždí nebe  
 nene!  
 bytí, trochu hra  
-spíš  
+a trochu  
 &nbsp;silhouetta má
 
 
 Promiň
 ------
 
-Déle nasedám,  
-pak to jsem.  
+Jsem,  
+kým nejsem.  
 Není jak  
 být si jist,  
-že právě tohle
-&nbsp;já sám!  
+zdali **On**  
+nebo, já sám!  
 Zkazka,  
 milá uším  
 a hlad,  
@@ -124,7 +131,7 @@ obkročmo
 z nezdarů blok  
 a přes výlevy
 
-&nbsp;..*skok*
+&nbsp;*skok*
 
 zázračno  
 neposedný  

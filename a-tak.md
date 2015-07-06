@@ -1,5 +1,5 @@
-Jen tak
-=======
+A tak
+=====
 
 
 U stromu
@@ -35,21 +35,21 @@ do omdlení
 
 fara  
 už nestojí  
-hledáš pomoc  
-jen záda, a záda  
+teď solárko  
+bez chloupků záda  
 &nbsp;*vošoust* blaha  
 žel, kusá snaha  
 ta chůze sláva  
-patník (do dávna)  
+patník (až dávna)  
 stud páva  
-&nbsp;&nbsp;v krystalech rána
+&nbsp;v rose rána
 
 naleštění  
 pohrobci Abraháma
 
 
-Ryba
-----
+Dno
+---
 
 jsme ryba  
 ryba v nádobě  

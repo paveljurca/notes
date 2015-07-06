@@ -30,14 +30,14 @@ bude stehno jelena
 Ochmelka
 --------
 
-tam kde oči, vrby  
+tam kde oči — vrby  
 hrdla rytmus nestíhá  
 vzpomněl mouder sovy  
 (s**e na ni)  
 jistě, liška podšitá
 
 večer dojde vlohy  
-[rum](http://youtu.be/D3bRWm3mxPc), sny promítá  
+[rum](http://youtu.be/D3bRWm3mxPc), přeludy promítá
 
 *blíže věcem  
 nehezčí se zdají  
@@ -83,7 +83,7 @@ negramotných úvodů
 Zkusmo
 ------
 
-pochopení  
+rozum  
 &nbsp;pryč, z útesu
 
 študák stižen   
@@ -95,8 +95,8 @@ paměť křepčí
 místo dlaní  
 &nbsp;vúdú od vřesu
 
-kopretina  
-&nbsp;pro komtesu
+hrát si  
+&nbsp;na noblesu
 
 
 Kuřecí sen
