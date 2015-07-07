@@ -8,7 +8,7 @@ Mřít
 ve světle  
 &nbsp;knot zesiná
 
-nám cizí 
+nám cizí  
 tupost jež  
 eon — dosyta 
 
@@ -33,7 +33,8 @@ vrásky, zralost krajiny
 doufat ve víc  
 než lad hlušiny  
 důvtipem, vědo!  
-Adama, Evy jmeniny  
+Adama  
+&nbsp;*Evy* jmeniny  
 míza předků  
 za dcery, za syny  
 sečkáme  
@@ -41,7 +42,7 @@ sečkají-li rostliny
 
 rodina  
 &nbsp;kmen rodiny  
-ve vínku  
+ve větvoví  
 nadešlé světa — hodiny
 
 
@@ -64,9 +65,9 @@ ty něžné roky
 lásky rým  
 vyznání sloky
 
-oči, milé dráma  
-vším tělem, kořínky vlasů  
-spěchá, ta zpráva  
+oči  
+&nbsp;milé dráma  
+vším tělem  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
@@ -83,7 +84,7 @@ hezký sen
 
 můžu všechno / zmůžu víc? / nadšení / a nic  
 ideje / jednotky mamonu / medúzy! / zpod voru  
-&nbsp;*úšlap / s tou pravou / hvězdy ví / vše stranou*
+&nbsp;*úšlap / s tou pravou / hvězdy dí / vše stranou*
 
 dluh snů / platit sacharinem / medojedu
 
@@ -108,16 +109,13 @@ Promiň
 ------
 
 Jsem,  
-kým nejsem.  
+co ještě nejsem.  
 Není jak  
 být si jist,  
 zdali **On**  
-nebo, já sám!  
-Zkazka,  
-milá uším  
-a hlad,  
-do čeho kousnu,  
-co zřím.  
+nebo už — já sám!  
+Biografie  
+milá uším.  
 Meškám, promiň.  
 Roz-  
 &nbsp;-kročen  
