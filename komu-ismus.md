@@ -378,6 +378,7 @@ Nelibost k demokracii je u mnohých v jediném: těžkost přiznání, že jsme 
 * [Komunistický převrat v ČSR](http://www.pametnaroda.cz/anniversary/detail/id/6)
 * [Moderní dějiny](http://www.moderni-dejiny.cz/)
 * [Proti ztrátě paměti](http://www.protiztratepameti.cz/)
+* [Demokracie](http://kcc.misantrop.info/2015/07/07/demokracie/)
 * [Totalita](http://totalita.cz/)
 * [Někteří komunisté to mysleli dobře](http://prehravac.rozhlas.cz/audio/2356363)
 * [Proč nás stěhujete](http://prehravac.rozhlas.cz/audio/3059233)
