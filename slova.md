@@ -195,6 +195,8 @@ neměnný matematický předpoklad
 výměnný obchod
 * _beau monde_
 vznešený svět
+* _bedekr_
+knižní průvodce
 * _bellum omnium contra omnes_
 válka všech proti všem
 * _beriberi_
