@@ -330,10 +330,10 @@ A demokracie má třeba trny: *Právem se stává to,
 co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
-nikdo ho neslyší (posteskl
-si Jaroslav Hutka). Stejně jako může většina
-většinou pravdu míjet, zatímco menšina končí
-proformou, kreditem, ústavním doplňkem,
+nikdo ho neslyší (zmínil se Jaroslav Hutka).
+Stejně jako může většinou
+většina pravdu míjet, zatímco menšina končí
+proformou, kreditem, ústavní vatou,
 rozhřešením svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
@@ -363,14 +363,17 @@ Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluh
 Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD).
 Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by "ke směně" nabízel komunismus 21. století.
 
-Nelibost k demokracii je u mnohých v jediném: těžkost přiznání, že jsme si to podělali sami.
+Nelibost k demokracii je u mnohých v jediném: lze vystoupat, i hluboce klesnout.
+Komunismus ČSSR zajistil straníkům první, popřel druhé. Režim tak skončil
+na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
 
 (pj)
 
 * __zdroje__
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
 * Šaroch, Z.: Výstřely z hranice
-* [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), uvědomělý [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
+* 30 případů majora Zemana: Hon na lišku (5. díl)
+* [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
 * [Hodní a nevinní komunisté](http://myego.cz/item/hodni-a-nevinni-komuniste-aneb-jak-se-nam-pod-nimi-zilo)
 * [Babičko, povídej](http://www.misantrop.info/babicko-povidej/)
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
