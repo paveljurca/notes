@@ -65,26 +65,26 @@ ty něžné roky
 lásky rým  
 vyznání sloky
 
-oči  
+oči
+
 &nbsp;milé dráma  
 vším tělem  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
 
-&nbsp;mañana
-
+&nbsp;mañana  
 hezký sen
 
-&nbsp;a hezčí fáma
+a hezčí fáma
 
 
 —
 -
 
 můžu všechno / zmůžu víc? / nadšení / a nic  
-ideje / jednotky mamonu / medúzy! / zpod voru  
-&nbsp;*úšlap / s tou pravou / hvězdy dí / vše stranou*
+ideje / jednotky mamonu / sám / bez voru  
+&nbsp;*hovor / s tou pravou / hned jistější / svou vahou*
 
 dluh snů / platit sacharinem / medojedu
 
@@ -109,7 +109,7 @@ Promiň
 ------
 
 Jsem,  
-co ještě nejsem.  
+kde nejsem.  
 Není jak  
 být si jist,  
 zdali **On**  
@@ -137,7 +137,7 @@ tlustý hroch
 
 obtěžkaném lese  
 borůvčí  
-co napřesrok
+zas napřesrok
 
 
 (pj)
