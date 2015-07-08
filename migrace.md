@@ -1,6 +1,9 @@
 Migrace
 =======
 
+
+
+
 > Ne tak má rozuměno být, když by někdo činil
 > hmotnou almužnu jednomu bližnímu, že by každému
 > na celém světě mohl totéž učinit, ale jako kdyby
@@ -18,7 +21,7 @@ nekřičí se na něco, ale **za něco**.
 
 
 [Student filozofie](https://www.google.cz/search?q=luk%C3%A1%C5%A1+mato%C5%A1ka&tbm=vid) má jasno,
-že ["zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
+že ["zdroje jsou"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022).
 To už nebude filosofie ale chiliasmus. A [tele](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html) vize (Čí?!)
 jistěže nemá rozbušky hasit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
 
@@ -26,11 +29,6 @@ jistěže nemá rozbušky hasit, spíš je umocnit, zachovat paniku. K rozumu si
 http://denikreferendum.cz/clanek/20709-kdo-vsechno-delal-ramena-u-trech-ocasku
 
 http://style.iprima.cz/styl/jak-je-to-doopravdy-s-migrantskou-krizi-v-evrope-9-veci-nad-kterymi-byste-meli-zacit-premyslet
-
-
-" pohled z druhé strany Kanálu."
-https://www.facebook.com/edhelka/posts/10204221626280275
-
 
 "have a refugee/slave market!"
 http://www.nytimes.com/2015/06/09/opinion/creating-a-market-for-refugees-in-europe.html
@@ -55,8 +53,6 @@ Zalidněnost na km^2
 1. Evropa XYZ
 2. 
 
-state of the art, EU
-https://www.facebook.com/daniel.steigerwald/posts/10153425792993656
 
 uprchlíci = ti bohatí;
 skutečně potřební cestovat nemohou
@@ -70,20 +66,19 @@ http://hlidacipes.org/milan-zeleny-proc-cist-znovu-peroutku-ale-i-komenskeho-hav
 
 https://www.facebook.com/zahradil/posts/10204606226539024
 https://www.facebook.com/michal.illich/posts/10153511796143968
-
 https://www.facebook.com/tomio.cz/videos/1030325556978259/
+https://www.facebook.com/vit.kucik/posts/1077249078951945
+https://www.facebook.com/CT24.cz/videos/10153503573159009/
+state of the art, EU
+https://www.facebook.com/daniel.steigerwald/posts/10153425792993656
+" pohled z druhé strany Kanálu."
+https://www.facebook.com/edhelka/posts/10204221626280275
 
 http://altpress.cz/pravda-o-imigraci/
 http://blog.aktualne.cz/blogy/dalibor-spok.php?itemid=25401
 http://reportermagazin.cz/a-pred-nami-je-stesti/
 http://www.parlamentnilisty.cz/arena/politologove/Profesor-Krejci-Ted-uz-zastavime-uprchliky-jedine-nasilim-Kdyz-jich-prijmete-pul-milionu-hned-vyrazi-na-cestu-milion-381053
-
-https://www.facebook.com/vit.kucik/posts/1077249078951945
-
-https://www.facebook.com/CT24.cz/videos/10153503573159009/
-
 http://www.iom.int/news/migrant-arrivals-sea-italy-top-170000-2014
-
 http://www.mises.cz/clanky/libertariansky-pristehovalecky-hlavolam--608.aspx
-
 http://www.rozhlas.cz/plus/nazory/_zprava/1502458
+
