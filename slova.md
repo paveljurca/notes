@@ -541,6 +541,8 @@ jazykověda
 lahůdka
 * _finis hominis_
 cíl člověka
+* _fistule_
+pištivý hlas
 * _flagrantní_
 očividný
 * _floskule_
