@@ -20,12 +20,14 @@ nádavkem stavy
 vakuem čela  
 temní úvahy  
 tak vzdálené  
-volnosti vlohy
-&nbsp;*vidina*  
+volnosti vlohy  
+&nbsp;*vidina*
+
 piedestal postavy  
 prostřed někoho  
 bokem vřavy  
-&nbsp;*pyžamo*  
+&nbsp;*pyžamo*
+
 úbor únavy
 
 
@@ -35,7 +37,7 @@ bokem vřavy
 úterý / středa  
 poledník / dne stěna  
 léto / podzima   
-větrolam / mima  
+větrolam / od mima  
 spánky / se dívá  
 drobt chleba / hlt vína  
 — / memoár, díra  
