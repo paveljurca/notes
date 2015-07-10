@@ -38,7 +38,7 @@ pyžamo
 úterý / středa  
 poledník / dne stěna  
 léto / podzima   
-větrolam / bezvětří vina  
+větrolam / bezvětří klima  
 spánky / se dívá  
 krůčeje / stíha  
 drobt chleba / hlt vína  
