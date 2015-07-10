@@ -38,10 +38,10 @@ své rodiny apod.
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
 Dva roky nazpět bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. To už není jen pár zbloudilých ovcí. Bůh ví, že dnes by číslo bylo vyšší.
+natěšených respondentů. To už není jen pár zbloudilých ovcí. Bůh ví, že dnes (a s každým rokem) by číslo bylo vyšší.
 
-Ráj obyčejně nemívá tlumočníka v elektřinou lupajících hraničních
-plotech nebo v zákoně č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
+Ráj obyčejně netlumočí do elektřinou prohnaných hraničních
+plotů nebo zákona č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
 [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
 mělo polojasno: *Republiku si rozvrátit nedáme!*
 Pochopitelně: do res publicae měl náš aparát lízalů stejně daleko
@@ -124,13 +124,23 @@ z těch závaží na hloupé straně vah.
 > politickými realisty, kteří vědí co chtějí a co mohou.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
-Mantra z éry Listopadu *Nejsme jako oni!*,
-nás samé, vyplísnila.
-Rok 1945: zcela nesmyslně, české Němce, věšíme.
+Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — vyplísnila.
+Bylo nám příjemnější vědět co nejsme než co jsme. Právě škarohlídství
+národa znemožní stát přímě za jednou idejí, tj. odevzdat se. Obyčejně po kabátě
+máme zastrkané další dvě tři, žádná za nic nestojí, ale stejně si to se žádnou nerozházet.
+*Imanence* je jedna noha na suchu (demobilisace 6. října '38),
+*transcendence* naopak jsou obě nohy ve vodě (mobilisace 23. září '38).
+Ještě tupěji: šlapat vodu *nebo* skutečně plavat. Brát z jedné ruky,
+ale brát vše, i to těžké.
+
+Rok 1945: české Němce, a další (domnělé) viníky, zadupáváme.
 Rok 1989: se všemi tančíme.
+Obě naše reakce z těch dní a měsíců byly postavené na hlavu.
+'45 porodnici vypálil, '89 navýšil kapacitu.
+Ani jednou se nikdo nepodíval, kdo je uvnitř.
+
 I po 26 letech jsou úderníci stále s námi.
-A každé 4 roky jim
-vyhradíme pár lavic Parlamentu ČR a něco málo
+A každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
 milionů, aby měli co na sebe.
 Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
@@ -140,8 +150,8 @@ Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus, slovo pod sutí panelu
-(více V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
+Socialismus je soudek od suti panelu
+(obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Kdo chce jistoty, může popojít — v čase.
 Idylu pětiletek [mladí trockisté](http://solidarita.socsol.cz/)
 vábí v nové kontrarevoluci, která "už už" musí nastat.
@@ -156,7 +166,7 @@ A taky viníka; sacharid na jejich myšlenkovou soustavu.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Bohužel, 40 let života jako pomýlený nevykáží.
-Nemohou. Zůstalo by jim už jenom stáří.
+Nemohou. Zůstalo by jim už jenom stáří (tj. popřít většinu svého času tady).
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
 předkupní právo na socialistické (ať už to znamená cokoli)
 cítění. Nechme jim i úlisnou myšlenku kolektivizmu,
@@ -168,15 +178,15 @@ kterým ho má nebo mělo být dosaženo.
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
 [Internacionála](https://cs.wikipedia.org/wiki/Eug%C3%A8ne_Pottier)
-a "pracovní iniciativou ku splnění úkolu" se možná hezky poslouchá,
-ale nebaví. Jsou to jen neumytý oči; nedovedete mít *raději* bližního než sebe.
+a "pracovní iniciativou ku splnění úkolu" se možná hezky pějí,
+ale nebaví. Jsou to jen od noci neumyté oči; nedovedete mít *raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
 > bližního stejně jako sám sebe, ale podobně
 > jako sebe [..]
 > *Akvinský, T.: O lásce. KRYSTAL OP, Praha 2005, s. 216.*
 
-Plánované hospodářství, plánovaná radost; na první dobrou blbost!
+Plánované hospodářství, plánovaná radost; na první dobrou blbost.
 Demokracie umí být lidská
 i méně lidská. Komunismus nic neumí.
 Je vždy bezpříkladně nelidský.
@@ -240,7 +250,7 @@ od věci nácismu).
 
 Pravda, nejsme jako oni, ale stát
 stojí proto, že je právo. Vice versa není nic.
-Tvé právo je můj trest.
+Tvé právo je v důsledku můj trest, odříkání.
 Řád jednotlivce je svobodou jednotlivců.
 Z preambule Ústavy:
 *[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.*
@@ -334,7 +344,7 @@ nikdo ho neslyší (zmínil se Jaroslav Hutka).
 Stejně jako může většinou
 většina pravdu míjet, zatímco menšina končí
 proformou, kreditem, ústavní vatou,
-rozhřešením svědomí většiny:
+posvěcením svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
 Spektrum mezi černou a bílou je pryč.
@@ -352,20 +362,20 @@ Kdo nechce, ten nebude vědět. A přesně takoví rozhodují (i vyhrávají) vo
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
-Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
+Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluhou *zhůry* než umu plánovačů),
+Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD).
+Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by "ke směně" nabízel komunismus 21. století.
 
 > Když jsem tehdy v Praze hostoval, byla ještě pod ruskou kontrolou.
 > Pro farmářského kluka ze státu Illinois to byla zvláštní zkušenost.
 > U nás bylo všechno dostupné, a tady najednou skoro nic.
 > *Sherrill Milnes, MFDNES, 1.7.15, A10*
 
-Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluhou Boha než umu plánovačů),
-Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD).
-Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by "ke směně" nabízel komunismus 21. století.
-
 Nelibost k demokracii je u mnohých v jediném: lze vystoupat, i hluboce klesnout.
 Komunismus ČSSR zajistil straníkům první, popřel druhé. Režim tak skončil
 na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
+
+Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 (pj)
 
@@ -374,6 +384,7 @@ na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
 * Šaroch, Z.: Výstřely z hranice
 * 30 případů majora Zemana: Hon na lišku (5. díl)
 * [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
+* [Ludmila Brožová-Polednová](http://www.ceskatelevize.cz/porady/10366883725-pribeh-herecky/21156226416/)
 * [Hodní a nevinní komunisté](http://myego.cz/item/hodni-a-nevinni-komuniste-aneb-jak-se-nam-pod-nimi-zilo)
 * [Babičko, povídej](http://www.misantrop.info/babicko-povidej/)
 * [Mé dětství v socialismu](http://www.detstvivsocialismu.cz/)
@@ -386,7 +397,7 @@ na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
 * [Někteří komunisté to mysleli dobře](http://prehravac.rozhlas.cz/audio/2356363)
 * [Proč nás stěhujete](http://prehravac.rozhlas.cz/audio/3059233)
 * [Václav Vaško](http://prehravac.rozhlas.cz/audio/3159834)
-* [Mons. ThDr. Oto Mádr](http://www.pametnaroda.cz/story/madr-oto-1917-106)
+* [Oto Mádr](http://www.pametnaroda.cz/story/madr-oto-1917-106)
 * Drda, A., Dudek, P.: Kdo ve stínu čeká na moc
 * Hvížďala, K., Havel, V.: Dálkový výslech
 * Havel, V.: Do různých stran
