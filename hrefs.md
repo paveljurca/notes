@@ -215,6 +215,7 @@ __misc__
 * [Zdeněk Mihalco](http://ihned.cz/?m=authors&article[aut_id]=15490880&person[id]=15490880)
 * [Milan Zelený](http://blog.aktualne.cz/blogy/milan-zeleny.php)
 * [Bloc.cz](http://www.bloc.cz/)
+* [Ondřej Nekola](http://www.nekola.cz/)
 
 ## podcasts
 
