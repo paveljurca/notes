@@ -21,14 +21,11 @@ vakuem čela
 temní úvahy  
 tak vzdálené  
 volnosti vlohy
-
-&nbsp;*vidina*
-
+&nbsp;*vidina*  
 piedestal postavy  
 prostřed někoho  
 bokem vřavy  
-
-pyžamo  
+&nbsp;*pyžamo*  
 úbor únavy
 
 
@@ -38,9 +35,8 @@ pyžamo
 úterý / středa  
 poledník / dne stěna  
 léto / podzima   
-větrolam / bezvětří klima  
+větrolam / mima  
 spánky / se dívá  
-krůčeje / stíha  
 drobt chleba / hlt vína  
 — / memoár, díra  
 máma / sivější, sivá
