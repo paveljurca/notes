@@ -6,7 +6,7 @@ Mřít
 ----
 
 ve světle  
-&nbsp;knot zesiná
+knot zesiná
 
 nám cizí  
 tupost jež  
@@ -20,7 +20,7 @@ v ságu bdění
 přimknuta
 
 zem skonem  
-&nbsp;*však*
+*však*
 
 hlubší, a rozryta
 
@@ -34,14 +34,14 @@ doufat ve víc
 než lad hlušiny  
 důvtipem, vědo!  
 Adama  
-&nbsp;*Evy* jmeniny  
+*Evy* jmeniny  
 míza předků  
 za dcery, za syny  
 sečkáme  
 sečkají-li rostliny
 
 rodina  
-&nbsp;kmen rodiny  
+kmen rodiny  
 ve větvoví  
 nadešlé světa — hodiny
 
@@ -54,7 +54,7 @@ jste na vzdálenost ruky
 k společnému *my*  
 zbývá překonat veletoky  
 neřekl jsi nic  
-&nbsp;*uklouzla ti*
+*uklouzla ti*
 
 „Kdo zvojtil osud?“
 
@@ -67,13 +67,13 @@ vyznání sloky
 
 oči
 
-&nbsp;milé dráma  
+milé dráma  
 vším tělem  
 *my* dva, dnes — káva?  
 
 ve skráních tluče
 
-&nbsp;mañana  
+mañana  
 hezký sen
 
 a hezčí fáma
@@ -83,8 +83,8 @@ a hezčí fáma
 -
 
 můžu všechno / zmůžu víc? / nadšení / a nic  
-ideje / jednotky mamonu / sám / bez voru  
-&nbsp;*hovor / s tou pravou / hned jistější / svou vahou*
+ideje / jednotky mamonu / sám / na potvoru  
+*hovor / s tou pravou / jistější / svou vahou*
 
 dluh snů / platit sacharinem / medojedu
 
@@ -102,7 +102,7 @@ oblak, vraždí nebe
 nene!  
 bytí, trochu hra  
 a trochu  
-&nbsp;silhouetta má
+silhouetta má
 
 
 Promiň
@@ -118,7 +118,7 @@ Biografie
 milá uším.  
 Meškám, promiň.  
 Roz-  
-&nbsp;-kročen  
+-kročen  
 nad plytkostmi.  
 
 
@@ -129,7 +129,7 @@ obkročmo
 z nezdarů blok  
 a přes výlevy
 
-&nbsp;*skok*
+*skok*
 
 zázračno  
 neposedný  

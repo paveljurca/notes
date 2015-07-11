@@ -127,20 +127,20 @@ z těch závaží na hloupé straně vah.
 Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila.
 Bylo nám příjemnější vědět co nejsme než co jsme. Právě škarohlídství
 národa znemožní stát přímě za jednou idejí, tj. odevzdat se. Obyčejně po kabátě
-máme zastrkané další dvě tři, žádná za nic nestojí, ale i tak si to nerozházet.
+máme zastrkané další dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
 *Imanentní* přízemnost a zištnost je jedna noha na suchu (demobilisace 6. října '38);
-*transcendentní* přesah a víra naopak jsou obě nohy ve vodě (mobilisace 23. září '38).
-Mnichovský diktát ale z celého chleba důvodů učebnicový předěl mezi češstvím a čecháčkovstvím
-být nemůže.
+*transcendentní* přesah a víra jsou naopak obě nohy ve vodě (mobilisace 23. září '38).
+Mnichovský diktát ale z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím
+nemůže.
 
-Plavat a třeba i tonout — pro něco. Za něčím stát, za něco stát. Věříme vně, protože dovnitř víme,
+Tedy, plavat a třeba i tonout — pro něco. Za něčím stát, za něco stát. Věříme vně; dovnitř víme,
 že sami (o sobě) jsme k ničemu.
-Rok 1945: české Němce zapřeme.
-Rok 1989: koupat se a přitom být suchý; omak sametu evokoval, že to lze.
+Rok 1945: české Němce zapřít.
+Rok 1989: čvachtat ale nenamočit; omak sametu evokoval, že to lze.
 Obě naše reakce z těch dní a měsíců byly postavené na hlavu.
 '45 porodnici vypálil, '89 navýšil kapacitu.
 Ani jednou se nikdo nepodíval, kdo je uvnitř.
-Župan ze sametu tak schne na šňůře národa i dnes.
+Ze Sametového županu tak dodnes kape nám přímo na čelo.
 
 I po 26 letech jsou úderníci stále s námi.
 A každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
@@ -410,7 +410,7 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 * Baťa, J.A.: Za obchodem kolem světa
 * Tigrid, P.: Kapesní průvodce inteligentní ženy po vlastním osudu
 
-#
+#  
 
 * __Peroutka__
 * [Jak číst Peroutku](http://hlidacipes.org/milan-zeleny-poukazka-do-koncentraku-aneb-jak-cist-peroutku/)
