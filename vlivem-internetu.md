@@ -20,8 +20,8 @@ způsoby, jimiž žijeme.
 
 Internet často vybízí ke znalosti
 a snadnému předání informace. Zatímco
-by někdo mohl rozporovat, důsledek naší
-instantní sytosti přece stále není zcela vnímán.
+by to někdo mohl rozporovat, důsledek naší
+instantní sytosti přece stále není domyšlen.
 Nemohu si pomoct bych nevzpomněl úzce
 oddané životy žité našimi internetem
 absentujícími předky. Vezměte si kupříkladu
@@ -68,7 +68,7 @@ médií kolem je neustálé zachvácení
 pozornosti. Vlastní mediální
 zařízení nás ustavičně bombardují
 upozorněními a soustředění bere za své.
-Zatímco od nynějších a již zavedených odborníků
+Zatímco od současných a již zavedených odborníků
 očekáváme, že by mohli být více odolní
 útokům od pozornost kradoucích médií
 díky jejich výchově mimo digitální
@@ -78,12 +78,12 @@ Každé dítě narozené běhěm posledních
 pár let bude vyrůstat přímo v hustotě
 věcí s haldami dat a médii
 soupeřícími o upřenost očí. Mám teorii,
-že nejvýše možná úroveň odbornosti už
+že nejvýše možná úroveň odbornosti
 neporoste tak jako doposud.
 Lidé už nezasvěcují
 roky života jedné oblasti, ale spíše
 vyznávají vícero zájmů, ježto každý
-ukusuje část z koláče celku.
+ukusuje část z koláče celku možného úspěchu.
 
 Hypebeast je sám o sobě toho dobrým
 příkladem. Rozmanitost se stala podtrhujícím
@@ -92,21 +92,21 @@ módnímu obrazu. Zatímco začátky Hypebeast
 vycházely zcela ze streetwear a tenisek,
 úspěšně jsme ukázali, že svět vyšší,
 současné i street módy může beze všeho
-koexistovat. Přidejte hojné množství
+žít vedle sebe. Přidejte hojné množství
 umění, designu a obecně novinek ze
 životního stylu a získáte velmi dobře
 uzpůsobenou platformu, přinášející
 nové podněty prakticky s každým
 vydaným článkem.
 
-Zpět k předchozímu tématu, odborníci,
+Zpět k předchozímu tématu; odborníci,
 jež nestráví poměrnou část jejich
 času online (stále větší vzácnost)
 v důsledku jejich generační nelibosti
 k internetu, budou věcí minulosti.
-Pozoruji značné uvolnění kontur
+Pozoruji značné uvolnění hodnot
 ve významu slova *experti*, tím spíše
-jen lidé dostávají nálepce "všeumělé".
+dnes lidé dostávají nálepce "všeumělé".
 Už jsme toho byli
 svědky: jen nepatrně lidí vytrvá
 u jednoho pracovního titulu. Více než

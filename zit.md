@@ -26,9 +26,8 @@ volnosti vlohy
 piedestal postavy  
 prostřed někoho  
 bokem vřavy  
-&nbsp;*pyžamo*
-
-úbor únavy
+pyžamo  
+&nbsp;úbor únavy
 
 
 Žít
@@ -38,7 +37,9 @@ bokem vřavy
 poledník / dne stěna  
 léto / podzima   
 větrolam / od mima  
-spánky / se dívá  
+spánky / mne vídá  
+&nbsp;*Co zítra?*
+
 drobt chleba / hlt vína  
 — / memoár, díra  
 máma / sivější, sivá

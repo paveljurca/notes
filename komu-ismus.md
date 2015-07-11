@@ -124,20 +124,23 @@ z těch závaží na hloupé straně vah.
 > politickými realisty, kteří vědí co chtějí a co mohou.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
-Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — vyplísnila.
+Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila.
 Bylo nám příjemnější vědět co nejsme než co jsme. Právě škarohlídství
 národa znemožní stát přímě za jednou idejí, tj. odevzdat se. Obyčejně po kabátě
-máme zastrkané další dvě tři, žádná za nic nestojí, ale stejně si to se žádnou nerozházet.
-*Imanence* je jedna noha na suchu (demobilisace 6. října '38),
-*transcendence* naopak jsou obě nohy ve vodě (mobilisace 23. září '38).
-Ještě tupěji: šlapat vodu *nebo* skutečně plavat. Brát z jedné ruky,
-ale brát vše, i to těžké.
+máme zastrkané další dvě tři, žádná za nic nestojí, ale i tak si to nerozházet.
+*Imanentní* přízemnost a zištnost je jedna noha na suchu (demobilisace 6. října '38);
+*transcendentní* přesah a víra naopak jsou obě nohy ve vodě (mobilisace 23. září '38).
+Mnichovský diktát ale z celého chleba důvodů učebnicový předěl mezi češstvím a čecháčkovstvím
+být nemůže.
 
-Rok 1945: české Němce, a další (domnělé) viníky, zadupáváme.
-Rok 1989: se všemi tančíme.
+Plavat a třeba i tonout — pro něco. Za něčím stát, za něco stát. Věříme vně, protože dovnitř víme,
+že sami (o sobě) jsme k ničemu.
+Rok 1945: české Němce zapřeme.
+Rok 1989: koupat se a přitom být suchý; omak sametu evokoval, že to lze.
 Obě naše reakce z těch dní a měsíců byly postavené na hlavu.
 '45 porodnici vypálil, '89 navýšil kapacitu.
 Ani jednou se nikdo nepodíval, kdo je uvnitř.
+Župan ze sametu tak schne na šňůře národa i dnes.
 
 I po 26 letech jsou úderníci stále s námi.
 A každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
@@ -150,7 +153,7 @@ Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus je soudek od suti panelu
+Socialismus je shromaždiště suti panelu
 (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 Kdo chce jistoty, může popojít — v čase.
 Idylu pětiletek [mladí trockisté](http://solidarita.socsol.cz/)
@@ -166,7 +169,7 @@ A taky viníka; sacharid na jejich myšlenkovou soustavu.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Bohužel, 40 let života jako pomýlený nevykáží.
-Nemohou. Zůstalo by jim už jenom stáří (tj. popřít většinu svého času tady).
+Nemohou. Zůstalo by jim už jenom stáří (tj. popřít většinu svého Času tady).
 Leč neupírejme budovatelům (ani těm po třech lobotomiích)
 předkupní právo na socialistické (ať už to znamená cokoli)
 cítění. Nechme jim i úlisnou myšlenku kolektivizmu,
@@ -186,13 +189,14 @@ ale nebaví. Jsou to jen od noci neumyté oči; nedovedete mít *raději* bližn
 > jako sebe [..]
 > *Akvinský, T.: O lásce. KRYSTAL OP, Praha 2005, s. 216.*
 
-Plánované hospodářství, plánovaná radost; na první dobrou blbost.
 Demokracie umí být lidská
 i méně lidská. Komunismus nic neumí.
 Je vždy bezpříkladně nelidský.
 Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
 to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
 chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
+Plánované hospodářství projektovalo náladu, radost i hloupost obyvatel.
+Člověk nebyl víc než nýt ve stroji, který sám někde na kusu asfaltu v polích rezl.
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
 jednotně k volbám* vyráželi ex novo.
 Na stranu druhou:
@@ -202,7 +206,6 @@ Na stranu druhou:
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
 Ale **spolehnout se** na to **nemůžeme**.
-
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
 řad — tady běží o naprostou vymletost
@@ -224,7 +227,8 @@ a dobrotě. Nepochopili ale jedno:
 
 Ta domýšlivost ponechala zasloužilé knížky straníků,
 dozorců, referentů a vůbec klidnému stáří a ideologii v pozadí
-ještě klidnější dospělosti.
+ještě klidnější dospělosti. Ani Ježíš neléčil malomocné
+myšlenkou, ale dotekem.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -250,7 +254,7 @@ od věci nácismu).
 
 Pravda, nejsme jako oni, ale stát
 stojí proto, že je právo. Vice versa není nic.
-Tvé právo je v důsledku můj trest, odříkání.
+Tvé právo je v důsledku můj trest, mé odříkání.
 Řád jednotlivce je svobodou jednotlivců.
 Z preambule Ústavy:
 *[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.*
@@ -330,7 +334,7 @@ Komunismus je sám o sobě tak absurdní,
 že argument vůbec je na [h***o](https://youtu.be/djFcjDyaZNY).
 Víc než smírným vyzněním z [Opilých banánů](http://search.mlp.cz/cz/titul/opile-banany/2500821/):
 *Komunismus je svinstvo a bolševici jsou svině.*
-Maxima *Si vis pacem, para bellum* je snad protimluv (totiž **bojovat** za **mír**),
+Maxima *Si vis pacem, para bellum* je snad protimluv (totiž *bojovat* za *mír*),
 ale protimluv na svém místě.
 
 > Historie učí, že ničeho není dosaženo jednou provždy.
@@ -341,10 +345,9 @@ co většina za právo prohlásí [Aristotelés]*.
 V proletariátu člověk halekat nemohl,
 dnes mluvit může, ale
 nikdo ho neslyší (zmínil se Jaroslav Hutka).
-Stejně jako může většinou
-většina pravdu míjet, zatímco menšina končí
+Stejně jako většina může (a někdy zákonitě musí) pravdu míjet, zatímco menšina končí
 proformou, kreditem, ústavní vatou,
-posvěcením svědomí většiny:
+pomazáním svědomí většiny:
 Podívejte, máme demokracii!
 V komunismu ale menšina není žádná.
 Spektrum mezi černou a bílou je pryč.
