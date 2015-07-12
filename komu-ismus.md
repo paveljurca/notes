@@ -38,7 +38,7 @@ své rodiny apod.
 ![dotazník](m/dotaznik.jpg)
 
 Dva roky staré číslo [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ) (spolu)občanů dává tušit, komu ještě jsou otázky výše vlastní;
-víc než jen pár zbloudilých ovcí. Znovu si postaví [elektrický ohradník](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
+víc než jen pár zbloudilých ovcí. Znovu si postaví [ohradník elektrický](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
 a jako BOZP doporučí zákon č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
 Deník [Právo](http://archiv.ucl.cas.cz/?path=RudePravo) přebarví a dají vědět, že *republiku si rozvrátit nedáme*.
 Do res publicae bude opět stejně daleko jako do Moskvy. A každou první středu v měsíci amplióny vyhlásí Mír, míír!
@@ -72,7 +72,7 @@ Komunismus je z těch dob, ve kterých "čím hůře, tím lépe". Někomu to vy
 > pro masy.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-Kdybychom komunismus (jak se dnes někdy žehrá) skutečně nechtěli — nebyl by tady. Asi je nám bližší
+Kdybychom komunismus (jak se dnes žehrá) skutečně nechtěli — nebyl by tady. Asi je nám bližší
 (sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) než [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Nadšení malomyslného davu bylo hutnější než (ještě mladé) obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky,
 zapůsobily: bylo po válce a i dívky chtěly být bratry. Pár let zpátky psal Masaryk *O bolševictví* nebo Čapek *Proč nejsem komunistou* — nestačilo to,
 museli jsme si sáhnout. A zase to nestačí, protože nedlouho odtud si je budeme chtít i pohladit. S každým rokem je sentiment hlubší, fakta smířlivější.
@@ -117,7 +117,7 @@ režim, ale čas! A taky viníka (sacharid) pro jejich myšlenkovou soustavu.
 
 Čtyřicet let života jako pomýlený nevykáží. Nemohou. Zůstalo by jim teď jenom stáří (tj. zapřít valnou část sebe). Budovatelé (i ti po třech
 lobotomiích) mají na socialistické (ať už to znamená cokoli) cítění i úlisnou myšlenku kolektivizmu pořád právo. Demokracie tkví v tom,
-že se dokáže i vzdát. Buďme ale vším proti způsobu, kterým ho má nebo mělo být dosaženo.
+že dokáže sebe sama postoupit. Buďme ale vším proti způsobu, kterým té *levoty* má nebo mělo být dosaženo.
 
 > Komunismus je názor,
 > že vypálením Louvru se všichni naučí malovat.
