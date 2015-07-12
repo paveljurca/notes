@@ -37,11 +37,11 @@ své rodiny apod.
 
 ![dotazník](m/dotaznik.jpg)
 
-[740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ) je dva roky starý počet (spolu)občanů, kterým jsou takové otázky vlastní.
-To už jistě není jen pár zbloudilých ovcí. Znovu si postaví [ohradník elektrický](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
-a jako BOZP doporučí zákon č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
+Dva roky staré číslo [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ) (spolu)občanů dává tušit, komu ještě jsou otázky výše vlastní;
+víc než jen pár zbloudilých ovcí. Znovu si postaví [elektrický ohradník](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
+a jako BOZP doporučí zákon č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
 Deník [Právo](http://archiv.ucl.cas.cz/?path=RudePravo) přebarví a dají vědět, že *republiku si rozvrátit nedáme*.
-Do res publicae budou opět mít stejně daleko jako to mají tučňáci k Arktidě. A každou první středu v měsíci amplióny vyhlásí Mír, míír!
+Do res publicae bude opět stejně daleko jako do Moskvy. A každou první středu v měsíci amplióny vyhlásí Mír, míír!
 Pak si všichni zahrajeme; můžete si vybrat mezi [spojkou na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek) a plutokratem z Wall Streetu.
 
 > Velmi jsme si vážili Kim Čong-ila,
@@ -59,27 +59,25 @@ Smůla prý v tom, že [policista musí poslouchat rozkazy v každé době](http
 Oni mu to poradili, tak mlátil. Asi je na vině čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
 kdy úřad nesmí činit nic nad (nebo pod) literu zákona. [Prokurátor](http://www.ceskatelevize.cz/porady/10366883725-pribeh-herecky/21156226416/) vynášel oprátky
 dle *tehdy platných* zákonů. Za smrt tak jako obvykle může pár odstavců. Těmi nutně pouštějí žilou totalitní i (demo)kratické režimy.
-Rozkaz ani "dobře míněná rada" neublíží. Zabíjí vždy jen člověk člověka.
+Rozkaz ani "dobře míněná rada" nevraždí. Ruku na člověka vztahuje jen člověk; ne písmenka na lejstru.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
 
-Komunismus je z těch dob, ve kterých
-"čím hůře, tím lépe". Někomu to
-vyhovuje, jinak by to stejně neuměl.
+Komunismus je z těch dob, ve kterých "čím hůře, tím lépe". Někomu to vyhovuje, jinak by to stejně neuměl.
 
 > Ale až jednou vybledne čerstvý dojem z bolševických
 > zločinů, bude socialistický program znovu přitažlivý
 > pro masy.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-Žel bohu, kdyby lidé komunismus skutečně nechtěli — nebyl by tady. Asi je nám bližší
-(sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) než [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Nadšení malomyslného davu bylo hutnější než (ještě mladé) obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
+Kdybychom komunismus (jak se dnes někdy žehrá) skutečně nechtěli — nebyl by tady. Asi je nám bližší
+(sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) než [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Nadšení malomyslného davu bylo hutnější než (ještě mladé) obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky,
 zapůsobily: bylo po válce a i dívky chtěly být bratry. Pár let zpátky psal Masaryk *O bolševictví* nebo Čapek *Proč nejsem komunistou* — nestačilo to,
 museli jsme si sáhnout. A zase to nestačí, protože nedlouho odtud si je budeme chtít i pohladit. S každým rokem je sentiment hlubší, fakta smířlivější.
 U Edvarda Beneše to byl fanatický strach z německého *Drang nach Osten* i opakování Mnichova. A spásu viděl zcela nekriticky v Sovětském svazu. Jím iniciované
-četné dohody o spolupráci, vzájemném přátelství i přehnaná servilita byly jedním z těch závaží na hloupé straně vah.
+četné dohody o spolupráci, vzájemném přátelství i přehnaná servilita byly jedním ze závaží na hloupé straně vah.
 
 > Říkám jen pro naše lidi, ke kterým v našich věcech
 > mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
