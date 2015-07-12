@@ -6,7 +6,7 @@ Komu?ismus
 > demokratický a komunistický, ne kapitalistický a socialistický.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 141.*
 
-Dotazník do zaměstnání (ŠKODA PRAHA), L.P. 1986:
+*Dotazník do zaměstnání (ŠKODA PRAHA), L.P. 1986*
 
 6. Třídní - sociální původ
 7. Politická příslušnost
@@ -38,16 +38,15 @@ své rodiny apod.
 ![dotazník ŠKODA PRAHA](m/dotaznik-skoda-praha.jpg)
 
 Dva roky nazpět bychom našli [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ)
-natěšených respondentů. To už není jen pár zbloudilých ovcí. Bůh ví, že dnes (a s každým rokem) by číslo bylo vyšší.
-
-Ráj obyčejně netlumočí do elektřinou prohnaných hraničních
-plotů nebo zákona č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
-[Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo)
-mělo polojasno: *Republiku si rozvrátit nedáme!*
-Pochopitelně: do res publicae měl náš aparát lízalů stejně daleko
+natěšených respondentů. To už není jen pár zbloudilých ovcí.
+Ráj se obyčejně nezrcadlí v elektřinou prohnaných [hraničních
+plotech](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
+a zákoně č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf)
+Hlásilo [Rudé právo](http://archiv.ucl.cas.cz/?path=RudePravo) *Republiku si rozvrátit nedáme!*
+Do res publicae měl náš aparát lízalů stejně daleko
 jako to mají tučňáci k Arktidě.
 Z ráje se neutíká. Mír, míír! A jestli to neuznáš,
-jsi (jak jinak) další [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
+jsi (jak jinak) [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek)
 nebo třeba plutokrat z Wall Streetu.
 
 > Velmi jsme si vážili Kim Čong-ila,
@@ -67,15 +66,14 @@ Jistě, oni mi to poradili, já jen mlátil.
 Nebo je na vině čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
 kdy úřad nesmí činit nic nad (nebo pod) literu zákona?
 Té [dřívější](http://www.psp.cz/docs/texts/constitution_1960.html)
-podobné znění chybí (sic!).
-A i kdyby.. vždyť Charta 77 nechtěla
+podobné znění chybí.
+A i kdyby; vždyť Charta 77 nechtěla
 víc, než aby stát dodržoval vlastní zákony.
 Pohraniční stráž střílela
 a prokurátor vynášel
 oprátky dle *tehdy platných* zákonů.
-Odvolávat se na **psanost**
-je rezignací na cokoli. Právě tak
-pouštějí žilou totalitní i trudné
+Za smrt tak může pár odstavců.
+Právě tak pouštějí žilou totalitní i trudné
 (demo)kratické režimy. Kánon ožívá
 až v rukách a křiku někoho.
 "Dobře míněná rada", rozkaz nebo dekret ještě
@@ -96,8 +94,8 @@ vyhovuje, jinak by to stejně neuměl.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Žel bohu, kdyby lidé komunismus skutečně
-nechtěli — nebyl by tady. Třeba jsme národem,
-který si namísto [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/) sedá na (sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3).  
+nechtěli — nebyl by tady. Jen je nám bližší
+(sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) než [poprsí Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/).
 Nadšení proletářského davu bylo hutnější
 než (ještě mladé) obočí Břežněva. Okolnosti (a utábořené rudé jednotky)
 zapůsobily: bylo po válce a i dívky chtěly
@@ -126,36 +124,35 @@ z těch závaží na hloupé straně vah.
 
 Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila.
 Bylo nám příjemnější vědět co nejsme než co jsme. Právě škarohlídství
-národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja musí věřit).
-Obyčejně po kabátě máme zastrkané utkvělé ideje dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
+národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja věří).
+Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
 *Imanentní* přízemnost a zištnost je jedna noha v suchu (demobilisace 6. října '38);
 *transcendentní* přesah a víra jsou naopak obě nohy až po hlavu ve vodě (mobilisace 23. září '38).
-Mnichovský diktát ale z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím
-nemůže.
+Mnichovský diktát ale z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím nemůže.
 
 Tedy, plavat a třeba i tonout — pro něco. Za něčím stát, za něco stát. Věříme vně; dovnitř víme,
-že sami (o sobě) jsme k ničemu. Nejtvrdším oříškem pro "vyšetřovatele" obou totalit byli právě duchovní.
+že sami (o sobě) jsme k ničemu. Nezdolní pro "vyšetřovatele" obou totalit byli právě duchovní.
 Rok 1945: české Němce zapřít.
 Rok 1989: čvachtat ale nenamočit; omak sametu evokoval, že to lze.
 Obě naše reakce z těch dní a měsíců byly postavené na hlavu.
 '45 porodnici vypálil, '89 navýšil kapacitu.
 Ani jednou se nikdo nepodíval, kdo je uvnitř.
-Ze sametového županu tak dodnes kape nám přímo na čelo.
+Ze sametového županu dodnes kape nám přímo na čelo.
 
 I po 26 letech jsou úderníci stále s námi.
 A každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
 milionů, aby měli co na sebe.
 Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412).
-Jen paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
+Paměti národa to nejde do hlavy. Paměti obyvatelů však ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus je shromaždiště suti panelu
+Socialismus zákonitě značí levotu
 (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
-Kdo chce jistoty, může popojít — v čase.
+A kdo chce jistoty, může popojít — v čase.
 Idylu pětiletek [mladí trockisté](http://solidarita.socsol.cz/)
 vábí v nové kontrarevoluci, která "už už" musí nastat.
 Ti zasnění však nechtějí zpět režim, ale čas!
@@ -195,17 +192,14 @@ Je vždy bezpříkladně nelidský.
 Hrstky oddaných [juniorů](http://www.juniorproject.eu/)
 to ale [nechtějí](http://prehravac.rozhlas.cz/audio/3061945)
 chápat; a otrlejší *Vojtové* [glosují](http://www.novinky.cz/domaci/352873-politici-padaji-do-sprostoty-po-zemanovi-se-predvedl-filip.html).
-Plánované hospodářství projektovalo náladu, radost i hloupost obyvatel.
-Člověk nebyl víc než nýt ve stroji, který sám někde na kusu asfaltu v polích rezl.
 Vzato nemusí dlouho trvat, abychom *jednotně k práci,
-jednotně k volbám* vyráželi ex novo.
-Na stranu druhou:
+jednotně k volbám* vyráželi ex novo. Na stranu druhou;
 
 > [..] komunismus sám pobil daleko více komunistů,
 > než stačili všichni ostatní dohromady.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
-Ale **spolehnout se** na to **nemůžeme**.
+Ale *spolehnout se* na to *nemůžeme*.
 Nic by neřešila změna názvu strany
 ni exkomunikace těch nejubožejších z jejich
 řad — tady běží o naprostou vymletost
@@ -436,7 +430,7 @@ Radí tak Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solže
 > Přestala existovat porážka, existuje jen zničení.
 > *Ibid., s. 133.*
 
-* __nádavek__
+* __Marx__
 
 [![mouse trap jokes](https://pbs.twimg.com/media/CHqBUNoWIAA3Lef.jpg)](https://www.google.cz/search?q=mouse+trap+jokes&tbm=isch)
 
