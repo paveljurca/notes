@@ -34,12 +34,11 @@ pyžamo
 ---
 
 úterý / středa  
-poledník / dne stěna  
+poledník / stěna  
 léto / podzima   
-větrolam / od mima  
-spánky / mne vídá  
-&nbsp;*Co zítra?*
-
+větrolam / mima  
+spánky / míra  
+&nbsp;*a zítra?*  
 drobt chleba / hlt vína  
 — / memoár, díra  
 máma / sivější, sivá
