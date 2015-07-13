@@ -21,13 +21,12 @@ vakuem čela
 temní úvahy  
 tak vzdálené  
 volnosti vlohy  
-&nbsp;*vidina*
-
-piedestal postavy  
+*vidina* / piedestal  
+postavy  
 prostřed někoho  
 bokem vřavy  
-pyžamo  
-&nbsp;úbor únavy
+pyžamo.. úbor  
+únavy
 
 
 Žít
