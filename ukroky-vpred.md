@@ -24,14 +24,14 @@ Hodiny
 ------
 
 nocí hlasy  
-vrásky / zralost krajiny  
+vrásky / zralost / krajiny  
 doufat víc  
 lad hlušiny  
-důvtipem, Adama  
+důvtipem / Adama  
 *Evy* jmeniny  
 míza předků  
 za dcery, za syny  
-sečkají-li, rodiny  
+vydrží-li / rodiny  
 ve větvoví  
 nadešlé světa — hodiny
 
@@ -41,10 +41,10 @@ Fáma
 
 zpatříš ji  
 vzdálenost ruky  
-k společnému *my*  
+společné *my*  
 překonat veletoky  
 řekl jsi nic  
-*uklouzla* ti
+je pryč
 
 „Kdo zvojtil osud?“  
 „Nesmělé noty.“
@@ -60,9 +60,8 @@ milé dráma
 vším tělem  
 *my* / dva / káva
 
-tluče / mañana  
-hezký sen
-
+duje  
+hezký sen  
 a hezčí fáma
 
 
@@ -73,7 +72,7 @@ můžu / zmůžu? / nadšení / nic
 mamonu / ideje / co / mně je  
 *jist / vahou / spící / Prahou*
 
-dluh snů / platit sacharinem / medojedu
+dluh snů / sacharin / medojedu
 
 
 Silhouetta
@@ -85,28 +84,27 @@ otázkou
 svět unese, ještě  
 — koho
 
-oblak, vraždí nebe  
-ne, ne  
-bytí, trochu hra  
+oblak / rdousí nebe  
+ne / ne  
+bytí / trochu hra  
 a trochu  
-silhouetta č. dva
+silhouetta / č. dva
 
 
 Promiň
 ------
 
-Jsem,  
-kde nejsem.  
-Není jak  
-být si jist,  
+Jsem  
+a nejsem.  
+Nevím  
 zdali **On**  
-nebo už — já sám!  
+nebo už / já sám.  
 Biografie  
 milá uším.  
-Meškám, promiň.  
+Meškám / promiň.  
 Roz-  
--kročen  
-nad plytkostmi.  
+-kročen / nad  
+plytkostmi.
 
 
 Po krok
@@ -126,6 +124,4 @@ obtěžkaném lese
 borůvčí  
 zas napřesrok
 
-
-(pj)
 

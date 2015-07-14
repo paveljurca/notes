@@ -14,14 +14,14 @@ klekání, pojď domu
 ke komu?
 
 
-Ruptura
--------
+Do omdlení
+----------
 
-kostým smíření  
+kostým — smíření  
 návalem  
-plíživost sevření  
+plíživost — sevření  
 vteřiny  
-nic nemění  
+se nemění  
 minulé  
 na zvážení  
 dvě víčka  
@@ -35,15 +35,11 @@ do omdlení
 
 fara  
 už nestojí  
-teď solárko  
-bez chloupků záda  
-&nbsp;*vošoust* blaha
-
-žel, kusá snaha  
-ta chůze sláva  
+*vošoust* — snaha  
+chůze / sláva  
 patník (až dávna)  
 stud páva  
-&nbsp;rosou rána
+rosa / rána
 
 naleštění  
 pohrobci Abraháma
@@ -71,6 +67,4 @@ to dno
 mohlo  
 ale nemuselo
 
-
-(pj)
 
