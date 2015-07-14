@@ -5,21 +5,21 @@
 Jinak
 -----
 
-shledá tělo  
+to tělo  
 bol hlavy  
 na místě  
 jdou nohy  
-úzko až běda  
-ve svalu snahy  
+úzko, běda  
+sval snahy  
 křídla motýlí  
 prach doby  
 já a já  
-jsme sami  
+tak sami  
 stínohra mysli  
-nádavkem stavy  
-vakuem čela  
-temní úvahy  
-tak vzdálené  
+sté stavy  
+vakuum čela  
+do — úvahy  
+vzdálené  
 volnosti vlohy  
 *vidina* / piedestal  
 postavy  
@@ -36,7 +36,7 @@ pyžamo.. úbor
 poledník / stěna  
 léto / podzima   
 větrolam / mima  
-spánky / míra  
+spánky / víra  
 &nbsp;*a zítra?*  
 drobt chleba / hlt vína  
 — / memoár, díra  
@@ -44,6 +44,4 @@ máma / sivější, sivá
 
 parte / íá
 
-
-(pj)
 
