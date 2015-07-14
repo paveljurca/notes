@@ -6,21 +6,16 @@ Mřít
 ----
 
 ve světle  
-knot zesiná
-
+knot zesiná  
 nám cizí  
 tupost jež  
-eon — dosyta 
-
+eon / dosyta  
 snad duše  
 nebo srdce  
-*plachtí!*
-
+*plachtí!*  
 v ságu bdění  
-přimknuta
-
-zem skonem  
-*však*
+přimknuta  
+zem skonem
 
 hlubší, a rozryta
 
@@ -29,19 +24,14 @@ Hodiny
 ------
 
 nocí hlasy  
-vrásky, zralost krajiny  
-doufat ve víc  
-než lad hlušiny  
-důvtipem, vědo!  
-Adama  
+vrásky / zralost krajiny  
+doufat víc  
+lad hlušiny  
+důvtipem, Adama  
 *Evy* jmeniny  
 míza předků  
 za dcery, za syny  
-sečkáme  
-sečkají-li rostliny
-
-rodina  
-kmen rodiny  
+sečkají-li, rodiny  
 ve větvoví  
 nadešlé světa — hodiny
 
@@ -50,30 +40,27 @@ Fáma
 ----
 
 zpatříš ji  
-jste na vzdálenost ruky  
+vzdálenost ruky  
 k společnému *my*  
-zbývá překonat veletoky  
-neřekl jsi nic  
-*uklouzla ti*
+překonat veletoky  
+řekl jsi nic  
+*uklouzla* ti
 
-„Kdo zvojtil osud?“
-
+„Kdo zvojtil osud?“  
 „Nesmělé noty.“
 
 kam běží  
-ty něžné roky  
+něžné roky  
 lásky rým  
-vyznání sloky
+přání sloky
 
 oči
 
 milé dráma  
 vším tělem  
-*my* dva, dnes — káva?  
+*my* / dva / káva
 
-ve skráních tluče
-
-mañana  
+tluče / mañana  
 hezký sen
 
 a hezčí fáma
@@ -82,9 +69,9 @@ a hezčí fáma
 —
 -
 
-můžu všechno / zmůžu víc? / nadšení / a nic  
-ideje / jednotky mamonu / sám / na potvoru  
-*hovor / s tou pravou / jistější / svou vahou*
+můžu / zmůžu? / nadšení / nic  
+mamonu / ideje / co / mně je  
+*jist / vahou / spící / Prahou*
 
 dluh snů / platit sacharinem / medojedu
 
@@ -99,10 +86,10 @@ svět unese, ještě
 — koho
 
 oblak, vraždí nebe  
-nene!  
+ne, ne  
 bytí, trochu hra  
 a trochu  
-silhouetta má
+silhouetta č. dva
 
 
 Promiň
@@ -127,14 +114,14 @@ Po krok
 
 obkročmo  
 z nezdarů blok  
-a přes výlevy
-
-*skok*
-
+a přes výlevy  
+/  
+*skok*  
+/  
 zázračno  
 neposedný  
 tlustý hroch  
-
+/  
 obtěžkaném lese  
 borůvčí  
 zas napřesrok
