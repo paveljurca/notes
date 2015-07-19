@@ -92,6 +92,7 @@ __misc__
 * [osel.cz](http://www.osel.cz/)
 * [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost)
 * [Deník Referendum](http://denikreferendum.cz/rubrika/nazory)
+* [Rychlofky](https://rychlofky.wordpress.com/)
 
 ## blog
 
