@@ -1,20 +1,26 @@
-Mexičan
-=======
+Paklíč
+======
 
-Bouřka slyšet nebyla, ale všude po horizontu už prosakovaly výboje světla a pokaždý ze stínu
-vystoupil jinej mrak, o kterým člověk věděl, jen ho neviděl. Bylo hodně po půlnoci
-a tam nahoře to vypadalo zlověstně. Někdy mi přijde, že je ta obloha naštvaná na mě.
+"Žádný problémy" recitoval jsem střídavě v duchu a nahlas.
 
-Došlapal jsem do čtvrti Nuevo a hledal příbytek Jean Carla. Chyběla mu střecha
-a na to jsem se soustředil. Prostě mu ji odnesli když spal. Do pár dní ale bude mít
-střechu novou. Taky ji někomu sebere. Něco jako stavebniny by tu byly zbytečný.
+Ani jednou jsem tomu moc nevěřil
 
-Mám to, a lezu dírou v plechu dovnitř. Carlo spal, já se natáhnul podél nejmíň vlhký
-zdi na kus kartonu a čekal na ráno. Pak jsem taky zabral.
+Šlapal jsem do čtvrti Nuevo
 
-***
+Paklíč: tohle je Las Lomas a věci se tu berou tak trochu z druhýho konce.
 
-Nepršelo. Z prdele klika. Byla neděle, Jean Carlo už nahej chodil po tý jediný místnosti,
+
+  Horizontem procházely výboje světla a zlomky vteřiny, která se zdála být hodinou, tak obnažily mraky v celém svém nepřátelství. Za Ohyb každé ulice v naší čtvrti by potřeboval právě tohle. Ne abych se smrti vyhnul, ale abych ji mohl střelit jako první.
+Bylo hodně po půlnoci a tam nahoře to vypadalo nepřátelsky, a tiše.
+
+Někdy mám pocit, že je ta obloha naštvaná na celý Las Lomas.
+
+
+  Došlapal jsem  a hledal příbytek Jean Carla. Chyběla mu střecha a na to jsem se soustředil. Prostě mu ji odnesli když spal.
+Do pár dní ale bude mít střechu novou. Taky ji někomu sebere. Něco jako stavebniny by tu byly zbytečný.
+
+Mám to, a lezu dírou v plechu dovnitř. Carlo spal,
+já se natáhnul podél nejmíň vlhký zdi na kus kartonu a čekal na ráno. Pak jsem taky zabral. *** Nepršelo. Z prdele klika. Byla neděle, Jean Carlo už nahej chodil po tý jediný místnosti,
 kterou měl a koukal si na nohy. Já neviděl nic, jen ty jeho křečáky. 
 
 @Tak co?@@ ptám se ho.
@@ -62,7 +68,9 @@ Každej potřebuje druhej život.
 Někdo má prostitutku nebo dělá účetního místnímu gangu, ten můj byly nedělní šílenosti s Jean Carlem.
 
 
-@Snadný prachy!@@ zařval, @lidi jsou dobrý, v Las Lomas hlavně.@@
+@Snadný prachy!@@ zařval.
+
+@Jo, lidi jsou dobrý a v Las Lomas zvlášť@@
 
 
 
@@ -72,4 +80,8 @@ Někdo má prostitutku nebo dělá účetního místnímu gangu, ten můj byly n
 @Por qué? Proč? Proto, že jsem Mexičan?@@
 
 @Že jste Mexičan v Panamě, pane,@@ měl jasno Jean Carlo. 
+
+
+Jean Carlo se do toho vžil a mě bylo jasný, že dneska už určitě řídit nebudu.
+
 
