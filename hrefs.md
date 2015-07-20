@@ -1319,6 +1319,7 @@ __addendum__
     http://iijo.org/ 'Chinese flashcards
     mozillaopennews.org 'developers for journalists
     http://openlibrary.org/
+    http://dublab.com/category/listen/archive/ 'dublab
 
 _processed_ with [Perl](https://www.perl.org/about.html)
 
