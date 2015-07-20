@@ -217,6 +217,7 @@ __misc__
 * [Milan Zelený](http://blog.aktualne.cz/blogy/milan-zeleny.php)
 * [Bloc.cz](http://www.bloc.cz/)
 * [Ondřej Nekola](http://www.nekola.cz/)
+* [Hiten Shah](https://hitenism.com/)
 
 ## podcasts
 
