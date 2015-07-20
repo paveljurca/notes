@@ -17,15 +17,16 @@ ke komu?
 Do omdlení
 ----------
 
-kostým — smíření  
+kostým  smíření  
 návalem  
-plíživost — sevření  
+plíživost  sevření  
 vteřiny  
-se nemění  
+co, a jak smění
+
 minulé  
 na zvážení  
 dvě víčka  
-spod klenba šálení  
+spod klenba  pábení  
 fraktura krá  
 do omdlení
 
@@ -34,12 +35,13 @@ do omdlení
 -
 
 fara  
-už nestojí  
-*vošoust* — snaha  
-chůze / sláva  
-patník (až dávna)  
+nestojí  
+stromu záda  
+mana  jíška, snaha  
+chůze, sláva!  
+patník, už dávna  
 stud páva  
-rosa / rána
+rosou  bdění rána
 
 naleštění  
 pohrobci Abraháma
