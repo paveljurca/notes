@@ -49,6 +49,7 @@ __dev__
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
 * [PragPub](https://pragprog.com/magazines)
+* [Tech.eu](http://tech.eu/)
 
 __design__
 * [designspiration.net](http://designspiration.net/popular/)
@@ -93,6 +94,7 @@ __misc__
 * [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost)
 * [Deník Referendum](http://denikreferendum.cz/rubrika/nazory)
 * [Rychlofky](https://rychlofky.wordpress.com/)
+* [Marginal Revolution](http://marginalrevolution.com/)
 
 ## blog
 
@@ -303,6 +305,8 @@ __misc__
 * [We Can Cut This Out](http://wecancutthisout.com/)
 * [Dorm Room Tycoon](http://drt.fm/)
 * [The Ex-Worker](http://www.crimethinc.com/podcast/)
+* [HBR IdeaCast](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135)
+* [Mobile Presence](http://www2.webmasterradio.fm/mobile-presence/archive/episodes/)
 
 ## video
 
@@ -1320,7 +1324,11 @@ __addendum__
     http://iijo.org/ 'Chinese flashcards
     mozillaopennews.org 'developers for journalists
     http://openlibrary.org/
-    http://dublab.com/category/listen/archive/ 'dublab
+
+    ## music 
+    http://dublab.com/category/listen/archive/ 'dublab.com
+    http://22tracks.com 'music discovery
+    http://spotlst.com/ 'playlists
 
 _processed_ with [Perl](https://www.perl.org/about.html)
 
