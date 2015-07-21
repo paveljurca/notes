@@ -14,41 +14,30 @@ klekání, pojď domu
 ke komu?
 
 
-Do omdlení
-----------
+Zlom
+----
 
-kostým  smíření  
-návalem  
-plíživost  sevření  
-vteřiny  
-co, a jak smění
-
-minulé  
-na zvážení  
-dvě víčka  
-spod klenba  pábení  
-fraktura krá  
-do omdlení
+balanc  do sevření  
+vteřiny  zasnění  
+nic za nic  jich jmění   
+frakturou  pod víčky  
+smír  krašší domnění
 
 
-—
--
+Dáma
+----
 
-fara  
-nestojí  
-stromu záda  
-mana  jíška, snaha  
-chůze, sláva!  
-patník, už dávna  
-stud páva  
-rosou  bdění rána
-
-naleštění  
-pohrobci Abraháma
+slova  
+protkaná nedělí  
+nejisto  a tiše  
+bez sebe  pondělí  
+mrholí  stud rána  
+vnitř korálů  
+zasetí  pohrobci Abraháma
 
 
-Jistě
------
+Bude
+----
 
 hloupé  
 co bylo  
