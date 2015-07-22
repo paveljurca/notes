@@ -50,6 +50,7 @@ __dev__
 * [Six Revisions](http://sixrevisions.com/)
 * [PragPub](https://pragprog.com/magazines)
 * [Tech.eu](http://tech.eu/)
+* [Gigaom Research](http://research.gigaom.com/)
 
 __design__
 * [designspiration.net](http://designspiration.net/popular/)
