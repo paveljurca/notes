@@ -476,6 +476,12 @@
 
 .
 
+> Věci jsou příliš složité,
+> než aby je pochopil jeden člověk.
+> *La Grande Bellezza*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
