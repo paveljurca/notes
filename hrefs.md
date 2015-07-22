@@ -220,6 +220,7 @@ __misc__
 * [Bloc.cz](http://www.bloc.cz/)
 * [Ondřej Nekola](http://www.nekola.cz/)
 * [Hiten Shah](https://hitenism.com/)
+* [Santosh Sali](http://hr-universe.blogspot.in/)
 
 ## podcasts
 

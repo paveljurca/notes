@@ -181,6 +181,12 @@
 
 .
 
+> Early to bed and early to rise,
+> makes a man healthy, wealthy and wise.
+> *Benjamin Franklin*
+
+.
+
 > Isn't it funny how day by day nothing changes,  
 > but when you look back, everything is different..
 > *Clive Staples Lewis*
