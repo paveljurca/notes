@@ -12,11 +12,10 @@ tupost jež
 eon / dosyta  
 snad duše  
 nebo srdce  
-*plachtí!*  
+*plachtí*  
 v ságu bdění  
 přimknuta  
-zem skonem
-
+zem skonem  
 hlubší, a rozryta
 
 
@@ -24,16 +23,16 @@ Hodiny
 ------
 
 nocí hlasy  
-vrásky / zralost / krajiny  
-doufat víc  
-lad hlušiny  
-důvtipem / Adama  
-*Evy* jmeniny  
+vrásky  zralost krajiny  
+doufat víc  nekončit  
+ladem hlušiny  
+důvtipem Adama  
+*Evy*  jmeniny  
 míza předků  
-za dcery, za syny  
-vydrží-li / rodiny  
+za dcery  za syny  
+vydrží-li  rodiny  
 ve větvoví  
-nadešlé světa — hodiny
+nadešlé světa  hodiny
 
 
 Fáma
@@ -42,9 +41,9 @@ Fáma
 zpatříš ji  
 vzdálenost ruky  
 společné *my*  
-překonat veletoky  
+přes veletoky  
 řekl jsi nic  
-je pryč
+výčitek loky
 
 „Kdo zvojtil osud?“  
 „Nesmělé noty.“
@@ -84,26 +83,24 @@ otázkou
 svět unese, ještě  
 — koho
 
-oblak / rdousí nebe  
-ne / ne  
-bytí / trochu hra  
+oblak  rdousí nebe  
+ne  ne  
+bytí  trochu hra  
 a trochu  
-silhouetta / č. dva
+silhouetta  č. dva
 
 
 Promiň
 ------
 
 Jsem  
-a nejsem.  
-Nevím  
-zdali **On**  
-nebo už / já sám.  
-Biografie  
-milá uším.  
-Meškám / promiň.  
+s plebsem.  
+Dnes *On*  
+nebo už  já sám?  
+Zkazka  milá uším.  
+Meškám  promiň.  
 Roz-  
--kročen / nad  
+-kročen  nad  
 plytkostmi.
 
 
@@ -114,7 +111,7 @@ obkročmo
 z nezdarů blok  
 a přes výlevy  
 /  
-*skok*  
+skok  
 /  
 zázračno  
 neposedný  

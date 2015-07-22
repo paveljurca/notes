@@ -21,7 +21,7 @@ balanc  do sevření
 vteřiny  zasnění  
 nic za nic  jich jmění   
 frakturou  pod víčky  
-smír  krašší domnění
+smír  krašší mínění
 
 
 Dáma
