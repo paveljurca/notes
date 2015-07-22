@@ -104,6 +104,12 @@
 
 .
 
+> Stáří je vděk za to,
+> že jsem neumřel mladý.
+> *Jean Marais*
+
+.
+
 > Inhumanity is due to inhuman parenting. 
 > *James Hillman, The Soul's Code*
 
