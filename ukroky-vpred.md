@@ -6,17 +6,17 @@ Mřít
 ----
 
 ve světle  
-knot zesiná  
+za šera  
 nám cizí  
-tupost jež  
-eon / dosyta  
+tupost  eon  
+*dosyta*  
 snad duše  
 nebo srdce  
 plachtí  
 v ságu bdění  
 přimknuta  
-zem skonem  
-hlubší, a rozryta
+zem skonem  tím  
+hlubší  a rozryta
 
 
 Hodiny
@@ -58,7 +58,7 @@ oči
 milé dráma  
 vším tělem  
 my  dva  
-káva
+(káva)
 
 duje  
 hezký sen  
