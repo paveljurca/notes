@@ -12,7 +12,7 @@ tupost jež
 eon / dosyta  
 snad duše  
 nebo srdce  
-*plachtí*  
+plachtí  
 v ságu bdění  
 přimknuta  
 zem skonem  
@@ -40,7 +40,7 @@ Fáma
 
 zpatříš ji  
 vzdálenost ruky  
-společné *my*  
+společné my  
 přes veletoky  
 řekl jsi nic  
 výčitek loky
@@ -57,7 +57,8 @@ oči
 
 milé dráma  
 vším tělem  
-*my* / dva / káva
+my  dva  
+káva
 
 duje  
 hezký sen  
