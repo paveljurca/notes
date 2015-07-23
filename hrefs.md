@@ -222,6 +222,8 @@ __misc__
 * [Ondřej Nekola](http://www.nekola.cz/)
 * [Hiten Shah](https://hitenism.com/)
 * [Santosh Sali](http://hr-universe.blogspot.in/)
+* [Joel Gascoigne](http://joel.is/)
+* [Seth Godin](http://sethgodin.typepad.com/)
 
 ## podcasts
 
