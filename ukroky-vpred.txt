@@ -1,7 +1,3 @@
-Úkroky vpřed
-============
-
-
 Mřít
 ----
 
@@ -23,14 +19,14 @@ Hodiny
 ------
 
 nocí hlasy  
-vrásky  zralost krajiny  
+vrásky  kání krajiny  
 doufat víc  nekončit  
 lad hlušiny  
 na Adama  
 Evy jmeniny  
 míza předků  
 za dcery  za syny  
-vydrží-li  rodiny  
+zdrží-li  se rodiny  
 ve větvoví  
 nadešlé světa  hodiny
 
@@ -42,7 +38,7 @@ zpatříš ji
 vzdálenost ruky  
 společné my  
 přes veletoky  
-řekl jsi nic  
+řekl si nic  
 výčitek loky
 
 „Kdo zvojtil osud?“  
@@ -95,25 +91,19 @@ s plebsem.
 Ještě  *On*  
 nebo už  já sám?  
 Stáří  v uších.  
-Roz-  
--kročen  nad  
-plytkostmi.  
 Meškám  tak  
 promiň.
 
 
-Po krok
--------
+Skok
+----
 
 z nezdarů blok  
 a přes výlevy  
-/  
 skok  
-/  
 zázračno  
 neposedný  
 tlustý hroch  
-/  
 obtěžkaném lese  
 borůvčí  
 zas napřesrok

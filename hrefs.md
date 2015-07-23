@@ -224,6 +224,8 @@ __misc__
 * [Santosh Sali](http://hr-universe.blogspot.in/)
 * [Joel Gascoigne](http://joel.is/)
 * [Seth Godin](http://sethgodin.typepad.com/)
+* [Rob Fitzpatrick](http://thestartuptoolkit.com)
+* [Founder Centric](http://blog.foundercentric.com/)
 
 ## podcasts
 
@@ -1328,6 +1330,7 @@ __addendum__
     http://iijo.org/ 'Chinese flashcards
     mozillaopennews.org 'developers for journalists
     http://openlibrary.org/
+    http://heylookabook.com/ 'Make your book page
 
     ## music 
     http://dublab.com/category/listen/archive/ 'dublab.com
