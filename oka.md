@@ -8,41 +8,41 @@ Morče
 naráží morče  
 do stěny plastové  
 na malém kousíčku  
-čenichá, oči těkavé  
+čenichá  oči těkavé  
   
 kdo zavřel ho  
 prázdnit pítko sté  
 to malé morčátko  
-blouzní, je mu bléé
+blouzní  je mu bléé
  
 
 Stehno
 ------
 
 kus zvířátka (bez jména)  
-dozlatova, doběla  
-dezert čoko poleva  
+dozlatova  doběla  
+dezert  čoko poleva  
 jídelníčku obměna  
 Ave pia!  
-bude stehno jelena
+bude  stehno jelena
 
 
 Ochmelka
 --------
 
-tam kde oči — vrby  
+tam kde oči  vrby  
 hrdla rytmus nestíhá  
 vzpomněl mouder sovy  
 (s**e na ni)  
-stejnak — liška podšitá
+stejnak  liška podšitá
 
 večer dojde vlohy  
-[rum](http://youtu.be/D3bRWm3mxPc), přeludy promítá
+[rum](http://youtu.be/D3bRWm3mxPc)  přeludy promítá
 
 *blíže věcem  
 nehezčí se zdají  
 dále srdcem  
-tehdy záleželo — teď nezáleží*
+tehdy záleželo  teď nezáleží*
 
 (flaška dopitá)
 
@@ -75,16 +75,16 @@ pronárody v poklusu
 příliš někdy je  
 negramotných úvodů  
 
-&nbsp;brát v knihy!
+brát v knihy!
 
 řka při porodu
 
 
-Zkusmo
-------
+Hrát si
+-------
 
 rozum  
-&nbsp;pryč, z útesu
+&nbsp;pryč  z útesu
 
 študák stižen   
 &nbsp;rozmarem forbesu
@@ -124,6 +124,4 @@ plachý srdcí let
 k tíži zrcadlo  
 piha, pupek, dech
 
-
-(pj)
 

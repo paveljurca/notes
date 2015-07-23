@@ -8,11 +8,11 @@ Jinak
 po těle  
 bol hlavy  
 na místě  
-kvapí nohy  
+běh  nohy  
 úzko  běda  
 sval snahy  
 křídla motýlí  
-prach   zůstatek doby  
+prach  dým doby  
 já  a já  
 vnitř  sami  
 stínohra mysli  
@@ -35,10 +35,9 @@ pyžamo  úbor
 poledník  stěna  
 léto  podzima   
 větrolam  mima  
-spánky  víra  
-*zítra*  
+spánky  šilhat  
 drobt chleba  hlt vína  
-—  memoár, díra  
+memoár  díra  
 máma  sivější, sivá  
 parte  íá
 

@@ -9,7 +9,7 @@ ve světle
 za šera  
 nám cizí  
 tupost  eon  
-*dosyta*  
+dosyta  
 snad duše  
 nebo srdce  
 plachtí  
@@ -25,9 +25,9 @@ Hodiny
 nocí hlasy  
 vrásky  zralost krajiny  
 doufat víc  nekončit  
-ladem hlušiny  
-důvtipem Adama  
-*Evy*  jmeniny  
+lad hlušiny  
+na Adama  
+Evy jmeniny  
 míza předků  
 za dcery  za syny  
 vydrží-li  rodiny  
@@ -81,7 +81,7 @@ Silhouetta
 dnem  
 dělat chyby  
 otázkou  
-svět unese, ještě  
+svět unese  dále  
 — koho
 
 oblak  rdousí nebe  
@@ -96,19 +96,19 @@ Promiň
 
 Jsem  
 s plebsem.  
-Dnes *On*  
+Ještě  *On*  
 nebo už  já sám?  
-Zkazka  milá uším.  
-Meškám  promiň.  
+Stáří  v uších.  
 Roz-  
 -kročen  nad  
-plytkostmi.
+plytkostmi.  
+Meškám  tak  
+promiň.
 
 
 Po krok
 -------
 
-obkročmo  
 z nezdarů blok  
 a přes výlevy  
 /  
