@@ -255,6 +255,7 @@ __bbc__
 * [bbc.co.uk/podcasts/series/docarchive](http://bbc.co.uk/podcasts/series/docarchive)
 
 __cro__
+* [Výzvy přítomnosti](http://hledani.rozhlas.cz/iradio/?porad[]=Výzvy+přítomnosti)
 * [Hovory o víře](http://hledani.rozhlas.cz/iradio/?porad[]=Hovory+o+víře)
 * [Doteky víry](http://hledani.rozhlas.cz/iradio/?porad[]=Doteky+víry)
 * [To byl swing](http://hledani.rozhlas.cz/iradio/?porad[]=To+byl+swing)
