@@ -235,6 +235,7 @@ __misc__
 * [Vanda Vávrová](http://vandavavrova.blog.idnes.cz/)
 * [Vojtěch Fišera](http://vojtechfisera.blog.idnes.cz/)
 * [Dipo Majekodunmi](outpoured.blogspot.com)
+* [Arthur Charpentier](http://freakonometrics.hypotheses.org/)
 
 ## podcasts
 
