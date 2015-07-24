@@ -96,6 +96,8 @@ __misc__
 * [Deník Referendum](http://denikreferendum.cz/rubrika/nazory)
 * [Rychlofky](https://rychlofky.wordpress.com/)
 * [Marginal Revolution](http://marginalrevolution.com/)
+* [The Awl](http://www.theawl.com/)
+* [Observer](http://observer.com/innovation/)
 
 ## blog
 
@@ -225,7 +227,7 @@ __misc__
 * [Joel Gascoigne](http://joel.is/)
 * [Seth Godin](http://sethgodin.typepad.com/)
 * [Rob Fitzpatrick](http://thestartuptoolkit.com)
-* [Founder Centric](http://blog.foundercentric.com/)
+* [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
 
 ## podcasts
 
@@ -249,6 +251,7 @@ __dev__
 * [thisdeveloperslife.com](http://thisdeveloperslife.com)
 * [devminutes.cz](http://devminutes.cz)
 * [rebuild.fm](http://rebuild.fm)
+* [The Startup Chat](http://thestartupchat.com/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -285,6 +288,8 @@ __cro__
 __misc__
 * [Serial](http://serialpodcast.org/#episodes)
 * [Zátiší R1](http://http://www.radio1.cz/archiv-poradu/download-list/2-zatisi)
+* [StreetCulture](http://www.streetculture.cz/radio/porady)
+* [Svobodný vysílač](http://www.svobodny-vysilac.cz/wordpress/?cat=2)
 * [TED radio hour](http://www.npr.org/templates/archives/archive.php?thingId=57)
 * [The Gently Mad](http://thegentlymad.com/)
 * [GoodStuff Broadcasting](http://goodstuff.fm)
