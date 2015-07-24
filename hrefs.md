@@ -232,6 +232,7 @@ __misc__
 * [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
 * [Vanda Vávrová](http://vandavavrova.blog.idnes.cz/)
 * [Vojtěch Fišera](http://vojtechfisera.blog.idnes.cz/)
+* [Dipo Majekodunmi](outpoured.blogspot.com)
 
 ## podcasts
 
