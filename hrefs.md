@@ -61,6 +61,7 @@ __design__
 * [20x200](http://20x200.com/collections/all)
 * [scene360](http://illusion.scene360.com/)
 * [FFFFOUND!](http://ffffound.com/)
+* [Dezeen](http://www.dezeen.com/)
 
 __misc__
 * [Aeon Ideas](http://ideas.aeon.co/)
@@ -98,6 +99,7 @@ __misc__
 * [Marginal Revolution](http://marginalrevolution.com/)
 * [The Awl](http://www.theawl.com/)
 * [Observer](http://observer.com/innovation/)
+* [Naše řeč](http://nase-rec.ujc.cas.cz/archiv.php)
 
 ## blog
 
@@ -228,6 +230,8 @@ __misc__
 * [Seth Godin](http://sethgodin.typepad.com/)
 * [Rob Fitzpatrick](http://thestartuptoolkit.com)
 * [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
+* [Vanda Vávrová](http://vandavavrova.blog.idnes.cz/)
+* [Vojtěch Fišera](http://vojtechfisera.blog.idnes.cz/)
 
 ## podcasts
 
@@ -260,6 +264,7 @@ __bbc__
 __cro__
 * [Ranní úvaha](http://hledani.rozhlas.cz/iradio/?porad[]=Ranní+úvaha)
 * [Výzvy přítomnosti](http://hledani.rozhlas.cz/iradio/?porad[]=Výzvy+přítomnosti)
+* [Toulky českou minulostí](http://hledani.rozhlas.cz/iradio/?porad[]=Toulky+českou+minulostí)
 * [Hovory o víře](http://hledani.rozhlas.cz/iradio/?porad[]=Hovory+o+víře)
 * [Doteky víry](http://hledani.rozhlas.cz/iradio/?porad[]=Doteky+víry)
 * [To byl swing](http://hledani.rozhlas.cz/iradio/?porad[]=To+byl+swing)
