@@ -100,6 +100,8 @@ __misc__
 * [The Awl](http://www.theawl.com/)
 * [Observer](http://observer.com/innovation/)
 * [Naše řeč](http://nase-rec.ujc.cas.cz/archiv.php)
+* [Mercatus Center](http://mercatus.org/research-areas)
+* [New Economics Foundation](http://www.neweconomics.org/blog)
 
 ## blog
 
@@ -326,6 +328,7 @@ __misc__
 * [The Ex-Worker](http://www.crimethinc.com/podcast/)
 * [HBR IdeaCast](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135)
 * [Mobile Presence](http://www2.webmasterradio.fm/mobile-presence/archive/episodes/)
+* [Weekly Economics](https://soundcloud.com/weeklyeconomicspodcast)
 
 ## video
 
