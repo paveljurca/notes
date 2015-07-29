@@ -460,12 +460,6 @@
 
 .
 
-> Čekalo na ni velké nakladatelství.  
-> Stačilo, aby to Hester napsala.
-> *Charles Bukowski, Všechny řitě světa i ta má*
-
-.
-
 > He not busy being born is busy dying.
 > *Bob Dylan*
 
