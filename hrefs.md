@@ -102,6 +102,7 @@ __misc__
 * [Naše řeč](http://nase-rec.ujc.cas.cz/archiv.php)
 * [Mercatus Center](http://mercatus.org/research-areas)
 * [New Economics Foundation](http://www.neweconomics.org/blog)
+* [The Guardian](http://www.theguardian.com/world/series/eyewitness)
 
 ## blog
 
@@ -125,7 +126,7 @@ __misc__
 * [Tomáš Sedláček](http://blog.aktualne.cz/blogy/tomas-sedlacek.php)
 * [Martin Jan Stránský](http://blog.aktualne.cz/blogy/martin-jan-stransky.php)
 * [David Simon](http://davidsimon.com/)
-* [bt3gl.github.io](https://bt3gl.github.io/)
+* [bt3gl](https://bt3gl.github.io/)
 * [Diomidis Spinellis](http://www.spinellis.gr/blog/)
 * [threefingeredfox.net](http://threefingeredfox.net/)
 * [l4nc3t.tumblr.com](http://l4nc3t.tumblr.com/)
