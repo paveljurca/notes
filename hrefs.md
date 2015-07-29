@@ -53,6 +53,7 @@ __dev__
 * [Gigaom Research](http://research.gigaom.com/)
 
 __design__
+* [Nielsen Norman Group](http://www.nngroup.com/articles/)
 * [designspiration.net](http://designspiration.net/popular/)
 * [cargocollective.com](http://cargocollective.com)
 * [spacecollective.org](http://spacecollective.org)
@@ -237,6 +238,7 @@ __misc__
 * [Vojtěch Fišera](http://vojtechfisera.blog.idnes.cz/)
 * [Dipo Majekodunmi](outpoured.blogspot.com)
 * [Arthur Charpentier](http://freakonometrics.hypotheses.org/)
+* [Don Norman](http://www.jnd.org/dn.pubs.html)
 
 ## podcasts
 
