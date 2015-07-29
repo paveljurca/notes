@@ -239,6 +239,7 @@ __misc__
 * [Dipo Majekodunmi](outpoured.blogspot.com)
 * [Arthur Charpentier](http://freakonometrics.hypotheses.org/)
 * [Don Norman](http://www.jnd.org/dn.pubs.html)
+* [Bruce Tognazzini](http://www.asktog.com/menus/designMenu.html)
 
 ## podcasts
 
