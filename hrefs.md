@@ -109,6 +109,7 @@ __misc__
 * [Nieman Journalism Lab](http://www.niemanlab.org/reading/)
 * [Nieman Reports](http://niemanreports.org/articles/)
 * [Bēhance Insights](http://99u.com/)
+* [Bloomberg View](http://www.bloombergview.com/quicktake)
 
 ## blog
 
