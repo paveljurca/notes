@@ -256,6 +256,7 @@ __misc__
 * [John McWade](http://www.mcwade.com/DesignTalk/)
 * [Duarte.com](http://www.duarte.com/blog/)
 * [Atul Gawande](http://atulgawande.com/articles/)
+* [Michaela Mužíková](http://365copytriku.cz/)
 
 ## podcasts
 
