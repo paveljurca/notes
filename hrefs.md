@@ -254,6 +254,8 @@ __misc__
 * [Keri Smith](http://www.kerismith.com/blog)
 * [Tom Chandler](http://writerunderground.com/)
 * [John McWade](http://www.mcwade.com/DesignTalk/)
+* [Duarte.com](http://www.duarte.com/blog/)
+* [Atul Gawande](http://atulgawande.com/articles/)
 
 ## podcasts
 
