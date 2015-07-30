@@ -51,6 +51,8 @@ __dev__
 * [PragPub](https://pragprog.com/magazines)
 * [Tech.eu](http://tech.eu/)
 * [Gigaom Research](http://research.gigaom.com/)
+* [opensource.com](http://opensource.com/)
+* [scripting.com](http://scripting.com/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -104,6 +106,8 @@ __misc__
 * [Mercatus Center](http://mercatus.org/research-areas)
 * [New Economics Foundation](http://www.neweconomics.org/blog)
 * [The Guardian](http://www.theguardian.com/world/series/eyewitness)
+* [Nieman Journalism Lab](http://www.niemanlab.org/reading/)
+* [Nieman Reports](http://niemanreports.org/articles/)
 
 ## blog
 
@@ -240,6 +244,12 @@ __misc__
 * [Arthur Charpentier](http://freakonometrics.hypotheses.org/)
 * [Don Norman](http://www.jnd.org/dn.pubs.html)
 * [Bruce Tognazzini](http://www.asktog.com/menus/designMenu.html)
+* [Kevin Marks](http://www.kevinmarks.com/)
+* [Baldur Bjarnason](https://www.baldurbjarnason.com/)
+* [Jeremy Keith](https://adactio.com/articles/)
+* [Tantek Çelik](http://tantek.com/)
+* [Andrew Chen](http://andrewchen.co/recent/)
+* [Keri Smith](http://www.kerismith.com/blog)
 
 ## podcasts
 
@@ -264,6 +274,7 @@ __dev__
 * [devminutes.cz](http://devminutes.cz)
 * [rebuild.fm](http://rebuild.fm)
 * [The Startup Chat](http://thestartupchat.com/)
+* [CodeNewbie](http://www.codenewbie.org/podcast)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -334,6 +345,7 @@ __misc__
 * [HBR IdeaCast](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135)
 * [Mobile Presence](http://www2.webmasterradio.fm/mobile-presence/archive/episodes/)
 * [Weekly Economics](https://soundcloud.com/weeklyeconomicspodcast)
+* [podcatch.com](http://podcatch.com/)
 
 ## video
 
@@ -508,6 +520,8 @@ __misc__
 * [economia.github.io](http://economia.github.io)
 * [opendatahandbook.org/resources](http://opendatahandbook.org/resources/)
 * [Links to Open Content](http://opencontenttoolkit.wikispaces.com/Links+to+Open+Content)
+* [opendata.sk](http://opendata.sk/liferay/projects)
+* [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
 
 ## 20stol
 
@@ -538,10 +552,10 @@ __misc__
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
 * [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
 * [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
-* [Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
-* [Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
+* [_Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [_Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
 * [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
-* [Odkazy k EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
+* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
 * [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
 * [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
 * [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
