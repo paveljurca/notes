@@ -110,6 +110,7 @@ __misc__
 * [Nieman Reports](http://niemanreports.org/articles/)
 * [Bēhance Insights](http://99u.com/)
 * [Bloomberg View](http://www.bloombergview.com/quicktake)
+* [Ways We Work](http://www.wayswework.io/)
 
 ## blog
 
@@ -258,6 +259,10 @@ __misc__
 * [Atul Gawande](http://atulgawande.com/articles/)
 * [Michaela Mužíková](http://365copytriku.cz/)
 * [Brian Clark](http://further.net/archives/)
+* [Dan Martell](http://www.danmartell.com/blog/)
+* [Kai Davis](http://doubleyouraudience.com/)
+* [Nathan Kontny](http://ninjasandrobots.com/)
+* [s. e. smith](http://meloukhia.net/)
 
 ## podcasts
 
@@ -283,6 +288,7 @@ __dev__
 * [rebuild.fm](http://rebuild.fm)
 * [The Startup Chat](http://thestartupchat.com/)
 * [CodeNewbie](http://www.codenewbie.org/podcast)
+* [Responsive Web Design](http://responsivewebdesign.com/podcast/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
