@@ -1,7 +1,8 @@
 hrefs
 =====
 
-A collection of mine..
+Besides [my twitter](https://twitter.com/paveljurca/following)
+I seek information here..
 
 ## news 
 
@@ -43,7 +44,6 @@ __dev__
 * [net magazine](http://www.creativebloq.com/tag/opinion)
 * [bits.blogs.nytimes.com](http://bits.blogs.nytimes.com/)
 * [open.blogs.nytimes.com](http://open.blogs.nytimes.com)
-* [Bēhance Insights](http://99u.com/)
 * [Codrops](http://tympanus.net/codrops/collective/)
 * [awwwards.com](http://www.awwwards.com/awards-of-the-day/)
 * [Max Design](http://maxdesign.com.au/category/news/)
@@ -108,6 +108,7 @@ __misc__
 * [The Guardian](http://www.theguardian.com/world/series/eyewitness)
 * [Nieman Journalism Lab](http://www.niemanlab.org/reading/)
 * [Nieman Reports](http://niemanreports.org/articles/)
+* [Bēhance Insights](http://99u.com/)
 
 ## blog
 
@@ -250,6 +251,8 @@ __misc__
 * [Tantek Çelik](http://tantek.com/)
 * [Andrew Chen](http://andrewchen.co/recent/)
 * [Keri Smith](http://www.kerismith.com/blog)
+* [Tom Chandler](http://writerunderground.com/)
+* [John McWade](http://www.mcwade.com/DesignTalk/)
 
 ## podcasts
 
