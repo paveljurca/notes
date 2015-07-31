@@ -111,6 +111,7 @@ __misc__
 * [Bēhance Insights](http://99u.com/)
 * [Bloomberg View](http://www.bloombergview.com/quicktake)
 * [Ways We Work](http://www.wayswework.io/)
+* [The Verge](https://www.theverge.com/longform)
 
 ## blog
 
@@ -263,6 +264,7 @@ __misc__
 * [Kai Davis](http://doubleyouraudience.com/)
 * [Nathan Kontny](http://ninjasandrobots.com/)
 * [s. e. smith](http://meloukhia.net/)
+* [Alexis Ohanian](http://alexisohanian.com/)
 
 ## podcasts
 
@@ -423,6 +425,7 @@ __misc__
 * [Shuttleworth Foundation](https://vimeo.com/shuttleworthfoundation/videos)
 * [Advanced Hindsight](https://vimeo.com/advancedhindsight)
 * [The Veritas Forum](http://www.veritas.org/talks/?view=all-talks)
+* [Small Empires](https://www.youtube.com/playlist?list=PL39u5ZEfYDENDLj7GmDHua5f6cvvzT0ej)
 
 ## events 
 
