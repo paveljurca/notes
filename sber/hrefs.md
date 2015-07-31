@@ -265,6 +265,8 @@ __misc__
 * [Nathan Kontny](http://ninjasandrobots.com/)
 * [s. e. smith](http://meloukhia.net/)
 * [Alexis Ohanian](http://alexisohanian.com/)
+* [Zan Armstrong](http://blog.zanarmstrong.com/)
+* [Jack Lawson](http://thejacklawson.com/archive.html)
 
 ## podcasts
 
@@ -1383,6 +1385,7 @@ __addendum__
     mozillaopennews.org 'developers for journalists
     http://openlibrary.org/
     http://heylookabook.com/ 'Make your book page
+    https://sketch.io/sketchpad/
 
     ## music 
     http://dublab.com/category/listen/archive/ 'dublab.com
