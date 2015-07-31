@@ -1642,7 +1642,6 @@ potvrdit
 * _žoviální_
 bodrý
 
-A teď to úsilí zpeněžit, totiž **monetizovat**.
+Zpeněžit nebo *monetizovat*?
 
-(pj)
 
