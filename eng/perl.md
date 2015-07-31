@@ -23,6 +23,9 @@ https://twitter.com/Ptolemarch/lists/perl/
 ## 
 
 * [facebook.com/groups/perlprogrammers](https://www.facebook.com/groups/perlprogrammers/)
+* [facebook.com/groups/perl.mongers/](https://www.facebook.com/groups/perl.mongers/)
+
+
 
 
 yeah, I know about [perl.org](https://www.perl.org/about.html)
