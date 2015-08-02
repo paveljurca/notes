@@ -267,6 +267,8 @@ __misc__
 * [Alexis Ohanian](http://alexisohanian.com/)
 * [Zan Armstrong](http://blog.zanarmstrong.com/)
 * [Jack Lawson](http://thejacklawson.com/archive.html)
+* [Joe Hanson](http://www.itsokaytobesmart.com/)
+* [Dj Sadhu](http://www.djsadhu.com/category/research/technology/)
 
 ## podcasts
 
@@ -428,6 +430,7 @@ __misc__
 * [Advanced Hindsight](https://vimeo.com/advancedhindsight)
 * [The Veritas Forum](http://www.veritas.org/talks/?view=all-talks)
 * [Small Empires](https://www.youtube.com/playlist?list=PL39u5ZEfYDENDLj7GmDHua5f6cvvzT0ej)
+* [PBS Digital Studios](https://www.youtube.com/user/pbsdigitalstudios/channels)
 
 ## events 
 
