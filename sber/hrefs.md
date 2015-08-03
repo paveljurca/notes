@@ -112,6 +112,10 @@ __misc__
 * [Bloomberg View](http://www.bloombergview.com/quicktake)
 * [Ways We Work](http://www.wayswework.io/)
 * [The Verge](https://www.theverge.com/longform)
+* [The Skeptical Libertarian](http://blog.skepticallibertarian.com/)
+* [Cato Institute](http://www.cato.org/blog)
+* [The Foundation for Economic Education](https://fee.org/resources)
+* [Zero Hedge](http://www.zerohedge.com/archive)
 
 ## blog
 
