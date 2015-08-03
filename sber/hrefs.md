@@ -269,6 +269,7 @@ __misc__
 * [Jack Lawson](http://thejacklawson.com/archive.html)
 * [Joe Hanson](http://www.itsokaytobesmart.com/)
 * [Dj Sadhu](http://www.djsadhu.com/category/research/technology/)
+* [Addy Osmani](http://addyosmani.com/blog/)
 
 ## podcasts
 
