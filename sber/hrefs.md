@@ -379,6 +379,7 @@ __dev__
 * [Startup Chile](http://www.youtube.com/user/startupchile/videos)
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers/videos)
 * [Google Tech Talks](http://www.youtube.com/user/GoogleTechTalks/videos)
+* [Google Dev Shows](https://developers.google.com/web/shows/)
 * [Silicon Hill 98](http://www.youtube.com/user/SiliconHill98/videos)
 * [JavaZone](https://vimeo.com/javazone/videos)
 * [CUSEC](https://vimeo.com/cusec/videos)
