@@ -113,9 +113,10 @@ __misc__
 * [Ways We Work](http://www.wayswework.io/)
 * [The Verge](https://www.theverge.com/longform)
 * [The Skeptical Libertarian](http://blog.skepticallibertarian.com/)
-* [Cato Institute](http://www.cato.org/blog)
+* [Cato Institute](http://www.cato.org/publications/archives/studies)
 * [The Foundation for Economic Education](https://fee.org/resources)
 * [Zero Hedge](http://www.zerohedge.com/archive)
+* [Bloc.cz](http://www.bloc.cz/)
 
 ## blog
 
@@ -238,7 +239,6 @@ __misc__
 * [Tereza Matějčková](http://ceskapozice.lidovky.cz/autori.aspx?idnovinare=3193)
 * [Zdeněk Mihalco](http://ihned.cz/?m=authors&article[aut_id]=15490880&person[id]=15490880)
 * [Milan Zelený](http://blog.aktualne.cz/blogy/milan-zeleny.php)
-* [Bloc.cz](http://www.bloc.cz/)
 * [Ondřej Nekola](http://www.nekola.cz/)
 * [Hiten Shah](https://hitenism.com/)
 * [Santosh Sali](http://hr-universe.blogspot.in/)
