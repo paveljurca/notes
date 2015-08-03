@@ -261,7 +261,12 @@ Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by "ke smě
 Nelibost k demokracii je v jediném: lze vystoupat, i hluboce klesnout. Komuna ČSSR zajistila straníkům první, popřela druhé.
 Režim tak skončil na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
 
-Radí Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
+> K tomu, abyste se něco naučili, nečtěte Marxe. Hodně suchá sračka.
+> Učte se prosím ducha. Marx jsou akorát tanky valící se přes Prahu.
+> Na tohle jim neskočte.
+> *Bukowski, Ch.: Zápisky starého prasáka*
+
+Kostohryz Demkovi: *Věř svým očím, ale uším moc nevěř [Solženicyn]*.
 
 
 * __+__
