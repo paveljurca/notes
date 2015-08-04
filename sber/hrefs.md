@@ -274,6 +274,7 @@ __misc__
 * [Joe Hanson](http://www.itsokaytobesmart.com/)
 * [Dj Sadhu](http://www.djsadhu.com/category/research/technology/)
 * [Addy Osmani](http://addyosmani.com/blog/)
+* [klubko.net](http://www.klubko.net/)
 
 ## podcasts
 
