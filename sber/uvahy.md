@@ -104,6 +104,12 @@
 
 .
 
+> Pěkný, moc pěkný.
+> Na smrt jsem úplně zapomněl.
+> *Charles Bukowski, Ženský*
+
+.
+
 > Stáří je vděk za to,
 > že jsem neumřel mladý.
 > *Jean Marais*
@@ -385,6 +391,12 @@
 > Vesmír byl stvořen proto,  
 > aby skončil knihou.
 > *Stéphane Mallarmé*
+
+.
+
+> Existuje něco jako střední cesta,
+> kterou musíte jít.
+> *Charles Bukowski, Ženský*
 
 .
 
