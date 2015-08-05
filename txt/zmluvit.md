@@ -1,5 +1,5 @@
-Přemluvit
-=========
+Zmluvit
+=======
 
 > Všichni mluvili o tý operaci naprosto ležérně.
 > Je to procházka parkem. Nikoho jsem se na nic
@@ -7,7 +7,7 @@ Přemluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-nepořádku i k mluvení. A jak s ním začne,
+pohoršení i k mluvení. A jak s ním začne,
 může se splést.
 
 > Mlčením žádný se nikdy nezavedl;
@@ -15,9 +15,10 @@ může se splést.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. A zase o ničem. Většina interakce k ničemu
-nespěje. Nic neřeší. Protože nikdo o ničem nic
+mluvit. Přeházet kupu výmyslů vidlemi.
+Slova do všech stran. Nikdo o ničem nic
 pořádně neví. A když ví, neví to zase ten druhý.
+Ale když už jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
 > "In physics," I said.  
@@ -31,16 +32,15 @@ pořádně neví. A když ví, neví to zase ten druhý.
 > problems; we can talk about psychology; [..]"
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman!. Vintage, London 1992, s. 310.*
 
-Ticho se nesnese. Sám člověk se nesnese. Proto
-televize, rádio nebo týdeník.
-Stát vedle sebe, nic neříkat, jen se uctít
-chvílí, prostým faktem zhmotnění. Vzato držet hubu.
+Člověk se nesnese. Proto rádio nebo týdeník.
+Raději stát bokem, mluvit chvílí, pravdou zhmotnění.
+Vzato držet hubu.
 
 > Nikdy mě nenapadá nic tak zvláštního.  
 > Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
-Ani ostatní nic nenapadá, jen o tom musí mluvit.
+Nic nás nenapadá, a chceme o tom mluvit. Nevadí.
 
 > Je stará dobrá pravda, že si člověk nevidí do huby.
 > Kdyby si tam viděl, především by méně mluvil, nebo
@@ -56,8 +56,13 @@ byla — a teď už není.
 > skutečnosti pravda [..]
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 107.*
 
-Spousta, spousta zvuku.. a ani jedno
-zjištění k užitku.
+*škopek zvuku   
+v každém kroku  
+dýka!  
+do rozkroku*
+
+ni jediné zjištění  
+k užitku.
 
 > Člověk tím víc poznává, a mlčí-li, dráždí tím
 > druhé tak, že tito povědí i takové věci, které
@@ -65,11 +70,8 @@ zjištění k užitku.
 > aby dělali dojem.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 96.*
 
-Nevíme mluvit, nevíme užívat slov.
-Každá věta je rozpačitost. Netušíme
+Věta je rozpačitost. Netušíme
 *jestli* a *jak dlouho* mluvit (ještě).
-Namísto čtyř vět složíme *přerývané souvětí holé*
-o pětadvaceti.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
 > že se sejdu s takovou kreaturou [..] štvu ho, tak
@@ -77,7 +79,7 @@ o pětadvaceti.
 > blbec.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 118.*
 
-Psát lze o smyslu — mluvit jen o nesmyslu.
+Psát lze o smyslu, mluvit jen o nesmyslu.
 
 > [..] jestli se mnou můžou udělat interview.
 > Podobný žádosti dostávám dvakrát tejdně.
@@ -85,8 +87,7 @@ Psát lze o smyslu — mluvit jen o nesmyslu.
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
-Většina pocitů, zpráv, hlášení i polopravd
-jen híří vzduchem. Hádka, při které nikdo
+Rádi híříme vzduchem. Rádi se Hádka, při které nikdo
 nemluví? O co by byla kratší.
 
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
@@ -105,8 +106,8 @@ Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
 
 > Nerad mluvím, rád poslouchám. Vycházím
 > z předpokladu, že když mluvím, nedozvím
-> se nic, co bych nevěděl, ale když poslouchám
-> — dovědět se mohu mnoho.
+> se nic, co bych nevěděl, ale když poslouchám —
+> dovědět se mohu mnoho.
 > *Mroček, S.: Baltazar. Slovart, Praha 2008, s. 24.*
 
 Lépe je nemluvit, lépe je číst.
@@ -116,5 +117,4 @@ Raději tak ohrozit jen sebe.
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-(pj)
 
