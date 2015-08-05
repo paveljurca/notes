@@ -494,6 +494,12 @@
 
 .
 
+> Co je život?
+> Smáti se krvácejícími ranami.
+> *Richard Dehmel*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
