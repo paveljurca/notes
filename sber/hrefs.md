@@ -275,6 +275,7 @@ __misc__
 * [Dj Sadhu](http://www.djsadhu.com/category/research/technology/)
 * [Addy Osmani](http://addyosmani.com/blog/)
 * [klubko.net](http://www.klubko.net/)
+* [Dan Benjamin](http://hivelogic.com/archive)
 
 ## podcasts
 
@@ -372,6 +373,7 @@ __misc__
 * [Mobile Presence](http://www2.webmasterradio.fm/mobile-presence/archive/episodes/)
 * [Weekly Economics](https://soundcloud.com/weeklyeconomicspodcast)
 * [podcatch.com](http://podcatch.com/)
+* [The Dan Benjamin Hour](http://danbenjamin.com/dbh/)
 
 ## video
 
