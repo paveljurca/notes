@@ -276,6 +276,7 @@ __misc__
 * [Addy Osmani](http://addyosmani.com/blog/)
 * [klubko.net](http://www.klubko.net/)
 * [Dan Benjamin](http://hivelogic.com/archive)
+* [Daniel Eden](http://daneden.me/blog/)
 
 ## podcasts
 
