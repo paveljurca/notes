@@ -440,6 +440,8 @@ __misc__
 * [The Veritas Forum](http://www.veritas.org/talks/?view=all-talks)
 * [Small Empires](https://www.youtube.com/playlist?list=PL39u5ZEfYDENDLj7GmDHua5f6cvvzT0ej)
 * [PBS Digital Studios](https://www.youtube.com/user/pbsdigitalstudios/channels)
+* [The Nantucket Project](https://www.nantucketproject.com/tnp-videos)
+* [TEDx](http://tedxtalks.ted.com/playlist/Recent)
 
 ## events 
 
