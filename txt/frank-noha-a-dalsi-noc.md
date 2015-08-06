@@ -1,5 +1,22 @@
-Paklíč
-======
+Frank Noha a další noc
+======================
+
+Škubal sebou, roztočil se a zase všechno zahodil. Třicet vteřin nový agónie a horka.
+Něco mi naznačoval, ale já měl chuť vstát a ten větrák utrhnout.
+
+@Můžu něco udělat?@@ nadhodil jsem rychle, když přišlo bouchnutí dveří.
+
+@Jo. Sbal se a vypadni,@@ zaznělo stejně neurčitě z chodby.
+
+@Počkej, jak vypadni?@@ posadil jsem se.
+
+@Ty jseš můj blbeček,@@ ležela na zárubni ložnice, smála se, spíš chrochtala a pak se smála i tomu chrochtání.
+
+Přišel jsem k ní, otřeli jsme se o sebe a ona mi letmo projela vlasy. Vlhká pusa řešila všechno.
+
+@Jsi blázen,@@ a vypadnul jsem ven.
+
+***
 
 "Žádný problémy" recitoval jsem střídavě v duchu a nahlas.
 
@@ -16,8 +33,7 @@ Bylo hodně po půlnoci a tam nahoře to vypadalo nepřátelsky, a tiše.
 Někdy mám pocit, že je ta obloha naštvaná na celý Las Lomas.
 
 
-  Došlapal jsem  a hledal příbytek Jean Carla. Chyběla mu střecha a na to jsem se soustředil. Prostě mu ji odnesli když spal.
-Do pár dní ale bude mít střechu novou. Taky ji někomu sebere. Něco jako stavebniny by tu byly zbytečný.
+  Došlapal jsem  a hledal příbytek Jean Carla.
 
 Mám to, a lezu dírou v plechu dovnitř. Carlo spal,
 já se natáhnul podél nejmíň vlhký zdi na kus kartonu a čekal na ráno. Pak jsem taky zabral. *** Nepršelo. Z prdele klika. Byla neděle, Jean Carlo už nahej chodil po tý jediný místnosti,
@@ -45,9 +61,8 @@ asi to nedělal poprvý
 
 
 
-Čekám, až budu majitel, kterej inkasuje, ne jen zatracenej nájemník, kterýho nutí platit činži.
+Čekám až budu majitel, kterej inkasuje, ne zatracenej nájemník, kterej platí činži.
 Ty šmejdy nehodlám živit.
-
 
 
 
