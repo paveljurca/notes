@@ -278,6 +278,8 @@ __misc__
 * [Dan Benjamin](http://hivelogic.com/archive)
 * [Daniel Eden](http://daneden.me/blog/)
 * [Trond Johannessen](https://disqus.com/by/trond_johannessen/)
+* [Sarah Groff-Palermo](http://sarahgp.com/writings/index.html)
+* [Léna Brauner](http://www.lenabrauner.cz/)
 
 ## podcasts
 
@@ -443,7 +445,8 @@ __misc__
 * [Small Empires](https://www.youtube.com/playlist?list=PL39u5ZEfYDENDLj7GmDHua5f6cvvzT0ej)
 * [PBS Digital Studios](https://www.youtube.com/user/pbsdigitalstudios/channels)
 * [The Nantucket Project](https://www.nantucketproject.com/tnp-videos)
-* [TEDx](http://tedxtalks.ted.com/playlist/Recent)
+* [TEDx Talks](http://tedxtalks.ted.com/playlist/Recent)
+* [Eyeo Festival](https://vimeo.com/eyeofestival/videos)
 
 ## events 
 
@@ -543,6 +546,7 @@ __misc__
 * [Hay Festival](http://www.hayfestival.com)
 * [Houpačka](http://www.houpej.se/)
 * [Mobile User Experience](http://www.pmn.co.uk/mex/)
+* [Eyeo Festival](http://eyeofestival.com/)
 
 ## data
 
