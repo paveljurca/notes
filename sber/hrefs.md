@@ -49,7 +49,7 @@ __dev__
 * [Max Design](http://maxdesign.com.au/category/news/)
 * [Six Revisions](http://sixrevisions.com/)
 * [PragPub](https://pragprog.com/magazines)
-* [Tech.eu](http://tech.eu/)
+* [Tech.eu](http://tech.eu/on/startup-spotlight/)
 * [Gigaom Research](http://research.gigaom.com/)
 * [opensource.com](http://opensource.com/)
 * [scripting.com](http://scripting.com/)
