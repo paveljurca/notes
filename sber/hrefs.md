@@ -514,6 +514,7 @@ __dev__
 * [OpenTech](http://www.opentech.org.uk)
 * [How to Web](http://howtoweb.co/)
 * [SaaStr Annual](http://www.saastr.com/saastr-annual-2016/)
+* [Failing Forward](http://failingforward.eu/programme/)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
