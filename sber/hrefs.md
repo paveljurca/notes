@@ -277,6 +277,7 @@ __misc__
 * [klubko.net](http://www.klubko.net/)
 * [Dan Benjamin](http://hivelogic.com/archive)
 * [Daniel Eden](http://daneden.me/blog/)
+* [Trond Johannessen](https://disqus.com/by/trond_johannessen/)
 
 ## podcasts
 
