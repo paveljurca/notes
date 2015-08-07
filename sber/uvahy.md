@@ -167,6 +167,11 @@
 
 .
 
+> Do what you can, with what you have, where you are.
+> *Theodore Roosevelt*
+
+.
+
 > Nejdříve vás ignorují,  
 > pak se vám smějí,  
 > pak s vámi bojují,  
