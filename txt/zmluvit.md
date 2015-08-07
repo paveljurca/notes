@@ -7,16 +7,15 @@ Zmluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-pohoršení i k mluvení. A jak s ním začne,
-může se splést.
+pohoršení i mluvení. A jak s ním začne, může se plést.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Přeházet kupu výmyslů vidlemi.
-Slova do všech stran. Nikdo o ničem nic
+mluvit. Přeházet kupu očividností vidlemi.
+Slova do všech stran; nikdo o ničem nic
 pořádně neví. A když ví, neví to zase ten druhý.
 Ale když už jsme se potkali — budeme mluvit.
 
@@ -30,17 +29,19 @@ Ale když už jsme se potkali — budeme mluvit.
 > knows anything about that we can discuss. We can
 > talk about the weather; we can talk about social
 > problems; we can talk about psychology; [..]"
-> *Feynman, R.P.: Surely You're Joking, Mr. Feynman!. Vintage, London 1992, s. 310.*
+> *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
-Člověk se nesnese. Proto rádio nebo týdeník.
-Raději stát bokem, mluvit chvílí, pravdou zhmotnění.
-Vzato držet hubu.
+Člověk; do uší rádio a před oči týdeník.
+Hlavně se vyhnout sobě. Svět se pohne až
+se většina suchozemců naučí neverbalitě,
+*skutečnosti*. Doznat pravdu zhmotnění.
+Mluvit chvílí ale ne slovy.
 
 > Nikdy mě nenapadá nic tak zvláštního.  
 > Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
-Nic nás nenapadá, a chceme o tom mluvit. Nevadí.
+Nic nás nenapadá; a chceme o tom mluvit. Nevadí.
 
 > Je stará dobrá pravda, že si člověk nevidí do huby.
 > Kdyby si tam viděl, především by méně mluvil, nebo
@@ -56,13 +57,8 @@ byla — a teď už není.
 > skutečnosti pravda [..]
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 107.*
 
-*škopek zvuku   
-v každém kroku  
-dýka!  
-do rozkroku*
-
-ni jediné zjištění  
-k užitku.
+Škopek zvuku v každém kroku, ale žádná z těch slabik k užitku.
+Jen vata dne, protože slušné je prý mluvit, slušné tomu poslouchat. 
 
 > Člověk tím víc poznává, a mlčí-li, dráždí tím
 > druhé tak, že tito povědí i takové věci, které
