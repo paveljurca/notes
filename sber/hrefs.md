@@ -280,6 +280,7 @@ __misc__
 * [Trond Johannessen](https://disqus.com/by/trond_johannessen/)
 * [Sarah Groff-Palermo](http://sarahgp.com/writings/index.html)
 * [Léna Brauner](http://www.lenabrauner.cz/)
+* [Zachary Slayback](http://zakslayback.com/)
 
 ## podcasts
 
