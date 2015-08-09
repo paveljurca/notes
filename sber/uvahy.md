@@ -192,6 +192,11 @@
 
 .
 
+> Oslovuji lidi ve společnosti, nikoli veřejnost.
+> *Johanna Quandt*
+
+.
+
 > Early to bed and early to rise,
 > makes a man healthy, wealthy and wise.
 > *Benjamin Franklin*
