@@ -65,6 +65,7 @@ __design__
 * [scene360](http://illusion.scene360.com/)
 * [FFFFOUND!](http://ffffound.com/)
 * [Dezeen](http://www.dezeen.com/)
+* [UXPin](http://blog.uxpin.com/)
 
 __misc__
 * [Aeon Ideas](http://ideas.aeon.co/)
