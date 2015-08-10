@@ -1,11 +1,10 @@
 bits #2
 =======
 
-## Bell in the shell
+## Bell in a shell
 
-I'm going crazy with my system speaker
-and a shell's ability to ring the bell
-every time I've pressed one too many `BACKSPACE`*s* or so
+I'm going crazy with a system speaker and the shell's ability to ring the bell
+every time I've pressed one too many `BACKSPACE` or so
 
     % echo 'set bell-style none' >> $HOME/.inputrc
 
@@ -13,25 +12,32 @@ every time I've pressed one too many `BACKSPACE`*s* or so
 
 ## /sbin/route
 
-Being connected to [RJ-45](https://en.wikipedia.org/wiki/Ethernet) and WiFi simultaneously
-may cause one's packets don't find
-the way out (because another DHCP server
-confused one's route table). Just look up a proper
-one `Iface` and its subnet, then add the gateway
+Being connected to [RJ-45](https://en.wikipedia.org/wiki/Ethernet) and [WiFi](https://en.wikipedia.org/wiki/Hotspot_%28Wi-Fi%29)
+at once may cause the routing table to "blow out" (two DHCP servers and two gateways).
 
-    % sudo route
+So look up a "primary" `Iface` and mark its gateway [default](https://en.wikipedia.org/wiki/Default_gateway)
+
+/* @todo screenshot */
+
+    % sudo route  # print the table
     % sudo route add default gw 10.0.0.138
 
 ## fstab
 
-/etc/[fstab](http://www.linfo.org/etc_fstab.html)
-lets you mount a given partition persistently;
-you may wish to specify the `r,w,x` bits or effective IDs,
-i.e. `dmask` new files created
+/etc/[fstab](http://www.linfo.org/etc_fstab.html) lets you mount a given partition
+persistently; you may wish to specify the `r,w,x` bits or [effective](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-security/cha.security.acls.html#sec.security.acls.handle.defacl.eff) IDs,
+i.e. `dmask` the new files
 
     /dev/sda1            /mnt/data            ntfs       uid=1000,gid=1000,dmask=027,fmask=137              0 2
 
-## listing of *nix programms
+## Inverted commas right
 
-I've found useful for maintainance..
+To change `"Buy Windows," said Bill.` into `„Kupujte Windows,“ řekl Bill.`,
+write it actually like this `@Kupujte Windows,@@ řekl Bill.` and then run
+
+    % perl -pi.bak -e 's/@@/“/g' file.txt
+    % perl -pi -e 's/@/„/g' file.txt
+
+But sure you know better ways :-)
+
 
