@@ -14,9 +14,9 @@ pohoršení i mluvení. A jak s ním začne, může se plést.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Přeházet kupu očividností vidlemi.
-Slova do všech stran; nikdo o ničem nic
-pořádně neví. A když ví, neví to zase ten druhý.
+mluvit. Přeházet kupu očividností;
+slova do všech stran. Nikdo o ničem nic
+pořádně neví. A pokud ví, neví to zase ten druhý.
 Ale když už jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
@@ -33,15 +33,23 @@ Ale když už jsme se potkali — budeme mluvit.
 
 Člověk; do uší rádio a před oči týdeník.
 Hlavně se vyhnout sobě. Svět se pohne až
-se většina suchozemců naučí neverbalitě,
-*skutečnosti*. Doznat pravdu zhmotnění.
+se většina naučí neverbalitě,
+*skutečnosti*, zhmotnění.
 Mluvit chvílí ale ne slovy.
+
+> Vyprávět, učit, ba i popisovat, tohle jde,
+> i když by k výměně lidských myšlenek každému
+> možná stačilo v tichosti vzít nebo položit
+> druhému do ruky minci [..]
+> *Mallarmé, S.: Crise de vers.*
+
+.
 
 > Nikdy mě nenapadá nic tak zvláštního.  
 > Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
-Nic nás nenapadá; a chceme o tom mluvit. Nevadí.
+.
 
 > Je stará dobrá pravda, že si člověk nevidí do huby.
 > Kdyby si tam viděl, především by méně mluvil, nebo
@@ -49,16 +57,14 @@ Nic nás nenapadá; a chceme o tom mluvit. Nevadí.
 > znamená rozeznávat.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 154.*
 
-Mluvit někdy znamená zapomenout, co pravda je,
-byla — a teď už není.
+.
 
 > Lhát neznamená jen říkat to, co není pravda.
 > Znamená to hlavně říkat víc než to, co je ve
 > skutečnosti pravda [..]
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 107.*
 
-Škopek zvuku v každém kroku, ale žádná z těch slabik k užitku.
-Jen vata dne, protože slušné je prý mluvit, slušné tomu poslouchat. 
+.
 
 > Člověk tím víc poznává, a mlčí-li, dráždí tím
 > druhé tak, že tito povědí i takové věci, které
@@ -66,8 +72,10 @@ Jen vata dne, protože slušné je prý mluvit, slušné tomu poslouchat.
 > aby dělali dojem.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 96.*
 
-Věta je rozpačitost. Netušíme
+Mluvit někdy znamená zapomenout, co pravda je,
+byla — a teď už není. Věta je rozpačitost. Netušíme
 *jestli* a *jak dlouho* mluvit (ještě).
+Přeháníme jen proto, abychom se nemuseli poslouchat (už).
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
 > že se sejdu s takovou kreaturou [..] štvu ho, tak
@@ -75,7 +83,14 @@ Věta je rozpačitost. Netušíme
 > blbec.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 118.*
 
-Psát lze o smyslu, mluvit jen o nesmyslu.
+.
+
+> Liším prostě mezi jazykem mluveným a jazykem psaným [..]
+> mezi jazykem empirické náhody a jazykem soustředěné vůle,
+> mezi hlučným jazykem pouličním a řečí ticha a hudby [..]
+> *Šalda, F.X.: Boje o zítřek.*
+
+.
 
 > [..] jestli se mnou můžou udělat interview.
 > Podobný žádosti dostávám dvakrát tejdně.
@@ -83,22 +98,15 @@ Psát lze o smyslu, mluvit jen o nesmyslu.
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
-Rádi híříme vzduchem. Rádi se Hádka, při které nikdo
-nemluví? O co by byla kratší.
+Psát lze o smyslu, mluvit jen o nesmyslu.
+Hádka, při které nikdo nemluví? O co by byla kratší.
 
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
 > hovořil vždy jen rozvážně a hlasem odpovídajícím
 > předmětu, o němž byla řeč.
 > *Boccaccio, G.: Život Dantův. In: Alighieri, D.: Peklo. Mladá fronta, Praha 1978, s. 228.*
 
-Přeháníme jen proto,
-abychom se nemuseli poslouchat (už).
-
-> Když to řekl,
-> vzal na sebe povinnost dokázati to.
-> *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
-
-Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
+.
 
 > Nerad mluvím, rád poslouchám. Vycházím
 > z předpokladu, že když mluvím, nedozvím
@@ -106,11 +114,20 @@ Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
 > dovědět se mohu mnoho.
 > *Mroček, S.: Baltazar. Slovart, Praha 2008, s. 24.*
 
+.
+
+> Když to řekl, vzal na sebe povinnost dokázati to.
+> *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
+
+Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
 Lépe je nemluvit, lépe je číst.
 Raději tak ohrozit jen sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
+
+
+*Škopek zvuku / v každém kroku / ozvěny / sta proroků.*
 
 
