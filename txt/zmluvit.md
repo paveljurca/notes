@@ -1,6 +1,8 @@
 Zmluvit
 =======
 
+*Škopek zvuku / v každém kroku / ozvěny / sta proroků.*
+
 > Všichni mluvili o tý operaci naprosto ležérně.
 > Je to procházka parkem. Nikoho jsem se na nic
 > neptal, ale stejně mi to říkali.
@@ -16,8 +18,8 @@ pohoršení i mluvení. A jak s ním začne, může se plést.
 Potkávat se a mluvit. Znovu se potkat a znovu
 mluvit. Přeházet kupu očividností;
 slova do všech stran. Nikdo o ničem nic
-pořádně neví. A pokud ví, neví to zase ten druhý.
-Ale když už jsme se potkali — budeme mluvit.
+pořádně neví. A když ví, neví to zase ten druhý.
+Ale holt už jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
 > "In physics," I said.  
@@ -127,7 +129,6 @@ Raději tak ohrozit jen sebe.
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-
-*Škopek zvuku / v každém kroku / ozvěny / sta proroků.*
+p.s. Nejhezčí televizní zprávy jsou ty bez zvuku.
 
 
