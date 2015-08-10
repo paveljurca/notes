@@ -282,6 +282,7 @@ __misc__
 * [Sarah Groff-Palermo](http://sarahgp.com/writings/index.html)
 * [Léna Brauner](http://www.lenabrauner.cz/)
 * [Zachary Slayback](http://zakslayback.com/)
+* [Marcin Treder](http://marcin.is/)
 
 ## podcasts
 
