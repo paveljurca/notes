@@ -1,17 +1,16 @@
-OKa
----
+Jít
+===
 
 jít
 
-šílenost  
+ve šílenost  
 pod obočím  
 homo oka  
-průvodčím  
+*proskočím*  
 čumí  
 a ví hovno  
-morče  pítko sté  
-teto dívej  
-blouzní  
+morče&nbsp;&nbsp;pítko sté  
+blouzní&nbsp;&nbsp;ty kývej  
 je mu bléé  
 blíže věcem  
 — znát stěží  

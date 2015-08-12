@@ -1,16 +1,16 @@
 Dno
----
+===
 
-zmatení  vjem  
+zmatení&nbsp;&nbsp;vjem  
 udatnost  
 dějící den  
 pondělí středy  
-pyžamo  slevy  
-násobně  z dáli  
-sivější  sivé mámy  
+pyžamo&nbsp;&nbsp;slevy  
+násobně z dály  
+sivější&nbsp;&nbsp;sivé mámy  
 sval snahy  
 něco chce  
-vně knížka  
+vně hezky  
 vnitř sami  
 eon nad stromy  
 za kopci  
