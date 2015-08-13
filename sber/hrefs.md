@@ -1,8 +1,7 @@
 hrefs
 =====
 
-Besides [my twitter](https://twitter.com/paveljurca/following)
-I seek information here..
+Besides [twitter](https://twitter.com/paveljurca/following) I seek information here
 
 ## news 
 
@@ -1416,7 +1415,7 @@ __addendum__
     http://22tracks.com 'music discovery
     http://spotlst.com/ 'playlists
 
+
 _processed_ with [Perl](https://www.perl.org/about.html)
 
-(pj)
 
