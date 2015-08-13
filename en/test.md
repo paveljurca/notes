@@ -1,20 +1,16 @@
 @Test
 =====
 
-First, I should confess I'm no
-*somebody* on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf)
-by any means.
+First, I should confess I'm nobody on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf).
 I didn't really started yet.
 It's just I'd like to write
-down a few marks to keep
-a future reference for myself.
+down a few notes to keep
+a reference for myself.
 
 My `@Test` incentive is that
-I feel less pressure knowing
-the "magic" sits there, so
-it's gonna tell me if my last added
-block of code broke everything.
-Did it passed? Then move on :)
+I feel less pressure.
+Did it pass? Then move on :)
+Did I wrong? I'll know fast then.
 
 > [Without unit tests] You're not refactoring,
 > you're just changing shit. — Hamlet D'Arcy
@@ -31,9 +27,9 @@ or in the test itself.
 > the presence of bugs but never to show their absence.
 > *Edsger W. Dijkstra*
 
-Of course a `@Test` is an extra effort
+Of course `@Test` is an extra effort
 but it pays off in terms of thinking
-about a new code you're gonna write.
+about that new code you're gonna write.
 To put it simply: if you can't test it,
 you're likely to be wrong.
 
@@ -41,60 +37,46 @@ you're likely to be wrong.
 > how will you figure out how to write the something?
 > *[Evan Phoenix](https://twitter.com/evanphx/status/504735308932333568)*
 
-- Test a fixture (contract, behaviour)
-but *NOT* the implementation
+- *Test* fixture (contract, behaviour) but **not** the implementation
 
-- No happy path testing, you intend
-to break (humiliate) your own code
+- No *happy-path* testing, embarrass that code!
 
-- Single responsibility of tested classes
-(methods), i.e. a class does too much
+- The very single responsibility, i.e. a class or method does too much
 
 > Don't ask for the data that you need to do something;
-> ask the object that has the data to do the work for you
+> ask the object that has the data to do the work for you.
 > *[Allen Holub](https://youtu.be/HZyRQ8Uhhmk)*
 
-- Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell),
-i.e. no constructor with unreachable objects
+- Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell), i.e. a constructor with unreachable objects
 
-- Comments are not yet another layer of code,
-use them to clarify your intentions, quirks etc.
+- Comments are there to clarify the intentions, quirks etc., i.e. say what the code does not say
 
-- Code a little, test a little, **redo**
+So code a little, test a little, **redo**. And considering the test itself..
 
-And considering the test itself..
+- **No** multiple (unrelated) assertions, i.e. do more @Test methods
 
-- No multiple (unrelated) assertions,
-rather have more @Test methods
+- Test **cannot** be more complicated than the actual code itself
 
-- A test *cannot* be more complicated than
-the actual code we run the test for 
+So to get us going..
 
 0. set up a [test fixture](https://github.com/junit-team/junit/wiki/Test-fixtures) first 
-1. declare expected results
+1. declare `_this` results
 2. run your code
-3. get actual results
-4. assert that they match the expected results
+3. store `_that` results
+4. assert *_this* matches *_that*
 
-`assertEquals("Calculation wrong", expResult, result);`
-
-I've got some example tests in Perl or Java
-(but especially that Java code's not the best one
-for it was my first test ever). Anyway,
-here they are:
+`assertEquals("Size wrong", _this, _that);`
 
 <script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
-[TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
+From time to time, [TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
 [some](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 [dark sides](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf).
-FYI there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-and likewise many other [test levels](https://en.wikipedia.org/wiki/Software_testing#Testing_levels).
-I've also found [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
-and [Thing I Have Learned About Software Testing](http://qntm.org/test)
-simply great.
+And FYI there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+or many other [test levels](https://en.wikipedia.org/wiki/Software_testing#Testing_levels).
+To conclude have a look at [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
+or [Thing I Have Learned About Software Testing](http://qntm.org/test).
 
-(pj)
 
 * __shownotes__
 * [http://sscce.org/]
@@ -104,9 +86,10 @@ simply great.
 * [http://en.wikipedia.org/wiki/Single_responsibility_principle]
 * [http://en.wikipedia.org/wiki/God_object]
 * [http://martinfowler.com/articles/injection.html]
-* [framework VS. library](http://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library/148788#148788)
+* [framework X library](http://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library/148788#148788)
 * [http://www.oracle.com/technetwork/java/codeconventions-150003.pdf]
 * [http://www.javaworld.com/javaworld/jw-01-2004/jw-0102-toolbox.html]
 * [http://www.oracle.com/technetwork/articles/javase/index-142890.html]
 * JUnit [testcase or @test](http://stackoverflow.com/questions/2635839/junit-confusion-use-extend-testcase-or-test)
+
 
