@@ -122,13 +122,12 @@ Hádka, při které nikdo nemluví? O co by byla kratší.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
 
 Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
-Lépe je nemluvit, lépe je číst.
-Raději tak ohrozit jen sebe.
+Lépe je nemluvit, lépe je číst. Raději tak ohrozit jen sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-p.s. Nejhezčí televizní zprávy jsou ty bez zvuku.
+p.s. Opravdové televizní zprávy jsou ty bez zvuku.
 
 
