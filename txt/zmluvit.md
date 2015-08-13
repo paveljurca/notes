@@ -130,4 +130,7 @@ Lépe je nemluvit, lépe je číst. Raději tak ohrozit jen sebe.
 
 p.s. Opravdové televizní zprávy jsou ty bez zvuku.
 
+__zdroje__
+* Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 7-350.
+
 
