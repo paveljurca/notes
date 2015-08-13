@@ -1,5 +1,5 @@
-Jít
-===
+—
+=
 
 jít
 
@@ -10,7 +10,7 @@ homo oka
 čumí  
 a ví hovno  
 morče&nbsp;&nbsp;pítko sté  
-blouzní&nbsp;&nbsp;ty kývej  
+blouzní&nbsp;&nbsp;*ty kývej*  
 je mu bléé  
 blíže věcem  
 — znát stěží  
