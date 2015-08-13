@@ -1,18 +1,18 @@
 Dráma
 =====
 
-zas My  
-na dosah ruky  
-rým&nbsp;&nbsp;ten taky  
-těžší snadné roky  
+My  
+ve dosah ruky  
+rým&nbsp;&nbsp;krá taky  
+hlubší mělké roky  
 jen běž  
 do chudší sloky  
 klubko
 
 od chyby  
 tehdy a kdyby  
-chvílí dva  
-prý *„jiní“*  
+vším hra  
+prý *bytí*  
 silhouetta&nbsp;&nbsp;kra  
 zdmi ideje  
 víc lžic  
