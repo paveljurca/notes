@@ -249,6 +249,13 @@
 
 .
 
+> Now we that are strong ought to  
+> bear the infirmities of the weak  
+> and not to please ourselves.
+> *Romans 15:1*
+
+.
+
 > Givers need to set limits  
 > because takers rarely do.
 > *Rachel Wolchin*
