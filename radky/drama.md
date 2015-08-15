@@ -18,9 +18,9 @@ klubko
 od chyby  
 tehdy a kdyby  
 jich pravdy  
-stíní rozletu  
-skuteční ti  
-na toulenu
+při rozletu  
+stromořadím  
+věšáky korzetů
 
 *
 
