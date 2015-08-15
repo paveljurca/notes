@@ -4,12 +4,12 @@ Dno
 zmatení&nbsp;&nbsp;vjem  
 udatnost  
 dějící den  
+ze spojek jen  
 pondělí středy  
 pyžamo&nbsp;&nbsp;slevy  
 násobně z dály  
 sivější&nbsp;&nbsp;sivé mámy  
 sval snahy  
-něco chce  
 vně hezky  
 vnitř sami  
 eon nad stromy  

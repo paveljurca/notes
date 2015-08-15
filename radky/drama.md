@@ -1,21 +1,71 @@
 Dráma
 =====
 
-My  
-ve dosah ruky  
-rým&nbsp;&nbsp;krá taky  
-hlubší mělké roky  
-jen běž  
-do chudší sloky  
-klubko
+krok nohy  
+dvě vlohy  
+rdít se  
+u „My“  
+obléhat  
+snář sovy  
+spolu  
+žas něhy  
+jak různě  
+na zemi
 
+*
+
+klubko  
 od chyby  
 tehdy a kdyby  
-vším hra  
-prý *bytí*  
-silhouetta&nbsp;&nbsp;kra  
-zdmi ideje  
-víc lžic  
-Do prdele!
+jich pravdy  
+stíní rozletu  
+skuteční ti  
+na toulenu
+
+*
+
+Ve hrobě  
+povídka pro mě:  
+*A já vím  
+proč jsme tu.*
+
+Tvoje Déjà vu
+
+*
+
+ústupný  
+v hlavě  
+odcizen  
+neklamě  
+vůle:  
+„Pro mě za mě.“
+
+*
+
+užít těch knih  
+víc bych tu stih  
+(do data spotřeby)  
+mozek:  
+„Co jsme si, to jsme si.“
+
+*
+
+hlt chleba  
+drobt vína  
+*něco jako*  
+víra
+
+*
+
+do země Oz  
+napojit sos  
+člověk zdejší  
+povyrost:  
+blíže věcem  
+znát stěží  
+dále srdcem  
+tehdy záleželo
+
+teď nezáleží
 
 
