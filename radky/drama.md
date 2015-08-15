@@ -19,7 +19,7 @@ od chyby
 tehdy a kdyby  
 jich pravdy  
 při rozletu  
-stromořadím  
+sloupořadí  
 věšáky korzetů
 
 *
@@ -42,9 +42,9 @@ vůle:
 
 *
 
-užít těch knih  
-víc bych tu stih  
-(do data spotřeby)  
+užít knih  
+víc bych stih  
+(do těla spotřeby)  
 mozek:  
 „Co jsme si, to jsme si.“
 
