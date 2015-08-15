@@ -68,4 +68,10 @@ tehdy záleželo
 
 teď nezáleží
 
+*
+
+řádky  
+jen po nich  
+lze zpátky
+
 
