@@ -14,9 +14,8 @@ pohoršení i mluvení. A jak s ním začne, může se plést.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Přeházet kupu očividností a úsudků
-do všech stran. Nikdo o ničem nic
-pořádně neví. A když ví, neví to zase ten druhý.
+mluvit. Zpřeházet kupu očividností a úsudků.
+Nikdo o ničem nic pořádně neví. A když ví, neví to zase ten druhý.
 Ale holt už jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
@@ -32,7 +31,7 @@ Ale holt už jsme se potkali — budeme mluvit.
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
 Člověk: do uší rádio a před oči týdeník.
-Hlavně se vyhnout sobě. Vším se pohne až
+Hlavně se vyhnout sobě. Dnem se pohne až
 se naučíme *skutečnosti*, *zhmotnění*.
 Mluvit chvílí ale ne slovy.
 
@@ -73,7 +72,7 @@ Mluvit chvílí ale ne slovy.
 
 Mluvit někdy znamená zapomenout, co pravda je,
 byla — a teď už není. Netušíme jestli *vůbec a ještě* mluvit.
-A přehánět proto, že se hrozíme sluchu od našich mluvidel.
+A přehánět proto, že se hrozíme sluchu — skutečnosti — od našich mluvidel.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
 > že se sejdu s takovou kreaturou [..] štvu ho, tak
@@ -117,21 +116,23 @@ Hádka, při které nikdo nemluví? O co by byla kratší.
 > Když to řekl, vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
 
-Sdělovat se. Ale proč? Jako by nestačilo, že jsme.
+Sdělovat se. Ale proč? Jako by nestačilo, že *jsme*.
 Lépe je nemluvit, lépe je číst. Raději tak ohrozit jen sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-Svět vězí právě v češtině, pomlce. Věci, zvířectvo a stavy prostě jsou.
-Pak dorazí člověk, a utřídí je na *správné* (?) a *chybné* (?).
-*Den* mu je výplní kolonky ve druhém šuplíku.
+Svět vězí právě v češtině a básnířovo pomlce. Věci, zvířectvo a stavy jen jsou.
+To člověk na rampě myšleného tábora provádí selekci na *správné* (?) a *chybné* (?).
 
 > Mateřský jazyk bývá pouhým instrumentem,
 > někdejší košatý strom pragmaticky zcenzurovaný
 > na telegrafní tyč.
 > *Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 18.*
+
+WWW předpona u nově nabytých informací nás vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo).
+Proč je naší snahou být tam rychle?
 
 p.s. Opravdové televizní zprávy jsou ty bez zvuku.
 
