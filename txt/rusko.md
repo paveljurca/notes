@@ -6,17 +6,15 @@ ke Krymu došla svého konce
 nebo snad staronového začátku.
 Prý vůle lidu, ale kterého? Sounáležitost
 jeví se hanebně. Vavřínové věnce teď sklízí
-právo na sebeurčení, ačkoli na pomnících této
-myšlenky leží už věnce smuteční. Občané chtějí
-za lepším, těžko jim bránit. Melodramata, jež
-Putina [baví](http://youtu.be/sUNslUmQNiw).
+právo na sebeurčení, ačkoli na pomnících té
+myšlenky leží už věnce smuteční.
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
-Žij krásně, máš-li na to. Odeznělo "mírotvorné"
+Žij krásně, můžeš-li. Odeznělo „mírotvorné“
 *každému dle jeho potřeb*.
 A ublížený dav udává cestu — tím komu tleská.
-Putin tu slabost poddaných zná a posiluje ji kde může
+[Putin](http://youtu.be/sUNslUmQNiw) tu slabost poddaných zná a posiluje ji kde může
 (ruský oxymóron už ze starých dob).
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
@@ -24,8 +22,8 @@ Putin tu slabost poddaných zná a posiluje ji kde může
 > dělají co říkám.
 > *Calvera, Sedm statečných, 1960.*
 
-Byrokraté opírají se o lichou naději, že Obyvatel
-snad ví, jak se má chovat. **Neví to**, nikde se to neučí. 
+Funkcionáři opírají se o lichou naději, že Obyvatel
+snad ví, jak se má chovat. *Neví to*, nikde se to neučí. 
 Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
 Patočka zmínil zákonitosti vnitřní (filosofie)
 a vnější (právo). Rusům se nedostává obého.
@@ -54,18 +52,18 @@ Být a Mít — práva, kterým se nechce.
 *Zpátečnictví* je bez nich snazší
 (asi tautologie: k čemu se vracet,
 byvše stále na začátku?).
-Minulost? Bylo tam teplo a jistoty (sic!).
+Minulost? Bylo tam teplo a *jistoty*.
 Obyčejně se lépe vzpomíná než se žije.
 Míťa v Bratrech Karamazových měl řešení:
-*Široký, příliš široký je člověk. Zúžil bych jej!*
-Drnkot na "kolegialitu" davu jen
+„Široký, příliš široký je člověk. Zúžil bych jej!“
+Drnkot na „kolegialitu“ davu jen
 pojistil, aby každého bylo méně než nic.
 Až tehdy rovnost. A někdy dle nálady:
-*Čtyři nohy dobré, dvě nohy lepší!*
+„Čtyři nohy dobré, dvě nohy lepší!“
 
 Trpěli však své pod botou mongolů,
 tatarů, tmářství, sněním Nejvyššího sovětu. Tápání se stalo
-naturelem. Snad proto ta *vlast* namnoze bývá
+naturelem. Snad proto ta *Zem* namnoze bývá
 přenašečem ba původcem hrozeb. Století minulá,
 i ta dnešní, jsou očividná. Zvrácené nápady
 a podivní lidé tam asi vždy snáze udělají kariéru.
@@ -75,7 +73,7 @@ a podivní lidé tam asi vždy snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-Prosté a poddajné *dělnictvo* je tak tichým strůjcem
+Prosté a poddajné dělnictvo je tak tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
 ze stromů (v hladových časech) nebylo důvodem k otázkám.
 Navykli si přežít, nikolivěk žít.
@@ -102,8 +100,9 @@ armády není povinován zabít, ale být zabit.
 Národní ctižádostí je trpět. A rádi by o tom
 přesvědčili i své (dnes občasně bývalé) *ideo*bratříčky.
 Ne, rozum nad tím nezůstává
-stát, protože v tom žádný není.. přesto naše vrátka
-stále nedovírají.
+stát, protože v tom žádný není.
+Abychom ale mohli [vrátka](https://www.google.cz/search?q=karel+kryl) zavřít,
+musejí nejprve stát.
 
 > Už Puškin píše, že jsou Rusové, jimž vlastní
 > život za půl kopejky a cizí už docela zadarmo.
@@ -116,14 +115,14 @@ bránit není co, tahle armáda může jen útočit.
 stále jsou. Škoda, že s tím nic nedělají.
 Více Solženicynů, Zubovů, Bukovských,
 Gorbaněvských, Čechovů, Lermontovů a jiných a dalších.
-Zoufalost ale politruci nikdy nepřipustí.
-My už na ni však přišli, a to jim teď brání.
-Maxim Gorkij jednou zvažoval: *Rus je od přirozenosti náchylný ke krutosti*.
+Zoufalost politruci nikdy nepřipustí.
+My už na ni ale přišli, a to jim teď brání.
+Přímočarost a Maxim Gorkij: „Rus je od přirozenosti náchylný ke krutosti.“
 
 Počátek 20. století byl k Rusku nevlídný,
 k Evropě nezasloužený. Tehdy totiž rozvědčíci,
-horující za zájmy svých potentátů, podali nemytou ruku
-bolševikům na cestě k destabilizaci. Naneštěstí
+horující za zájmy svých potentátů, podali bolševikům
+levou ruku na cestě k destabilizaci. Naneštěstí
 rozumější menševici byli toho času jen uťáplou
 kulisou. A geopolitika, ve které si nikdo nepřeje
 silné Rusko, trvá právem do dnešních dob. Otázkou
@@ -131,31 +130,35 @@ však zůstává, zdali je horší silné nebo zmatené
 Rusko, případně (a to je vůbec nejhorší) obojí naráz.
 
 Avšak zbytečná polarizace a striktní papouškování
-omleté linie směrem k "ruskému světadílu" jen
+omleté linie směrem k „ruskému světadílu“ jen
 zatvrzuje obě strany. Proč vůbec pronášet slova,
 od kterých změnu nečekáme, nechceme.
 To by platilo pro *východní* i *západní* kliku.
-Ony ale trvají na vlastním epilogu.
-Chtějí ho hned.
+Ony ale trvají na vlastním epilogu. Chtějí ho hned.
 Bohužel fatální svévolí diplomacie je
 její přehnaná korektnost: sice mluvíte,
 ale neřeknete nic. Pokud by se pro jednou
-dostala k jádru věci, mnoho smutných chvil
-historie tu s námi nemuselo být
-(kupříkladu svržení [atomové bomby](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)).
+dostala k jádru věci, mnoho [smutných chvil](http://www.ceskatelevize.cz/porady/10488437622-americke-stoleti-ocima-olivera-stonea/213382555990003-atomova-bomba/)
+historie tu s námi nemuselo být.
+Až to vypadá, že je jedno, co člověk udělá:
+vždy to totiž udělá špatně.
 
-Tedy, když i diplomacie
-(nikterak neočekávaně)
-*selhala*, horší už jistě nemá být co.
-Je jedno, co člověk udělá.
-Vždy to totiž udělá špatně.
-
-Přitom není tak daleko k rokům
-dětským, ve kterých s vámi tito dnešní 
-lešenáři aparátů ujídali krupicovou kaši
-i měli stejné bačkůrky.
-Jsou to "Oni", "stát", "svět", atd. apod.
-Jsme to my sami.
+Machina mundi, stroj světa, je dotahován
+a povolován státníky a byrokraty, jež ve svém územním celku
+„netknutě dělí“ (!) vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
+asi tak půl druhého tisíce lidí. Zbylých pět miliard suchozemců chodilo — jako obyčejně — do práce.*
+Z druhé půle „chvíle“ jsou totiž samotní lidé (z půle první jsou lidé vtěleni do podpisových čar),
+kteří sice cítí a žijí krize, ale nemohou víc,
+než za další čtyři roky ustanovit další nadlidi,
+übermensch — k vidění světa — protože demokracie
+znamená čekat (sic).  
+Nově příchozí ekonomika sdílení (neřízené přenechání
+aut, bytů i svého volna za úplatu) možná dojde k tomu,
+že hraniční pásma už nejsou třeba. Stav našeho kontinentu teď
+tu a tam pokoutně ústí k myšlence tlačené Francií a Německem: ustanovení „vlády EU“.
+(Ty uvozovky budou asi nadbytečné.)  
+Vždy a především jsou nutní jednotlivci, a ty může a musí zaručit škola.
+Je škoda, že to nedělá.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
@@ -176,14 +179,13 @@ těžko pořádá *exodus nebo exitus*
 
 Možná je Rusko jen takové, jaké ho chceme mít.
 Havel v americkém Kongresu 21. února 1990 řekl:
-*Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.*
-Vyšumělo už 25 let, leč mnoho se nezměnilo:
-postranních úmyslů mají Rusové (žel i Západ)
+„Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.“
+Vyšumělo už 25 let, ač mnoho se nezměnilo:
+postranních úmyslů mají Rusové (žel i „Západ“)
 ještě stále hodně. A netřeba snad připomínat,
 že na bratrskou výpomoc v šedesátém osmém
 *nikagda nězabudněm*.
 
-(pj)
 
 * __zdroje__
 * [Rusové proti Rusům](http://www.rozhlas.cz/zpravy/data/_zprava/rusove-proti-rusum-zeme-v-nevyhlasene-obcanske-valce--1484099)
