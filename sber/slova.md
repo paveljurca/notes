@@ -35,6 +35,8 @@ na vlastní oči
 k věci
 * _ad usum_
 pro potřebu
+* _advocatus diaboli_
+ďáblův obhájce
 * _adagium_
 přísloví
 * _adorovat_
@@ -191,6 +193,8 @@ předvoj
 Sláva, zbožné duše!
 * _axiom_
 neměnný matematický předpoklad
+* _à propos_
+k tématu
 * _barter_
 výměnný obchod
 * _beau monde_
@@ -479,6 +483,8 @@ navozuje
 předem
 * _ex lege_
 ze zákona
+* _ex nunc_
+od nynějška
 * _ex novo_
 od znovu
 * _ex post_
@@ -505,6 +511,10 @@ vystavit
 vyjmutí
 * _exulant_
 vyhnanec
+* _éclat_
+záře
+* _étos_
+mravní základ
 * _fabulace_
 výmysl
 * _facilitas_
@@ -546,9 +556,9 @@ pištivý hlas
 * _flagrantní_
 očividný
 * _floskule_
-slovní obrat
+květnatá bezobsažnost
 * _fluidum_
-nálada v ovzduší
+duch ovzduší
 * _folio_
 dvě protilehlé strany
 * _fonologie_
@@ -1345,6 +1355,8 @@ nejdůstojnější otče
 nehybný
 * _ruptura_
 trhlina
+* _řehole_
+odříkání
 * _sabat_
 den klidu
 * _sakrosanktní_
@@ -1471,6 +1483,14 @@ umělý
 skládání
 * _sémantika_
 významosloví
+* _šerosvit_
+stínohra
+* _šmok_
+prodejný novinář
+* _šovinizmus_
+fanatická nadřazenost
+* _švabach_
+gotické písmo
 * _tabu_
 nedotknutelnost
 * _tabula rasa_
@@ -1539,6 +1559,8 @@ jednohlasný
 jednočlenný
 * _urbi et orbi_
 městu i světu
+* _úzus_
+ustálený způsob
 * _utilitaristický_
 prospěchářský
 * _Vae misero mihi!_
@@ -1615,22 +1637,6 @@ ministerstvo zahraničí
 tvor společenský
 * _zupák_
 šikovatel hanlivě
-* _à propos_
-k tématu
-* _éclat_
-záře
-* _étos_
-mravní základ
-* _řehole_
-odříkání
-* _šerosvit_
-stínohra
-* _šmok_
-prodejný novinář
-* _šovinizmus_
-fanatická nadřazenost
-* _švabach_
-gotické písmo
 * _z partesu_
 z not (bez not)
 * _žaket_
@@ -1642,6 +1648,7 @@ potvrdit
 * _žoviální_
 bodrý
 
-Zpeněžit nebo *monetizovat*?
+
+p.s. Zpeněžit nebo *monetizovat*?
 
 
