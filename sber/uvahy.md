@@ -517,6 +517,19 @@
 
 .
 
+> Osud člověka, který mnoho miluje a touží,
+> který chce mnoho vykonat, se tu jeví jako
+> tragédie.
+> *Miroslav Červenka, Rozhodující léta v díle Antonína Sovy*
+
+.
+
+> Čas existuje,
+> až když je pozdě.
+> *Stig Dagerman, Německý podzim*
+
+.
+
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
