@@ -14,7 +14,7 @@ A když
 
 zkazit tělo aby  
 pomohlo se hlavě  
-*nahlédnou oči* že  
-chtěly bezhlavě
+*zatají oči* že  
+nejdále pravdě
 
 
