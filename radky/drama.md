@@ -26,7 +26,7 @@ a stát vzadu
 
 Ve hrobě  
 povídka pro mě:  
-*A já vím  
+*A já vím,  
 proč jsme tu.*
 
 Tvoje Déjà vu
@@ -60,7 +60,13 @@ víra
 
 do země Oz  
 napojit sos  
-*kde zdá se že*  
+jak uchopit  
+„dost“
+
+*
+
+někdy  
+za zimy  
 blíže věcem  
 znát stěží  
 dále srdcem  
@@ -71,7 +77,8 @@ teď nezáleží
 *
 
 řádky  
-jen po nich  
-— lze zpátky
+lze po nich  
+panebože —  
+zpátky?
 
 
