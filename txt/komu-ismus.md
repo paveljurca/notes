@@ -94,7 +94,7 @@ přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja věří).
 (mobilisace 23. září '38). Mnichovský diktát ale jistě z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím nemůže.
 
 Proto plavat a třeba i — tonout, pro něco. Za něčím stát, za něco stát. Věříme vně; dovnitř víme, že sami (o sobě) jsme k ničemu. Nezdolní pro „vyšetřovatele“
-obou totalit byli právě duchovní. Rok 1945: české Němce zapřít. Rok 1989: koupat se sušší. Omak sametu evokoval, že to lze. Obě naše reakce z těch dní
+obou totalit byli právě duchovní. Rok 1945: české Němce zapřít. Rok 1989: koupat se suší. Omak sametu evokoval, že to lze. Obě naše reakce z těch dní
 a měsíců byly na hlavu. '45 porodnici vypálil, '89 navýšil kapacitu. Ani jednou se nikdo nepodíval, kdo je uvnitř. Ze sametového županu dodnes kape
 nám přímo na čelo. Po 26 letech jsou úderníci stále s námi. Každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
 milionů, asi na šatstvo. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
