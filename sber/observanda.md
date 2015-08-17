@@ -1,6 +1,30 @@
 Observanda
 ==========
 
+DAGERMAN
+========
+
+Ano, doktor Schumacher je bezpochyby pro svou stranu dobrý,
+otázkou však je, jestli není až příliš dobrý, to jest nebezpečný [..]
+(Dagerman, S.: Německý podzim. Mot komiks, Praha 2013, s. 110.)
+
+Je to patetické setkání dvou druhů namazaných chlebů, dvou druhů
+Německa: chudého a poctivého s blahobytným a pochybným.
+(Dagerman, S.: Německý podzim. Mot komiks, Praha 2013, s. 118.)
+
+[..] skutečnost neexistuje, dokud ji historik nezasadí do souvislostí,
+a pak už je pozdě na to ji prožívat [..]
+(Dagerman, S.: Německý podzim. Mot komiks, Praha 2013, s. 139.)
+
+JUST
+====
+
+Kontext však nesmí sloužit jako alibi. A tak, kontext nekontext,
+vždy raději namísto 'lidských faktorů', oblíbených v Tvaru, zcela
+nevědecky dám přednost formulaci, že 'selhali lidé' [..]
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 23.)
+
+
 SOVA
 ====
 
