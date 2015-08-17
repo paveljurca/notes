@@ -17,10 +17,10 @@ na zemi
 klubko  
 od chyby  
 tehdy a kdyby  
-jich pravdy  
-při rozletu  
-sloupořadí  
-věšáky korzetů
+žít matně  
+bez ladu  
+chtít  
+a stát vzadu
 
 *
 
@@ -33,19 +33,20 @@ Tvoje Déjà vu
 
 *
 
-ústupný  
+obejit  
 v hlavě  
-odcizen  
-neklamě  
+ošizen  
+na stravě  
 vůle:  
 „Pro mě za mě.“
 
 *
 
-užít knih  
-víc bych stih  
-(do těla spotřeby)  
+„Bych tu stih...“  
+(užít těch knih)  
 mozek:  
+„A jak asi?“  
+tělo:  
 „Co jsme si, to jsme si.“
 
 *
@@ -59,8 +60,7 @@ víra
 
 do země Oz  
 napojit sos  
-člověk zdejší  
-povyrost:  
+*kde zdá se že*  
 blíže věcem  
 znát stěží  
 dále srdcem  
@@ -72,6 +72,6 @@ teď nezáleží
 
 řádky  
 jen po nich  
-lze zpátky
+— lze zpátky
 
 
