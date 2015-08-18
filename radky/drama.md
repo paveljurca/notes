@@ -78,7 +78,6 @@ teď nezáleží
 
 řádky  
 lze po nich  
-panebože —  
-zpátky?
+— zpátky?
 
 
