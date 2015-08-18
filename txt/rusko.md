@@ -143,22 +143,20 @@ historie tu s námi nemuselo být.
 Až to vypadá, že je jedno, co člověk udělá:
 vždy to totiž udělá špatně.
 
-Machina mundi, stroj světa, je dotahován
-a povolován státníky a byrokraty, jež ve svém územním celku
+Machina mundi, stroj světa, je štelován
+státníky a byrokraty, jež v územním celku
 „netknutě dělí“ (!) vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
 asi tak půl druhého tisíce lidí. Zbylých pět miliard suchozemců chodilo — jako obyčejně — do práce.*
-Z druhé půle „chvíle“ jsou totiž samotní lidé (z půle první jsou lidé vtěleni do podpisových čar),
+Z druhé půle „chvíle“ jsou totiž samotní lidé (z lidí půle první je malůvka podpisových čar),
 kteří sice cítí a žijí krize, ale nemohou víc,
-než za další čtyři roky ustanovit další nadlidi,
+než co čtyři roky ustanovit nadlidi,
 übermensch — k vidění světa — protože demokracie
-znamená čekat (sic).  
-Nově příchozí ekonomika sdílení (neřízené přenechání
+znamená *čekat* (sic).  
+Nově příchozí kapitalismus sdílení (neřízené přenechání
 aut, bytů i svého volna za úplatu) možná dojde k tomu,
 že hraniční pásma už nejsou třeba. Stav našeho kontinentu teď
-tu a tam pokoutně ústí k myšlence tlačené Francií a Německem: ustanovení „vlády EU“.
-(Ty uvozovky budou asi nadbytečné.)  
-Vždy a především jsou nutní jednotlivci, a ty může a musí zaručit škola.
-Je škoda, že to nedělá.
+tu a tam pokoutně ústí k myšlence tlačené Francií a Německem: najmenování „vlády EU“.
+(Ty uvozovky budou asi nadbytečné.)
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
