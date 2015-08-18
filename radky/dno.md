@@ -4,11 +4,11 @@ Dno
 vjem  
 bližních jmen  
 ve stínu  
-zemí jen  
+po zemi jen  
 zsinalé dny  
 bezduše dávny  
 svící  
-si přáli  
+si přály  
 zdali  
 tep v nebi  
 ve snaze sami —  
