@@ -1,20 +1,17 @@
 Dno
 ===
 
-zmatení&nbsp;&nbsp;vjem  
-udatnost  
-dějící den  
-ze spojek jen  
-pondělí středy  
-pyžamo&nbsp;&nbsp;slevy  
-násobně z dály  
-sivější&nbsp;&nbsp;sivé mámy  
-sval snahy  
-vně hezky  
-vnitř sami  
-eon nad stromy  
-za kopci  
-je mi —  
+vjem  
+bližních jmen  
+ve stínu  
+zemí jen  
+zsinalé dny  
+bezduše dávny  
+svící  
+si přály  
+zdali  
+tep v nebi  
+ve snaze samy —  
 jsme ryba  
 ryba v nádobě  
 co svými roky  
