@@ -8,10 +8,10 @@ zemí jen
 zsinalé dny  
 bezduše dávny  
 svící  
-si přály  
+si přáli  
 zdali  
 tep v nebi  
-ve snaze samy —  
+ve snaze sami —  
 jsme ryba  
 ryba v nádobě  
 co svými roky  
