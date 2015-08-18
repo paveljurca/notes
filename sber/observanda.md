@@ -28,8 +28,15 @@ nevědecky dám přednost formulaci, že 'selhali lidé' [..]
 SOVA
 ====
 
-Ať mete každý tam, kde toho třeba podle
-svých zkušeností.
+Co platny ti ctihodné šediny, když žvatláš senilní fráze,  
+starče, stojící nad hrobem,  
+když zapomněls hlásat usmíření a lidskost,  
+zhynutí nadvlád a záští,  
+když zapomněls usmířit se světem křehkou svou bytost  
+a ukončit modlitbou všeobrodného soucitu?
+(Sova, A.: Pozdrav bouřlivé noci. Českosl. spis., Praha 1964, s. 81.)
+
+Ať mete každý tam, kde toho třeba podle svých zkušeností.
 (Sova, A.: Básně. Host, Brno 2014, s. 50.)
 
 [..] to je přece jen výkvět naší pokročilé
