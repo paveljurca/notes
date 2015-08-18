@@ -76,10 +76,8 @@
 
 > Lid milá Duňo je dneska bdělej,  
 > ale bohužel gramotnej. Proč říkám bohužel?  
->   
 > Protože kdyby byl jenom bdělej,  
 > to by ještě tak nevadilo,  
->   
 > ale jak je gramotnej —  
 > tak umí napsat udání.
 > *Timofejič Golubjev, Čonkin*
@@ -113,6 +111,12 @@
 > Stáří je vděk za to,
 > že jsem neumřel mladý.
 > *Jean Marais*
+
+.
+
+> Jen toho bych bál se: že smířím se naposled
+> s tím vším, co jsem soudil příkře, prostřední a malé.
+> *Antonín Sova, Vybouřené smutky*
 
 .
 
@@ -480,12 +484,6 @@
 
 > We should have been bolder.
 > *Joel Klein, Lessons of Hope*
-
-.
-
-> Ať mete každý tam,  
-> kde toho třeba podle svých zkušeností.
-> *Antonín Sova, Básně*
 
 .
 
