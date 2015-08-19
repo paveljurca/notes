@@ -1,5 +1,5 @@
-Slova
-=====
+Překlad
+=======
 
 * _a limine_
 zásadně
