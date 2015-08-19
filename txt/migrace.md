@@ -1,6 +1,49 @@
 Migrace
 =======
 
+
+
+
+> Ten kůň je chromý, prašivý a šilhá.  
+> Ten člověk má pravdu, ale k čemu mi ta pravda je?  
+> Jiného koně nemám.
+> *Steigerwald, K.: Marta Peschek jde do nebe.*
+
+
+
+
+
+
+
+
+
+SAE, Katar, USA, Austrálie
+
+
+Zalidněnost na km^2
+
+1. Evropa XYZ
+2. 
+
+uprchlíci = ti bohatí;
+skutečně potřební cestovat nemohou
+
+údajně až 3000 USD, přitom nevládní
+organizace křičí do světa, že valná
+část Afričanů žije pod 1 USD per diem
+
+https://twitter.com/suchomelP/status/599164835318919169
+
+
+
+
+
+
+
+
+
+
+
 hujerství
 
 
@@ -20,10 +63,11 @@ Nejnejapnější transparent vyhrává! Na můj vkus je těch seminářů
 nekřičí se na něco, ale **za něco**.
 
 
-[Student filozofie](https://www.google.cz/search?q=luk%C3%A1%C5%A1+mato%C5%A1ka&tbm=vid) má jasno,
-že ["zdroje jsou"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022).
-To už nebude filosofie ale chiliasmus. A [tele](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html) vize (Čí?!)
-jistěže nemá rozbušky hasit, spíš je umocnit, zachovat paniku. K rozumu si každý musí přijít sám.
+Student [filozofie](https://www.google.cz/search?q=luk%C3%A1%C5%A1+mato%C5%A1ka&tbm=vid) má jasno,
+že ["Zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
+To už nebude filosofie ale chiliasmus. A [televize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
+nehodlá rozbušky
+pozdržet, rozžvatlat téma.
 
 
 http://denikreferendum.cz/clanek/20709-kdo-vsechno-delal-ramena-u-trech-ocasku
@@ -64,11 +108,13 @@ organizace křičí do světa, že valná
 https://twitter.com/suchomelP/status/599164835318919169
 http://hlidacipes.org/milan-zeleny-proc-cist-znovu-peroutku-ale-i-komenskeho-havlicka-a-batu/
 
-https://www.facebook.com/zahradil/posts/10204606226539024
-https://www.facebook.com/michal.illich/posts/10153511796143968
-https://www.facebook.com/tomio.cz/videos/1030325556978259/
-https://www.facebook.com/vit.kucik/posts/1077249078951945
-https://www.facebook.com/CT24.cz/videos/10153503573159009/
+* __facebook__
+* https://www.facebook.com/zahradil/posts/10204606226539024
+* https://www.facebook.com/michal.illich/posts/10153511796143968
+* https://www.facebook.com/tomio.cz/videos/1030325556978259/
+* https://www.facebook.com/vit.kucik/posts/1077249078951945
+* https://www.facebook.com/CT24.cz/videos/10153503573159009/
+
 state of the art, EU
 https://www.facebook.com/daniel.steigerwald/posts/10153425792993656
 " pohled z druhé strany Kanálu."
