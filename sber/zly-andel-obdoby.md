@@ -1,6 +1,9 @@
 Zlý anděl obdoby
 ================
 
+Stéphane  
+**Mallarmé**
+
 > Nesplynula někdy z vašich rtů neznámá slova, prokleté útržky věty
 > nemající smyslu?  
 > Vyšel jsem z domova se zvláštním pocitem křídla klouzajícího po strunách
