@@ -3,12 +3,12 @@ Dráma
 
 krok nohy  
 dvě vlohy  
+spolu  
+žas něhy  
 rdít se  
 u „My“  
 obléhat  
 snář sovy  
-spolu  
-žas něhy  
 jak různě  
 na zemi
 
@@ -26,8 +26,8 @@ a stát vzadu
 
 Ve hrobě  
 povídka pro mě:  
-*A já vím,  
-proč jsme tu.*
+„A já vím,  
+proč jsme tu.“
 
 Tvoje Déjà vu
 
@@ -58,26 +58,18 @@ víra
 
 *
 
-do země Oz  
-napojit sos  
-jak uchopit  
-„dost“
-
-*
-
-někdy  
-za zimy  
-blíže věcem  
+blíž věcem  
 znát stěží  
-dále srdcem  
+dál srdcem  
 tehdy záleželo
 
 teď nezáleží
 
 *
 
-řádky  
-lze po nich  
-— zpátky?
+do země Oz  
+napojit sos  
+jak uchopit  
+„dost“
 
 
