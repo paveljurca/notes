@@ -283,6 +283,7 @@ __misc__
 * [Zachary Slayback](http://zakslayback.com/)
 * [Marcin Treder](http://marcin.is/)
 * [Bruce Kasanoff](http://kasanoff.com/blog/)
+* [Randy Skopecek](http://www.spockecek.com/author/randy-skopecek/)
 
 ## podcasts
 
