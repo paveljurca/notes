@@ -282,6 +282,7 @@ __misc__
 * [Léna Brauner](http://www.lenabrauner.cz/)
 * [Zachary Slayback](http://zakslayback.com/)
 * [Marcin Treder](http://marcin.is/)
+* [Bruce Kasanoff](http://kasanoff.com/blog/)
 
 ## podcasts
 
