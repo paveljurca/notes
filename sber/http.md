@@ -382,6 +382,7 @@ __misc__
 * [Weekly Economics](https://soundcloud.com/weeklyeconomicspodcast)
 * [podcatch.com](http://podcatch.com/)
 * [The Dan Benjamin Hour](http://danbenjamin.com/dbh/)
+* [Talk About Know Priorities](http://talkabout.knowpriorities.com/)
 
 ## video
 
