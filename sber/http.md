@@ -341,6 +341,7 @@ __cro__
 * [Generace na rozcestí](http://hledani.rozhlas.cz/iradio/?porad[]=Generace+na+rozcestí)
 * [Dvacet minut Radiožurnálu](http://hledani.rozhlas.cz/iradio/?porad[]=Dvacet+minut+Radiožurnálu)
 * [Casablanca](http://hledani.rozhlas.cz/iradio/?porad[]=Casablanca)
+* [Mozaika](http://hledani.rozhlas.cz/iradio/?porad[]=Mozaika)
 * [Deníček Josefa Veselého](http://hledani.rozhlas.cz/iRadio/?&porad[]=Dobr%C3%A9+r%C3%A1no%2C+Moravo!)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
 * [Radiotéka](http://www.radioteka.cz/)
