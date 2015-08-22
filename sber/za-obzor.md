@@ -382,6 +382,12 @@ Za obzor
 
 .
 
+> Think in the morning. Act in the noon.
+> Eat in the evening. Sleep in the night.
+> *William Blake*
+
+.
+
 > Dělat něco, aniž by si člověk mohl naplánovat  
 > alespoň den dopředu, je nemožné.
 > *Slawomir Mroček, Baltazar*
