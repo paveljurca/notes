@@ -285,6 +285,7 @@ __misc__
 * [Bruce Kasanoff](http://kasanoff.com/blog/)
 * [Randy Skopecek](http://www.spockecek.com/author/randy-skopecek/)
 * [Aurelio Gazzera](http://bozoum-czeck.blogspot.cz/)
+* [Peter Hoferek](http://www.hogy.sk/)
 
 ## podcasts
 
@@ -570,7 +571,7 @@ __misc__
 * [opendata.sk](http://opendata.sk/liferay/projects)
 * [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
 
-## 20stol
+## 20. století
 
 * [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
 * [exil a samizdat](http://www.scriptum.cz/)
