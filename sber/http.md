@@ -599,8 +599,8 @@ __misc__
 
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
 * [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
-* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
 * [_Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
 * [_Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
 * [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
 * [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
