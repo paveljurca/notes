@@ -3,7 +3,7 @@
 
 Zastihnout svět  
 dřímotem vidiny.  
-Procitnout zpět,  
+Procitat zpět,  
 vlasy tnou šediny.
 
 *

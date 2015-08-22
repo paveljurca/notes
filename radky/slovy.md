@@ -1,9 +1,14 @@
 Slovy
 =====
 
-Osikou lká hlas,  
-již sráží mnohé stvoly.  
-Vyprahle, hlouběji v nás.  
-Jít, upadat slovy.
+Osikou lká hlas.  
+V ohnutí stvoly.  
+„Nač?“ hlouběji v nás.  
+Táhnu, upadám slovy.
+
+Ztrhaný vějíř krás  
+tiší na duši boly.  
+Čerň vane ve sráz.  
+Oddechuji slovy.
 
 
