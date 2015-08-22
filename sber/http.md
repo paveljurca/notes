@@ -284,6 +284,7 @@ __misc__
 * [Marcin Treder](http://marcin.is/)
 * [Bruce Kasanoff](http://kasanoff.com/blog/)
 * [Randy Skopecek](http://www.spockecek.com/author/randy-skopecek/)
+* [Aurelio Gazzera](http://bozoum-czeck.blogspot.cz/)
 
 ## podcasts
 
