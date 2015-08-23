@@ -268,6 +268,18 @@ Režim tak skončil na ekonomické neúnosnosti lidí, kteří svou prací byli 
 
 Kostohryz Demkovi (Solženicyn): „Věř svým očím, ale uším moc nevěř.“
 
+p.s. Opožděné reportáže
+
+> Kdo by u nás měl zájem odsoudit nevinného člověka k smrti?
+> *Mňačko, L.: Opožděné reportáže. Českosl. spis., Praha 1964, s. 42.*
+
+;
+
+> Uvádíš, soudružko, že ses v létech 1947-1949 zdržovala v cizině na léčení.
+> Vysvětli, proč ses jela léčit do ciziny, když my tady máme Tatry, klimaticky
+> rovněž vhodné. Současně rozveď podrobněji svou činnost z tohoto období...
+> *Ibid., s. 107.*
+
 
 * __—__
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
