@@ -35,14 +35,14 @@ tohoto dotazníku, a to svou dosavadní politickou a veřejnou
 a další údaje ze života [..] informace o politické angažovanosti
 své rodiny apod.
 
-![dotazník](m/dotaznik.jpg)
+![Dotazník do zaměstnání, 1986](d/dotaznik.jpg)
 
 Dva roky staré číslo [740 tisíc](http://volby.cz/pls/ps2013/ps2?xjazyk=CZ) (spolu)občanů dává tušit, komu ještě jsou otázky výše vlastní;
-více než páry zbloudilých ovcí. Znovu postaví si [ohradník elektrický](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
-a jako BOZP zákon č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf) doporučí.
-Deník [Právo](http://archiv.ucl.cas.cz/?path=RudePravo) přebarví a vědět dají, že *republiku si rozbourat nedáme*.
-Do res publicae opět stejně daleko bude jako do Moskvy. A každou první středu v měsíci amplióny *Mír, míír!* vyhlásí.
-Všichni pak si zahrajeme: na výběr [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek) a plutokrat z Wall Streetu.
+ne zbloudilé, ale opět naleznuvší ovce. Znovu si postaví [elektrický ohradník](http://www.ceskatelevize.cz/porady/10095467107-pribehy-zelezne-opony/dily/)
+a jako BOZP doporučí zákon č. [231/1948 Sb.](http://www.ustrcr.cz/data/pdf/projekty/usmrceni-hranice/dokumenty/zakon231-232-1948.pdf).
+V [Právu](http://archiv.ucl.cas.cz/?path=RudePravo) nebo Haló (proč mě nikdo neposlochá) novinách vykřičí, že *Republiku si rozbourat nedáme*.
+Do res publicae bude opět stejně daleko jako do Moskvy. Každou první středu v měsíci amplióny zatroubí *Mír, míír!*
+a my si zahrajeme na honěnou: ty budeš [spojka na Vatikán](https://cs.wikipedia.org/wiki/Karel_%C4%8C%C3%AD%C5%BEek) a ty plutokrat z Wall Streetu.
 
 > Velmi jsme si vážili Kim Čong-ila,
 > jenž se obětoval, aby přinesl blaho
@@ -55,17 +55,17 @@ Všichni pak si zahrajeme: na výběr [spojka na Vatikán](https://cs.wikipedia.
 > krásné zemi.
 > *Vojtěch Filip, kondolence KLDR, 2011. In: Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 17.*
 
-Smůla prý v tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926).
+Smůla leží prý v tom, že [policista musí poslouchat rozkazy v každé době](http://www.parlamentnilisty.cz/profily/Petr-Duchek-48359/clanek/-Mlaticka-do-politiky-nepatri-34926).
 Poradili mu to, oni, tak mlátil. Na vině asi čl. 2 odst. 3 [Ústavy](http://www.psp.cz/docs/laws/constitution.html),
 kdy úřad činit nesmí nic nad (nebo pod) literu zákona. [Prokurátor](http://www.ceskatelevize.cz/porady/10366883725-pribeh-herecky/21156226416/) oprátky vždy
-vynáší dle *tehdy platných* zákonů. Za smrt jako obvykle pár odstavců je vinno. Těmi pouštějí žilou totality.
-Nevraždí rozkaz, „dobře míněná rada“. Na člověka vztahuje ruku jen člověk; ne písmena z lejstra.
+vynáší dle *tehdy platných* zákonů. Za smrt jako obvykle pár odstavců je vinno. Těmi pouštějí žilou autoritáři (autority?).
+Nevraždí rozkaz nebo „dobře míněná rada“. Na člověka vztahuje ruku jen člověk, ne písmena z lejstra.
 
 > Propaganda vyzývá občana, aby nenáviděl to,
 > o čem čte, ne to, co zažil.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 163.*
 
-Komunismus vychází z těch dob, ve kterých „čím hůře, tím lépe“. Někomu to vyhovuje, jinak by stejně neuměl.
+Komunismus dobíhá z těch dob, ve kterých „čím hůře, tím lépe“. Někomu to vyhovuje, jinak by stejně neuměl.
 
 > Ale až jednou vybledne čerstvý dojem z bolševických
 > zločinů, bude socialistický program znovu přitažlivý
@@ -73,7 +73,7 @@ Komunismus vychází z těch dob, ve kterých „čím hůře, tím lépe“. N�
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
 Že komunismus jsme nechtěli? Nebyl by tady. Bližší nám je
-(sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) před [poprsím Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Těšení malomyslného davu bylo hutnější než (ještě mladé) obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky,
+(sovětský aj.) [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) před [poprsím Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Těšení malomyslného davu bylo hutnější než (ještě mladistvé) obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky,
 zapůsobily: bylo po válce a i dívky chtěly být bratry. Pár let zpátky psal Masaryk *O bolševictví* nebo Čapek *Proč nejsem komunistou* — nestačilo to,
 museli jsme si sáhnout. A zase to nestačí, protože nedlouho odtud si je budeme chtít i pohladit. S každým rokem je sentiment hlubší, fakta smířlivější.
 U Edvarda Beneše to byl fanatický strach z německého *Drang nach Osten* i opakování Mnichova. A spásu viděl zcela nekriticky v Sovětském svazu. Jím iniciované
@@ -88,24 +88,27 @@ U Edvarda Beneše to byl fanatický strach z německého *Drang nach Osten* i op
 > politickými realisty, kteří vědí co chtějí a co mohou.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
+Když jsme se báli Habsburků, prišli Němci. Když jsme se báli Němců, přišli Rusové.
+A když se dnes bojíme Rusů, možná přijdou Rusové, možná naše vlastní malomyslnost.
+
 Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila. Bylo nám příjemnější vědět *kdo nejsme* než *kdo jsme*. Právě škarohlídství národa znemožní stát
 přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja věří). Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
 *Imanentní* přízemnost a zištnost je jedna noha v suchu (demobilisace 6. října '38). *Transcendentní* přesah a víra jsou naopak obě chodidla až po nozdry ve vodě
 (mobilisace 23. září '38). Mnichovský diktát ale jistě z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím nemůže.
 
-Proto plavat a třeba i — tonout, pro něco. Za něčím stát, za něco stát. Věříme vně; dovnitř víme, že sami (o sobě) jsme k ničemu. Nezdolní pro „vyšetřovatele“
-obou totalit byli právě duchovní. Rok 1945: české Němce zapřít. Rok 1989: koupat se suší. Omak sametu evokoval, že to lze. Obě naše reakce z těch dní
-a měsíců byly na hlavu. '45 porodnici vypálil, '89 navýšil kapacitu. Ani jednou se nikdo nepodíval, kdo je uvnitř. Ze sametového županu dodnes kape
+Proto plavat a třeba i — tonout, pro něco. Za něčím stát. Věříme vně; dovnitř víme, že sami (o sobě) jsme k ničemu. Nezdolní pro „vyšetřovatele“
+obou totalit byli právě duchovní. Rok 1945: české Němce zapřít. Rok 1989: koupat se, ale nebýt mokří. Omak sametu evokoval, že to lze. Obě naše reakce z těch dní
+a měsíců byly na hlavu. '45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou se nikdo nepodíval, kdo je uvnitř. Ze županu dodnes kape
 nám přímo na čelo. Po 26 letech jsou úderníci stále s námi. Každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
-milionů, asi na šatstvo. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
-pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy; paměti obyvatelů ano.
+milionů, asi na motyky, srpy a kladiva. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
+pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus zákonitě chutná velmi levně (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
-A kdo chce jistoty, může popojít — v čase; bezelstně dnes idylu pětiletek vábí [mladí trockisté](http://solidarita.socsol.cz/). Ti zasnění však nechtějí zpět
+Socialismus zákonitě chutná levně (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
+A kdo chce jistoty, může popojít — v čase. Bezelstně dnes idylu pětiletek vábí [mladí trockisté](http://solidarita.socsol.cz/). Ti zasnění však nechtějí zpět
 režim, ale čas! A taky viníka (sacharid) pro jejich myšlenkovou soustavu.
 
 > Neurotik se chytá své životní lži a pokud je postaven před volbu,
@@ -124,7 +127,7 @@ lobotomiích) mají na socialistické (ať už to znamená cokoli) cítění i �
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
 
 [Internacionála](https://cs.wikipedia.org/wiki/Eug%C3%A8ne_Pottier) a „pracovní iniciativou ku splnění úkolu“ se možná hezky pějí,
-ale nebaví. Jsou to od noci neumyté oči: nedovedeme mít *raději* bližního než sebe.
+ale nebaví. Jsou to od noční schůze neumyté oči: nedovedeme mít *raději* bližního než sebe.
 
 > To se nemá chápat tak, že člověk má milovat
 > bližního stejně jako sám sebe, ale podobně
@@ -139,7 +142,7 @@ Vzato nemusí dlouho trvat, abychom *jednotně k práci, jednotně k volbám* vy
 > než stačili všichni ostatní dohromady.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 142.*
 
-Ale spolehnout se na Peroutku výše nemůžeme. Nic by neřešila změna názvu strany ni exkomunikace těch nejubožejších z jejich řad — tady běží
+Spolehnout se na Peroutku výše nemůžeme. Nic by neřešila změna názvu strany ni exkomunikace těch nejubožejších z jejich řad — tady běží
 o naprostou vymletost *celého* jejich oddílu.
 
 > [..] někdy více lidí umíralo na politiku než na nemoci.
@@ -155,7 +158,7 @@ Ani Ježíš neléčil malomocné myšlenkou, ale dotekem.
 > i skutkem.
 > *Chelčický, P.: Ze sítě víry. Československý spisovatel, Praha 1990, s. 74.*
 
-Domýšlivost ponechala zasloužilé knížky straníků, dozorců, referentů a vůbec klidnému stáří a ideologii v pozadí ještě klidnější dospělosti.
+Domýšlivost ponechala úslužné knížky povereníků, dozorců, referentů a vůbec klidnému stáří a ideologii v pozadí ještě klidnější dospělosti.
 
 > Madness is rare in individuals  
 > – but in groups, parties, nations,  
@@ -174,7 +177,7 @@ není bolševická idea zákonem odmítnutá (na rozdíl od věci nácismu).
 > komunistická strategická moudrost.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 115.*
 
-Nejsme trefně *jako oni*, ale stát stojí proto, že je právo. Vice versa není nic. *Druhého* právo je v důsledku *prvého* trest, řehole.
+Nejsme trefně *jako oni*, ale stát stojí proto, že je právo. Vice versa není nic. *Druhého* právo je v důsledku *prvého* trest, jeho mravní řehole.
 Řád jednotlivce je svobodou jednotlivců. Z preambule Ústavy: „[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.“
 
 > Nic horšího nemůže komunista spáchat
@@ -191,7 +194,7 @@ Nejsme trefně *jako oni*, ale stát stojí proto, že je právo. Vice versa nen
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
 
 Zpovídat šíření, stavění na odiv, tužeb komunismu, nikoliv osvětu nebo soukromé, třeba polohlasné, „zvážení“. Ať je o něm dostupných zcela informací,
-ať se třeba i polemizuje, jen ať už ho proboha nikdo nepouští ke slovu (ani ke stolu). Komunismus jednou celé století dostal —
+ať se třeba i polemizuje, jen ať už ho propána nikdo nepouští ke slovu (ani ke stolu). Komunismus jednou celé století dostal —
 další nepotřebuje. A my netaktně (a netakticky) mlčíme.
 
 > [..] hlásí se [Steigerwald] k ideálu
@@ -206,7 +209,7 @@ další nepotřebuje. A my netaktně (a netakticky) mlčíme.
 > váží.
 > *Vedral, J.: Dobové tance na nápěv budovatelského kýče. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 45.*
 
-Je vpravdě snazší se dnes nakrásně vymezit vůči všem, kteří podlehli. Já tu možnost nedostal, jsem tak asi z obliga. Nahlížet věci lze
+Je vpravdě snazší se dnes nakrásně vymezit vůči všem, kteří podlehli. Jsem datem narození z obliga, udávat tak nebylo kdy. Nahlížet věci lze
 však právě proto, že jich nejste součástí. Třeba platí, že chybu musíme nejprve udělat, abychom věděli, že to chyba je. Nikdo ale nedělá *chyby* 40 let.
 
 > Jedna z vyslýchaných ohluchla, když
@@ -219,7 +222,7 @@ však právě proto, že jich nejste součástí. Třeba platí, že chybu musí
 > *Havlíková, L. K.: Republika vězňů, vězni republiky. In: Steigerwald, K.: Má vzdálená vlast. Národní divadlo, Praha 2012, s. 23.*
 
 Marx mohl mít něco na srdci ve svém 19. století, kdy jím zmíněná nadhodnota byla [unfair](https://youtu.be/MxldKIiZ3EA?t=40s)
-a pracovní zákoník raději nebyl vůbec. Řešit to hodlal vypovězením práva Mít; společenství lidí ale není pytlem buráků.
+a pracovní zákoník raději nebyl vůbec. Řešit to hodlal vypovězením práva Mít. Společenství lidí ale není pytlem buráků.
 Doby průmyslové revoluce jsou teď pryč, a kdo je chce vzpomenout, přečte si [Zolu](http://search.mlp.cz/cz/titul/zabijak/2837868/) a ne Marxe.
 
 > Spravedlnost je slepá; u nás bohudík ne,
@@ -234,9 +237,8 @@ Maxima „si vis pacem, para bellum“ je snad protimluv, totiž *bojovat* za *m
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
 Právem se stává to, co většina za právo prohlásí (Aristotelés). V proletariátu člověk halekat nemohl, dnes mluvit může, ale nikdo ho neslyší
-(Jaroslav Hutka). Menšina v demokracii končí proformou, ústavní vatou, pomazáním většiny: Podívejte, máme demokracii!
-
-V komunismu menšina není žádná. Spektrum barev je pryč. Sice to je přihrávkou „podzemní kultuře“ a disentu vůbec, ale ti na povrchu
+(Jaroslav Hutka). Menšina třeba v demokracii končí proformou, ústavní vatou, pomazáním většiny: Podívejte, máme demokracii!
+V komunismu ale menšina není žádná. Vějíř barev je pryč. Sice to je přihrávkou „podzemní kultuře“ a disentu vůbec, ale ti na povrchu
 jsou spitím barev všech — šedi.
 
 > Demokracie? Ano — ale ne proboha v řečnění. V práci.
@@ -256,7 +258,7 @@ Svobodně přeloženo: *Tady si hezky sedni a seď.* Je otázkou, co by „ke sm
 > Když jsem tehdy v Praze hostoval, byla ještě pod ruskou kontrolou.
 > Pro farmářského kluka ze státu Illinois to byla zvláštní zkušenost.
 > U nás bylo všechno dostupné, a tady najednou skoro nic.
-> *Sherrill Milnes, MFDNES, 1. července 2015, A10.*
+> *Sherrill Milnes, MFDNES, 1. 7. 2015, A10.*
 
 Nelibost k demokracii je v jediném: lze vystoupat, i hluboce klesnout. Komuna ČSSR zajistila straníkům první, popřela druhé.
 Režim tak skončil na ekonomické neúnosnosti lidí, kteří svou prací byli zbyteční.
@@ -271,12 +273,11 @@ Kostohryz Demkovi (Solženicyn): „Věř svým očím, ale uším moc nevěř.�
 p.s. Opožděné reportáže
 
 > Kdo by u nás měl zájem odsoudit nevinného člověka k smrti?
-> *Mňačko, L.: Opožděné reportáže. Českosl. spis., Praha 1964, s. 42.*
+> *Mňačko, L.: Opožděné reportáže. Českosl. spis., Praha 1964, s. 42.“
 
-;
+„Uvádíš, soudružko, že ses v létech 1947-1949 zdržovala v cizině na léčení...“
 
-> Uvádíš, soudružko, že ses v létech 1947-1949 zdržovala v cizině na léčení.
-> Vysvětli, proč ses jela léčit do ciziny, když my tady máme Tatry, klimaticky
+> ...vysvětli, proč ses jela léčit do ciziny, když my tady máme Tatry, klimaticky
 > rovněž vhodné. Současně rozveď podrobněji svou činnost z tohoto období...
 > *Ibid., s. 107.*
 
