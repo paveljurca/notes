@@ -26,7 +26,9 @@ by pressing [ Win+R ] and type *cmd*
     % rundll32.exe appwiz.cpl,NewLinkHere .
 
 In that wizard locate our scan.bat
-and append it with *%RANDOM%*.
+and append it with *%RANDOM%*
+
+![SCANNER shortcut](d/scanner.png)
 
 ## ls when cd
 
@@ -56,7 +58,7 @@ source: [Desktop Entry Specification](https://developer.gnome.org/desktop-entry-
 
 ## SSH SendEnv
 
-![$LC_ALL](m/lc-all.png)
+![$LC_ALL](d/lc-all.png)
 
 If this has ever happened to you,
 you also know that this exhibits
@@ -75,5 +77,4 @@ Or simply use [env](https://wiki.archlinux.org/index.php/Environment_variables)
 
     % env LANG=C ssh realname@hostname
 
-(pj)
 

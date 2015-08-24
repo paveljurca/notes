@@ -104,7 +104,7 @@ or to check the [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
     highlight LineNr ctermfg=238
     Ctrl^D
 
-![Vim](m/vim.png)
+![Vim](d/vim.png)
 (gnome-terminal)
 
 * [vi reference page](http://www.kichwa.com/quik_ref/vi_ref.html)
@@ -182,12 +182,11 @@ section and having it like:
        <string>#eab700</string>
     </dict>
 
-![Sublime](m/sublime.png)
+![Sublime](d/sublime.png)
 
 To determine the `scope` just highlight
 a variable/keyword/function/whatever and
 then press `Ctr+Alt+Shift+P` while it's gonna
 show up in a status bar.
 
-(pj)
 
