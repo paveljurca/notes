@@ -88,26 +88,29 @@ U Edvarda Beneše to byl fanatický strach z německého *Drang nach Osten* i op
 > politickými realisty, kteří vědí co chtějí a co mohou.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vydání), s. 372.*
 
-Když jsme se báli Habsburků, prišli Němci. Když jsme se báli Němců, přišli Rusové.
-A když se dnes bojíme Rusů, možná přijdou Rusové, možná naše vlastní malomyslnost.
+Báli jsme se Habsburků, prišli Němci. Báli jsme se Němců, přišli Rusové.
+Nebojíme se dnes Rusů, možná přijdou Rusové, možná (ne)kultura Arábie
+nebo druhá třetí tvář Číny, možná postačí slizkost EUmanity.
 
 Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila. Bylo nám příjemnější vědět *kdo nejsme* než *kdo jsme*. Právě škarohlídství národa znemožní stát
 přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja věří). Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
 *Imanentní* přízemnost a zištnost je jedna noha v suchu (demobilisace 6. října '38). *Transcendentní* přesah a víra jsou naopak obě chodidla až po nozdry ve vodě
 (mobilisace 23. září '38). Mnichovský diktát ale jistě z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím nemůže.
 
-Proto plavat a třeba i — tonout, pro něco. Za něčím stát. Věříme vně; dovnitř víme, že sami (o sobě) jsme k ničemu. Nezdolní pro „vyšetřovatele“
-obou totalit byli právě duchovní. Rok 1945: české Němce zapřít. Rok 1989: koupat se, ale nebýt mokří. Omak sametu evokoval, že to lze. Obě naše reakce z těch dní
-a měsíců byly na hlavu. '45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou se nikdo nepodíval, kdo je uvnitř. Ze županu dodnes kape
-nám přímo na čelo. Po 26 letech jsou úderníci stále s námi. Každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
-milionů, asi na motyky, srpy a kladiva. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
+Proto plavat a třeba i — tonout, pro něco. Věříme vně. Dovnitř víme, že sami (o sobě) jsme k ničemu. Nezdolní pro „vyšetřovatele“
+obou totalit byli právě duchovní. Asi díky jizvě z divokého odsunu v pětačtyřicátém jsme naopak devětaosmdesátým zahrnuli všechny objetím
+a kuponovou knížkou. Devízou bylo: vykoupáme se, ale nebudeme mokří! Omak sametu evokoval, že to lze.
+'45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou nikdo neprohlédl, kdo je uvnitř.
+I po 26 letech se úderníci smějí s námi, ale komu by to vadilo, *vždyť nikomu nic nedělají, to oni jen tak, jsou to ale malí nezbedové*.
+No kdo by si je nepodrbal! Každé 4 roky jim vyhradíme pár lavic Parlamentu ČR a něco málo
+milionů, asi na motyky a kladiva. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596)
 pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 193.*
 
-Socialismus zákonitě chutná levně (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
+Socialismus zákonitě chutná třeskutě levně (obšírněji V. Havel ve [Slově o slovu](http://vaclavhavel.cz/showtrans.php?cat=clanky&val=78_clanky.html&typ=HTML)).
 A kdo chce jistoty, může popojít — v čase. Bezelstně dnes idylu pětiletek vábí [mladí trockisté](http://solidarita.socsol.cz/). Ti zasnění však nechtějí zpět
 režim, ale čas! A taky viníka (sacharid) pro jejich myšlenkovou soustavu.
 
