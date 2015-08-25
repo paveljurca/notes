@@ -197,6 +197,8 @@ neměnný matematický předpoklad
 k tématu
 * _barter_
 výměnný obchod
+* _benigní_
+vlídný
 * _beau monde_
 vznešený svět
 * _bedekr_
