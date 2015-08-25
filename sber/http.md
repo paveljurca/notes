@@ -288,6 +288,8 @@ __misc__
 * [Peter Hoferek](http://www.hogy.sk/)
 * [Dan Shapiro](http://www.danshapiro.com/blog/)
 * [Adam Pash](http://adampash.com/)
+* [Aral Balkan](https://ar.al/notes/)
+* [ind.ie/blog](https://ind.ie/blog/)
 
 ## podcasts
 
