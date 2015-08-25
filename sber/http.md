@@ -287,6 +287,7 @@ __misc__
 * [Aurelio Gazzera](http://bozoum-czeck.blogspot.cz/)
 * [Peter Hoferek](http://www.hogy.sk/)
 * [Dan Shapiro](http://www.danshapiro.com/blog/)
+* [Adam Pash](http://adampash.com/)
 
 ## podcasts
 
