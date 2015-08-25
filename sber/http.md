@@ -286,6 +286,7 @@ __misc__
 * [Randy Skopecek](http://www.spockecek.com/author/randy-skopecek/)
 * [Aurelio Gazzera](http://bozoum-czeck.blogspot.cz/)
 * [Peter Hoferek](http://www.hogy.sk/)
+* [Dan Shapiro](http://www.danshapiro.com/blog/)
 
 ## podcasts
 
