@@ -8,7 +8,7 @@ Jít, upadat slovy.
 
 Ni vějíř krás  
 nezastře boly.  
-Nahmatat sráz.  
+Hmátnout, cítit sráz.  
 Jitřit tmu slovy.
 
 
