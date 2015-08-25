@@ -116,7 +116,8 @@ __misc__
 * [Cato Institute](http://www.cato.org/publications/archives/studies)
 * [The Foundation for Economic Education](https://fee.org/resources)
 * [Zero Hedge](http://www.zerohedge.com/archive)
-* [Bloc.cz](http://www.bloc.cz/)
+* [The Baffler](http://thebaffler.com/)
+* [Daniel Schauenberg](https://unwiredcouch.com/)
 
 ## blog
 
@@ -290,6 +291,7 @@ __misc__
 * [Adam Pash](http://adampash.com/)
 * [Aral Balkan](https://ar.al/notes/)
 * [ind.ie/blog](https://ind.ie/blog/)
+* [Bloc.cz](http://www.bloc.cz/)
 
 ## podcasts
 
