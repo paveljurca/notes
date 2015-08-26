@@ -1,5 +1,20 @@
-Migrace
-=======
+Migrujme
+========
+
+> On totiž nikdo z kompetentních evropských politiků není schopen
+> Evropanům srozumitelně vysvětlit ani to, jaký plán na řešení celé
+> této krize EU vlastně má. Přijme snad Evropa všechny uprchlíky
+> světa? Jsou jich desítky milionů. Nebo snad jednoho dne jejich
+> příliv zastaví?
+> *Prinz, J.: Ruce pryč od mešit. Katolický týdeník, 25. 8. 2015, s. 8.*
+
+
+uprchlík a migrant
+
+
+paranoia NKVD za válečných let, kdy překročení hranice Svazu
+znamenalo 5 let na stavbě železnice za polárním kruhem?
+
 
 
 
