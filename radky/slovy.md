@@ -1,14 +1,14 @@
 Slovy
 =====
 
-Osikou lká hlas,  
-v ohnutí stvoly.  
-„Nač?“ hlouběji v nás.  
+Osikou lká hlas.  
+V ohnutí vrou stvoly.  
+„Nač?“ dere se snáz.  
 Jít, upadat slovy.
 
-Ni vějíř krás  
-nezastře boly.  
-Hmátnout, cítit sráz.  
+Vějíř ohnilý v nás  
+zastřel klas — plody.  
+Hmátnout, sevřít sráz.  
 Jitřit tmu slovy.
 
 
