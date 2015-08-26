@@ -292,6 +292,7 @@ __misc__
 * [Aral Balkan](https://ar.al/notes/)
 * [ind.ie/blog](https://ind.ie/blog/)
 * [Bloc.cz](http://www.bloc.cz/)
+* [Břetislav Olšer](http://olser.cz/)
 
 ## podcasts
 
