@@ -26,8 +26,13 @@ znamenalo 5 let na stavbě železnice za polárním kruhem?
 
 
 
+Odkud lze dnes mít vztah vztah k půdě? Z ulic hypermarketu?
 
-
+> Když sedlák zaseje obilí na podzim, ví, že musí čekat
+> až na příští jaro, léto — nelze sklízet hned. To je
+> moudrost, která nás upozorňuje na souvislost s děním
+> i s dějinami — učit se trpělivosti od trávy.
+> *Msgre. prof. PhDr. ThDr. Karel Vrána*
 
 
 
