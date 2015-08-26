@@ -1155,6 +1155,8 @@ podmínečné propuštění
 úryvek
 * _paternalismus_
 nadřazenost
+* _patina_
+omšelost
 * _patologický_
 chorobný
 * _patos_
