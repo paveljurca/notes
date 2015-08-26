@@ -294,6 +294,7 @@ __misc__
 * [Bloc.cz](http://www.bloc.cz/)
 * [Břetislav Olšer](http://olser.cz/)
 * [Karel Pacner](http://karelpacner.cz/?str=hom)
+* [Vít Blaha](https://mepoznamky.wordpress.com/)
 
 ## podcasts
 
