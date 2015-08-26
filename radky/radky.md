@@ -15,13 +15,6 @@ nejdále pravdě.
 
 *
 
-Varuj se spět  
-blíž věcem.  
-Dál — jsi vším,  
-srdcem.
-
-*
-
 Řádky  
 vzpomenout.  
 Číst zpátky.  

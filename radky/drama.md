@@ -58,7 +58,7 @@ víra
 
 *
 
-blíž věcem  
+blíž věcem —  
 znát stěží  
 dál srdcem  
 tehdy záleželo
