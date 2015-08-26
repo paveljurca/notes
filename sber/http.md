@@ -293,6 +293,7 @@ __misc__
 * [ind.ie/blog](https://ind.ie/blog/)
 * [Bloc.cz](http://www.bloc.cz/)
 * [Břetislav Olšer](http://olser.cz/)
+* [Karel Pacner](http://karelpacner.cz/?str=hom)
 
 ## podcasts
 
