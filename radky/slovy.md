@@ -2,13 +2,13 @@ Slovy
 =====
 
 Osikou lká hlas.  
-V ohnutí vrou stvoly.  
-„Nač?“ dere se snáz.  
+Vrou znavené stvoly.  
+„Nač?“ vykřičet snáz.  
 Jít, napadat slovy.
 
 Vějíř ohnilý v nás  
 zastřel klas — plody.  
-Hmátnout, sevřít sráz.  
+Hmátnout, sejít sráz.  
 Jitřit tmu slovy.
 
 
