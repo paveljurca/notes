@@ -29,6 +29,14 @@ takovéto ideologické metafory je zároveň pánem nad její
 interpretací, jež tu nahrazuje skutečnost.
 (Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 287.)
 
+[..] strach, který u většiny dnešních činitelů a komentátorů
+to slovo vyvolává, je možná i podvědomě usvědčující: neznamená
+totiž nic jiného než strach myslet. Navrhuji (nejen v tomto bodě)
+vrátit se ke Komenskému. Ovšem ke Komenskému živému, například
+k jednomu z prvních teoretiků a kritiků médií, nikoli k *Učiteli
+národů* a k dalším partiovým metaforám, jimiž učinilo naše školství
+z živého klasika jednu velkou nástěnnou floskuli.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 292.)
 
 SOVA
 ====
