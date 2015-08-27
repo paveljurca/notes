@@ -295,6 +295,7 @@ __misc__
 * [Břetislav Olšer](http://olser.cz/)
 * [Karel Pacner](http://karelpacner.cz/?str=hom)
 * [Vít Blaha](https://mepoznamky.wordpress.com/)
+* [Prvopodstata.cz](http://prvopodstata.blog.cz/)
 
 ## podcasts
 
