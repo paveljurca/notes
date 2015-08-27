@@ -24,6 +24,11 @@ vždy raději namísto 'lidských faktorů', oblíbených v Tvaru, zcela
 nevědecky dám přednost formulaci, že 'selhali lidé' [..]
 (Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 23.)
 
+[..] už nežijeme ve světě jevů, ale jejich výkladů, uživatel
+takovéto ideologické metafory je zároveň pánem nad její
+interpretací, jež tu nahrazuje skutečnost.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 287.)
+
 
 SOVA
 ====
