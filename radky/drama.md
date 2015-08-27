@@ -1,16 +1,16 @@
 Drama
 =====
 
-krok nohy  
+krok  
 dvě vlohy  
 spolu  
-žas něhy  
-rdít se  
-u „My“  
-obléhat  
+do něhy  
+prožít  
 snář sovy  
 jak různě  
-na zemi
+na zemi  
+rdít se —  
+u „My“
 
 *
 
