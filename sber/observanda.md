@@ -38,6 +38,12 @@ národů* a k dalším partiovým metaforám, jimiž učinilo naše školství
 z živého klasika jednu velkou nástěnnou floskuli.
 (Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 292.)
 
+Obávám se, že *vyváženost* v tomto českém pojetí [..]
+je příkladem onoho pozitivistického strašidla, jež měl
+na mysli F.X. Šalda, když říkal, že tzv. kritická „objektivita“
+je jen zdvořilým opisem slova impotence.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 327.)
+
 SOVA
 ====
 
