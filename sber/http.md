@@ -118,6 +118,7 @@ __misc__
 * [Zero Hedge](http://www.zerohedge.com/archive)
 * [The Baffler](http://thebaffler.com/)
 * [Daniel Schauenberg](https://unwiredcouch.com/)
+* [EDUCAUSE Review](http://er.educause.edu/editors-picks)
 
 ## blog
 
