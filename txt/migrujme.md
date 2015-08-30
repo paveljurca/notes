@@ -1,6 +1,15 @@
 Migrujme
 ========
 
+#### posledni radek ####
+
+> Na svoji loďku můžeme přijmout
+> jen tolik trosečníků, aby se nepotopila.
+> *[Pavel Bělobrádek](https://twitter.com/pavelbelobradek)*
+
+#############
+
+
 > On totiž nikdo z kompetentních evropských politiků není schopen
 > Evropanům srozumitelně vysvětlit ani to, jaký plán na řešení celé
 > této krize EU vlastně má. Přijme snad Evropa všechny uprchlíky
