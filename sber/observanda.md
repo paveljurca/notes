@@ -44,6 +44,16 @@ na mysli F.X. Šalda, když říkal, že tzv. kritická „objektivita“
 je jen zdvořilým opisem slova impotence.
 (Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 327.)
 
+Co že tyto nevinné „tiky“ [..] Někdy zakrývají i prozrazují
+asi jen drobnou neurózu. Nebo prostou nepohotovost, neschopnost
+reagovat. Jindy malou slovní zásobu, malou sečtělost, popřípadě
+stereotyp, křeč: úbytě jazykové tvořivosti. Ještě jindy snahu
+zalíbit se lidu (*prostě, hele, víte co, no tak, no tak podívejte,
+podívejte se*) nebo naopak „sebe-inscenační“ úsilí vypadat
+inteligentněji, moudřeji, složitěji (*ve své podstatě, nicméně*),
+vyjádřit se „trendověji“, býti „in“ (*na druhou stranu* místo *ale* atd.).
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 30.)
+
 SOVA
 ====
 
