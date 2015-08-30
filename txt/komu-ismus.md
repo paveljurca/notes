@@ -92,7 +92,7 @@ Báli jsme se Habsburků, prišli Němci. Báli jsme se Němců, přišli Rusov�
 Nebojíme se dnes Rusů, možná přijdou Rusové, možná (ne)kultura Arábie
 nebo druhá třetí tvář Číny, možná postačí slizkost EUmanity.
 
-Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila. Bylo nám příjemnější vědět *kdo nejsme* než *kdo jsme*. Právě škarohlídství národa znemožní stát
+Mantra z éry Listopadu *Nejsme jako oni!* — nás samé — obnažila. Bylo nám příjemnější vědět *kým nejsme* před *kým jsme*. Právě škarohlídství národa znemožní stát
 přímě za jednou idejí, tj. odevzdat se, věřit (i světská ideja věří). Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak nás hřeje.
 *Imanentní* přízemnost a zištnost je jedna noha v suchu (demobilisace 6. října '38). *Transcendentní* přesah a víra jsou naopak obě chodidla až po nozdry ve vodě
 (mobilisace 23. září '38). Mnichovský diktát ale jistě z celého chleba důvodů být učebnicový předěl mezi češstvím a čecháčkovstvím nemůže.
@@ -283,6 +283,12 @@ p.s. Opožděné reportáže
 > ...vysvětli, proč ses jela léčit do ciziny, když my tady máme Tatry, klimaticky
 > rovněž vhodné. Současně rozveď podrobněji svou činnost z tohoto období...
 > *Ibid., s. 107.*
+
+p.p.s. 
+
+> Zabijete-li jednoho, je to vražda.
+> Zabijete-li jich milion, je to statistika.
+> *Josif Vissarionovič Stalin*
 
 
 * __—__
