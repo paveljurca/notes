@@ -538,6 +538,12 @@ Slova
 > tak jsme vážně v prdeli.
 > *Karel Steigerwald, Má vzdálená vlast*
 
+.
+
+> Když se na sebe člověk podívá,
+> tak si prostě uvědomí ty mantinely.
+> *Bohumil Klepl*
+
 
 * __—__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
