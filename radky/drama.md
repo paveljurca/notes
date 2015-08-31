@@ -5,11 +5,13 @@ krok
 dvě vlohy  
 spolu  
 do něhy  
-prožít  
-snář sovy  
+žas —  
+a snář sovy  
 jak různě  
 na zemi  
-rdít se —  
+jen  
+rdít se
+
 u „My“
 
 *
