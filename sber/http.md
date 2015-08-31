@@ -118,6 +118,7 @@ __misc__
 * [Zero Hedge](http://www.zerohedge.com/archive)
 * [The Baffler](http://thebaffler.com/)
 * [Daniel Schauenberg](https://unwiredcouch.com/)
+* [EDUCAUSE Review](http://er.educause.edu/editors-picks)
 
 ## blog
 
@@ -296,6 +297,10 @@ __misc__
 * [Karel Pacner](http://karelpacner.cz/?str=hom)
 * [Vít Blaha](https://mepoznamky.wordpress.com/)
 * [Prvopodstata.cz](http://prvopodstata.blog.cz/)
+* [Avdi Grimm](http://devblog.avdi.org/author/avdi/)
+* [Mary Lou](http://tympanus.net/codrops/author/crnacura/)
+* [blog.endpoint.com](http://blog.endpoint.com/)
+* [John Polacek](http://johnpolacek.com/)
 
 ## podcasts
 

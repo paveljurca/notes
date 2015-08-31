@@ -64,14 +64,13 @@ then
 Have a look at the `/etc/grub.d/30_os-prober` file
 particularly those `--class windows` lines.
 
-Additionaly, if you're on [openSUSE](https://www.opensuse.org) you should
-now about their lovely penguin splash screen ([gfxboot](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen)).
+p.s. [penguin splash screen](https://en.opensuse.org/SDB:Animated_penguin_GRUB_splash_screen)
 
 ## Vim setup
 
-The following forces [Vim](http://mamchenkov.net/wordpress/2004/05/10/vim-for-perl-developers/)
-to translate tabs into 4 spaces, use `M` to comment out lines
-or to check the [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
+The following forces [Vim](https://github.com/tpope/vim-sensible)
+to change tabs for 4 spaces, use `M` to comment out lines
+or to check [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
 
     % cat >> ~/.vimrc
     set number
@@ -107,6 +106,7 @@ or to check the [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
 ![Vim](d/vim.png)
 (gnome-terminal)
 
+* [Vim for Perl devs](http://mamchenkov.net/wordpress/2004/05/10/vim-for-perl-developers/)
 * [vi reference page](http://www.kichwa.com/quik_ref/vi_ref.html)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [vi-improved](http://vi-improved.org/)
@@ -186,7 +186,7 @@ section and having it like:
 
 To determine the `scope` just highlight
 a variable/keyword/function/whatever and
-then press `Ctr+Alt+Shift+P` while it's gonna
+press `Ctr+Alt+Shift+P`, it's gonna
 show up in a status bar.
 
 

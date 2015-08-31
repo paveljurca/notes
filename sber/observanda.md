@@ -24,6 +24,35 @@ vždy raději namísto 'lidských faktorů', oblíbených v Tvaru, zcela
 nevědecky dám přednost formulaci, že 'selhali lidé' [..]
 (Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 23.)
 
+[..] už nežijeme ve světě jevů, ale jejich výkladů, uživatel
+takovéto ideologické metafory je zároveň pánem nad její
+interpretací, jež tu nahrazuje skutečnost.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 287.)
+
+[..] strach, který u většiny dnešních činitelů a komentátorů
+to slovo vyvolává, je možná i podvědomě usvědčující: neznamená
+totiž nic jiného než strach myslet. Navrhuji (nejen v tomto bodě)
+vrátit se ke Komenskému. Ovšem ke Komenskému živému, například
+k jednomu z prvních teoretiků a kritiků médií, nikoli k *Učiteli
+národů* a k dalším partiovým metaforám, jimiž učinilo naše školství
+z živého klasika jednu velkou nástěnnou floskuli.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 292.)
+
+Obávám se, že *vyváženost* v tomto českém pojetí [..]
+je příkladem onoho pozitivistického strašidla, jež měl
+na mysli F.X. Šalda, když říkal, že tzv. kritická „objektivita“
+je jen zdvořilým opisem slova impotence.
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 327.)
+
+Co že tyto nevinné „tiky“ [..] Někdy zakrývají i prozrazují
+asi jen drobnou neurózu. Nebo prostou nepohotovost, neschopnost
+reagovat. Jindy malou slovní zásobu, malou sečtělost, popřípadě
+stereotyp, křeč: úbytě jazykové tvořivosti. Ještě jindy snahu
+zalíbit se lidu (*prostě, hele, víte co, no tak, no tak podívejte,
+podívejte se*) nebo naopak „sebe-inscenační“ úsilí vypadat
+inteligentněji, moudřeji, složitěji (*ve své podstatě, nicméně*),
+vyjádřit se „trendověji“, býti „in“ (*na druhou stranu* místo *ale* atd.).
+(Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 30.)
 
 SOVA
 ====
