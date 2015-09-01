@@ -1,6 +1,26 @@
 Observanda
 ==========
 
+MOBERG
+======
+
+Ti, kdož zamykají dveře, nevěří svému Pánubohu.
+Byl to prohřešek pochybnosti, nejtěžší mezi všemi
+lidskými prohřešky.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
+
+A Danjel jí na to odpověděl, že musíme naslouchat
+více Bohu než lidem. [..] Ten, kdo se staví proti
+vrchnosti a jejím nařízením, ten si znepřátelí
+kněžstvo a vede se mu zle. Ale Danjel odpověděl,
+že člověk, který nevzbuzujej pohoršení a smiřuje
+se [..] nejde v zakrvácených stopách Ježíšových.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 71.)
+
+
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
+
+
 DAGERMAN
 ========
 
