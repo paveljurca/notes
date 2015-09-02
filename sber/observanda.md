@@ -36,6 +36,16 @@ Ubozí rodiče ho po celý den oplakávali jako utopenýho
 a mrtvýho, ale zejtra se za něho budou stydět, že žije.
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 39.)
 
+Všichni lidé potřebují mít nějaký cíl, alespoň pokud
+jsou mladí, tak jako teď ona a on. Pro co jiného by
+jinak měli žít? [..] Lidé, kteří jsou ještě mladí,
+zdraví a plní síly, nemohou udělat nic rozumnějšího,
+než vystěhovat se do Spojených států severoamerických.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 95.)
+
+
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
+
 
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
 
