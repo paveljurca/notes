@@ -301,6 +301,7 @@ __misc__
 * [Mary Lou](http://tympanus.net/codrops/author/crnacura/)
 * [blog.endpoint.com](http://blog.endpoint.com/)
 * [John Polacek](http://johnpolacek.com/)
+* [Viliam Pucik](http://viliampucik.blogspot.com/)
 
 ## podcasts
 
