@@ -17,6 +17,25 @@ kněžstvo a vede se mu zle. Ale Danjel odpověděl,
 se [..] nejde v zakrvácených stopách Ježíšových.
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 71.)
 
+Vyučovací období trvalo na každém místě tak dlouho,
+jak o tom sám učtelský rozhodl. [..] Z vlastního
+popudu se tu a tam odvážil naučit je něco i z nicotných
+a světských předmětů: počty, psaní, dějiny národa
+a zeměpis.
+=> ŠVÉDSKO, 1836
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 9.)
+
+Götský dvorní soud také rozhodl, aby Ake Svensson
+a sedm dalších hlavních zástupců sekty, „kteří
+prokázali své šílenství mnoha způsoby a opravdu
+mimořádně“, bylo odvezeno do danvikského blázince
+[..]
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 10.)
+
+Ubozí rodiče ho po celý den oplakávali jako utopenýho
+a mrtvýho, ale zejtra se za něho budou stydět, že žije.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 39.)
+
 
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
 
@@ -25,7 +44,8 @@ DAGERMAN
 ========
 
 Ano, doktor Schumacher je bezpochyby pro svou stranu dobrý,
-otázkou však je, jestli není až příliš dobrý, to jest nebezpečný [..]
+otázkou však je, jestli není až příliš dobrý, to jest nebezpečný
+[..]
 (Dagerman, S.: Německý podzim. Mot komiks, Praha 2013, s. 110.)
 
 Je to patetické setkání dvou druhů namazaných chlebů, dvou druhů
