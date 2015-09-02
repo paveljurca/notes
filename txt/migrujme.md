@@ -43,6 +43,15 @@ Odkud lze dnes mít vztah vztah k půdě? Z ulic hypermarketu?
 > i s dějinami — učit se trpělivosti od trávy.
 > *Msgre. prof. PhDr. ThDr. Karel Vrána*
 
+XYZ
+
+> There is all the difference in the world between
+> treating people equally and attempting to make them
+> equal. While the first is the condition of a free
+> society, the second means as De Tocqueville describes
+> it, a new form of servitude.
+> *Friedrich Hayek*
+
 
 
 
