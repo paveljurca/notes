@@ -303,6 +303,7 @@ __misc__
 * [blog.endpoint.com](http://blog.endpoint.com/)
 * [John Polacek](http://johnpolacek.com/)
 * [Viliam Pucik](http://viliampucik.blogspot.com/)
+* [Nate Weiner](http://blog.ideashower.com/)
 
 ## podcasts
 
