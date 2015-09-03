@@ -65,6 +65,7 @@ __design__
 * [FFFFOUND!](http://ffffound.com/)
 * [Dezeen](http://www.dezeen.com/)
 * [UXPin](http://blog.uxpin.com/)
+* [InVision](http://blog.invisionapp.com/)
 
 __misc__
 * [Aeon Ideas](http://ideas.aeon.co/)
