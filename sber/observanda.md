@@ -43,8 +43,12 @@ zdraví a plní síly, nemohou udělat nic rozumnějšího,
 než vystěhovat se do Spojených států severoamerických.
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 95.)
 
-
-(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
+A tak přece vedle sebe nemohou sedět beze slova celou
+cestu až do Ameriky. Musí spolu mluvit, i ona musí
+promluvit. Ale s dívkami neměl Robert žádné zkušenosti,
+sotva kdy vzal nějaké děvče za ruku. Co jim asi tak
+má člověk říci, aby mu odpověděly?
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 171.)
 
 
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
