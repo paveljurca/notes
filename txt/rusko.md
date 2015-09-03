@@ -196,6 +196,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * [Romancov](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
 [Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
 * [Ukrajina](https://medium.com/@Hromadske/ukraines-decentralization-explained-7b83e1897dfc)
+* Fučík, J.: V zemi, kde zítra již znamená včera
 * Gide, A.: [Návrat ze SSSR](http://search.mlp.cz/cz/titul/navrat-ze-sssr-a-poopraveni-navratu-ze-sssr/4125533/)
 * Masaryk, T.G.: O bolševismu
 * Remarque, E.M.: Miluj bližního svého
