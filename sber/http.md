@@ -119,6 +119,7 @@ __misc__
 * [The Baffler](http://thebaffler.com/)
 * [Daniel Schauenberg](https://unwiredcouch.com/)
 * [EDUCAUSE Review](http://er.educause.edu/editors-picks)
+* [Babylon](http://www.ibabylon.cz/archiv)
 
 ## blog
 
