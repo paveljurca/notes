@@ -1,17 +1,23 @@
 Řádky
 =====
 
-Zastihnout svět  
+Stíhat svět  
 dřímotem vidiny.  
-Procitat zpět,  
-vlasy tnou šediny.
+Zpět!  
+Vlasy tnou šediny.
+
+*
+
+Člověk když ulehá,  
+dobíhá tím svět,  
+jenž ty oči viděly.
 
 *
 
 Stít tělo, by  
 pomohlo se hlavě.  
 *Zatají oči*, že  
-nejdále pravdě.
+na hony pravdě.
 
 *
 
@@ -19,5 +25,15 @@ nejdále pravdě.
 vzpomenout.  
 Číst zpátky.  
 Hynout.
+
+*
+
+vozka a soby  
+že jedou  
+do další doby  
+potáhnem spolu — hlady  
+temeno hlavy  
+vnuknutí?  
+Kdež — stavy!
 
 
