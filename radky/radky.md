@@ -9,7 +9,7 @@ Vlasy tnou šediny.
 *
 
 Člověk když ulehá,  
-dobíhá tím svět,  
+doběhne svět,  
 jenž ty oči viděly.
 
 *
