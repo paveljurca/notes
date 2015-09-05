@@ -1,16 +1,16 @@
 Řádky
 =====
 
-Stíhat svět  
-dřímotem vidiny.  
-Zpět!  
-Vlasy tnou šediny.
+svět  
+závoj a vidiny  
+hned  
+vlasy tnou šediny
 
 *
 
-Člověk když ulehá,  
-doběhne svět,  
-jenž ty oči viděly.
+člověk spaním  
+doběhl svět  
+jenž ty oči viděly
 
 *
 
@@ -28,7 +28,7 @@ Hynout.
 
 *
 
-vozka a soby  
+vozka a sobi  
 že jedou  
 do další doby  
 potáhnem spolu — hlady  
