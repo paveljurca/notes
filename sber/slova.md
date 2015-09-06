@@ -415,6 +415,12 @@ Slova
 
 .
 
+> Člověk má vždycky udělat všechno, co se udělat dá.
+> Nikdy si nemá myslet, že už není pomoci.
+> *Vilhelm Moberg, Vystěhovalci*
+
+.
+
 > Vesmír byl stvořen proto,  
 > aby skončil knihou.
 > *Stéphane Mallarmé*

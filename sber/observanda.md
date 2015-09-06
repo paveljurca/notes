@@ -50,8 +50,50 @@ sotva kdy vzal nějaké děvče za ruku. Co jim asi tak
 má člověk říci, aby mu odpověděly?
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 171.)
 
+Žádnej chlap na tom místě nevydržel déle než tři měsíce.
+Kdo zůstal déle, už nikdy se nevzpamatoval, ztratil navždycky
+svou mladistvou sílu. Takoví chlapi byli vyřízeni na celý
+život.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 284.)
 
-(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 70.)
+Kdyby neměli k ruce kalendář, zbloudili by v čase stejně
+jako teď bloudili v prostoru. Křížek u uplynulých dní dodával
+jejich životu řád a smysl.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 300.)
+
+Vždycky si říkal, nic není takové, aby se to nedalo změnit.
+Když to člověk zkusí, může to třeba i změnit. Musí se alespoň
+pokusit.
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 311.)
+
+Když už člověk jednou ví, že na otázku není odpověď, neměl
+by se víc ptát. Jen hlupák chodí kolem dokola a hledá [..]
+(Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 321.)
+
+Silný, vysoký mladší chlapík se uhodil v nízké kajutě
+do hlavy, když sestupoval po schůdkách, a kapitán mu řekl:
+„Pozor na hlavu! Budeš ji v Americe potřebovat!“
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
+Danjel povídá, že se tedy splnilo proroctví, které předpovídalo,
+že až se bude blížit konec světa, budou jezdit vozy bez koní.
+[..] železné dráhy jsou hříšným výmyslem lidí, kteří vzdálili
+svou duši Stvořiteli, a jako všechny mechanismy vedou k neštěstí
+a k bídě bohatých i chudých. Parní síla prý oslabuje a unavuje
+duševní i tělesné síly a podporuje lenost, neřest a nemravnost.
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 61.)
+
+
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
+
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
+
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
+
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
 
 DAGERMAN
