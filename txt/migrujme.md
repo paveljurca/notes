@@ -1,6 +1,20 @@
 Migrujme
 ========
 
+Nerad bych tahal za tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku. Pozdním průjezdem za bubnování tlumičů linky č. 177 utopenými sídlišti je skutečnosti dost — sedí na každém sedadle. Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Nerozumím dvěma slovům: *My* a *Evropa*.
+
+> Mojí nadějí je, že se shodneme nejen na číslech, kolik lidí ubytujeme.
+> Přitom budeme mít na paměti, že Turecko má 2 miliony, Jordánsko 900 000
+> uprchlíků. My jsme ta bohatá Evropa.
+> *Federica Mogheriniová, [ČT 5. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100905/obsah/420972-jednani-ministru-zahranici-o-uprchlicich)*
+
+Nepomáháme lidem, ale číslům. Protože ty se lépe škrtají.
+
+
+
+
+
+
 #### posledni radek ####
 
 > Na svoji loďku můžeme přijmout
@@ -130,11 +144,6 @@ USA
 Australie
 https://www.reflex.cz/clanek/zpravy/64744/australie-nasla-zpusob-jak-zastavit-vlnu-imigrantu-evropa-si-z-toho-priklad-nebere.html
 
-Zalidněnost na km^2
-
-1. Evropa XYZ
-2. 
-
 
 uprchlíci = ti bohatí;
 skutečně potřební cestovat nemohou
@@ -165,4 +174,32 @@ http://www.parlamentnilisty.cz/arena/politologove/Profesor-Krejci-Ted-uz-zastavi
 http://www.iom.int/news/migrant-arrivals-sea-italy-top-170000-2014
 http://www.mises.cz/clanky/libertariansky-pristehovalecky-hlavolam--608.aspx
 http://www.rozhlas.cz/plus/nazory/_zprava/1502458
+
+=====
+
+Zalidněnost na km^2
+
+1. Evropa XYZ
+2. 
+
+> Tolik lidí ještě nikdy na jednom místě neviděl. Přišly sem už
+> před nimi spousty lidí, o tom se teď mohou přesvědčit, a každý
+> den přijíždějí další, další lodě s novými spoustami lidí. Možná,
+> že je napálili, možná už teď je Amerika přelidněná.
+> *Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 35.*
+
+
+co vlastní nezaměstnanost, nadbytečnost mladých,
+zbytečnost dnešních padesátníků 
+
+Že jsme tranzitní zemí - je výhra.
+Že jsme uprchlíky vylovili z moří - je výhra.
+Že jsme je ubytovali - je výhra.
+Že stavíme koncentráky s kapesným - je výhra.
+
+Právě to je ukázkou české malosti, kterou mluvčí dneška nesklízí, ale sejí.
+
+A teď?
+
+Kamery a objektivy popojdou, nakydají jiná mementa, my koupíme nová vydání - a <del>Evropa</del> EU obstála. A teď?
 
