@@ -83,8 +83,11 @@ a k bídě bohatých i chudých. Parní síla prý oslabuje a unavuje
 duševní i tělesné síly a podporuje lenost, neřest a nemravnost.
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 61.)
 
-
-(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+Od malička si vtloukal do hlavy, že všechno, co na půdě vyroste,
+se má ošetřovat a náležitě opatrovat. Když jednou ještě jako malý
+špunt šlápl na klasy žitného snopu, sundal mu táta kalhoty a dal
+mu ochutnat březového proutí. Měl se naučit vážit si darů půdy.
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 220.)
 
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
