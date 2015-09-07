@@ -1,18 +1,28 @@
 Migrujme
 ========
 
-Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) cejchy *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozrazují víc než křeč mluvčího. Je to hnusná a dnes i mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe! Tihle povedení „věřící“ (po jejich „fundamentalisté“) ofrankují druhé, ale dopis ani nenapíší ani nedoručí. Týdny a měsíce Středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale právě z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, a tak si mediální domy a (a)sociální sítě vytváří šum vlastní. A potentáti bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k
-
-<<<MARKED>>
-podpisu
-jenž už tak znamená méně než nic. Cílem výzvy samozřejmě není „agitovat za konkrétní kroky“. Cílem tak asi bude dohnat to, co se nestihlo ve škole.
+Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) cejchy *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozrazují víc než křeč mluvčího. Je to hnusná a dnes i mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe! Tihle povedení „věřící“ (po jejich „fundamentalisté“) ofrankují druhé, ale dopis ani nenapíší ani nedoručí. Týdny a měsíce Středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale právě z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, a tak si mediální domy a (a)sociální sítě vytváří šum vlastní. A potentáti bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k ohebnosti, úlisné lhostejnosti (nic nám nehrozí, tak se nestarejte). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem asi bude dohnat, co se nestihlo ve škole.
 
 > Dle OSN letos přijelo do Evropy 224 tisíc imigrantů.
 > To odpovídá 0,03% obyvatel. #invaze #naucmesepocitat
 > *[@terezazavadilov](https://twitter.com/terezazavadilov/status/630710476192792576)*
 
-O co jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou? Činovníci a komentátoři tím tlumočí: Řekl jsem to, ale nic jsem tím nevymyslel.
+Jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou? Všemožní i nemožní ministři, zaklínači hadů i experti přežvykují a zplošťují čas, který už týdny mohl znamenat jisté kroky. Rozplizlost ani není něčím zájmem. Roztomilá debilita lidí nad námi — je celá krize.
 
+> Ten kůň je chromý, prašivý a šilhá.  
+> Ten člověk má pravdu, ale k čemu mi ta pravda je?  
+> Jiného koně nemám.
+> *Steigerwald, K.: Marta Peschek jde do nebe.*
+
+Viktor Orbán je autoritář, ale zrovna evropská demokracie omotává nátury Arábie zápalnou šňůrou. Oni nepatří sem, jako my nepatříme tam. 
+Proč Brusel nepřejmenovat na Babylon? Hranice, jazyky, území a kultury nejsou od toho, aby k nim EU tiskla vyhlášky. Aboridžincům jsme dali kasina, ohnivou vodu. Aztékům nic.
+Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té roste nevděk a hořící předměstí.
+
+> Dokud Rakousko a Německo neřeknou jasně, že už žádné uprchlíky nepřijmou,
+> budou miliony nových migrantů přicházet do Evropy. [..] Když budeme dál
+> budit dojem, že je zveme, a taková je teď situace, budou dál přicházet
+> a my nebudeme schopni chránit naše hranice.
+> *Viktor Orbán, [ČT 7. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100907)*
 
 
 
@@ -72,11 +82,6 @@ znamenalo 5 let na stavbě železnice za polárním kruhem?
 
 
 
-
-> Ten kůň je chromý, prašivý a šilhá.  
-> Ten člověk má pravdu, ale k čemu mi ta pravda je?  
-> Jiného koně nemám.
-> *Steigerwald, K.: Marta Peschek jde do nebe.*
 
 
 
