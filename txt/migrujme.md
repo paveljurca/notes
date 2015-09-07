@@ -1,6 +1,9 @@
 Migrujme
 ========
 
+Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) cejchy *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozrazují víc než křeč mluvčího. Je to hnusná a dnes i mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe! Tihle povedení „věřící“ (po jejich „fundamentalisté“) ofrankují druhé, ale dopis ani nenapíší ani nedoručí. Týdny a měsíce Středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale právě z nečinnosti, bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, a tak si mediální domy a (a)sociální sítě vytváří šum vlastní. Mezi námi je hlucho. A potentáti bez představy, nápadu, přesahu. 
+
+[Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k podpisu, jenž už tak znamená méně než nic. Cílem výzvy samozřejmě není „agitovat za konkrétní kroky“. Cílem tak asi bude dohnat to, co se nestihlo ve škole (sic).
 
 
 
@@ -10,12 +13,14 @@ Migrujme
 > To odpovídá 0,03% obyvatel. #invaze #naucmesepocitat
 > *[@terezazavadilov](https://twitter.com/terezazavadilov/status/630710476192792576)*
 
-O co jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou?
+O co jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou? Činovníci a komentátoři tím sdělují: Řekl jsem to, ale nic jsem tím nevymyslel.
 
 
 
 
 Hladomor a hubená léta pravděpodobně není víc než samozáchovný pud Země.
+
+
 
 Děti jsou menší, vejde se jich na společné foto víc.
 
