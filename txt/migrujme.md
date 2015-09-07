@@ -1,17 +1,45 @@
 Migrujme
 ========
 
-Nerad bych tahal za tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku. Pozdním průjezdem za bubnování tlumičů linky č. 177 utopenými sídlišti je skutečnosti dost — sedí na každém sedadle. Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Nerozumím dvěma slovům: *My* a *Evropa*.
+
+
+
+
+
+> Dle OSN letos přijelo do Evropy 224 tisíc imigrantů.
+> To odpovídá 0,03% obyvatel. #invaze #naucmesepocitat
+> *[@terezazavadilov](https://twitter.com/terezazavadilov/status/630710476192792576)*
+
+O co jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou?
+
+
+
+
+Hladomor a hubená léta pravděpodobně není víc než samozáchovný pud Země.
+
+Děti jsou menší, vejde se jich na společné foto víc.
+
+
+
+
+
+EU: nemůžete fungovat v činžovním domě, kde jedni nájemníci šetří a druzí z peněz fondu na opravy platí výlety.
+
+
+Nerad bych napínal tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku. Pozdním průjezdem utopenými sídlišti za výčitek tlumičů linky č. (doplňte si) je skutečnosti dost — sedí na každém sedadle. Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Dvě slova se podivně kroutí: *My* a *Evropa*.
 
 > Mojí nadějí je, že se shodneme nejen na číslech, kolik lidí ubytujeme.
 > Přitom budeme mít na paměti, že Turecko má 2 miliony, Jordánsko 900 000
 > uprchlíků. My jsme ta bohatá Evropa.
 > *Federica Mogheriniová, [ČT 5. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100905/obsah/420972-jednani-ministru-zahranici-o-uprchlicich)*
 
-Nepomáháme lidem, ale číslům. Protože ty se lépe škrtají.
+Nepomáháme lidem, ale číslům. Lépe se škrtají.
 
 
 
+
+
+Peníze házené přes plot. O důvod víc, proč chtít do té Evropy.
 
 
 
@@ -19,7 +47,7 @@ Nepomáháme lidem, ale číslům. Protože ty se lépe škrtají.
 
 > Na svoji loďku můžeme přijmout
 > jen tolik trosečníků, aby se nepotopila.
-> *[Pavel Bělobrádek](https://twitter.com/pavelbelobradek)*
+> *[@pavelbelobradek](https://twitter.com/pavelbelobradek)*
 
 #############
 
@@ -189,17 +217,13 @@ Zalidněnost na km^2
 > *Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 35.*
 
 
-co vlastní nezaměstnanost, nadbytečnost mladých,
-zbytečnost dnešních padesátníků 
+Že jsme tranzitní zemí — je výhra.  
+Že jsme prchající vylovili z moří — je výhra.  
+Že jsme je ubytovali — je výhra.  
+Že výměnou za plot dáváme kapesné — je výhra. Kamery a objektivy popojdou, nakydají jiná mementa, my koupíme nová vydání — jen <del>Evropa</del> EU zůstane. Otázka „A teď?“ patří do dalších voleb. Třeba ale nepatří nikam.
 
-Že jsme tranzitní zemí - je výhra.
-Že jsme uprchlíky vylovili z moří - je výhra.
-Že jsme je ubytovali - je výhra.
-Že stavíme koncentráky s kapesným - je výhra.
+viz Schulz, *premyslive*
 
-Právě to je ukázkou české malosti, kterou mluvčí dneška nesklízí, ale sejí.
+Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký standard žití za vyšší. My zavřeme oči.. a pak.. budeme všichni o deset let starší.
 
-A teď?
-
-Kamery a objektivy popojdou, nakydají jiná mementa, my koupíme nová vydání - a <del>Evropa</del> EU obstála. A teď?
 
