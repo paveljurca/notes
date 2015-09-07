@@ -121,6 +121,7 @@ __misc__
 * [Daniel Schauenberg](https://unwiredcouch.com/)
 * [EDUCAUSE Review](http://er.educause.edu/editors-picks)
 * [Babylon](http://www.ibabylon.cz/archiv)
+* [České národní listy](http://www.ceskenarodnilisty.cz/ceske_narodni_listy)
 
 ## blog
 
