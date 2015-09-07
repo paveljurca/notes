@@ -305,6 +305,7 @@ __misc__
 * [John Polacek](http://johnpolacek.com/)
 * [Viliam Pucik](http://viliampucik.blogspot.com/)
 * [Nate Weiner](http://blog.ideashower.com/)
+* [Tomáš Znamenáček](http://blog.zoul.cz/)
 
 ## podcasts
 
