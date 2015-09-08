@@ -123,6 +123,7 @@ __misc__
 * [EDUCAUSE Review](http://er.educause.edu/editors-picks)
 * [Babylon](http://www.ibabylon.cz/archiv)
 * [České národní listy](http://www.ceskenarodnilisty.cz/ceske_narodni_listy)
+* [Radio Wave](http://www.rozhlas.cz/radiowave/kultura/)
 
 ## blog
 
@@ -147,9 +148,9 @@ __misc__
 * [Martin Jan Stránský](http://blog.aktualne.cz/blogy/martin-jan-stransky.php)
 * [David Simon](http://davidsimon.com/)
 * [bt3gl](https://bt3gl.github.io/)
+* [l4nc3t](http://l4nc3t.tumblr.com/)
 * [Diomidis Spinellis](http://www.spinellis.gr/blog/)
 * [threefingeredfox.net](http://threefingeredfox.net/)
-* [l4nc3t.tumblr.com](http://l4nc3t.tumblr.com/)
 * [Scott London](http://www.scottlondon.com/articles/index.html)
 * [bittersoutherner.com/stories](http://bittersoutherner.com/stories)
 * [scalability.org](https://scalability.org/)
@@ -161,7 +162,7 @@ __misc__
 * [Jeff Atwood](http://blog.codinghorror.com/)
 * [Zbyněk Dráb](http://zbyhnev.com/)
 * [Marie Doležalová](http://www.kafeacigarko.cz/)
-* [Michal Altair Valášek](http://ihned.cz/?m=authors&person[id]=16308890&article[aut_id]=16308890)
+* [Michal Valášek](http://ihned.cz/?m=authors&person[id]=16308890&article[aut_id]=16308890)
 * [Ján Simkanič](http://www.simindr.cz/)
 * [Petr Jeník](http://owww.cz/)
 * [Petr Šimeček](http://padak.keboola.com)
@@ -206,7 +207,7 @@ __misc__
 * [Jan Martínek](http://podnebi.jan-martinek.com)
 * [attopartners.com/blog](http://attopartners.com/blog)
 * [Miško Hevery](http://misko.hevery.com)
-* [Pavel Ungr](http://blog.bloxxter.cz)
+* [Pavel Ungr](http://pavelungr.pub/)
 * [vzhurudolu.cz](http://vzhurudolu.cz)
 * [Michelle Losekoot](http://ruzovapanda.blogspot.cz)
 * [Martin Hujer](http://blog.martinhujer.cz)
@@ -308,6 +309,8 @@ __misc__
 * [Viliam Pucik](http://viliampucik.blogspot.com/)
 * [Nate Weiner](http://blog.ideashower.com/)
 * [Tomáš Znamenáček](http://blog.zoul.cz/)
+* [Michal Zlatkovský](http://www.respekt.cz/socialni-site)
+* [Jaroslav Cerman](http://cermanjaroslav.blog.respekt.cz/)
 
 ## podcasts
 
