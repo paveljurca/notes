@@ -18,6 +18,10 @@ Je v mapách ještě Brusel nebo už Babylon? Hranice, jazyky, území a kultury
 > *Viktor Orbán, [ČT 7. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100907)*
 
 
+Zeptáte se, co za deset dvacet let? Humanobijci si ale vedle vás vystaví [strašáka](https://en.wikipedia.org/wiki/Straw_man) a dozvíte se, že ten strašák je necita.
+Jako pořízení psa, po pěti letech ani pes neštěkne
+
+že kvůli problémům doma  (zdravíme Spořku)
 
 
 > Dle OSN letos přijelo do Evropy 224 tisíc imigrantů.
