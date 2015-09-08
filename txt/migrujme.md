@@ -1,13 +1,7 @@
-Migrujme
-========
 
-Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) cejchy *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozrazují víc než křeč mluvčího. Je to hnusná a dnes i mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe! Tihle povedení „věřící“ (po jejich „fundamentalisté“) ofrankují druhé, ale dopis ani nenapíší ani nedoručí. Týdny a měsíce Středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale právě z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, a tak si mediální domy a (a)sociální sítě vytváří šum vlastní. A potentáti bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k ohebnosti, úlisné lhostejnosti (nic nám nehrozí, tak se nestarejte). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem asi bude dohnat, co se nestihlo ve škole.
+=======
 
-> Dle OSN letos přijelo do Evropy 224 tisíc imigrantů.
-> To odpovídá 0,03% obyvatel. #invaze #naucmesepocitat
-> *[@terezazavadilov](https://twitter.com/terezazavadilov/status/630710476192792576)*
-
-Jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou? Všemožní i nemožní ministři, zaklínači hadů i experti přežvykují a zplošťují čas, který už týdny mohl znamenat jisté kroky. Rozplizlost ani není něčím zájmem. Roztomilá debilita lidí nad námi — je celá krize.
+Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) pohlavkem *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozradí víc než křeč mluvčího. Mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe. Tím spíš platí Frostovo „Don't ever take a fence down, until you know why it was put up.“ Zmírňují něco, co sami nejsme s to dohlédnout. Ofrankují druhé, ale dopis nenapíší ani nedoručí. Týdny a měsíce středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, tak si (a)sociální sítě tkají šum vlastní. A činovníci bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k ohebnosti, lhostejnosti (nic nám nehrozí, tak se nestarejte). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem bude dohnat, co se nestihlo ve škole.
 
 > Ten kůň je chromý, prašivý a šilhá.  
 > Ten člověk má pravdu, ale k čemu mi ta pravda je?  
@@ -15,8 +9,7 @@ Jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo �
 > *Steigerwald, K.: Marta Peschek jde do nebe.*
 
 Viktor Orbán je autoritář, ale zrovna evropská demokracie omotává nátury Arábie zápalnou šňůrou. Oni nepatří sem, jako my nepatříme tam. 
-Proč Brusel nepřejmenovat na Babylon? Hranice, jazyky, území a kultury nejsou od toho, aby k nim EU tiskla vyhlášky. Aboridžincům jsme dali kasina, ohnivou vodu. Aztékům nic.
-Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té roste nevděk a hořící předměstí.
+Je v mapách ještě Brusel nebo už Babylon? Hranice, jazyky, území a kultury nejsou od toho, aby jim EU připnula kvóty. Aboridžincům jsme dali kasina, ohnivou vodu. Aztékům nic. Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té roste nevděk a hořící předměstí.
 
 > Dokud Rakousko a Německo neřeknou jasně, že už žádné uprchlíky nepřijmou,
 > budou miliony nových migrantů přicházet do Evropy. [..] Když budeme dál
@@ -26,17 +19,23 @@ Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té rost
 
 
 
-Hladomor a hubená léta pravděpodobně není víc než samozáchovný pud Země.
 
+> Dle OSN letos přijelo do Evropy 224 tisíc imigrantů.
+> To odpovídá 0,03% obyvatel. #invaze #naucmesepocitat
+> *[@terezazavadilov](https://twitter.com/terezazavadilov/status/630710476192792576)*
+
+Jsme tím tweetem k řešení blíž? Záleží, po kolika skupinky jsou, nebo že vůbec jsou? Všemožní i nemožní ministři, zaklínači hadů a experti přežvykují a zplošťují čas, který už týdny mohl znamenat jisté a vědomé kroky. Rozplizlost není něčím (vyšším) zájmem. Roztomilá debilita lidí nad námi — je celá krize.
 
 
 Děti jsou menší, vejde se jich na společné foto víc.
 
 
+Hladomor a hubená léta pravděpodobně není víc než samozáchovný pud Země.
 
 
 
-EU: nemůžete fungovat v činžovním domě, kde jedni nájemníci šetří a druzí z peněz fondu na opravy platí výlety.
+
+EU nemůže fungovat v činžovním domě, kde jedni nájemníci šetří a druzí z peněz fondu na opravy platí výlety. Řecký student Dimostenis na otázku, zdali se mají dluhy platit: „Jsme suverénní stát“ (MfD 29. 6. 2015, A9). 
 
 
 Nerad bych napínal tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku. Pozdním průjezdem utopenými sídlišti za výčitek tlumičů linky č. (doplňte si) je skutečnosti dost — sedí na každém sedadle. Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Dvě slova se podivně kroutí: *My* a *Evropa*.
@@ -125,7 +124,7 @@ https://twitter.com/suchomelP/status/599164835318919169
 
 
 
-
+nezisková turistika 
 
 
 
@@ -191,12 +190,15 @@ organizace křičí do světa, že valná
 https://twitter.com/suchomelP/status/599164835318919169
 http://hlidacipes.org/milan-zeleny-proc-cist-znovu-peroutku-ale-i-komenskeho-havlicka-a-batu/
 
+Když člověk s myší v ruce ztratí pár dní, lze se doklikat i věcí rozumných
+
 * __facebook__
 * https://www.facebook.com/zahradil/posts/10204606226539024
 * https://www.facebook.com/michal.illich/posts/10153511796143968
-* https://www.facebook.com/tomio.cz/videos/1030325556978259/
 * https://www.facebook.com/vit.kucik/posts/1077249078951945
 * https://www.facebook.com/CT24.cz/videos/10153503573159009/
+* https://www.facebook.com/photo.php?fbid=10206021652557607
+
 
 state of the art, EU
 https://www.facebook.com/daniel.steigerwald/posts/10153425792993656
@@ -225,12 +227,14 @@ Zalidněnost na km^2
 > *Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 35.*
 
 
-Že jsme tranzitní zemí — je výhra.  
+Že jsme průchozí zemí — je výhra.  
 Že jsme prchající vylovili z moří — je výhra.  
 Že jsme je ubytovali — je výhra.  
 Že výměnou za plot dáváme kapesné — je výhra. Kamery a objektivy popojdou, nakydají jiná mementa, my koupíme nová vydání — jen <del>Evropa</del> EU zůstane. Otázka „A teď?“ patří do dalších voleb. Třeba ale nepatří nikam.
 
 viz Schulz, *premyslive*
+
+Z hospod neuslyšíme „Vypadni!“ ale „Vodmigruj!“ Člověku půjde o jediné: „Aby života užil a světa prožil {NEBO TAK NĚJAK}“ (Patočka, J.: Komeniologic....
 
 Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký standard žití za vyšší. My zavřeme oči.. a pak.. budeme všichni o deset let starší.
 
