@@ -185,7 +185,7 @@ ještě stále hodně. A netřeba snad připomínat,
 *nikagda nězabudněm*.
 
 
-* __zdroje__
+* __apod.__
 * [Rusové proti Rusům](http://www.rozhlas.cz/zpravy/data/_zprava/rusove-proti-rusum-zeme-v-nevyhlasene-obcanske-valce--1484099)
 * [Vítr se vrací](http://prehravac.rozhlas.cz/audio/2876556)
 * [rok 1968](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/),
@@ -197,7 +197,7 @@ ještě stále hodně. A netřeba snad připomínat,
 [Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
 * [Ukrajina](https://medium.com/@Hromadske/ukraines-decentralization-explained-7b83e1897dfc)
 * Fučík, J.: V zemi, kde zítra již znamená včera
-* Gide, A.: [Návrat ze SSSR](http://search.mlp.cz/cz/titul/navrat-ze-sssr-a-poopraveni-navratu-ze-sssr/4125533/)
+* Gide, A.: [Návrat ze SSSR](http://www.iliteratura.cz/Clanek/34861/gide-andre-navrat-ze-sssr-a-poopraveni-navratu-ze-sssr)
 * Masaryk, T.G.: O bolševismu
 * Remarque, E.M.: Miluj bližního svého
 * Jaspers, K.: Otázka viny
@@ -206,6 +206,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * Zima, J.: Zima v Rusku
 * Zubov, A.: Dějiny Ruska 20. století
 * Dostojevskij, Gogol, Tolstoj, Puškin, apod.
+* Vaněk, K.: Charašo pán, da?
 
 __o Trockém__
 > My tři králi, my jdeme k vám,  
