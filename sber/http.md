@@ -52,6 +52,7 @@ __dev__
 * [Gigaom Research](http://research.gigaom.com/)
 * [opensource.com](http://opensource.com/)
 * [scripting.com](http://scripting.com/)
+* [ZeroPage.cz](http://zeropage.cz/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
