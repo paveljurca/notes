@@ -242,4 +242,28 @@ Z hospod neuslyšíme „Vypadni!“ ale „Vodmigruj!“ Člověku půjde o jed
 
 Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký standard žití za vyšší. My zavřeme oči.. a pak.. budeme všichni o deset let starší.
 
+> Se zástupci státu jsme se shodli, že nejvhodnější parketou,
+> kde se může do práce na zvládnutí migrační vlny zapojit také
+> církev, je **integrace** osob, které už budou mít vyřešený
+> pobytový **status** [..]
+> *P. Stanislav Přibyl, Katolický týdeník 8. 9. 2015, s. 3.*
+
+Když se i z duchovních úst trousí *integrace* namísto lidského *zapojení*,
+tedy z těch úst, kterým je *jazyk* jediným chlebem — jsme vážně v prdeli.
+
+> Je Bůh, holky? Jestli je,  
+> tak jsme vážně v prdeli.
+> *Karel Steigerwald, Má vzdálená vlast*
+
+Neúctu k člověku prokazují povinné kvóty na příchozí, povyk solidárnosti, evropské hodnoty?!
+
+prchající jsme degradovali na pejsky. Budete za "svým" imigrantem stát i za deset patnáct let?
+
+budete chtít na dovolenou, s kamarády
+
+
+Pomáhejme člověku, ne masám. Jako vy a já ... Dopředu bydlení, práci, vkladní knížku, jazyk, v úctě a bez nároku na nic.
+
+Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - při pohledu do páru očí. Ne párů sto. V davu 500 000 lidí, který teď v Evropě je, či do nižších týdnů bude - vidím tu nejčernější tmu.
+
 
