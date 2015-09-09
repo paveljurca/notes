@@ -267,3 +267,7 @@ Pomáhejme člověku, ne masám. Jako vy a já ... Dopředu bydlení, práci, vk
 Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - při pohledu do páru očí. Ne párů sto. V davu 500 000 lidí, který teď v Evropě je, či do nižších týdnů bude - vidím tu nejčernější tmu.
 
 
+===
+
+Každá hlava je dnes notářem přes evropské hodnoty. Tahaj je jak králíky z klobouku.
+
