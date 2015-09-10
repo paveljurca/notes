@@ -270,4 +270,12 @@ Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - př
 ===
 
 Každá hlava je dnes notářem přes evropské hodnoty. Tahaj je jak králíky z klobouku.
+===
+
+Francie s brekem po povinných kvótách vyhlásila i přijetí dvaceti čtyř tisíc uprchlíků v následujícíh letech. Tedy stejný počet, jaký do Německa dorazil za čtyři dny.
+Snad Němce ještě hryže po dvou světových válkách kolektivní vina nebo jen vzdání projektu EU, který ze 40% financují.
+
+
+Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Migrant - cestuje za něčím. Ztráta existence mu nehrozí, proto si **vybírá** cílovou zemi - Německo. To jsou ti, jimž máváme na českých nádražích při jejich cestě. Jedinečné šance, jak demonstrovat, že já ještě ideály mám: rozdáním baget a tepláků - za společné foto na facebook.
+
 
