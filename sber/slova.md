@@ -326,6 +326,12 @@ Slova
 
 .
 
+> Nepřidáváme dny k životu lidí,
+> ale život do jejich dní.
+> *Veronika Duračková, hospic Ondrášek*
+
+.
+
 > Umění se nikdy nesmí stát katalogem
 > hotových odpovědí na životní otázky.
 > *Václav Černý, Co je kritika*
