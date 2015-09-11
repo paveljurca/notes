@@ -89,8 +89,10 @@ se má ošetřovat a náležitě opatrovat. Když jednou ještě jako malý
 mu ochutnat březového proutí. Měl se naučit vážit si darů půdy.
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 220.)
 
-
-(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+[..] ale každou neděli se také podíval alespoň na chvilku
+do kalendáře, aby viděl, jak čas utíká, a aby nezaostával
+za časem.
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 284.)
 
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
