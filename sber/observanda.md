@@ -94,6 +94,14 @@ do kalendáře, aby viděl, jak čas utíká, a aby nezaostával
 za časem.
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 284.)
 
+Žádná strava nesytí lidský žaludek tak jako chléb. [..] Chléb
+se nedá ničím nahradit, ničím větším ani menším. [..] Kdo roste
+a má žít, ten musí mít chleba.
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 304.)
+
+
+(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
