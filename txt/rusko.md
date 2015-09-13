@@ -11,11 +11,11 @@ myšlenky leží už věnce smuteční.
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
-Žij krásně, můžeš-li. Odeznělo „mírotvorné“
-*každému dle jeho potřeb*.
+Žij krásně, můžeš-li. Odeznělo mírotvorné
+„každému dle jeho potřeb“.
 A ublížený dav udává cestu — tím komu tleská.
-[Putin](http://youtu.be/sUNslUmQNiw) tu slabost poddaných zná a posiluje ji kde může
-(ruský oxymóron už ze starých dob).
+[Putin](http://youtu.be/sUNslUmQNiw) tu slabost poddaných zná a posiluje ji kde může;
+ruský oxymóron už ze starých dob.
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
 > k vlastním rozhodnutím. Se mnou to mají snazší,
@@ -46,12 +46,12 @@ zkoušejí vlastní variace režimu *pevné ruky*.
 > mongolský vliv, který otupil úctu k lidskému životu,
 > a zatřetí věky chybějící soukromý majetek. Z toho
 > plyne samoděržavný kult a opovržení lidmi.
-> *Kučera, V.: Velké Rusko. MFDNES, 4. března 2014, A10.*
+> *Kučera, V.: Velké Rusko, MfD 4. 3. 2014, A10.*
 
 Být a Mít — práva, kterým se nechce.
-*Zpátečnictví* je bez nich snazší
-(asi tautologie: k čemu se vracet,
-byvše stále na začátku?).
+*Zpátečnictví* je bez nich snazší.
+Snad tautologie: k čemu se vracet,
+byvše stále na začátku?.
 Minulost? Bylo tam teplo a *jistoty*.
 Obyčejně se lépe vzpomíná než se žije.
 Míťa v Bratrech Karamazových měl řešení:
@@ -73,9 +73,9 @@ a podivní lidé tam asi vždy snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
-Prosté a poddajné dělnictvo je tak tichým strůjcem
+Prosté a poddajné dělnictvo je tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
-ze stromů (v hladových časech) nebylo důvodem k otázkám.
+ze stromů nebylo důvodem k otázkám.
 Navykli si přežít, nikolivěk žít.
 Ustáli Velkou vlasteneckou válku, ubránili Leningrad.
 Pro co ale? Ubránili jen svůj nerozum. A co dělat,
@@ -94,11 +94,11 @@ v Evropě, kam pro sichr *čas od času* pošlou tanky.
 
 Atomovými hlavicemi vystrojili Čínu i Indii.
 Proč? Asi prostoduchost. Nukleární třaskavina
-už není záležitostí nějaké země, nýbrž
-konkrétní Země. Nedivme se tak, že voják Rudé
+není záležitostí nějaké země, nýbrž
+konkrétní Země. Nedivme se, že voják Rudé
 armády není povinován zabít, ale být zabit.
 Národní ctižádostí je trpět. A rádi by o tom
-přesvědčili i své (dnes občasně bývalé) *ideo*bratříčky.
+přesvědčili i své, dnes občasně bývalé, *ideo*bratříčky.
 Ne, rozum nad tím nezůstává
 stát, protože v tom žádný není.
 Abychom ale mohli [vrátka](https://www.google.cz/search?q=karel+kryl) zavřít,
@@ -127,7 +127,7 @@ rozumější menševici byli toho času jen uťáplou
 kulisou. A geopolitika, ve které si nikdo nepřeje
 silné Rusko, trvá právem do dnešních dob. Otázkou
 však zůstává, zdali je horší silné nebo zmatené
-Rusko, případně (a to je vůbec nejhorší) obojí naráz.
+Rusko, případně, a to je vůbec nejhorší, obojí naráz.
 
 Avšak zbytečná polarizace a striktní papouškování
 omleté linie směrem k „ruskému světadílu“ jen
@@ -144,24 +144,24 @@ Až to vypadá, že je jedno, co člověk udělá:
 vždy to totiž udělá špatně.
 
 Machina mundi, stroj světa, je štelován
-státníky a byrokraty, jež v územním celku
-„netknutě dělí“ (!) vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
+byrokraty, jež v územním celku
+„netknutě dělí“ vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
 asi tak půl druhého tisíce lidí. Zbylých pět miliard suchozemců chodilo — jako obyčejně — do práce.*
-Z druhé půle „chvíle“ jsou totiž samotní lidé (z lidí půle první je malůvka podpisových čar),
+Z druhé půle „chvíle“ jsou totiž samotní lidé (z těch prvních je malůvka podpisových čar),
 kteří sice cítí a žijí krize, ale nemohou víc,
-než co čtyři roky ustanovit nadlidi,
-übermensch — k vidění světa — protože demokracie
-znamená *čekat* (sic).  
+než co čtyři roky ustanovit nad-lidi,
+übermensch. Protože demokracie
+znamená „něco zkusit a čekat“.
 Nově příchozí kapitalismus sdílení (neřízené přenechání
 aut, bytů i svého volna za úplatu) možná dojde k tomu,
-že hraniční pásma už nejsou třeba. Stav našeho kontinentu teď
-tu a tam pokoutně ústí k myšlence tlačené Francií a Německem: najmenování „vlády EU“.
-(Ty uvozovky budou asi nadbytečné.)
+že hraniční pásma už nejsou třeba.
+Francouzsko-německá pokoutnost ale jedná v opak: najmenování „vlády EU“.
+Ty uvozovky budou jednou zbytečné.
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
 nemožné — pokud nechcete prochodit boty.
-Stačí si jen vzpomenout na tajnosti,
+Stačí si vzpomenout na tajnosti,
 jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská imbecilita. A proti té se
@@ -178,7 +178,7 @@ těžko pořádá *exodus nebo exitus*
 Možná je Rusko jen takové, jaké ho chceme mít.
 Havel v americkém Kongresu 21. února 1990 řekl:
 „Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.“
-Vyšumělo už 25 let, ač mnoho se nezměnilo:
+Vyšumělo 25 let, a mnoho se nezměnilo:
 postranních úmyslů mají Rusové (žel i „Západ“)
 ještě stále hodně. A netřeba snad připomínat,
 že na bratrskou výpomoc v šedesátém osmém
