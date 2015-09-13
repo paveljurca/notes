@@ -1,5 +1,5 @@
-Národ snově
-===========
+Migrujme
+========
 
 Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) XYZ *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozradí víc než křeč mluvčího. Mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe. Tím spíš platí Frostovo „Don't ever take a fence down, until you know why it was put up.“ Zmírňují něco, co sami nejsme s to dohlédnout. Ofrankují druhé, ale dopis nenapíší ani nedoručí. Týdny a měsíce středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, tak si (a)sociální sítě tkají šum vlastní. A činovníci bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k ohebnosti, lhostejnosti (nic nám nehrozí, tak se nestarejte). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem bude dohnat, co se nestihlo ve škole.
 
@@ -277,5 +277,9 @@ Snad Němce ještě hryže po dvou světových válkách kolektivní vina nebo j
 
 
 Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Migrant - cestuje za něčím. Ztráta existence mu nehrozí, proto si **vybírá** cílovou zemi - Německo. To jsou ti, jimž máváme na českých nádražích při jejich cestě. Jedinečné šance, jak demonstrovat, že já ještě ideály mám: rozdáním baget a tepláků - za společné foto na facebook.
+
+===
+
+pomůžete kvadraplegikům, a výtka bude: a proč ne trpícím leukémií? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: je novou koblihou na krámě.
 
 
