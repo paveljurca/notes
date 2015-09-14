@@ -686,6 +686,7 @@ __addendum__
 * [CV go digital](https://medium.com/@write4research/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b)
 * [Ako personalisti vnímajú ajťákov a benefity](http://content.fczbkk.com/ako-personalisti-vnimaju-ajtakov-a-benefity/)
 * [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
+* [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
 
 ## @TODO 
 
