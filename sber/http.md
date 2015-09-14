@@ -1348,8 +1348,11 @@ __addendum__
     bentobox.io 'everything you need to know about web development
     http://freelancing.stackexchange.com/
     jux.com 'a showcase
+
     duolingo.com 'learn to speak
+    http://forvo.com/listen-learn/ 'pronounce
     http://www.englishme.cz 'slovicka online
+
     retelly.com 'a video magazine
     placeit.net 'generate product screenshot
     directory.fsf.org 'free software to use
@@ -1415,7 +1418,9 @@ __addendum__
     http://buyersguide.freeride.cz 'SNB
     http://www.click2stream.com/ 'clever IP streaming
     http://www.mapovani.cz/ 'mapovani ceskeho byznysu a politiky
-    http://muj-antikvariat.cz/ 'antikvariat
+
+    http://muj-antikvariat.cz/ 'antik
+    
     http://hackerone.com/ 'improving vulnerability research
     http://supergenpass.com/ 'a better pass generator
     http://www.mailinator.com/ 'any inbox anytime
