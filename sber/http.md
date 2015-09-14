@@ -312,6 +312,7 @@ __misc__
 * [Tomáš Znamenáček](http://blog.zoul.cz/)
 * [Michal Zlatkovský](http://www.respekt.cz/socialni-site)
 * [Jaroslav Cerman](http://cermanjaroslav.blog.respekt.cz/)
+* [Dustin Curtis](http://dcurt.is/)
 
 ## podcasts
 
