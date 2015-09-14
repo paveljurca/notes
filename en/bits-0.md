@@ -70,7 +70,7 @@ p.s. [penguin splash screen](https://en.opensuse.org/SDB:Animated_penguin_GRUB_s
 
 The following forces [Vim](https://github.com/tpope/vim-sensible)
 to change tabs for 4 spaces, use `M` to comment out lines
-or to check [Perl](http://github.com/vim-perl/vim-perl) syntax on `:make`
+or to check [Perl](http://github.com/vim-perl/vim-perl) [syntax](https://github.com/spicyjack/public/blob/master/notes/vim_plugins.md) on `:make`
 
     % cat >> ~/.vimrc
     set number
