@@ -67,6 +67,7 @@ __design__
 * [Dezeen](http://www.dezeen.com/)
 * [UXPin](http://blog.uxpin.com/)
 * [InVision](http://blog.invisionapp.com/)
+* [UXmovement](http://uxmovement.com/)
 
 __misc__
 * [Aeon Ideas](http://ideas.aeon.co/)
