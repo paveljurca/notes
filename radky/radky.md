@@ -2,22 +2,23 @@
 =====
 
 svět  
-závoj a vidiny  
-hned  
+závoj — vidiny  
+v pět  
 vlasy tnou šediny
 
 *
 
-člověk spaním  
-doběhl svět  
-jenž ty oči viděly
+člověk nocí  
+doběhne svět  
+jenž ty oči  
+viděly
 
 *
 
 Stít tělo, by  
 pomohlo se hlavě.  
-*Zatají oči*, že  
-na hony pravdě.
+Zatají oči, že  
+nejdále pravdě.
 
 *
 
@@ -35,5 +36,13 @@ potáhnem spolu — hlady
 temeno hlavy  
 vnuknutí?  
 Kdež — stavy!
+
+*
+
+uši  
+na duši  
+jsou — tuší  
+že radost  
+mávnutí mušší
 
 
