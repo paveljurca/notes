@@ -1,20 +1,6 @@
 Řádky
 =====
 
-svět  
-závoj — vidiny  
-v pět  
-vlasy tnou šediny
-
-*
-
-člověk nocí  
-doběhne svět  
-jenž ty oči  
-viděly
-
-*
-
 Stít tělo, by  
 pomohlo se hlavě.  
 Zatají oči, že  
@@ -32,10 +18,10 @@ Hynout.
 vozka a sobi  
 že jedou  
 do další doby  
-potáhnem spolu — hlady  
+z nadhledu  
 temeno hlavy  
-vnuknutí?  
-Kdež — stavy!
+vnuknutí  
+kdež — stavy
 
 *
 
@@ -44,5 +30,16 @@ na duši
 jsou — tuší  
 že radost  
 mávnutí mušší
+
+*
+
+Rakev bere svět,  
+jenž jen  
+ty oči viděly.
+
+Blízcí  
+bez blízkého.  
+Svět  
+bez světa.
 
 
