@@ -1,7 +1,43 @@
 Migrujme
 ========
 
-Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) XYZ *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozradí víc než křeč mluvčího. Mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe. Tím spíš platí Frostovo „Don't ever take a fence down, until you know why it was put up.“ Zmírňují něco, co sami nejsme s to dohlédnout. Ofrankují druhé, ale dopis nenapíší ani nedoručí. Týdny a měsíce středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, tak si (a)sociální sítě tkají šum vlastní. A činovníci bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) znamená spíš *vyzívat* k ohebnosti, lhostejnosti (nic nám nehrozí, tak se nestarejte). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem bude dohnat, co se nestihlo ve škole.
+
+Pravda je, že s islámem ztratila Arábie kulturu. Do sedmého století byli dalece napřed.
+
+Zalidněnost na km^2 u nás dělá 136, u Francie 120, Švédska 24, Saudské Arábie 13, USA 35, Řecka 85 a Německa 232 lidí (zdroj [Světová banka](http://data.worldbank.org/indicator/EN.POP.DNST)).
+
+
+Dle [Agentury UN pro uprchlíky](https://twitter.com/Refugees) je vlna z poloviny uprchlická-syrská, z poloviny přeběhnuvší-zbylá-africká.
+
+[US](https://twitter.com/SenSanders/status/643172161679716352) zásobují rebely (a úsměvně Islámský stát v jednom), [Rusové](http://www.reuters.com/article/2015/09/14/us-mideast-crisis-syria-usa-idUSKCN0RE1LH20150914) nebo [Írán](http://www.aljazeera.com/indepth/opinion/2015/09/iran-duty-syrian-refugees-150910081439202.html) Bashar al-Assada. Logikou má každý z nich na zodpovědnost po polovině běženců ze Středovýchodu. K tomu si Bundesrepublika dodnes klade [otázku viny](http://filosofie.blatna-cz.com/text/2007-clovek-a-jeho-dluhy/), a EU, kterou ze 40% platí, vidí jako svrchovaný monolit — zatáhnou „za ostatní“ [každý rok půl milionu příchozích](http://www.heute.de/was-nun-herr-gabriel-brauchen-zuversicht-aber-auch-realismus-39999836.html). Melancholii ale zrovna teď [můžeme postrádat](https://reason.com/blog/2015/09/15/dont-let-dead-syrian-babies-drive-us-ref). Frantíci zmáknou dvanáct tisíc ročně. Přece si ale nerozloží stát jako jediní — proto kvóty. Dle Guardianu ovšem [Assad mohl sestoupit už v roce 2012](http://www.theguardian.com/world/2015/sep/15/west-ignored-russian-offer-in-2012-to-have-syrias-assad-step-aside). Jenže prostředkovali Rusové, a s těmi Západ nejedná.
+
+
+
+trapnost na bankovkách EMU.
+
+
+Nejsou migranti z 18. století, vlastnictví mobilu ke štěstí nestačí.
+https://twitter.com/bbclysedoucet/status/643307576147476480
+
+
+[#ShameOnArabRulers](https://twitter.com/hashtag/ShameOnArabRulers)
+http://qz.com/495718/its-not-just-europe-that-has-a-duty-to-help-syrian-refugees/
+
+
+evropské hodnoty ústavě EU, totiž [Lisabonské smlouvě](http://www.eudemocrats.org/fileadmin/user_upload/Documents/D-Reader_friendly_latest%20version.pdf), ale to se na čtyři sta stranách těžko hledá.
+
+
+Saúdská Arábie, SAE, Katar nebo Kuvajt přijali [0 potřebných](https://twitter.com/IlmFeed/status/639531292946767873).
+
+
+komentář, že „tahle země je už zabraná“, má strohou pravdu.
+
+[Saudové se ohradili](http://www.arabnews.com/columns/news/804116), že Syřané už u nich přece bydlí — [pokud získali pracovní povolení](https://soundcloud.com/sarah-y-bn-ashoor/bbc-news-hour-mohammed-khalid-alyahya-on-the-syrian-refugee-crisis-and-the-efforts-of-gulf-states).
+
+
+odmlčí, zalezou do kabinetů - a když si někdo pokusí z nastalého vakua sestavit názor, rychle přispěchají s cejchy...
+
+Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacstvi-jako-modni-trend.html) XYZ *radikalizace*, *xenofobie*, *zasmrádlost* nebo *česká malost* neprozradí víc než křeč mluvčího. Mediálně vděčná zištnost úvah zrna: dodržím desatero, ale chci do nebe. Tím spíš platí Frostovo „Don't ever take a fence down, until you know why it was put up.“ Zmírňují něco, co sami nejsme s to dohlédnout. Ofrankují druhé, ale dopis nenapíší ani nedoručí. Týdny a měsíce středovýchodní a africké diaspory za lepším jsou stejně prázdné s nimi jako byly bez nich. Strach není z příchozích, ale z lenosti a bezmyšlenky takových zvolání a apelů. Rok 2015, jak vyspělí že jsme? Tábor voličstva a výkonné moci: každý na vlastní planetě. Sluchu se v té tmě nedostává, tak si (a)sociální sítě tkají šum vlastní. A činovníci bez představy, nápadu, přesahu, slova. [Výzva vědců](http://www.vyzvavedcu.cz/) měla spíš *vyzívat* k [lhostejnosti](https://youtu.be/K_JO8OV44-8?t=1m54s). Cílem výzvy není „agitovat za konkrétní kroky“. Cílem bude dohnat, co se nestihlo ve škole.
 
 > Ten kůň je chromý, prašivý a šilhá.  
 > Ten člověk má pravdu, ale k čemu mi ta pravda je?  
@@ -9,7 +45,7 @@ Strojené [sebemrskačství](http://www.ceskenarodnilisty.cz/clanky/sebemrskacst
 > *Steigerwald, K.: Marta Peschek jde do nebe.*
 
 Viktor Orbán je autoritář, ale zrovna evropská demokracie omotává nátury Arábie zápalnou šňůrou. Oni nepatří sem, jako my nepatříme tam. 
-Je v mapách ještě Brusel nebo už Babylon? Hranice, jazyky, území a kultury nejsou od toho, aby jim EU připnula kvóty. Aboridžincům jsme dali kasina, ohnivou vodu. Aztékům nic. Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té roste nevděk a hořící předměstí.
+Je v mapách ještě Brusel nebo už Babylon? Hranice, jazyky, území a kultury nejsou od toho, aby k nim EU vydala vyhlášky. Aboridžincům jsme dali kasina, ohnivou vodu. Aztékům nic. Indům a Indočíně infrastrukturu. Dnes dáváme falešnou naději. Z té roste nevděk a hořící předměstí.
 
 > Dokud Rakousko a Německo neřeknou jasně, že už žádné uprchlíky nepřijmou,
 > budou miliony nových migrantů přicházet do Evropy. [..] Když budeme dál
@@ -17,6 +53,16 @@ Je v mapách ještě Brusel nebo už Babylon? Hranice, jazyky, území a kultury
 > a my nebudeme schopni chránit naše hranice.
 > *Viktor Orbán, [ČT 7. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100907)*
 
+[Rezoluce Guye Verhofstadta](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FTEXT%20TA%20P8-TA-2015-0317%200%20DOC%20XML%20V0%2F%2FEN&language=EN) Orbánovi o evropských hodnotách atd. apod.
+
+[dočteme se](https://www.facebook.com/GuyVerhofstadt/photos/a.100029970015.120344.99985820015/10154133904645016/?type=1&permPage=1), že
+
+- Syřan při potulce do Německa už není uprchlík - nýbrž migrant za lepším
+- Syrská rodina utekla z polského církevního přístřeší jen proto, že si představovali větší kapesné (teď jsou v Německu)
+- Proč EU nežádá solidární Kanadu, Austrálii, Ameriku, Japonsko, Rusko, SAE
+
+
+Potřebujeme vědět, kde lidé zrovna jsou? [Potřebujeme hranice?](http://fee.org/anythingpeaceful/why-open-borders/). Pak z výkladového slovníku zmizí i *stát*.
 
 Zeptáte se, co za deset dvacet let? Humanobijci si ale vedle vás vystaví [strašáka](https://en.wikipedia.org/wiki/Straw_man) a dozvíte se, že ten strašák je necita.
 Jako pořízení psa, po pěti letech ani pes neštěkne
@@ -49,7 +95,7 @@ Nerad bych napínal tětivu třídního boje, ale ve vilových čtvrtích evrops
 > uprchlíků. My jsme ta bohatá Evropa.
 > *Federica Mogheriniová, [ČT 5. 9. 2015](http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000100905/obsah/420972-jednani-ministru-zahranici-o-uprchlicich)*
 
-Nepomáháme lidem, ale číslům. Lépe se škrtají.
+Nepomáháme lidem, ale číslům. Lépe se (od)škrtají.
 
 
 
@@ -149,16 +195,15 @@ hujerství
 
 
 Že "praotec Čech byl taky imigrant" není argument, to je kyj.
-Nejnejapnější transparent vyhrává! Na můj vkus je těch seminářů
-(totiž pochodů) ve světě za poslední roky až běda. A hlavně:
-nekřičí se na něco, ale **za něco**.
+A hlavně: nekřičí se *na něco*, ale *za něco*.
 
 
 Student [filozofie](https://www.google.cz/search?q=luk%C3%A1%C5%A1+mato%C5%A1ka&tbm=vid) má jasno,
 že ["Zdroje jsou!"](http://www.ceskatelevize.cz/ivysilani/10175540660-mate-slovo-s-m-jilkovou/215411030520022)
-To už nebude filosofie ale chiliasmus. A [televize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html)
-nehodlá rozbušky
-pozdržet, rozžvatlat téma.
+To už nebude filosofie ale chiliasmus.
+
+Zrovna u [veřejnoprávní televize](http://www.czechfreepress.cz/jiri-bata/mate-slovo-s-jilkovou-hruza-a-des.html) je *sledovanost* asi důležitá. Její šéf dělal sedm let na Nově.
+
 
 
 http://denikreferendum.cz/clanek/20709-kdo-vsechno-delal-ramena-u-trech-ocasku
@@ -216,6 +261,12 @@ http://www.parlamentnilisty.cz/arena/politologove/Profesor-Krejci-Ted-uz-zastavi
 http://www.iom.int/news/migrant-arrivals-sea-italy-top-170000-2014
 http://www.mises.cz/clanky/libertariansky-pristehovalecky-hlavolam--608.aspx
 http://www.rozhlas.cz/plus/nazory/_zprava/1502458
+https://twitter.com/KenRoth
+https://twitter.com/bouckap
+
+
+ad rem pohled z italských břehů
+https://www.reddit.com/r/OutOfTheLoop/comments/3i1seh/as_an_american_why_are_refugees_such_a_big_issue/cuco0ie
 
 =====
 
@@ -238,17 +289,17 @@ Zalidněnost na km^2
 
 viz Schulz, *premyslive*
 
-Z hospod neuslyšíme „Vypadni!“ ale „Vodmigruj!“ Člověku půjde o jediné: „Aby života užil a světa prožil {NEBO TAK NĚJAK}“ (Patočka, J.: Komeniologic....
+Člověku půjde o jediné: „Aby života užil a světa prožil {NEBO TAK NĚJAK}“ (Patočka, J.: Komeniologic....
 
-Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký standard žití za vyšší. My zavřeme oči.. a pak.. budeme všichni o deset let starší.
+Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký standard žití za vyšší. Tohle nepřebolí, ale *přemigruje*.
 
 > Se zástupci státu jsme se shodli, že nejvhodnější parketou,
 > kde se může do práce na zvládnutí migrační vlny zapojit také
-> církev, je **integrace** osob, které už budou mít vyřešený
-> pobytový **status** [..]
+> církev, je *integrace* osob, které už budou mít vyřešený
+> pobytový *status* [..]
 > *P. Stanislav Přibyl, Katolický týdeník 8. 9. 2015, s. 3.*
 
-Když se i z duchovních úst trousí *integrace* namísto lidského *zapojení*,
+Když se i z duchovních úst trousí technická *integrace* namísto vřelého *zapojení*,
 tedy z těch úst, kterým je *jazyk* jediným chlebem — jsme vážně v prdeli.
 
 > Je Bůh, holky? Jestli je,  
@@ -272,14 +323,11 @@ Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - př
 Každá hlava je dnes notářem přes evropské hodnoty. Tahaj je jak králíky z klobouku.
 ===
 
-Francie s brekem po povinných kvótách vyhlásila i přijetí dvaceti čtyř tisíc uprchlíků v následujícíh letech. Tedy stejný počet, jaký do Německa dorazil za čtyři dny.
-Snad Němce ještě hryže po dvou světových válkách kolektivní vina nebo jen vzdání projektu EU, který ze 40% financují.
-
 
 Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Migrant - cestuje za něčím. Ztráta existence mu nehrozí, proto si **vybírá** cílovou zemi - Německo. To jsou ti, jimž máváme na českých nádražích při jejich cestě. Jedinečné šance, jak demonstrovat, že já ještě ideály mám: rozdáním baget a tepláků - za společné foto na facebook.
 
 ===
 
-pomůžete kvadraplegikům, a výtka bude: a proč ne trpícím leukémií? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: je novou koblihou na krámě.
+přispějete kvadraplegikům, a proč ne trpícím leukémií nebo na boj s AIDS? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: je novou koblihou na krámě.
 
 
