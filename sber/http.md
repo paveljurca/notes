@@ -126,6 +126,8 @@ __misc__
 * [Babylon](http://www.ibabylon.cz/archiv)
 * [České národní listy](http://www.ceskenarodnilisty.cz/ceske_narodni_listy)
 * [Radio Wave](http://www.rozhlas.cz/radiowave/kultura/)
+* [reason.com](https://reason.com/blog)
+* [Laissez Faire](http://www.nechtenasbyt.cz/archiv-pdf/)
 
 ## blog
 
@@ -315,6 +317,7 @@ __misc__
 * [Jaroslav Cerman](http://cermanjaroslav.blog.respekt.cz/)
 * [Dustin Curtis](http://dcurt.is/)
 * [Peter Lelovič](http://sedesako.blogspot.cz/)
+* [Martin Pánek](http://mmister.com/)
 
 ## podcasts
 
