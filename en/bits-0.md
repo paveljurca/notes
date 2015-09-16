@@ -125,7 +125,7 @@ Additionaly get a nice [theme](http://colorsublime.com/)
 or a [font](http://font.ubuntu.com/) (which extract
 somewhere at `/usr/local/share/fonts/truetype/Ubuntu`).
 
-Finally do something like:
+Finally set preferences..
 
     % pushd ~/.config/sublime-text-3/Packages/User/
     % cp Preferences.sublime-settings Preferences.sublime-settings.bak
@@ -167,9 +167,8 @@ Finally do something like:
     }
     Ctrl^D
 
-And in a theme file `$HOME/.config/sublime-text-3/Packages/User/Darkside.tmTheme`
-you may colorize variables by locating the `Variable`
-section and having it like:
+And in theme file `$HOME/.config/sublime-text-3/Packages/User/Darkside.tmTheme`
+you may colorize variables by locating the `Variable` section
 
     <string>Variable</string>
     <key>scope</key>
@@ -186,7 +185,6 @@ section and having it like:
 
 To determine the `scope` just highlight
 a variable/keyword/function/whatever and
-press `Ctr+Alt+Shift+P`, it's gonna
-show up in a status bar.
+press `Ctr+Alt+Shift+P`, it shows up in a status bar.
 
 
