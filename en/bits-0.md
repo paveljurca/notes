@@ -7,26 +7,25 @@ The service is free up to 2GB so given
 that my most important stuff is just
 text files, I'm more than backed.
 
-So you update a file, it updates on Dropbox.
-You (accidentally) delete a file, it *stays* on Dropbox!
-This is what I would call *the* bonus ;)
+You update a file, it updates on Dropbox.
+You delete a file, it *stays* on Dropbox!
 
 First install [Dropbox](https://www.dropbox.com/install?os=lnx),
 second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/using-cron.html).
 
     % su -
     % pushd /etc/cron.daily/
-    % cat > bckup
+    % cat > backup
     #!/bin/sh
     cp --archive --update /home/pavel/txt/ /home/pavel/Dropbox
     cp --archive --update /home/pavel/code/ /home/pavel/Dropbox
     Ctrl^D
     % chown pavel:pavel bckup 
-    % chmod +x bckup
+    % chmod +x backup
 
 ## Sleep mode from CLI
 
-Yes, [pm-utils](http://www.google.com/search?q=pm+utils) handle that.
+[pm-utils](http://www.google.com/search?q=pm+utils) handle that
     
     % echo "alias asleep='sudo /usr/sbin/pm-suspend'" >> ~/.bashrc
     % source ~/.bashrc
@@ -42,13 +41,11 @@ to have it *password-less*:
 
 If you have a dual-boot and installed GNU/Linux first
 and Windows second; you also have a problem. Not only
-you have to swap the boot flag (via [fdisk](http://www.debian.org/releases/slink/sparc/fdisk.txt)
-[*command* **a**]) between your partitions
-but [Grub2](http://www.gnu.org/software/grub/) has
+you have to swap a boot flag (via [fdisk](http://www.debian.org/releases/slink/sparc/fdisk.txt)) between your partitions.
+But [Grub2](http://www.gnu.org/software/grub/) still has
 no clue about your Windows there.
 
-You should create the entry by opening `/etc/grub.d/40_custom`
-and write something like
+Create the boot entry by opening `/etc/grub.d/40_custom` and add
 
     menuentry 'windows7' {
     set root='hd0,msdos3'
@@ -110,6 +107,8 @@ or to check [Perl](http://github.com/vim-perl/vim-perl) [syntax](https://github.
 * [vi reference page](http://www.kichwa.com/quik_ref/vi_ref.html)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [vi-improved](http://vi-improved.org/)
+
+p.s. [vimrc file](https://github.com/paveljurca/foo/blob/master/nix/dotfiles/vimrc)
 
 ## Sublime setup
 
@@ -183,7 +182,7 @@ you may colorize variables by locating the `Variable` section
 
 ![Sublime](d/sublime.png)
 
-To determine the `scope` just highlight
+To determine that `scope` just highlight
 a variable/keyword/function/whatever and
 press `Ctr+Alt+Shift+P`, it shows up in a status bar.
 
