@@ -1,7 +1,7 @@
 Http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following) I seek information here
+Besides [twitter](https://twitter.com/paveljurca/following), and [twitter](https://twitter.com/paveljurca/lists/list/members), I seek information here
 
 ## news 
 
