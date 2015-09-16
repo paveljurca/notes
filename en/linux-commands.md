@@ -1,7 +1,8 @@
-bits #3
-=======
+Linux commands
+==============
 
-*nix quick ref
+_*nix quick ref_
+
 
 ## system
 
@@ -27,7 +28,7 @@ bits #3
     ls *.txt|wc -l|xargs echo "txt "              # execute args
     find ./ -type d -exec chmod 775 {}\;          # change dir permissions
     rm -Rf ./.??*                                 # remove * and hidden ones
-    chattr +i file                                # immutable on the file
+    chattr +i file                                # file immutable
     df -h                                         # disk usage
     du -h                                         # file usage
     stat                                          # file system info
