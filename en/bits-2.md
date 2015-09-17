@@ -37,14 +37,26 @@ write it actually like this `@Kupujte Windows,@@ řekl Steve.` and then substitu
     % perl -pi.bak -e 's/@@/“/g' file.txt
     % perl -pi -e 's/@/„/g' file.txt
 
-## Windows 8 upgrade and the OEM partition
+## Windows 8/10 upgrade and OEM partition
 
 So you did a clean install instead of an [upgrade](http://windows.microsoft.com/en-us/windows-10/media-creation-tool-install). **Warning** The following is a rough outline, always have backup and now what you type in!
 
 1. Boot [Live CD](https://help.ubuntu.com/community/LiveCD#Reasons_for_Using_a_LiveCD_Session) and in [Gparted](https://apps.ubuntu.com/cat/applications/gparted/) toggle off the filesystem `hidden` [flag](http://www.linux.org/threads/gparted-partition-and-filesystem-flags.8112/) on a partition (usually) called `RESERVED`, it's (usually) the last one
-2. Start Windows in a repair mode with command line; `X:\> dism.exe Dism /apply-image /imagefile:G:\RecoveryImage\install.wim /index:1 /applydir:C:\`
-@todo
+2. Start Windows in a repair mode with command line, and `X:\> dism.exe Dism /apply-image /imagefile:G:\RecoveryImage\install.wim /index:1 /applydir:C:\`
+3. Backup boot configuration data `X:\> bcdedit /export D:\BCD.BAK`
+4. Remove the current entry `X:\> bcdedit /delete {current}`
+5. Create boot files `X:\> bcdboot c:\windows /s c: /f ALL`
+6. Create the boot entry `X:\> bootrec /rebuildbcd`
+7. reboot
 
 * [DISM Image Management Command-Line](https://technet.microsoft.com/en-us/library/hh825258.aspx)
+* [Clean install without install disc?](http://www.eightforums.com/installation-setup/18494-clean-install-windows-8-without-install-disc-3.html)
+* [Fix and Customize Boot for Windows](https://chaoliu12.wordpress.com/2013/01/31/fix-and-customize-boot-for-windows/)
+* [bcdboot.exe](http://ss64.com/nt/bcdboot.html)
+* [Windows Recovery Environment](https://technet.microsoft.com/en-us/library/hh825221.aspx)
+* [Repairing the Windows Recovery Environment](http://www.terabyteunlimited.com/kb/article.php?id=587)
+* [REAgentC Command-Line](https://technet.microsoft.com/en-us/library/hh825204.aspx)
+* [Capture and Apply Windows, System, and Recovery Partitions](https://technet.microsoft.com/en-us/library/hh825041.aspx)
+* [Windows Image File Boot](https://technet.microsoft.com/en-us/library/dn594399.aspx?f=255&MSPPError=-2147217396)
 
 
