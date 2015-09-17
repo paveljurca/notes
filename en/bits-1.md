@@ -1,21 +1,17 @@
 bits #1
 =======
 
-## Mp3 in a terminal's background
+## Mp3 in a terminal
 
-We're gonna use [Mplayer](https://www.mplayerhq.hu/DOCS/HTML/en/MPlayer.html).
-You should obtain it via your favorite [package manager](https://en.wikipedia.org/wiki/Package_manager)
-at a no time. But make sure to have a proper [repository](http://packman.links2linux.org/) first ;)
+..with [Mplayer](https://www.mplayerhq.hu/DOCS/HTML/en/MPlayer.html)
 
     % play() { mplayer "$1" -volume 68 -noconsolecontrols &>/dev/null; & }
     % play nyan-cat.mp3
     % //carry on
 
-## Scanning via a desktop shortcut
+## IrfanView scan
 
-Have IrfanView installed and of course
-a connected one scanner. Then fire up [CMD](https://en.wikipedia.org/wiki/Cmd.exe)
-by pressing [ Win+R ] and type *cmd*
+`Win+R` and [CMD](https://en.wikipedia.org/wiki/Cmd.exe)
 
     % cd %USERPROFILE%\Desktop 
     % copy con scan.bat
@@ -26,13 +22,13 @@ by pressing [ Win+R ] and type *cmd*
     % rundll32.exe appwiz.cpl,NewLinkHere .
 
 In that wizard locate our scan.bat
-and append it with *%RANDOM%*
+and append it with `%RANDOM%`
 
-![SCANNER shortcut](d/scanner.png)
+![scan.bat](d/scanner.png)
 
 ## ls when cd
 
-Just make a shell function like this:
+Just make a shell function
 
     % j() { cd "$@" && ls -CF; }
     % j /tmp
@@ -41,7 +37,7 @@ Just make a shell function like this:
 
 Even with X server and a [window manager](https://www.gnome.org/)
 running, one may still like the idea of having a terminal
-right from the startup. This way you would do it in Gnome:
+right from the startup. This way in Gnome
 
     % cat > $HOME/.config/autostart/terminal.desktop
     [Desktop Entry]
@@ -54,7 +50,7 @@ right from the startup. This way you would do it in Gnome:
     Comment=#!
     Ctrl^D
 
-source: [Desktop Entry Specification](https://developer.gnome.org/desktop-entry-spec/)
+* [Desktop Entry Specification](https://developer.gnome.org/desktop-entry-spec/)
 
 ## SSH SendEnv
 
@@ -70,11 +66,21 @@ you [cannot](https://superuser.com/questions/485569/how-to-disable-sendenv-varia
 get away with a dotfile, you can
 still suppress it globally in a 
 `/etc/ssh/ssh_config` file. Just
-comment out the pesky `SendEnv`
+comment out those pesky `SendEnv`
 lines.
 
 Or simply use [env](https://wiki.archlinux.org/index.php/Environment_variables)
 
     % env LANG=C ssh realname@hostname
+
+## Package Manager
+
+To install Firefox on Windows you have to google it, verify it, download it and run it.
+To do the same on GNU/Linux you just install it because the system already knows where to look for.
+Linux has [package manager](https://en.wikipedia.org/wiki/Package_manager) and [repositories](http://packman.links2linux.org/).
+
+openSUSE `zypper in firefox`, or Debian `apt-get install firefox`, or Fedora `rpm -i firefox`
+
+@todo SCREENSHOT `zypper lr -uP`
 
 
