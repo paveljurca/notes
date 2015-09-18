@@ -558,9 +558,9 @@ Slova
 
 .
 
-> A protože mu v tom nemohl Karl Oskar zabránit násilím,
-> nemohl mu v tom zabránit ani jinak.
-> *Vilhelm Moberg, Přistěhovalci*
+> A Ježíš svým učedníkům také mzdy nesliboval,
+> když je vysílal, aby hlásali [..]
+> *Vilhelm Moberg, Usedlíci*
 
 
 * __apod.__
