@@ -318,6 +318,7 @@ __misc__
 * [Dustin Curtis](http://dcurt.is/)
 * [Peter Lelovič](http://sedesako.blogspot.cz/)
 * [Martin Pánek](http://mmister.com/)
+* [Petr Ševčík](https://petrsevcikblog.wordpress.com/)
 
 ## podcasts
 
