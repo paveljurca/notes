@@ -128,6 +128,7 @@ __misc__
 * [Radio Wave](http://www.rozhlas.cz/radiowave/kultura/)
 * [reason.com](https://reason.com/blog)
 * [Laissez Faire](http://www.nechtenasbyt.cz/archiv-pdf/)
+* [Longform](https://longform.org/)
 
 ## blog
 
@@ -420,6 +421,7 @@ __misc__
 * [podcatch.com](http://podcatch.com/)
 * [The Dan Benjamin Hour](http://danbenjamin.com/dbh/)
 * [Talk About Know Priorities](http://talkabout.knowpriorities.com/)
+* [Longform Podcast](https://longform.org/podcast)
 
 ## video
 
