@@ -320,6 +320,7 @@ __misc__
 * [Peter Lelovič](http://sedesako.blogspot.cz/)
 * [Martin Pánek](http://mmister.com/)
 * [Petr Ševčík](https://petrsevcikblog.wordpress.com/)
+* [Harper Reed](http://harperreed.com/archives/)
 
 ## podcasts
 
