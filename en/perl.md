@@ -1,6 +1,12 @@
 Perl
 ====
 
+Perl is a programming language. Perl is fun. It makes easy things easy and hard things possible. Perl has been around for 28 years now. 
+
+I'm glad I've found it. Now you did too.
+
+
+
 @twt
 https://twitter.com/Ptolemarch/lists/perl/
 
