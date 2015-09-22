@@ -1,6 +1,10 @@
 Migrujme
 ========
 
+> A protože mu v tom nemohl Karl Oskar zabránit násilím,
+> nemohl mu v tom zabránit ani jinak.
+> *Vilhelm Moberg, Přistěhovalci*
+
 
 Pravda je, že s islámem ztratila Arábie kulturu. Do sedmého století byli dalece napřed.
 
