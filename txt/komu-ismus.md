@@ -64,7 +64,7 @@ Komunismus dobíhá z těch dob, ve kterých „čím hůře, tím lépe“. Ně
 > pro masy.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-Že komunismus jsme nechtěli? Nebyl by tady. Bližší nám je [satelit](http://mentallandscape.com/Sputnik1_Czech.mp3) před [poprsím Pallady](http://magazin.aktualne.cz/kuriozity/jidas-zradil-maturanty-ti-se-ted-hadaji-na-internetu/r~d1ebe644f3ce11e498af002590604f2e/). Těšení davu bylo hutnější než mladé obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky, zapůsobily: bylo po válce a i dívky chtěly být bratry. Pár let zpátky psal Masaryk *O bolševictví* nebo Čapek *Proč nejsem komunistou* — nestačilo to, museli jsme si sáhnout. A zase to nestačí, protože nedlouho odtud si je budeme chtít i pohladit. S každým rokem je sentiment hlubší, fakta smířlivější. U Beneše to byl fanatický strach z německého *Drang nach Osten* i opakování Mnichova. A spásu viděl zcela nekriticky v Sovětském svazu. Jím iniciované četné dohody o spolupráci, vzájemném přátelství i přehnaná servilita byly jedním ze závaží na hloupé straně vah.
+Že komunismus jsme nechtěli? Nebyl by tady. Těšení davu bylo hutnější než mladé obočí Břežněva. Okolnosti, rozuměj utábořené rudé jednotky, zapůsobily: bylo po válce a i dívky chtěly být bratry. Pár let zpátky psal Masaryk *O bolševictví* nebo Čapek *Proč nejsem komunistou* — nestačilo to, museli jsme si sáhnout. A zase to nestačí, protože nedlouho odtud si je budeme chtít i pohladit. S každým rokem je sentiment hlubší, fakta smířlivější. U Beneše to byl fanatický strach z německého *Drang nach Osten* i opakování Mnichova. A spásu viděl zcela nekriticky v Sovětském svazu. Jím iniciované četné dohody o spolupráci, vzájemném přátelství i přehnaná servilita byly jedním ze závaží na hloupé straně vah.
 
 > Říkám jen pro naše lidi, ke kterým v našich věcech
 > mám právo mluvit, že vůdcové Sovětského svazu, že Stalin
@@ -76,9 +76,9 @@ Komunismus dobíhá z těch dob, ve kterých „čím hůře, tím lépe“. Ně
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vyd.), s. 372.*
 
 Báli jsme se Habsburků, prišli Němci. Báli jsme se Němců, přišli Rusové. Nebojíme se dnes Rusů, možná přijdou Rusové, možná uřvanost Arabů
-nebo druhá třetí tvář Číny, možná postačí slizkost EUmanity. [Víte Vy vůbec co dnešní komunisté chtějí?](http://zanechme-predsudku-vuci-komunistum.info/) je třešničkou do rakve. Z poutačů Listopadu vyhrálo „Nejsme jako oni“. Bylo rychlejší vědět „kým nejsme“ před „kým jsme“. Škarohlídství národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit. Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak hřeje. *Imanence* je jedna noha v suchu (demobilisace 6. října '38). *Transcendence* jsou naopak obě hnáty až po nozdry ve vodě (mobilisace 23. září '38). Mnichovský diktát však učebnicovým předělem mezi češstvím a čecháčkovstvím nebude. Francie, levý a vyžraný spojenec, Benešovi naplivala do ksichtu.
+nebo druhá třetí tvář Číny, možná postačí želé z Bruselu. [Víte Vy vůbec co dnešní komunisté chtějí?](http://zanechme-predsudku-vuci-komunistum.info/) je třešničkou do rakve. Z poutačů Listopadu zůstalo „Nejsme jako oni“. Bylo jistější vědět „kým nejsme“ před „kým jsme“. Škarohlídství národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit. Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak hřeje. *Imanence* je jedna noha v suchu (demobilisace 6. října '38). *Transcendence* jsou naopak obě hnáty až po nozdry ve vodě (mobilisace 23. září '38). Mnichovský diktát však učebnicovým předělem mezi češstvím a čecháčkovstvím není a nebyl. Francie Benešovi naplivala do ksichtu.
 
-Plavat a třeba i — tonout, pro něco. Sami, o sobě, jsme k ničemu, proto „to něco“ poletuje vně. Nezdolní pro „vyšetřovatele“ obou totalit byli právě duchovní. Devětaosmdesátý zahrnul všechny objetím a kuponovou knížkou. Devízou bylo [neušpinit se](https://youtu.be/b99OnZLl_JM). Omak sametu evokoval, že to lze. Pak se zjistilo, že když jste na někoho hodnej — na někoho jste zlej. A my nechtěli být zlí. '45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou nikdo neprohlédl, kdo je uvnitř. I po šestadvaceti letech se úderníci smějí s námi, ale komu by to vadilo, *vždyť nikomu nic nedělaj*. Každé čtyři roky pro ně namísto vězeňských lavic máme ty parlamentní, i něco málo milionů, asi na uniformy milice — monterky. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596) pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
+Plavat a třeba i — tonout, pro něco. Sami (o sobě) jsme k ničemu, proto „to něco“ poletuje vně. Nezdolní pro „vyšetřovatele“ obou totalit byli právě duchovní. Devětaosmdesátý zahrnul všechny objetím a kuponovou knížkou. Devízou bylo [neušpinit se](https://youtu.be/b99OnZLl_JM). Omak sametu evokoval, že to lze. Pak se zjistilo, že když jste na někoho hodnej — na někoho jste zlej. My věřili tomu, co nám kdo říká, ne tomu, co je. '45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou nevadilo, kdo je uvnitř. I po šestadvaceti letech se úderníci smějí s námi, ale komu by to vadilo, *vždyť nikomu nic nedělaj*. Každé čtyři roky pro ně namísto vězeňských lavic máme ty parlamentní, i něco málo milionů, asi na uniformy milice — monterky. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596) pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
@@ -93,7 +93,7 @@ Socialismus chutná třeskutě levně (srovnej Havel, V.: [Slovo o slovu](http:/
 > jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-Čtyřicet let života pomýleným nevykáží. Nemohou. Zůstalo by jim jen stáří, tj. odepsat valný čas sebe. Budovatelé, i ti po třech lobotomiích, mají na socialistické, ať už to znamená cokoli, cítění i úlisnou emoci kolektivizmu právo. Demokracie tkví v tom, že dokáže sama sebe postoupit. Buďme ale vším proti způsobu, kterým se *levoty* má nebo mělo dojít.
+Čtyřicet let života pomýleným nevykáží. Nemohou. Znali by jen stáří, tj. odepsat valný čas sebe. Budovatelé, i ti po třech lobotomiích, mají na socialistické, ať už to znamená cokoli, cítění i úlisnou emoci kolektivizmu právo. Demokracie tkví v tom, že dokáže sama sebe postoupit. Buďme ale vším proti způsobu, kterým se *levo*ty má nebo mělo dojít.
 
 > Komunismus je názor, že vypálením Louvru se všichni naučí malovat.
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
@@ -157,7 +157,7 @@ Nejsme trefně „jako oni“, ale stát stojí proto, že je právo. Vice versa
 > __Lidové noviny, 19. 10. 1928__  
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 208.*
 
-Zpovídat šíření, stavění na odiv tužeb komunismu, nikoliv osvětu nebo soukromé — třeba polohlasné — „zvážení“. Ať je o něm dostupných zcela informací a výpovědí, ať se polemizuje. Jen ať ho už propána nikdo nepouští ke slovu, ani ke stolu. Komunismus jednou celé století dostal — další nepotřebuje.
+Zpovídat šíření, stavění na odiv tužeb komunismu, nikoliv osvětu nebo soukromé — třeba polohlasné — „zvážení“. Ať je o něm dostupných zcela informací a výpovědí, ať se polemizuje. Jen ať už ho propána nikdo nepouští ke slovu, ani ke stolu. Komunismus jednou celé století dostal — další nepotřebuje.
 
 > [..] hlásí se [Steigerwald] k ideálu
 > a riskuje, že bude "lecjakými Vojty",
@@ -243,7 +243,9 @@ p.p.s.
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
 * Šaroch, Z.: Výstřely z hranice
 * 30 případů majora Zemana: Hon na lišku (5. díl)
+* [Večerní univerzita marxismu-leninismu](http://neviditelnypes.lidovky.cz/spolecnost-co-to-vlastne-bylo-ten-vuml-dya-/p_spolecnost.aspx?c=A100829_101957_p_spolecnost_wag)
 * [Rudé Právo](http://archiv.ucl.cas.cz/?path=RudePravo)
+* [Vědecký komunismus](http://www.ustrcr.cz/data/pdf/pamet-dejiny/pad0903/126-128.pdf)
 * [Husák](http://youtu.be/CvbMM0fyV5U?t=7m9s), [Štěpán](https://youtu.be/c89MIWlqSNw), [poslanec](http://www.psp.cz/sqw/detail.sqw?id=6224) [Ondráček](http://youtu.be/W21maRT1sm0)
 * [Hodní a nevinní komunisté](http://myego.cz/item/hodni-a-nevinni-komuniste-aneb-jak-se-nam-pod-nimi-zilo)
 * [Babičko, povídej](http://www.misantrop.info/babicko-povidej/)
