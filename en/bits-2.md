@@ -25,17 +25,32 @@ So look up a "primary" `Iface` and mark its gateway [default](https://en.wikiped
 ## fstab
 
 /etc/[fstab](http://www.linfo.org/etc_fstab.html) lets you mount a given partition
-persistently; you may wish to specify the `r,w,x` bits or [effective](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-security/cha.security.acls.html#sec.security.acls.handle.defacl.eff) IDs, i.e. `dmask` the new files
+persistently; you may wish to specify the `r,w,x` bits or [effective](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-security/cha.security.acls.html#sec.security.acls.handle.defacl.eff) IDs, i.e. `dmask` dirs and `fmask` files
 
     /dev/sda1            /mnt/data            ntfs       uid=1000,gid=1000,dmask=027,fmask=137              0 2
 
-## Inverted commas right
+## PowerPoint 2013 changes display setup
 
-To change `"Buy Windows," said Steve.` into `„Kupujte Windows,“ řekl Steve.`,
-write it actually like this `@Kupujte Windows,@@ řekl Steve.` and then substitute
+PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](http://www.indezine.com/products/powerpoint/learn/powerpoint-2013/enhanced-presenter-view-ppt2013.html) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to tell PowerPoint to clean up after itself
 
-    % perl -pi.bak -e 's/@@/“/g' file.txt
-    % perl -pi -e 's/@/„/g' file.txt
+create `C:\powerpnt_restore_topology.vbs`
+    
+    Set objShell = WScript.CreateObject("WScript.Shell")
+    objShell.RegWrite "HKCU\Software\Microsoft\Office\15.0\PowerPoint\Options\RestoreTopology", 1, "REG_DWORD"
+
+create `hklm_run_restore_topology.reg` and run it
+    
+    Windows Registry Editor Version 5.00
+
+    [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+    "powerpnt_restore_topology"="C:\\powerpnt_restore_topology.vbs"
+
+logoff
+
+* [PowerPoint 2013 Changes display setup](https://answers.microsoft.com/en-us/office/forum/office_2013_release-powerpoint/powerpoint-2013-changes-display-setup/3ca470a0-d896-4577-b724-a360b6bf1c4e?auth=1)
+* [How to add subkeys by using a .reg file](https://support.microsoft.com/en-us/kb/310516)
+
+p.s. [disable presenter view](https://social.technet.microsoft.com/Forums/office/en-US/a91dea3b-9c88-4d2b-9545-e48c3055a16c/powerpoint-2013-presenter-view-is-a-big-issue?forum=officeitpro) completely
 
 ## Windows 8/10 upgrade and OEM partition
 
