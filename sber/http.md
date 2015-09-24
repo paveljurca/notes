@@ -53,6 +53,7 @@ __dev__
 * [opensource.com](http://opensource.com/)
 * [scripting.com](http://scripting.com/)
 * [ZeroPage.cz](http://zeropage.cz/)
+* [LWN.net](https://lwn.net/Archives/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -564,6 +565,7 @@ __dev__
 * [How to Web](http://howtoweb.co/)
 * [SaaStr Annual](http://www.saastr.com/saastr-annual-2016/)
 * [Failing Forward](http://failingforward.eu/programme/)
+* [linux.conf.au](https://linux.conf.au/)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
