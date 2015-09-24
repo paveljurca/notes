@@ -321,6 +321,7 @@ __misc__
 * [Martin Pánek](http://mmister.com/)
 * [Petr Ševčík](https://petrsevcikblog.wordpress.com/)
 * [Harper Reed](http://harperreed.com/archives/)
+* [Mike Doherty](https://hashbang.ca/)
 
 ## podcasts
 
