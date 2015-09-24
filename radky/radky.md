@@ -4,7 +4,7 @@
 Stít tělo, by  
 pomohlo se hlavě.  
 Zatají oči, že  
-nejdále pravdě.
+pozadím k pravdě.
 
 *
 
@@ -16,10 +16,7 @@ Hynout.
 *
 
 vozka a sobi  
-že jedou  
-do další doby  
-z nadhledu  
-temeno hlavy  
+do doby  
 vnuknutí  
 kdež — stavy
 
@@ -33,13 +30,11 @@ mávnutí mušší
 
 *
 
-Rakev bere svět,  
-jenž jen  
-ty oči viděly.
-
 Blízcí  
 bez blízkého.  
 Svět  
-bez světa.
+bez světa,  
+jenž jen  
+ty oči viděly.
 
 

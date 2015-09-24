@@ -3,13 +3,12 @@ Drama
 
 krok  
 dvě vlohy  
-spolu  
-do něhy  
-žas —  
-a snář sovy  
-jak různě  
+spolu —  
+žas něhy  
+různě  
 na zemi  
-jen  
+hadr  
+snář sovy  
 rdít se
 
 u „My“
@@ -26,21 +25,9 @@ a stát vzadu
 
 *
 
-Ve hrobě  
-povídka pro mě:  
-„A já vím,  
-proč jsme tu.“
-
-Tvoje Déjà vu
-
-*
-
-obejit  
 v hlavě  
-ošizen  
-na stravě  
-vůle:  
-„Pro mě za mě.“
+tam hlavně  
+vůle: „Pro mě za mě.“
 
 *
 
@@ -55,8 +42,7 @@ tělo:
 
 hlt chleba  
 drobt vína  
-*něco jako*  
-víra
+žaludek — víra
 
 *
 
@@ -70,8 +56,8 @@ teď nezáleží
 *
 
 do země Oz  
-napojit sos  
-jak uchopit  
-„dost“
+napojil sos  
+rost a rost  
+„Dost?“
 
 
