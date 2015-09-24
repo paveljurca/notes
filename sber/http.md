@@ -53,6 +53,7 @@ __dev__
 * [opensource.com](http://opensource.com/)
 * [scripting.com](http://scripting.com/)
 * [ZeroPage.cz](http://zeropage.cz/)
+* [LWN.net](https://lwn.net/Archives/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
