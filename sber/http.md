@@ -563,6 +563,7 @@ __dev__
 * [How to Web](http://howtoweb.co/)
 * [SaaStr Annual](http://www.saastr.com/saastr-annual-2016/)
 * [Failing Forward](http://failingforward.eu/programme/)
+* [linux.conf.au](https://linux.conf.au/)
 
 __misc__
 * [informuji.cz](http://www.informuji.cz/)
