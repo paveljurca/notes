@@ -527,6 +527,11 @@ Slova
 
 .
 
+> Dají-li vám linkovaný papír, pište napříč.
+> *Juan Ramón Jiménez*
+
+.
+
 > Co je život?
 > Smáti se krvácejícími ranami.
 > *Richard Dehmel*
@@ -540,8 +545,7 @@ Slova
 
 .
 
-> Čas existuje,
-> až když je pozdě.
+> Čas existuje, až když je pozdě.
 > *Stig Dagerman, Německý podzim*
 
 .
