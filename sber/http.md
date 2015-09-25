@@ -701,9 +701,14 @@ __addendum__
 * [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
 * [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
 
+## česky
+
+* [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
+* [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
+* [nechybujte.cz](http://nechybujte.cz/)
+
 ## @TODO 
 
-    http://bara.ujc.cas.cz/ssjc/ 'Slovník spisovného jazyka českého
     alpha.app.net 'ad-free social network
     http://postach.io 'Evernote as a blog
     http://hackathon.launch.co/projects
