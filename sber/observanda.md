@@ -1,6 +1,9 @@
 Observanda
 ==========
 
+* [Bret Victor's](http://worrydream.com/quotes/)
+
+
 MOBERG
 ======
 
@@ -13,7 +16,7 @@ A Danjel jí na to odpověděl, že musíme naslouchat
 více Bohu než lidem. [..] Ten, kdo se staví proti
 vrchnosti a jejím nařízením, ten si znepřátelí
 kněžstvo a vede se mu zle. Ale Danjel odpověděl,
-že člověk, který nevzbuzujej pohoršení a smiřuje
+že člověk, který nevzbuzuje pohoršení a smiřuje
 se [..] nejde v zakrvácených stopách Ježíšových.
 (Moberg, V.: Vystěhovalci. Knižní klub, Praha 1994, s. 71.)
 
