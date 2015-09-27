@@ -1229,6 +1229,8 @@ plovoucí most
 dodatečně
 * _poste restante_
 na cílovou poštu
+* _post tenebras lux_
+po temnotě budiž světlo
 * _postulovat_
 požadovat
 * _postulát_
