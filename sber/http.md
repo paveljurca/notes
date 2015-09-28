@@ -326,6 +326,7 @@ __misc__
 * [Petr Ševčík](https://petrsevcikblog.wordpress.com/)
 * [Harper Reed](http://harperreed.com/archives/)
 * [Mike Doherty](https://hashbang.ca/)
+* [Startup L. Jackson](http://startupljackson.com/)
 
 ## podcasts
 
