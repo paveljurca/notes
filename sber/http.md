@@ -134,6 +134,7 @@ __misc__
 * [The New Republic](http://www.newrepublic.com/tags/culture)
 * [Today In Tabs](http://www.fastcompany.com/section/today-in-tabs)
 * [Wired](http://www.wired.com/category/business)
+* [nuzzel.com/pmarca/industry](http://nuzzel.com/pmarca/industry)
 
 ## blog
 
@@ -435,6 +436,7 @@ __misc__
 * [Talk About Know Priorities](http://talkabout.knowpriorities.com/)
 * [Longform Podcast](https://longform.org/podcast)
 * [Intersection](http://www.newrepublic.com/authors/intersection)
+* [a16z Podcast](https://soundcloud.com/a16z/tracks)
 
 ## video
 
