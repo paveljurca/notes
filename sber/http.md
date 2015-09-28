@@ -327,6 +327,7 @@ __misc__
 * [Harper Reed](http://harperreed.com/archives/)
 * [Mike Doherty](https://hashbang.ca/)
 * [Startup L. Jackson](http://startupljackson.com/)
+* [The Sparkline](https://fizzle.co/sparkline)
 
 ## podcasts
 
