@@ -55,6 +55,7 @@ __dev__
 * [ZeroPage.cz](http://zeropage.cz/)
 * [LWN.net](https://lwn.net/Archives/)
 * [Techdirt](https://www.techdirt.com/blog/netneutrality/)
+* [Technologizer](http://www.technologizer.com/the-best-of-technologizer/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
