@@ -566,6 +566,12 @@ Slova
 > když je vysílal, aby hlásali [..]
 > *Vilhelm Moberg, Usedlíci*
 
+.
+
+> Whilst inspiration to reform comes from the heart,
+> it is only achieved by the intellect.
+> *Herbert Hoover*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
