@@ -131,6 +131,8 @@ __misc__
 * [Laissez Faire](http://www.nechtenasbyt.cz/archiv-pdf/)
 * [Longform](https://longform.org/)
 * [The New Republic](http://www.newrepublic.com/tags/culture)
+* [Today In Tabs](http://www.fastcompany.com/section/today-in-tabs)
+* [Wired](http://www.wired.com/category/business)
 
 ## blog
 
@@ -1046,7 +1048,6 @@ __addendum__
     vimeo.com/eastbiz 'john vanhara biz tips
     generationapp.com 'build an windows phone app now
     campus-party.eu '24-hours-a-day technology festival in Berlin
-    wired.com 'magazine
     booking.com 'book a hotel worldwide
     teamtreehouse.com 'paid webinaries for developers
     rootsy.com 'build your own family tree
