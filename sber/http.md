@@ -329,7 +329,9 @@ __misc__
 * [Mike Doherty](https://hashbang.ca/)
 * [Startup L. Jackson](http://startupljackson.com/)
 * [The Sparkline](https://fizzle.co/sparkline)
-* [America en Familia](https://americaenfamiliaenglish.wordpress.com/)
+* [America en Familia](http://americaenfamilia.com/)
+* [Andrew Roth](https://www.washingtonpost.com/people/andrew-roth)
+* [Adam Taylor](https://www.washingtonpost.com/people/adam-taylor)
 
 ## podcasts
 
