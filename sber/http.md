@@ -54,6 +54,7 @@ __dev__
 * [scripting.com](http://scripting.com/)
 * [ZeroPage.cz](http://zeropage.cz/)
 * [LWN.net](https://lwn.net/Archives/)
+* [Techdirt](https://www.techdirt.com/blog/netneutrality/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
