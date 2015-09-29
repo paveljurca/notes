@@ -13,8 +13,8 @@ zdali
 tep v nebi  
 ve snaze  
 sami —  
-jsme ryba (třeba)  
-ryba v nádobě  
+snad ryba  
+v nádobě  
 co svými roky  
 propíjí se na dno
 
