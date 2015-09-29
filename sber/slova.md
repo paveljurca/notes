@@ -578,6 +578,12 @@ Slova
 > jsou tady ještě zlato a cenné papíry.
 > *Karel Gott*
 
+.
+
+> A nemůže-li si teď vykoupit těmi penězi zdraví,
+> udělal špatný obchod.
+> *Vilhelm Moberg, Usedlíci*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
