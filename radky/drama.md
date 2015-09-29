@@ -3,14 +3,13 @@ Drama
 
 krok  
 dvě vlohy  
-spolu —  
+spolu  
 žas něhy  
 různě  
 na zemi  
 hadr  
 snář sovy  
-rdít se
-
+rdít se  
 u „My“
 
 *
@@ -26,8 +25,8 @@ a stát vzadu
 *
 
 v hlavě  
-tam hlavně  
-vůle: „Pro mě za mě.“
+bezvadně  
+je po mně
 
 *
 
@@ -46,7 +45,7 @@ drobt vína
 
 *
 
-blíž věcem —  
+blíž věcem  
 znát stěží  
 dál srdcem  
 tehdy záleželo
@@ -56,8 +55,8 @@ teď nezáleží
 *
 
 do země Oz  
-napojil sos  
-rost a rost  
-„Dost?“
+napojit sos  
+z „Dost“  
+jsem povyrost
 
 
