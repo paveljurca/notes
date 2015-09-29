@@ -108,6 +108,15 @@ znovu a znovu pokoušet, zkoušet, co se dá. Vždycky
 se může vzepřít.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 106.)
 
+To není spravedlivé, jestli to bylo opravdu takhle.
+Nikdy nevěřil, že by se člověk mohl trvale domoci lepšího
+života jinak než řádnou prací.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 174.)
+
+Arvid došel k závěru, že měli tedy zase jednou štěstí
+jako tenkrát, když Pánbůh rozhodoval o barvě jejich pleti.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 180.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
