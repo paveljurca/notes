@@ -56,7 +56,7 @@ teď nezáleží
 
 do země Oz  
 napojit sos  
-z „Dost“  
-jsem povyrost
+z „Dost!“  
+jsem nevyrost
 
 
