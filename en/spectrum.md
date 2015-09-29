@@ -1,11 +1,11 @@
-325
-===
+Spectrum
+========
 
-325 is a proprietary file format used by a multi line text panel called SPECTRUM. The display has 15 rows by 30 columns and it hangs out at a few schools and canteens here in the Czech Republic. So instead of dull data like opening hours wouldn't it be nice to have a room schedule there? Whoa, not so fast :)
+A multi-line text panel *SPECTRUM* has 15 rows by 30 columns and it hangs out at a few schools and canteens here in the Czech Republic. So instead of dull data like opening hours wouldn't it be nice to have a room schedule there?
 
 ![SPECTRUM display](d/display.jpg)
 
-The display needs to load all the files at once. That means we use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start. Finally we do `spectrum.exe` and site's live!
+The display needs to load all the files at once. That means we use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start. Finally start `spectrum.exe` and site's live..
 
 The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
 
@@ -16,6 +16,7 @@ The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
     start "" /I /B "C:\Dwimperl\perl\bin\perl.exe" C:\PANEL\classes.pl 1>>log.txt 2>>&1
 
     rem LOAD
+    c:
     cd\panel\sendpanel
     keybuf.exe /zeeeey
     spectrum.exe
@@ -25,7 +26,7 @@ The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
 
 ![spectrum.exe](d/spectrum.png)
 
-Files are `0730.325, 0915.325, 1100.325, 1245.325, 1430.325, 1615.325 and 1800.325`. You're right, these're classes start times. Now, where's the actual data, i.e. subjects, teachers, rooms and times? Luckily the [university information system](http://www.uis-info.com/en/index) we use has an [API](https://en.wikipedia.org/wiki/Web_API). You request a given URL with a room id as a parameter and get the room schedule for today. And because the world isn't perfect, it's not [JSON](https://developer.mozilla.org/en-US/docs/Glossary/JSON) but HTML. So we'll do some [web scraping](https://en.wikipedia.org/wiki/Web_scraping). The SPECTRUM text panel has of course it's own [charset table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart) to display czech chars and not exceed one byte. So we ought to remap non-ASCII chars and output bytes. So [pick the right tool for the job](http://c2.com/cgi/wiki?PickTheRightToolForTheJob). We'll do some [Perl](http://qntm.org/files/perl/perl.html)!
+Files are `0730.325, 0915.325, 1100.325, 1245.325, 1430.325, 1615.325 and 1800.325`. You're right, these're classes start times. 325 is a proprietary file format used by the display. Now, where's the actual data, i.e. subjects, teachers, rooms and times? Luckily the [university information system](http://www.uis-info.com/en/index) we use has an [API](https://en.wikipedia.org/wiki/Web_API). You request a given URL with a room id as a parameter and get the room schedule for today. And because the world isn't perfect, it's not [JSON](https://developer.mozilla.org/en-US/docs/Glossary/JSON) but HTML. So we'll do some [web scraping](https://en.wikipedia.org/wiki/Web_scraping). The SPECTRUM text panel has of course it's own [charset table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart) to display czech chars and not exceed one byte. So we ought to remap non-ASCII chars and output bytes. So [pick the right tool for the job](http://c2.com/cgi/wiki?PickTheRightToolForTheJob). We'll do some [Perl](http://qntm.org/files/perl/perl.html)!
 
 On GNU/Linux you're all set but on Windows [Perl has to be installed](http://dwimperl.com/windows.html) first. We also install the [`LWP::Simple`](https://metacpan.org/pod/LWP::Simple) module to send [HTTP requests](https://pretty-rfc.herokuapp.com/RFC2616#GET) and to keep it *simple* at the same time
 
@@ -33,14 +34,14 @@ On GNU/Linux you're all set but on Windows [Perl has to be installed](http://dwi
 
 OK, the `classes.pl` script checklist
 
-- 0
+- A)
   - download schedule for given classrooms
   - extract data, purify and parse teacher's surname
-- 1
+- B)
   - store data in a right data structure (hash of hashes)
   - iterate over and prepare display screens
-- 2
-  - ensure the `*.325` format
+- C)
+  - ensure the 325 format
   - encode (or replace) chars beyond ASCII
   - write files
 
@@ -114,8 +115,8 @@ You might've noticed we add API URL and call subroutines "from the future". Well
                 my $r;
                 # 3 attempts to connect
                 for (1..3) {
-                  $r = get(API . $room);
-                  last if $r;
+                   $r = get(API . $room);
+                   last if $r;
                 }
 
                 $r;
@@ -125,19 +126,30 @@ You might've noticed we add API URL and call subroutines "from the future". Well
             for my $_class (_html($html)) {
                 my @subject = @{ $_class };
 
-                my $time = shift @subject;
-                my $subj = join ' ', @subject;
+                my $from = shift @subject;
+                my $to   = shift @subject;
+                # min. column width
+                my $subj = sprintf "%-6s " x @subject, @subject;
+                
                 # remove white space
                 $subj =~ s/^\s+|\s+$//g;
-
-                $class{$time}{$room} = $subj;
+                
+                for my $time (CLASSES) {
+                    my ($_from, $_to, $_time) = map {
+                        (my $num = $_) =~ s/\D//g;
+                        $num;
+                    } ($from, $to, $time);
+                    
+                    $class{$time}{$room} = $subj
+                        if ($_time >= $_from and $_time < $_to);
+                }
             }
         }
 
         return \%class;
     }
 
-From there we call `sub _html` which extracts data from HTML, so let's have a look at that HTML source
+From there we call `sub _html` which extracts data from HTML like this
 
     <table>
     <thead>
@@ -160,7 +172,7 @@ From there we call `sub _html` which extracts data from HTML, so let's have a lo
     </tr>
     </table>
 
-Not so bad, I'm sure we can parse it with a little help of [regex](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)
+We can parse it with a little of [regex](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)
 
     =head2 _html
 
@@ -186,9 +198,14 @@ Not so bad, I'm sure we can parse it with a little help of [regex](https://www.c
                 # second name of teachers
                 my ($surname) = split(/,/, $tr[5], 2);
                 ($surname) = $surname =~ /[ ]?(\S*)$/;
+                
+                # SubjID
+                $tr[3] = 'RESERVED'
+                  if $tr[4] =~ s/reservation:&nbsp;//i;
 
                 push @subjects, [
                                 $tr[0],   # From
+                                $tr[1],   # To
                                 $tr[3],   # SubjID
                                 $surname, # Teacher
                               ];
@@ -344,9 +361,8 @@ Now first text panel (screen) is going to be written. If the classroom is empty,
 
                 FILE:
                 {
-                    my $file = '000' . (CLASSES)[$i-$#panel];
-                    $file =~ s/://;
-                    $file = substr $file, -4;
+                    (my $file = (CLASSES)[$i-$#panel]) =~ s/\D//g;
+                    $file = sprintf "%04s", $file;
 
                     my $path = File::Spec->catpath(
                         'C:',
@@ -392,16 +408,14 @@ This prints/saves our classroom schedules!
                             join "\n", map {
                                 # $_ // ''
                                 defined $_ ? $_ : ''
-                            } (map {
-                                ('', @$_)
-                            } @panel[0..$#panel])[0..13]
+                            } (map @$_, @panel[0..$#panel])[0..13]
                         ),
                         "\n"
                     ;
 
                     #====== END ======
 
-Matrix in the end of file stores control chars for each row and a letter. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. *NEXT* subpanel of this hour changes to *NOW* subpanel of next hour. And obviously the very last file has no *NEXT* subpanel, so we redo our named code block
+Matrix at the end of file stores control chars for each row and a letter. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. *NEXT* subpanel of this hour changes to *NOW* subpanel of next hour. And obviously the very last file has no *NEXT* subpanel, so we redo our named code block
 
                     # control chars ~ 15 rows
                     print $fh
@@ -426,13 +440,15 @@ Look, what we've just did!
 
 ![classes.pl does room schedules](d/display2.jpg)
 
-As a last thing, we set times on each file as when to show off
+Last thing, we set times on each file as when to show off
 
 ![spectrum.exe](d/spectrum2.png)
 
 
 **UPDATE** 9/10/2015
 
-I'm in version 1.1. The panel shows classes which span over more hours and also in case of a free day, it gets you a nice placeholder. So if you'd like to have the final source code, just [let me know](http://jurcapavel.cz).
+I'm in version 1.1. The panel shows classes which span more hours. And if holiday, show a placeholder.
+
+For the source code, just [let me know](http://jurcapavel.cz).
 
 
