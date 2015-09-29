@@ -335,6 +335,7 @@ __misc__
 * [Andrew Roth](https://www.washingtonpost.com/people/andrew-roth)
 * [Adam Taylor](https://www.washingtonpost.com/people/adam-taylor)
 * [Aaron Bleyaert](http://aaronbleyaert.tumblr.com/)
+* [Jan Václavík](http://janvaclavik.cz/)
 
 ## podcasts
 
