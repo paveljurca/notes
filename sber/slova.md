@@ -572,6 +572,12 @@ Slova
 > it is only achieved by the intellect.
 > *Herbert Hoover*
 
+.
+
+> Peníze nejsou všechno..
+> jsou tady ještě zlato a cenné papíry.
+> *Karel Gott*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
