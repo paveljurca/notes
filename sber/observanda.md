@@ -117,6 +117,10 @@ Arvid došel k závěru, že měli tedy zase jednou štěstí
 jako tenkrát, když Pánbůh rozhodoval o barvě jejich pleti.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 180.)
 
+Škola je v provozu dva měsíce na podzim a dva měsíce na jaře.
+V zimě se neučí, protože děti nemohou vycházet kvůli zimě a sněhu.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 191.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
