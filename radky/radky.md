@@ -36,4 +36,11 @@ světa jenž
 jen  
 ty oči viděly
 
+*
+
+do země Oz  
+napojil sos  
+pro „Dost“  
+nevyrost
+
 
