@@ -4,7 +4,7 @@
 Stít tělo, by  
 pomohlo se hlavě.  
 Zatají oči, že  
-nejdále pravdě.
+dál sobě.
 
 *
 
@@ -31,16 +31,16 @@ mávnutí mušší
 
 *
 
+do země Oz  
+napojit sos  
+pro „dost“  
+hombre nevyrost
+
+*
+
 skon —  
 světa jenž  
 jen  
 ty oči viděly
-
-*
-
-do země Oz  
-napojil sos  
-pro „Dost“  
-nevyrost
 
 
