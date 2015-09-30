@@ -584,6 +584,11 @@ Slova
 > udělal špatný obchod.
 > *Vilhelm Moberg, Usedlíci*
 
+.
+
+> If you don't save you get nowhere.
+> *Tony Elumelu*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
