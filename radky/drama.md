@@ -46,11 +46,4 @@ tehdy záleželo
 
 teď nezáleží
 
-*
-
-do země Oz  
-napojil sos  
-pro „Dost“  
-nevyrost
-
 
