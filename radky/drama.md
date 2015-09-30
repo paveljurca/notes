@@ -24,12 +24,6 @@ a stát vzadu
 
 *
 
-v hlavě  
-bezvadně  
-je po mně
-
-*
-
 „Bych tu stih...“  
 (užít těch knih)  
 mozek:  
@@ -55,8 +49,8 @@ teď nezáleží
 *
 
 do země Oz  
-napojit sos  
-z „Dost!“  
-jsem nevyrost
+napojil sos  
+pro „Dost“  
+nevyrost
 
 
