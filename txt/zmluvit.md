@@ -7,7 +7,7 @@ Zmluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-pohoršení i mluvení. A jak s ním začne, může se plést.
+pohoršení i mluvení. A může se plést.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
@@ -133,6 +133,9 @@ To člověk na rampě myšleného tábora provádí selekci na *správné* (?) a
 
 WWW předpona u nově nabytých informací nás vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo).
 Proč je naší snahou být tam rychle?
+
+> Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
+> *Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 262.*
 
 p.s. Opravdové televizní zprávy jsou ty bez zvuku.
 
