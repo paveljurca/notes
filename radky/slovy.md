@@ -2,9 +2,9 @@ Slovy
 =====
 
 Osikou lká hlas.  
-Vře stín, stvoly.  
-„Nač?“ vykřičet snáz.  
-Jít,  slovy.
+V pohnutí z nuly.  
+„Nač?“ klnout snáz.  
+Mokřit souš slovy.
 
 Vějíř ohnilý v nás  
 zastřel klas — plody.  
