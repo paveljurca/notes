@@ -440,6 +440,7 @@ __misc__
 * [Longform Podcast](https://longform.org/podcast)
 * [Intersection](http://www.newrepublic.com/authors/intersection)
 * [a16z Podcast](https://soundcloud.com/a16z/tracks)
+* [StarTalk](http://www.startalkradio.net/shows-archive/)
 
 ## video
 
