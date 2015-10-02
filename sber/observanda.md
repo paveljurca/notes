@@ -132,6 +132,14 @@ jehož se nemohl nikdy zbavit. Je jednou provždy nezměnitelný,
 bude tu až do konce života [..]
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 270.)
 
+S večerním chladem povolila i závrať v Robertově hlavě,
+znovu mohl rozumně a účelně přemýšlet.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 227.)
+
+Musí se zvednout a nalézt jámu s vodou. Nesmí zůstat
+na místě, ten, kdo nemůže dál, nemůže ani nazpátek.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 235.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
