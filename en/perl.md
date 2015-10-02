@@ -55,6 +55,7 @@ bbc
 goodata
 bioperl
 craigslist
+buzzfeed.com
 
 
 jurcapavel.cz/Perl5
