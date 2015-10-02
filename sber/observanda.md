@@ -121,6 +121,11 @@ jako tenkrát, když Pánbůh rozhodoval o barvě jejich pleti.
 V zimě se neučí, protože děti nemohou vycházet kvůli zimě a sněhu.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 191.)
 
+A mužští jsou tam tak osamělí a tak naměkko a citliví,
+že už při pouhém pohledu na ženskou omdlévají. [..]
+V každé životní situaci touží člověk po kráse.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 283.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
