@@ -126,6 +126,12 @@ A mužští jsou tam tak osamělí a tak naměkko a citliví,
 V každé životní situaci touží člověk po kráse.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 283.)
 
+A nejtěžší a nejhořčejší zkušenost, kterou na světě udělal,
+bylo přizpůsobovat se, klamat sám sebe, smířit se s člověkem,
+jehož se nemohl nikdy zbavit. Je jednou provždy nezměnitelný,
+bude tu až do konce života [..]
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 270.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
