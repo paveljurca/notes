@@ -394,6 +394,7 @@ __cro__
 * [Casablanca](http://hledani.rozhlas.cz/iradio/?porad[]=Casablanca)
 * [Mozaika](http://hledani.rozhlas.cz/iradio/?porad[]=Mozaika)
 * [Deníček Josefa Veselého](http://hledani.rozhlas.cz/iRadio/?&porad[]=Dobr%C3%A9+r%C3%A1no%2C+Moravo!)
+* [Jazzový podvečer](http://hledani.rozhlas.cz/iradio/?porad[]=Jazzový+podvečer)
 * [Stránky na dobrou noc](http://www.rozhlas.cz/vltava/porady/_porad/2151)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
 * [Radiotéka](http://www.radioteka.cz/)
