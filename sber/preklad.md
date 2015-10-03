@@ -1138,7 +1138,7 @@ dřevěná hradba
 * _panoptikum_
 obludárium
 * _panslavismus_
-sjednocení slovanů
+sjednocení Slovanů
 * _panteismus_
 víra v jednotu boha
 * _par excellence_
