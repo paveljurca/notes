@@ -140,6 +140,13 @@ Musí se zvednout a nalézt jámu s vodou. Nesmí zůstat
 na místě, ten, kdo nemůže dál, nemůže ani nazpátek.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 235.)
 
+Cena pozemku se mohla ze dne na den zdvojnásobit. [..]
+Ti, kdož pracovali s lehounkým papírem, zbohatli na těch,
+kteří zacházeli s těžkými pracovními nástroji. Pozemkový
+spekulant ovládl zemědělce, peněžníci bohatli, ale chlapi
+od seker a pluhů zůstávali chudí.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 330.)
+
 
 (Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
 
