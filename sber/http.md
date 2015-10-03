@@ -336,6 +336,7 @@ __misc__
 * [Adam Taylor](https://www.washingtonpost.com/people/adam-taylor)
 * [Aaron Bleyaert](http://aaronbleyaert.tumblr.com/)
 * [Jan Václavík](http://janvaclavik.cz/)
+* [Jan H. Vitvar](http://www.respekt.cz/autori/jan-h-vitvar)
 
 ## podcasts
 
@@ -511,6 +512,7 @@ __misc__
 * [The Nantucket Project](https://www.nantucketproject.com/tnp-videos)
 * [TEDx Talks](http://tedxtalks.ted.com/playlist/Recent)
 * [Eyeo Festival](https://vimeo.com/eyeofestival/videos)
+* [Vzkaz](http://www.ceskatelevize.cz/porady/10160488386-vzkaz/dily/)
 
 ## events 
 
