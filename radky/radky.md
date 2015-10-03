@@ -4,7 +4,7 @@
 Stít tělo, by  
 pomohlo se hlavě.  
 Zatají oči, že  
-dál sobě.
+navzdory sobě.
 
 *
 
@@ -25,7 +25,7 @@ kdež — stavy
 
 uši  
 na duši  
-jsou — tuší  
+řvou — tuší  
 že radost  
 mávnutí mušší
 
