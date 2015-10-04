@@ -147,12 +147,18 @@ spekulant ovládl zemědělce, peněžníci bohatli, ale chlapi
 od seker a pluhů zůstávali chudí.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 330.)
 
+Ale když válka konečně přišla, nemusí se už dál zneklidňovat,
+že válka přijde.
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
-(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
 
-(Moberg, V.: Přistěhovalci. Knižní klub, Praha 1994, s. 11.)
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
+
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
 DAGERMAN
 ========
