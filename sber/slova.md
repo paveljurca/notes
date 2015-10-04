@@ -589,6 +589,18 @@ Slova
 > If you don't save you get nowhere.
 > *Tony Elumelu*
 
+.
+
+> V této zemi je každý člověk stejně dobrý jako druhý,
+> a často je lepší.
+> *Abraham Lincoln*
+
+.
+
+> To nejmenší, co může člověk na Bohu žádat,
+> je, aby byl.
+> *Vilhelm Moberg*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
