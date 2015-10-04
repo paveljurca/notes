@@ -151,8 +151,9 @@ Ale když válka konečně přišla, nemusí se už dál zneklidňovat,
 že válka přijde.
 (Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
-
-(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
+Tu nohu si prý měl dát do pořádku včas. Teď, když se mu už zasekla,
+ji za sebou bude vláčet navěky.
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 23.)
 
 
 (Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
