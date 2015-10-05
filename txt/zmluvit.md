@@ -7,14 +7,14 @@ Zmluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-pohoršení i mluvení. A může se plést.
+pohoršení i mluvení. A jak začne, může se plést.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Zpřeházet kupu očividností a úsudků.
+mluvit. Nakopat kupu očividností.
 Nikdo o ničem nic pořádně neví. A když ví, neví to zase ten druhý.
 Ale holt už jsme se potkali — budeme mluvit.
 
@@ -31,8 +31,8 @@ Ale holt už jsme se potkali — budeme mluvit.
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
 Člověk: do uší rádio a před oči týdeník.
-Hlavně se vyhnout sobě. Dnem se pohne až
-se naučíme *skutečnosti*, *zhmotnění*.
+Hlavně se vyhnout sobě. Dnem se pohne, jen
+dojdeme *skutečnosti*, prsti hlíny, *hmotě*.
 Mluvit chvílí ale ne slovy.
 
 > Vyprávět, učit, ba i popisovat, tohle jde,
@@ -72,7 +72,7 @@ Mluvit chvílí ale ne slovy.
 
 Mluvit někdy znamená zapomenout, co pravda je,
 byla — a teď už není. Netušíme jestli *vůbec a ještě* mluvit.
-A přehánět proto, že se hrozíme sluchu — skutečnosti — od našich mluvidel.
+A přehánět proto, že se hrozíme sluchu od našich mluvidel.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
 > že se sejdu s takovou kreaturou [..] štvu ho, tak
@@ -123,20 +123,24 @@ Lépe je nemluvit, lépe je číst. Raději tak ohrozit jen sebe.
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-Svět vězí právě v češtině a básnířovo pomlce. Věci, zvířectvo a stavy jen jsou.
-To člověk na rampě myšleného tábora provádí selekci na *správné* (?) a *chybné* (?).
+Svět vězí právě v češtině, pomlce. Věci, zvířectvo a stavy jen jsou.
+To člověk na rampě myšleného tábora provádí selekci na *správné* (?) a *vadné* (?).
 
 > Mateřský jazyk bývá pouhým instrumentem,
 > někdejší košatý strom pragmaticky zcenzurovaný
 > na telegrafní tyč.
 > *Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 18.*
 
-WWW předpona u nově nabytých informací nás vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo).
-Proč je naší snahou být tam rychle?
+WWW předpona u nově nabytých informací vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo).
+Proč tam spěchat? 
 
 > Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
-> *Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 262.*
+> *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 262.*
 
 p.s. Opravdové televizní zprávy jsou ty bez zvuku.
+
+> Pro dospělého člověka je ponižující, když nedovede mluvit svou mateřštinou
+> čistě a bez chyby. Cítil hluboký stud. To je totéž, jako kdyby nepoznal svou starou mámu.
+> *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 371.*
 
 
