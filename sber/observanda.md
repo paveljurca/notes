@@ -147,7 +147,21 @@ spekulant ovládl zemědělce, peněžníci bohatli, ale chlapi
 od seker a pluhů zůstávali chudí.
 (Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 330.)
 
-Ale když válka konečně přišla, nemusí se už dál zneklidňovat,
+A již v třicíti letech se mu říkalo Starý Abe. To pro jeho
+velkou moudrost. Spolehnout se na něho mohli přátelé i nepřátelé.
+První vždycky uspokojil a druhé zklamal.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 365.)
+
+Nedovedl lhát a podvádět, neměl prostě ani trochu obchodnického nadání.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 365.)
+
+Norka je sice tvrdohlavá a paličatá ženská,
+ale když jí do toho nebude mluvit, zastane spoustu práce.
+S Nory není těžko vyjít, ale člověk je musí nechat dělat, co chtějí.
+(Moberg, V.: Usedlíci. Knižní klub, Praha 1994, s. 382.)
+
+Ale když válka konečně přišla,
+nemusí se už dál zneklidňovat,
 že válka přijde.
 (Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
 
