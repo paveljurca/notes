@@ -1,5 +1,5 @@
-Zmluvit
-=======
+Mluvit
+======
 
 > Všichni mluvili o tý operaci naprosto ležérně.
 > Je to procházka parkem. Nikoho jsem se na nic
@@ -7,16 +7,16 @@ Zmluvit
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
 Každý je zhruba kompetentní ke všemu, ke zmatku,
-pohoršení i mluvení. A jak začne, může se plést.
+pohoršení i mluvení.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
 Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Nakopat kupu očividností.
+mluvit. Okopat okopané.
 Nikdo o ničem nic pořádně neví. A když ví, neví to zase ten druhý.
-Ale holt už jsme se potkali — budeme mluvit.
+Ale holt jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
 > "In physics," I said.  
@@ -31,9 +31,8 @@ Ale holt už jsme se potkali — budeme mluvit.
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
 Člověk: do uší rádio a před oči týdeník.
-Hlavně se vyhnout sobě. Dnem se pohne, jen
-dojdeme *skutečnosti*, prsti hlíny, *hmotě*.
-Mluvit chvílí ale ne slovy.
+Zahýbat sobě. Skutečnost, mlčení, prst hlíny,
+hmota. Mluvit chvílí ale ne slovy.
 
 > Vyprávět, učit, ba i popisovat, tohle jde,
 > i když by k výměně lidských myšlenek každému
@@ -71,8 +70,8 @@ Mluvit chvílí ale ne slovy.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 96.*
 
 Mluvit někdy znamená zapomenout, co pravda je,
-byla — a teď už není. Netušíme jestli *vůbec a ještě* mluvit.
-A přehánět proto, že se hrozíme sluchu od našich mluvidel.
+byla — a teď už není. Netušíme zdali *vůbec a ještě* mluvit.
+Přeháním. Mám strach, že se uslyším.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
 > že se sejdu s takovou kreaturou [..] štvu ho, tak
@@ -95,8 +94,8 @@ A přehánět proto, že se hrozíme sluchu od našich mluvidel.
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
-Psát lze o smyslu, mluvit jen o nesmyslu.
-Hádka, při které nikdo nemluví? O co by byla kratší.
+Psát lze o smyslu, mluvit o nesmyslu.
+Hádka, při které nikdo nemluví? Byla by kratší.
 
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
 > hovořil vždy jen rozvážně a hlasem odpovídajícím
@@ -116,28 +115,28 @@ Hádka, při které nikdo nemluví? O co by byla kratší.
 > Když to řekl, vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
 
-Sdělovat se. Ale proč? Jako by nestačilo, že *jsme*.
-Lépe je nemluvit, lépe je číst. Raději tak ohrozit jen sebe.
+Sdělovat se. *Jsme*. Prý to nestačí.
+Lépe je nemluvit, lépe je číst.
+Raději ohrozit jen sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-Svět vězí právě v češtině, pomlce. Věci, zvířectvo a stavy jen jsou.
-To člověk na rampě myšleného tábora provádí selekci na *správné* (?) a *vadné* (?).
+Svět vězí v pomlce, tichu. Věci, zvířectvo a stavy *jsou*.
+To člověk na rampě *myšleného* tábora provádí selekci: dané a vadné.
 
 > Mateřský jazyk bývá pouhým instrumentem,
 > někdejší košatý strom pragmaticky zcenzurovaný
 > na telegrafní tyč.
 > *Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 18.*
 
-WWW předpona u nově nabytých informací vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo).
-Proč tam spěchat? 
+WWW předpona vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo). Proč spěchat..
 
 > Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 262.*
 
-p.s. Opravdové televizní zprávy jsou ty bez zvuku.
+p.s. Jediné televizní zprávy jsou ty bez zvuku.
 
 > Pro dospělého člověka je ponižující, když nedovede mluvit svou mateřštinou
 > čistě a bez chyby. Cítil hluboký stud. To je totéž, jako kdyby nepoznal svou starou mámu.
