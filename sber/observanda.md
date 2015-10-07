@@ -169,11 +169,9 @@ Tu nohu si prý měl dát do pořádku včas. Teď, když se mu už zasekla,
 ji za sebou bude vláčet navěky.
 (Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 23.)
 
-
-(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
-
-
-(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 7.)
+Pastor Stenius [..] hlásal, že všechny mechanismy a parní stroje
+odvádějí myšlenky k pozemským věcem a způsobují osadníkům škody na duších.
+(Moberg, V.: Poslední dopis do Švédska. Knižní klub, Praha 1994 (2. vyd.), s. 170.)
 
 DAGERMAN
 ========
