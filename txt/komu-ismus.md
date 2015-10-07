@@ -268,6 +268,7 @@ p.p.s.
 * Kryl, K.: Země Lhostejnost
 * Baťa, J.A.: Za obchodem kolem světa
 * Tigrid, P.: Kapesní průvodce inteligentní ženy po vlastním osudu
+* Přečan, V.: Charta 77: Od morální k demokratické revoluci
 
 ;
 
