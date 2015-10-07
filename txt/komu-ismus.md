@@ -75,10 +75,9 @@ Komunismus dobíhá z těch dob, ve kterých „čím hůře, tím lépe“. Ně
 > politickými realisty, kteří vědí co chtějí a co mohou.
 > *Beneš, E.: Šest let exilu a druhé světové války. Orbis, Praha 1947 (6. vyd.), s. 372.*
 
-Báli jsme se Habsburků, prišli Němci. Báli jsme se Němců, přišli Rusové. Nebojíme se dnes Rusů, možná přijdou Rusové, možná uřvanost Arabů
-nebo druhá třetí tvář Číny, možná postačí želé z Bruselu. [Víte Vy vůbec co dnešní komunisté chtějí?](http://zanechme-predsudku-vuci-komunistum.info/) je třešničkou do rakve. Z poutačů Listopadu zůstalo „Nejsme jako oni“. Bylo jistější vědět „kým nejsme“ před „kým jsme“. Škarohlídství národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit. Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak hřeje. *Imanence* je jedna noha v suchu (demobilisace 6. října '38). *Transcendence* jsou naopak obě hnáty až po nozdry ve vodě (mobilisace 23. září '38). Mnichovský diktát však učebnicovým předělem mezi češstvím a čecháčkovstvím není a nebyl. Francie Benešovi naplivala do ksichtu.
+Báli jsme se Habsburků, prišli Němci. Báli jsme se Němců, přišli Rusové. Nebojíme se dnes Rusů, možná přijdou Rusové, možná hlahol Arabů, možná druhá třetí tvář Číny, možná želé z Bruselu. [Víte Vy vůbec co dnešní komunisté chtějí?](http://zanechme-predsudku-vuci-komunistum.info/) je třešničkou do rakve. Z Listopadu zůstalo „Nejsme jako oni“. Bylo jistější vědět „kým nejsme“ před „kým jsme“. Škarohlídství národa znemožní stát přímě za jednou idejí, tj. odevzdat se, věřit. Obyčejně po kabátě máme zastrkané dvě tři, žádná za nic nestojí, ale i tak hřeje. *Imanence* je jedna noha v suchu (demobilisace 6. října '38). *Transcendence* jsou naopak obě hnáty až po nozdry ve vodě (mobilisace 23. září '38). Mnichovský diktát ale učebnicovým předělem mezi češstvím a čecháčkovstvím nebude. Francie Benešovi naplivala do ksichtu.
 
-Plavat a třeba i — tonout, pro něco. Sami (o sobě) jsme k ničemu, proto „to něco“ poletuje vně. Nezdolní pro „vyšetřovatele“ obou totalit byli právě duchovní. Devětaosmdesátý zahrnul všechny objetím a kuponovou knížkou. Devízou bylo [neušpinit se](https://youtu.be/b99OnZLl_JM). Omak sametu evokoval, že to lze. Pak se zjistilo, že když jste na někoho hodnej — na někoho jste zlej. My věřili tomu, co nám kdo říká, ne tomu, co je. '45 porodnici vypálil, '89 zdvojil kapacitu. Ani jednou nevadilo, kdo je uvnitř. I po šestadvaceti letech se úderníci smějí s námi, ale komu by to vadilo, *vždyť nikomu nic nedělaj*. Každé čtyři roky pro ně namísto vězeňských lavic máme ty parlamentní, i něco málo milionů, asi na uniformy milice — monterky. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596) pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
+Plavat a třeba i — tonout, pro něco. Sami (o sobě) jsme k ničemu, proto „to něco“ poletuje vně. Nezdolní pro „vyšetřovatele“ obou totalit byli právě duchovní. Devětaosmdesátý zahrnul všechny objetím a kuponovou knížkou. Devízou bylo [neušpinit se](https://youtu.be/b99OnZLl_JM). Omak sametu evokoval, že to lze. Pak se zjistilo, že když jste na někoho hodnej — na někoho jste zlej. Věřili jsme dojmům člověka, ne jeho (už tehdy známé) trajektorii činů a přečinů. '45 porodnici vypálil, '89 založil druhou a třetí. Ani jednou nevadilo, kdo je uvnitř. I po šestadvaceti letech se úderníci smějí s námi, ale komu by to vadilo, *vždyť nikomu nic nedělaj*. Každé čtyři roky pro ně namísto vězeňských lavic máme ty parlamentní, i něco málo milionů, asi na uniformy milice — monterky. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596) pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
@@ -93,7 +92,7 @@ Socialismus chutná třeskutě levně (srovnej Havel, V.: [Slovo o slovu](http:/
 > jež zavinily jeho neúspěch, netkví v jeho osobě, ale v chodu světa.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 24.*
 
-Čtyřicet let života pomýleným nevykáží. Nemohou. Znali by jen stáří, tj. odepsat valný čas sebe. Budovatelé, i ti po třech lobotomiích, mají na socialistické, ať už to znamená cokoli, cítění i úlisnou emoci kolektivizmu právo. Demokracie tkví v tom, že dokáže sama sebe postoupit. Buďme ale vším proti způsobu, kterým se *levo*ty má nebo mělo dojít.
+Čtyřicet let života pomýleným nevykáží. Nemohou. Znali by jen stáří, tj. odepsat valný čas sebe. Budovatelé, i ti po třech lobotomiích, mají na socialistické, ať už to znamená cokoli, cítění i hřejivost kolektivizmu právo. Demokracie tkví v tom, že dokáže sama sebe postoupit. Buďme ale vším proti způsobu, kterým se *levo*ty má nebo mělo dojít.
 
 > Komunismus je názor, že vypálením Louvru se všichni naučí malovat.
 > *[zbyhnev.com](https://www.facebook.com/zbyhnevdotcom/posts/696642100447455)*
@@ -142,7 +141,7 @@ Standarta srpu a kladiva ovinula [více obětí](https://en.wikipedia.org/wiki/M
 > komunistická strategická moudrost.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 115.*
 
-Nejsme trefně „jako oni“, ale stát stojí proto, že je právo. Vice versa je džungle. *Prvého* odříkání je *druhého* právo. Řád jednotlivce je svobodou jednotlivců. Z preambule Ústavy: „[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.“
+Nejsme trefně „jako oni“, ale stát stojí proto, že je právo. Vice versa je tma. *Prvého* odříkání je *druhého* právo. Řád jednotlivce je svobodou jednotlivců. Z preambule Ústavy: „[..] jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku.“
 
 > Nic horšího nemůže komunista spáchat
 > než udělat něco v zájmu státu československého.
@@ -193,7 +192,7 @@ Komunismus je sám tak absurdní, že argument vůbec je na [h**no](https://yout
 > Historie učí, že ničeho není dosaženo jednou provždy.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 139.*
 
-Právem se stává to, co *většina* za právo prohlásí (Aristotelés). V proletariátu člověk halekat nemohl, dnes mluvit může, ale nikdo ho neslyší (Jaroslav Hutka). Menšina třeba v demokracii končí proformou, ústavní vatou, pomazáním většiny: Podívejte, máme demokracii! V komunismu ale menšina není žádná. Vějíř barev je pryč. Sice to je přihrávkou „podzemní kultuře“ a disentu vůbec, ale ti na povrchu jsou spitím barev všech — šedi.
+Právem se stává to, co *většina* za právo prohlásí (Aristotelés). V proletariátu člověk halekat nemohl, dnes mluvit může, ale nikdo ho neslyší (Jaroslav Hutka). Menšina třeba v demokracii končí proformou, ústavní vatou, pomazáním většiny: Podívejte, máme demokracii! V komunismu menšina není žádná. Vějíř barev je pryč. Sice to je přihrávkou „podzemní kultuře“ a disentu vůbec, ale ti na povrchu jsou spitím barev všech — šedi.
 
 > Demokracie? Ano — ale ne proboha v řečnění. V práci.
 > V srdci. V každém dechu, v konání a myšlení. Tam demokracie.
