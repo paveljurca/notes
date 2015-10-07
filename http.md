@@ -337,6 +337,7 @@ __misc__
 * [Aaron Bleyaert](http://aaronbleyaert.tumblr.com/)
 * [Jan Václavík](http://janvaclavik.cz/)
 * [Jan H. Vitvar](http://www.respekt.cz/autori/jan-h-vitvar)
+* [blog.ondrejk.cz](http://blog.ondrejk.cz/)
 
 ## podcasts
 
