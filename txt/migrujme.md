@@ -1,12 +1,15 @@
 Národ snově
 ===========
 
+Pro demografii ČR znamená 1 nemluvně nebo 4 migranti totéž (Radko Hokovský, KT 6. 10. 2015).
+
+
 > A protože mu v tom nemohl Karl Oskar zabránit násilím,
 > nemohl mu v tom zabránit ani jinak.
 > *Vilhelm Moberg, Přistěhovalci*
 
 
-Pravda je, že s islámem ztratila Arábie kulturu. Do sedmého století byli dalece napřed.
+Islámem Arábie umrtvila kulturu, snahu. Do sedmého století n. l. byli dalece napřed. 
 
 https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density#Secondary_table
 Zalidněnost na km^2 u nás dělá 136, u Francie 120, Švédska 24, Saudské Arábie 13, USA 35, Řecka 85 a Německa 232 lidí (zdroj [Světová banka](http://data.worldbank.org/indicator/EN.POP.DNST)).
