@@ -586,12 +586,14 @@ __dev__
 * [SaaStr Annual](http://www.saastr.com/saastr-annual-2016/)
 * [Failing Forward](http://failingforward.eu/programme/)
 * [linux.conf.au](https://linux.conf.au/)
+* [StartUp Harvest Ostrava](http://startupharvest.com/)
 
 __misc__
-* [informuji.cz](http://www.informuji.cz/)
-* [Kulturní přehled](http://goout.cz)
-* [srazy.info](http://srazy.info)
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
+* [Kulturní přehled](http://goout.cz)
+* [informuji.cz](http://www.informuji.cz/akce/)
+* [tyinternety.cz/kalendar-akci](http://www.tyinternety.cz/kalendar-akci/)
+* [srazy.info](http://srazy.info)
 * [mlp.cz/cz/akce](http://www.mlp.cz/cz/akce/)
 * [kinohled.cz](http://kinohled.cz/)
 * [barcamp.cz](http://barcamp.cz)
