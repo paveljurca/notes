@@ -3,6 +3,14 @@ Observanda
 
 * [Bret Victor's](http://worrydream.com/quotes/)
 
+NEUMANN
+=======
+
+Ti, kdož po dvaceti, třiceti, čtyřiceti letech nezmění
+své názory, třebaže všecko kolem se změnilo, jsou snad
+šťastní lidé, ale nezávidím jim a nechtěl bych s nimi měnit.
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948.)
+
 
 MOBERG
 ======
