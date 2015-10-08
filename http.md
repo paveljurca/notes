@@ -399,7 +399,7 @@ __cro__
 * [Jazzový podvečer](http://hledani.rozhlas.cz/iradio/?porad[]=Jazzový+podvečer)
 * [Stránky na dobrou noc](http://www.rozhlas.cz/vltava/porady/_porad/2151)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
-* [Radiotéka](http://www.radioteka.cz/)
+* [U muziky s Josefem Zímou](http://www.rozhlas.cz/strednicechy/porady/_porad/101549)
 
 __misc__
 * [Serial](http://serialpodcast.org/#episodes)
@@ -1492,8 +1492,10 @@ __addendum__
     http://dublab.com/category/listen/archive/ 'dublab.com
     http://22tracks.com 'music discovery
     http://spotlst.com/ 'playlists
+    
+    [Radiotéka](http://www.radioteka.cz/)
 
-    ## movies
+    ##
     http://nfa.cz/cz/fp/ 'Národní filmový archiv
 
 
