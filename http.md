@@ -1,7 +1,7 @@
 Http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following), and [twitter](https://twitter.com/paveljurca/lists/list/members), I seek information here
+Besides [twitter](https://twitter.com/paveljurca/following) (and [twitter](https://twitter.com/paveljurca/lists/list/members)) I seek information here
 
 ## news 
 
@@ -364,6 +364,7 @@ __dev__
 * [The Startup Chat](http://thestartupchat.com/)
 * [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Responsive Web Design](http://responsivewebdesign.com/podcast/)
+* [Heavybit](https://soundcloud.com/heavybit/sets)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -618,21 +619,6 @@ __misc__
 * [Mobile User Experience](http://www.pmn.co.uk/mex/)
 * [Eyeo Festival](http://eyeofestival.com/)
 
-## data
-
-* [nasstat.cz](http://nasstat.cz)
-* [otevrenadata.cz](http://www.otevrenadata.cz/)
-* [volby.cz/opendata/opendata.htm](http://volby.cz/opendata/opendata.htm)
-* [data.worldbank.org/indicator](http://data.worldbank.org/indicator)
-* [developers.google.com/freebase](http://developers.google.com/freebase/)
-* [wiki.dbpedia.org/About](http://wiki.dbpedia.org/About)
-* [geonames.org](http://www.geonames.org/)
-* [economia.github.io](http://economia.github.io)
-* [opendatahandbook.org/resources](http://opendatahandbook.org/resources/)
-* [Links to Open Content](http://opencontenttoolkit.wikispaces.com/Links+to+Open+Content)
-* [opendata.sk](http://opendata.sk/liferay/projects)
-* [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
-
 ## 20. století
 
 * [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
@@ -656,21 +642,6 @@ __misc__
 * [myjsmetonevzdali.cz](http://myjsmetonevzdali.cz)
 * [jedensvetnaskolach.cz](http://jedensvetnaskolach.cz)
 * [hrdinove.cz](http://hrdinove.cz)
-
-## ex lege 
-
-* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
-* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
-* [_Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
-* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
-* [_Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
-* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
-* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
-* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
-* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
-* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
-* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
-* [NOZ](http://obcanskyzakonik.justice.cz/)
 
 ## jobs
 
@@ -723,11 +694,41 @@ __addendum__
 * [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
 * [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
 
+## ex lege 
+
+* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
+* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
+* [_Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
+* [_Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
+* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
+* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
+* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
+* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
+* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
+* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
+* [NOZ](http://obcanskyzakonik.justice.cz/)
+
 ## česky
 
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
+
+## data
+
+* [nasstat.cz](http://nasstat.cz)
+* [otevrenadata.cz](http://www.otevrenadata.cz/)
+* [volby.cz/opendata/opendata.htm](http://volby.cz/opendata/opendata.htm)
+* [data.worldbank.org/indicator](http://data.worldbank.org/indicator)
+* [developers.google.com/freebase](http://developers.google.com/freebase/)
+* [wiki.dbpedia.org/About](http://wiki.dbpedia.org/About)
+* [geonames.org](http://www.geonames.org/)
+* [economia.github.io](http://economia.github.io)
+* [opendatahandbook.org/resources](http://opendatahandbook.org/resources/)
+* [Links to Open Content](http://opencontenttoolkit.wikispaces.com/Links+to+Open+Content)
+* [opendata.sk](http://opendata.sk/liferay/projects)
+* [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
 
 ## @TODO 
 
