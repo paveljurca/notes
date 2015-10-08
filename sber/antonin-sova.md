@@ -21,8 +21,7 @@ Antonín Sova
 > Být vlnou na moři, a stále plouti, plouti...
 > *Sova, A.: Pozdrav bouřlivé noci. Českosl. spis., Praha 1964.*
 
-p.s. Josef Hora
-
+Josef Hora  
 *Nad verši Antonína Sovy*
 
 > V těžký náš čas, jenž rozkmital  
@@ -41,7 +40,7 @@ p.s. Josef Hora
 > kytici vzduchu, křídel, jara.
 > *Hora, J. In: Sova, A.: Pozdrav bouřlivé noci. Českosl. spis., Praha 1964, s. 108.*
 
-p.p.s. F. X. Šalda
+F. X. Šalda
 
 > Sova vykonal svou tvorbou kus statečného díla celkového.
 > Narodil se plachým a bázlivým před životem, mimózou,
@@ -53,8 +52,7 @@ p.p.s. F. X. Šalda
 > se síly a víc: [..]
 > *Šalda, F.X. In: Sova, A.: Pozdrav bouřlivé noci. Českosl. spis., Praha 1964, s. 109.*
 
-p.p.p.s. Jiří Mahen
-
+Jiří Mahen  
 *Památce Antonína Sovy*
 
 > Tvou knihovnu jsme skoro všichni znali,  
