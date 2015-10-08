@@ -515,6 +515,7 @@ __misc__
 * [TEDx Talks](http://tedxtalks.ted.com/playlist/Recent)
 * [Eyeo Festival](https://vimeo.com/eyeofestival/videos)
 * [Vzkaz](http://www.ceskatelevize.cz/porady/10160488386-vzkaz/dily/)
+* [Lidé z praxe](http://www.lidezpraxe.cz/videozaznamy/)
 
 ## events 
 
