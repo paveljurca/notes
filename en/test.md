@@ -1,16 +1,15 @@
-@Test
-=====
+Test
+====
 
-First, I should confess I'm nobody on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf).
-I didn't really started yet.
+First, I'm no pro on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf).
 It's just I'd like to write
 down a few notes to keep
-a reference for myself.
+a future reference for myself.
 
-My `@Test` incentive is that
+My __Test__ incentive is
 I feel less pressure.
-Did it pass? Then move on :)
-Did I wrong? I'll know fast then.
+Did it pass? Move on :)
+Did I wrong? I'll know then.
 
 > [Without unit tests] You're not refactoring,
 > you're just changing shit. — Hamlet D'Arcy
@@ -27,10 +26,10 @@ or in the test itself.
 > the presence of bugs but never to show their absence.
 > *Edsger W. Dijkstra*
 
-Of course `@Test` is an extra effort
+Of course __Test__ is an extra effort
 but it pays off in terms of thinking
-about that new code you're gonna write.
-To put it simply: if you can't test it,
+about the new code you write.
+To put it simply: If you can't test it,
 you're likely to be wrong.
 
 > If you can't figure out how to write the tests for something,
@@ -39,7 +38,7 @@ you're likely to be wrong.
 
 - *Test* fixture (contract, behaviour) but **not** the implementation
 
-- No *happy-path* testing, embarrass that code!
+- No *happy-path* testing; destroy that code
 
 - The very single responsibility, i.e. a class or method does too much
 
@@ -49,19 +48,19 @@ you're likely to be wrong.
 
 - Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell), i.e. a constructor with unreachable objects
 
-- Comments are there to clarify the intentions, quirks etc., i.e. say what the code does not say
+- Comments are there to clarify intentions, quirks, i.e. say what the code doesn't
 
-So code a little, test a little, **redo**. And considering the test itself..
+*Code a little, test a little, redo*. Considering the __Test__ itself..
 
 - **No** multiple (unrelated) assertions, i.e. do more @Test methods
 
-- Test **cannot** be more complicated than the actual code itself
+- Test **cannot** be more complicated than the code you test
 
 So to get us going..
 
-0. set up a [test fixture](https://github.com/junit-team/junit/wiki/Test-fixtures) first 
+0. set up a [test fixture](https://github.com/junit-team/junit/wiki/Test-fixtures)
 1. declare `_this` results
-2. run your code
+2. run
 3. store `_that` results
 4. assert *_this* matches *_that*
 
@@ -69,12 +68,12 @@ So to get us going..
 
 <script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
-From time to time, [TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
+[TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
 [some](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 [dark sides](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf).
-And FYI there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+And there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 or many other [test levels](https://en.wikipedia.org/wiki/Software_testing#Testing_levels).
-To conclude have a look at [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
+To conclude, look at [these lectures](http://d3s.mff.cuni.cz/teaching/programming_practices/lecture12.html)
 or [Thing I Have Learned About Software Testing](http://qntm.org/test).
 
 
@@ -90,6 +89,6 @@ or [Thing I Have Learned About Software Testing](http://qntm.org/test).
 * [http://www.oracle.com/technetwork/java/codeconventions-150003.pdf]
 * [http://www.javaworld.com/javaworld/jw-01-2004/jw-0102-toolbox.html]
 * [http://www.oracle.com/technetwork/articles/javase/index-142890.html]
-* JUnit [testcase or @test](http://stackoverflow.com/questions/2635839/junit-confusion-use-extend-testcase-or-test)
+* [Testcase or @Test](http://stackoverflow.com/questions/2635839/junit-confusion-use-extend-testcase-or-test)
 
 

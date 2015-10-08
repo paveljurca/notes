@@ -5,7 +5,7 @@ A multi-line text panel *SPECTRUM* has 15 rows by 30 columns and it hangs out at
 
 ![SPECTRUM display](d/display.jpg)
 
-The display needs to load all the files at once. That means we use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start. Finally start `spectrum.exe` and site's live..
+The display needs to load all the files at once. That means we use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start. Finally run `spectrum.exe` and site's live..
 
 The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
 
@@ -115,8 +115,8 @@ You might've noticed we add API URL and call subroutines "from the future". Well
                 my $r;
                 # 3 attempts to connect
                 for (1..3) {
-                   $r = get(API . $room);
-                   last if $r;
+                    $r = get(API . $room);
+                    last if $r;
                 }
 
                 $r;
@@ -136,6 +136,7 @@ You might've noticed we add API URL and call subroutines "from the future". Well
                 
                 for my $time (CLASSES) {
                     my ($_from, $_to, $_time) = map {
+                        # v5.14 just s/\D//gr
                         (my $num = $_) =~ s/\D//g;
                         $num;
                     } ($from, $to, $time);
@@ -149,7 +150,7 @@ You might've noticed we add API URL and call subroutines "from the future". Well
         return \%class;
     }
 
-From there we call `sub _html` which extracts data from HTML like this
+From there we call `sub _html` which extracts data from __HTML__
 
     <table>
     <thead>
@@ -224,7 +225,7 @@ We can parse it with a little of [regex](https://www.cs.tut.fi/~jkorpela/perl/re
         return @subjects;
     }
 
-The most important part of our script, namely mining the data, is done! But there's still a fence to put down. We'll map the SPECTRUM charset table. This is what we know
+The most important part of our script is done, i.e. mining the data. But there's still a fence to put down. We'll map the SPECTRUM charset table. This we know
 
             lower   upper
     A       97      65
@@ -241,7 +242,7 @@ The most important part of our script, namely mining the data, is done! But ther
     Ë       137     69
     ...
 
-But we want this
+And this we want
 
     'A'  => "\x{41}",
     'Á'  => "\x{80}",
@@ -256,7 +257,7 @@ But we want this
     'Ě'  => "\x{B7}",
     'Ë'  => "\x{45}",
 
-Perl can print a specific char if you know the correct hexadecimal (byte) number. And let's translate upper chars to get lower ones too. This'll generate encoded hash map keys
+Perl can print a specific char if you know its hexadecimal (byte) number. So translate upper chars to get lower ones too. To generate the encoded hash map keys
 
     use strict;
     use warnings;
@@ -357,7 +358,7 @@ Eventually the crucial `sub print_panels` comes
             # i.e. /NOW/ and /NEXT/
             if (@panel == 2) {
 
-Now first text panel (screen) is going to be written. If the classroom is empty, we show *OFF*. Filename is 4 chars long (as we've agreed on) and the file path is `C:\PANEL\TEXTS\`
+Now first text panel (screen) is gonna be written. If a classroom is empty we show "OFF". Filename is 4 chars long (as we've agreed on) and file path points to `C:\PANEL\TEXTS\{filename}.325`
 
                 FILE:
                 {
@@ -400,7 +401,7 @@ As you see below, char code for a month or a second is very very specific
                         "\n"
                     ;
 
-This prints/saves our classroom schedules!
+This prints/saves our classroom schedules
 
                     # body ~ 14 rows
                     print $fh
@@ -415,7 +416,7 @@ This prints/saves our classroom schedules!
 
                     #====== END ======
 
-Matrix at the end of file stores control chars for each row and a letter. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. *NEXT* subpanel of this hour changes to *NOW* subpanel of next hour. And obviously the very last file has no *NEXT* subpanel, so we redo our named code block
+Matrix at the end of file stores control chars for each row and a letter. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. __NEXT__ subpanel of this hour changes to __NOW__ subpanel of next hour. And obviously the very last file has no NEXT subpanel, so we redo our named code block
 
                     # control chars ~ 15 rows
                     print $fh
@@ -436,7 +437,7 @@ Matrix at the end of file stores control chars for each row and a letter. Number
         print "(i) written\n";
     }
 
-Look, what we've just did!
+Look, what we've just did..
 
 ![classes.pl does room schedules](d/display2.jpg)
 
@@ -447,7 +448,7 @@ Last thing, we set times on each file as when to show off
 
 **UPDATE** 9/10/2015
 
-I'm in version 1.1. The panel shows classes which span more hours. And if holiday, show a placeholder.
+I'm in version 1.1. The panel shows classes which span more hours or a placeholder if nothing happens.
 
 For the source code, just [let me know](http://jurcapavel.cz).
 
