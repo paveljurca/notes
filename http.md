@@ -136,6 +136,7 @@ __misc__
 * [Today In Tabs](http://www.fastcompany.com/section/today-in-tabs)
 * [Wired](http://www.wired.com/category/business)
 * [nuzzel.com/pmarca/industry](http://nuzzel.com/pmarca/industry)
+* [AJ+](http://ajplus.net/)
 
 ## blog
 
@@ -338,6 +339,7 @@ __misc__
 * [Jan Václavík](http://janvaclavik.cz/)
 * [Jan H. Vitvar](http://www.respekt.cz/autori/jan-h-vitvar)
 * [blog.ondrejk.cz](http://blog.ondrejk.cz/)
+* [Peteris Krumins](http://www.catonmat.net/pages)
 
 ## podcasts
 
