@@ -108,7 +108,7 @@ or to check [Perl](http://github.com/vim-perl/vim-perl) [syntax](https://github.
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [vi-improved](http://vi-improved.org/)
 
-p.s. [vimrc file](https://github.com/paveljurca/foo/blob/master/nix/dotfiles/vimrc)
+p.s. [How To Vimrc](http://dougblack.io/words/a-good-vimrc.html)
 
 ## Sublime setup
 
