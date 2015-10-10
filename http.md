@@ -340,6 +340,7 @@ __misc__
 * [Jan H. Vitvar](http://www.respekt.cz/autori/jan-h-vitvar)
 * [blog.ondrejk.cz](http://blog.ondrejk.cz/)
 * [Peteris Krumins](http://www.catonmat.net/pages)
+* [Dave Cormier](http://davecormier.com/edblog/)
 
 ## podcasts
 
@@ -349,7 +350,7 @@ __dev__
 * [Free Libre Open Source Software](http://twit.tv/show/floss-weekly)
 * [boagworld](http://boagworld.com/category/podcast/)
 * [spoolcast](http://www.uie.com/brainsparks/topics/podcasts/page/29/)
-* [Robots smashing](http://podcasts.thoughtbot.com/giantrobots)
+* [Robots Smashing](http://podcasts.thoughtbot.com/giantrobots)
 * [Web Friends](http://webfriends.io/)
 * [stackoverflow.com/podcasts](http://blog.stackoverflow.com/category/podcasts)
 * [uie.com/brainsparks](http://uie.com/brainsparks)
