@@ -1,6 +1,9 @@
 Národ snově
 ===========
 
+Nigel Farage: Evropě vládne disharmonicky Německo
+https://www.youtube.com/watch?v=2eVkHtKkO-M
+
 Pro demografii ČR znamená 1 nemluvně nebo 4 migranti totéž (Radko Hokovský, KT 6. 10. 2015).
 
 
