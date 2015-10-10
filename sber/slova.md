@@ -230,8 +230,9 @@ Slova
 
 .
 
-> I shall live unhonored and be nobody nowhere.
-> *Epictetus, Enchiridion XXIV*
+> Theory is when you know something, but it doesn't work.
+> Practice is when something works, but you don't know why.
+> *Unknown*
 
 .
 
@@ -250,6 +251,11 @@ Slova
 > The question is not, "What am I?",
 > but, "What can/should I be?"
 > *Karl Jaspers*
+
+.
+
+> I shall live unhonored and be nobody nowhere.
+> *Epictetus, Enchiridion XXIV*
 
 .
 
@@ -298,6 +304,12 @@ Slova
 > Life was simple before World War II.  
 > After that, we had systems.
 > *Grace Murray Hopper*
+
+.
+
+> Computers are useless.
+> They can only give you answers.
+> *Pablo Picasso*
 
 .
 
