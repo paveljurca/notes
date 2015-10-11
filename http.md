@@ -341,6 +341,7 @@ __misc__
 * [blog.ondrejk.cz](http://blog.ondrejk.cz/)
 * [Peteris Krumins](http://www.catonmat.net/pages)
 * [Dave Cormier](http://davecormier.com/edblog/)
+* [Max Roser](http://www.maxroser.com/)
 
 ## podcasts
 
@@ -733,6 +734,7 @@ __addendum__
 * [Links to Open Content](http://opencontenttoolkit.wikispaces.com/Links+to+Open+Content)
 * [opendata.sk](http://opendata.sk/liferay/projects)
 * [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
+* [Our World in Data](http://ourworldindata.org/)
 
 ## @TODO 
 
