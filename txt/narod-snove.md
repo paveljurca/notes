@@ -1,6 +1,15 @@
 Národ snově
 ===========
 
+
+"Kdyby u italských břehů přistálo 600 psů, lidé by je okamžitě chtěli zachránit. Uprchlíci je tolik nezajímají. Zpronevěřili jsme se svým křesťanským hodnotám,"
+http://www.ceskatelevize.cz/porady/1096898594-udalosti-komentare/215411000371005/video/427375
+
+komentar "Psi nám tady nebudou stavět mešity"
+
+
+
+
 Nigel Farage: Evropě vládne disharmonicky Německo
 https://www.youtube.com/watch?v=2eVkHtKkO-M
 
