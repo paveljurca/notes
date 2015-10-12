@@ -613,6 +613,11 @@ Slova
 > je, aby byl.
 > *Vilhelm Moberg*
 
+.
+
+> I get it, but I don't get it.
+> *Alice Cooper*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
