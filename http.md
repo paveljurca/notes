@@ -56,6 +56,7 @@ __dev__
 * [LWN.net](https://lwn.net/Archives/)
 * [Techdirt](https://www.techdirt.com/blog/netneutrality/)
 * [Technologizer](http://www.technologizer.com/the-best-of-technologizer/)
+* [Xmodulo](http://xmodulo.com/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -369,6 +370,7 @@ __dev__
 * [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Responsive Web Design](http://responsivewebdesign.com/podcast/)
 * [Heavybit](https://soundcloud.com/heavybit/sets)
+* [Turing-Incomplete](http://turing.cool/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -735,8 +737,9 @@ __addendum__
 * [opendata.sk](http://opendata.sk/liferay/projects)
 * [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
 * [Our World in Data](http://ourworldindata.org/)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
-## @TODO 
+## TODO 
 
     alpha.app.net 'ad-free social network
     http://postach.io 'Evernote as a blog
