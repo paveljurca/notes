@@ -106,7 +106,11 @@ or to check [Perl](http://github.com/vim-perl/vim-perl) [syntax](https://github.
 * [Vim for Perl devs](http://mamchenkov.net/wordpress/2004/05/10/vim-for-perl-developers/)
 * [vi reference page](http://www.kichwa.com/quik_ref/vi_ref.html)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+* [Mastering Vim](https://twitter.com/MasteringVim)
+* [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
+* [Little less sensible yet great vim defaults](https://github.com/sheerun/vimrc)
 * [vi-improved](http://vi-improved.org/)
+* [The Ultimate vimrc](https://github.com/amix/vimrc)
 
 p.s. [How To Vimrc](http://dougblack.io/words/a-good-vimrc.html)
 
