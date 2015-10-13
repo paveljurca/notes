@@ -142,6 +142,9 @@ __misc__
 * [Modeled Behavior](http://www.forbes.com/sites/modeledbehavior/)
 * [Data Points](https://www.economy.com/dismal/analysis/datapoints)
 * [067](https://067.cz/)
+* [VoxEurop](http://www.voxeurop.eu/en)
+* [MITAdmissions](http://mitadmissions.org)
+* [Pacific Standard](http://www.psmag.com/)
 
 ## blog
 
@@ -235,7 +238,6 @@ __misc__
 * [blog.zvestov.cz](http://blog.zvestov.cz)
 * [Jan Řezáč](http://blog.filosof.biz)
 * [Steve Corona](http://stevecorona.com)
-* [mitadmissions.org](http://mitadmissions.org)
 * [Ivan Sárközi](http://404m.com)
 * [Jan Korbel](http://jankorbel.com)
 * [Daniel Dočekal](http://pooh.cz)
@@ -350,6 +352,9 @@ __misc__
 * [Jiří Peterka](http://www.earchiv.cz/i_aktual.php3)
 * [Pavel Cachro](http://cachropavel.tumblr.com/)
 * [Matt Levine](http://www.bloombergview.com/contributors/matt-levine/articles)
+* [Jakub Peša](http://pesa.blog.idnes.cz/)
+* [Robert Scoble](https://medium.com/@scobleizer)
+* [Dave Winer](http://scripting.com/)
 
 ## podcasts
 
@@ -755,6 +760,7 @@ __addendum__
 
     velkyctvrtek.cz 'Velký knižní čtvrtek
     syrah.co 'to write
+    fargo.io 'to think
 
     alpha.app.net 'ad-free social network
     http://postach.io 'Evernote as a blog
