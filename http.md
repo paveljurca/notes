@@ -139,6 +139,8 @@ __misc__
 * [nuzzel.com/pmarca/industry](http://nuzzel.com/pmarca/industry)
 * [AJ+](http://ajplus.net/)
 * [The Science Web](https://thescienceweb.wordpress.com/)
+* [Modeled Behavior](http://www.forbes.com/sites/modeledbehavior/)
+* [Data Points](https://www.economy.com/dismal/analysis/datapoints)
 
 ## blog
 
@@ -452,6 +454,7 @@ __misc__
 * [Intersection](http://www.newrepublic.com/authors/intersection)
 * [a16z Podcast](https://soundcloud.com/a16z/tracks)
 * [StarTalk](http://www.startalkradio.net/shows-archive/)
+* [Economic Rockstar](http://www.economicrockstar.com/podcasts/)
 
 ## video
 
@@ -596,6 +599,7 @@ __dev__
 * [Failing Forward](http://failingforward.eu/programme/)
 * [linux.conf.au](https://linux.conf.au/)
 * [StartUp Harvest Ostrava](http://startupharvest.com/)
+* [Central European Startup Awards](http://www.cesawards.com)
 
 __misc__
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
@@ -741,6 +745,8 @@ __addendum__
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## TODO 
+
+    velkyctvrtek.cz 'Velký knižní čtvrtek
 
     alpha.app.net 'ad-free social network
     http://postach.io 'Evernote as a blog
