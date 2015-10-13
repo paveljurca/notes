@@ -348,6 +348,7 @@ __misc__
 * [Dave Cormier](http://davecormier.com/edblog/)
 * [Max Roser](http://www.maxroser.com/)
 * [Jiří Peterka](http://www.earchiv.cz/i_aktual.php3)
+* [Pavel Cachro](http://cachropavel.tumblr.com/)
 
 ## podcasts
 
