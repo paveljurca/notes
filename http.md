@@ -349,6 +349,7 @@ __misc__
 * [Max Roser](http://www.maxroser.com/)
 * [Jiří Peterka](http://www.earchiv.cz/i_aktual.php3)
 * [Pavel Cachro](http://cachropavel.tumblr.com/)
+* [Matt Levine](http://www.bloombergview.com/contributors/matt-levine/articles)
 
 ## podcasts
 
