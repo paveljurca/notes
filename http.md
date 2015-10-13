@@ -57,6 +57,7 @@ __dev__
 * [Techdirt](https://www.techdirt.com/blog/netneutrality/)
 * [Technologizer](http://www.technologizer.com/the-best-of-technologizer/)
 * [Xmodulo](http://xmodulo.com/)
+* [techblast.org](http://techblast.org/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -466,6 +467,11 @@ __misc__
 * [Economic Rockstar](http://www.economicrockstar.com/podcasts/)
 * [Neuron Future](http://www.zet.cz/temata/tag/3983)
 * [Science Café](https://soundcloud.com/sciencecafe/tracks)
+* [Morning Coffee Notes](http://morningcoffeenotes.com/)
+
+__podcatch__
+* [podcatch.com](http://podcatch.com/)
+
 
 ## video
 
