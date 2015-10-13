@@ -138,6 +138,7 @@ __misc__
 * [Wired](http://www.wired.com/category/business)
 * [nuzzel.com/pmarca/industry](http://nuzzel.com/pmarca/industry)
 * [AJ+](http://ajplus.net/)
+* [The Science Web](https://thescienceweb.wordpress.com/)
 
 ## blog
 
