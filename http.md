@@ -635,6 +635,7 @@ __misc__
 * [Houpačka](http://www.houpej.se/)
 * [Mobile User Experience](http://www.pmn.co.uk/mex/)
 * [Eyeo Festival](http://eyeofestival.com/)
+* [Paralelní Polis](https://www.facebook.com/vejdiven/events)
 
 ## 20. století
 
