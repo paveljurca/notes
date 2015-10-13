@@ -457,6 +457,8 @@ __misc__
 * [a16z Podcast](https://soundcloud.com/a16z/tracks)
 * [StarTalk](http://www.startalkradio.net/shows-archive/)
 * [Economic Rockstar](http://www.economicrockstar.com/podcasts/)
+* [Neuron Future](http://www.zet.cz/temata/tag/3983)
+* [Science Café](https://soundcloud.com/sciencecafe/tracks)
 
 ## video
 
@@ -749,6 +751,7 @@ __addendum__
 ## TODO 
 
     velkyctvrtek.cz 'Velký knižní čtvrtek
+    syrah.co 'to write
 
     alpha.app.net 'ad-free social network
     http://postach.io 'Evernote as a blog
