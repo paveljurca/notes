@@ -346,6 +346,7 @@ __misc__
 * [Peteris Krumins](http://www.catonmat.net/pages)
 * [Dave Cormier](http://davecormier.com/edblog/)
 * [Max Roser](http://www.maxroser.com/)
+* [Jiří Peterka](http://www.earchiv.cz/i_aktual.php3)
 
 ## podcasts
 
