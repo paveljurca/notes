@@ -549,6 +549,7 @@ __misc__
 * [Eyeo Festival](https://vimeo.com/eyeofestival/videos)
 * [Vzkaz](http://www.ceskatelevize.cz/porady/10160488386-vzkaz/dily/)
 * [Lidé z praxe](http://www.lidezpraxe.cz/videozaznamy/)
+* [Týden vědy a techniky](http://cas.msite.cesnet.cz/CESNET/Catalog/catalogs/default.aspx)
 
 ## events 
 
