@@ -358,6 +358,8 @@ __misc__
 * [Robert Scoble](https://medium.com/@scobleizer)
 * [Dave Winer](http://scripting.com/)
 * [Keith Winstein](http://www.layer9.org/)
+* [Corey S. Powell](http://discovermagazine.com/authors?name=Corey+S.+Powell)
+* [Neuroskeptic](https://blogs.discovermagazine.com/neuroskeptic/)
 
 ## podcasts
 
@@ -470,6 +472,7 @@ __misc__
 * [Neuron Future](http://www.zet.cz/temata/tag/3983)
 * [Science Café](https://soundcloud.com/sciencecafe/tracks)
 * [Morning Coffee Notes](http://morningcoffeenotes.com/)
+* [In The Abstract](http://www.intheabstract.co.uk/series/in-the-abstract/)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
