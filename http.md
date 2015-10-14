@@ -389,6 +389,7 @@ __dev__
 * [Responsive Web Design](http://responsivewebdesign.com/podcast/)
 * [Heavybit](https://soundcloud.com/heavybit/sets)
 * [Turing-Incomplete](http://turing.cool/)
+* [The Naked Freelancer](http://thenakedfreelancer.com/category/episodes/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
