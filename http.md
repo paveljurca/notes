@@ -357,6 +357,7 @@ __misc__
 * [Jakub Peša](http://pesa.blog.idnes.cz/)
 * [Robert Scoble](https://medium.com/@scobleizer)
 * [Dave Winer](http://scripting.com/)
+* [Keith Winstein](http://www.layer9.org/)
 
 ## podcasts
 
