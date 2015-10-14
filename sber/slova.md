@@ -618,6 +618,12 @@ Slova
 > I get it, but I don't get it.
 > *Alice Cooper*
 
+.
+
+> V době, kdy současnost je nepřehledná a budoucnost nejistá,
+> se může vyplatit důkladně se ohlédnout zpět.
+> *Daniel Soukup*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
