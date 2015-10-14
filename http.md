@@ -360,6 +360,7 @@ __misc__
 * [Keith Winstein](http://www.layer9.org/)
 * [Corey S. Powell](http://discovermagazine.com/authors?name=Corey+S.+Powell)
 * [Neuroskeptic](https://blogs.discovermagazine.com/neuroskeptic/)
+* [IDEA Economics](http://www.ideaeconomics.org/blog/)
 
 ## podcasts
 
