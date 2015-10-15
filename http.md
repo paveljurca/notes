@@ -87,6 +87,7 @@ __misc__
 * [The Daily Beast](http://www.thedailybeast.com/books.html)
 * [neviditelnypes.lidovky.cz](http://neviditelnypes.lidovky.cz/)
 * [Marathon](http://www.valencik.cz/marathon/)
+* [A2](http://www.advojka.cz/archiv)
 * [Gentlemanův deníček](http://www.gentleman.cz/)
 * [Host](http://casopis.hostbrno.cz/archiv)
 * [Psí víno](http://www.psivino.cz/?page_id=22)
@@ -149,6 +150,7 @@ __misc__
 * [Ron Paul Liberty Report](http://www.ronpaullibertyreport.com/article-archives)
 * [Sociological Images](http://thesocietypages.org/socimages/)
 * [Cybergology](http://thesocietypages.org/cyborgology/)
+* [A2larm](http://a2larm.cz/)
 
 ## blog
 
