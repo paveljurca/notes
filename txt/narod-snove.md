@@ -3,6 +3,21 @@ Národ snově
 
 http://denikreferendum.cz/clanek/21411-muj-rozchod-s-janem-kellerem
 přirovnání k hořícímu domu kulhá... spíš honit se za zlodějem a nechat otevřenou kasu
+..jako koupit si psa, protože se vám zrovna teď líbí. Ten pes tu ale bude dalších
+15 let.
+
+současný humánní zápal hlav je paradoxně znakem novodobé sobeckosti.
+
+nechme však příkladů, srovnání. Jsou tam jen proto, že se zrovna hodí.
+podobně jako mluvčí nesdělují jak se věcí mají, ale že jen jsou.
+
+> If you've made up your mind to test a theory,
+> or you want to explain some idea, you should
+> always decide to publish it whichever way it
+> comes out. If we only publish results of a
+> certain kind, we can make the argument look
+> good. We must publish both kinds of results.
+> *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, Londýn 1992, s. 343.*
 
 
 
