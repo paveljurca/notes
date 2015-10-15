@@ -560,6 +560,8 @@ __misc__
 * [Lidé z praxe](http://www.lidezpraxe.cz/videozaznamy/)
 * [Týden vědy a techniky](http://cas.msite.cesnet.cz/CESNET/Catalog/catalogs/default.aspx)
 * [A2larm](https://vimeo.com/a2larm/videos)
+* [Petr Čtvrtníček](http://video.aktualne.cz/petr-ctvrtnicek-tv/)
+* [Miloš Čermák](http://video.aktualne.cz/milos-cermak/l~785fad84135c11e4b462002590604f2e/)
 
 ## events 
 
