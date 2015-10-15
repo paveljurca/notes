@@ -1,12 +1,21 @@
 Národ snově
 ===========
 
+ideálem to lze chápat, ale už ne rozumět
+
+"Nám jde o to, aby se lidé měli dobře."
+https://vimeo.com/138459697#t=1094s
+
+
 http://denikreferendum.cz/clanek/21411-muj-rozchod-s-janem-kellerem
 přirovnání k hořícímu domu kulhá... spíš honit se za zlodějem a nechat otevřenou kasu
 ..jako koupit si psa, protože se vám zrovna teď líbí. Ten pes tu ale bude dalších
 15 let.
 
 současný humánní zápal hlav je paradoxně znakem novodobé sobeckosti.
+
+není válka ve Vietnamu ani Woodstock; a tohle šance, jak se na čas odpoutat
+od společnosti, rodičů, systému.
 
 nechme však příkladů, srovnání. Jsou tam jen proto, že se zrovna hodí.
 podobně jako mluvčí nesdělují jak se věcí mají, ale že jen jsou.
