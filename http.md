@@ -147,6 +147,8 @@ __misc__
 * [MITAdmissions](http://mitadmissions.org)
 * [Pacific Standard](http://www.psmag.com/)
 * [Ron Paul Liberty Report](http://www.ronpaullibertyreport.com/article-archives)
+* [Sociological Images](http://thesocietypages.org/socimages/)
+* [Cybergology](http://thesocietypages.org/cyborgology/)
 
 ## blog
 
@@ -363,6 +365,7 @@ __misc__
 * [IDEA Economics](http://www.ideaeconomics.org/blog/)
 * [Zed A. Shaw](http://zedshaw.com/)
 * [Wonkhe](http://wonkhe.com/blogs/)
+* [Petr Bittner](http://denikreferendum.cz/autor/901-petr-bittner)
 
 ## podcasts
 
