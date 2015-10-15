@@ -361,6 +361,8 @@ __misc__
 * [Corey S. Powell](http://discovermagazine.com/authors?name=Corey+S.+Powell)
 * [Neuroskeptic](https://blogs.discovermagazine.com/neuroskeptic/)
 * [IDEA Economics](http://www.ideaeconomics.org/blog/)
+* [Zed A. Shaw](http://zedshaw.com/)
+* [Wonkhe](http://wonkhe.com/blogs/)
 
 ## podcasts
 
@@ -475,6 +477,7 @@ __misc__
 * [Science Café](https://soundcloud.com/sciencecafe/tracks)
 * [Morning Coffee Notes](http://morningcoffeenotes.com/)
 * [In The Abstract](http://www.intheabstract.co.uk/series/in-the-abstract/)
+* [Cultures of Knowledge](http://www.culturesofknowledge.org/?page_id=187)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
