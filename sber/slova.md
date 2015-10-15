@@ -624,6 +624,12 @@ Slova
 > se může vyplatit důkladně se ohlédnout zpět.
 > *Daniel Soukup*
 
+.
+
+> I když půjdu dneska z práce domů, nevrátím se
+> stejnou cestou, jakou jsem vyšel. Nemám to rád.
+> *Bořek Šípek*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
