@@ -2,6 +2,9 @@ Národ snově
 ===========
 
 
+
+
+
 "Kdyby u italských břehů přistálo 600 psů, lidé by je okamžitě chtěli zachránit. Uprchlíci je tolik nezajímají. Zpronevěřili jsme se svým křesťanským hodnotám,"
 http://www.ceskatelevize.cz/porady/1096898594-udalosti-komentare/215411000371005/video/427375
 
@@ -20,8 +23,19 @@ Pro demografii ČR znamená 1 nemluvně nebo 4 migranti totéž (Radko Hokovský
 > nemohl mu v tom zabránit ani jinak.
 > *Vilhelm Moberg, Přistěhovalci*
 
+a podobně:
 
-Islámem Arábie umrtvila kulturu, snahu. Do sedmého století n. l. byli dalece napřed. 
+redaktorka MfD Jana Ciglerová na rok a půl ubytovala uprchlici (její slova) z Nigérie
+
+> Trvalo nám asi měsíc, než jsme se vzpamatovali z toho,
+> že jsme pro ni byli jen přestupnou stanicí. Samozřejmost,
+> se kterou si nabrala všechno, co jsme jí poskytli,
+> aniž by to pro ni bylo jakkoli zavazující, mi pomohla
+> **pochopit, že nemůžu nikoho jen tak zachránit.**
+> *Jana Ciglerová, Magazín MfD 15. 10. 2015, s. 26.*
+
+
+Islámem Arábie umrtvila kulturu, snahu. Do sedmého století n. l. byli v mnoha ohledech napřed. 
 
 https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density#Secondary_table
 Zalidněnost na km^2 u nás dělá 136, u Francie 120, Švédska 24, Saudské Arábie 13, USA 35, Řecka 85 a Německa 232 lidí (zdroj [Světová banka](http://data.worldbank.org/indicator/EN.POP.DNST)).
