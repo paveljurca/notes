@@ -1,7 +1,8 @@
 Národ snově
 ===========
 
-
+http://denikreferendum.cz/clanek/21411-muj-rozchod-s-janem-kellerem
+přirovnání k hořícímu domu kulhá... spíš honit se za zlodějem a nechat otevřenou kasu
 
 
 
