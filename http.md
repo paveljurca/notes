@@ -368,6 +368,7 @@ __misc__
 * [Zed A. Shaw](http://zedshaw.com/)
 * [Wonkhe](http://wonkhe.com/blogs/)
 * [Petr Bittner](http://denikreferendum.cz/autor/901-petr-bittner)
+* [Radkin Honzák](http://blog.aktualne.cz/blogy/radkin-honzak.php)
 
 ## podcasts
 
