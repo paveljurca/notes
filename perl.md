@@ -1,9 +1,84 @@
 Perl
 ====
 
+Becoming a Web Developer Survey by @joshsimmons
+https://docs.google.com/a/oreilly.com/forms/d/1GqxmRTGNfaQ7Hw3y1eSFjbNqZ73bQJ2nUiNy6WJZ5wM/viewform
+
+*
+What do you love about that language? And, be candid, what frustrates you about it? 
+*
+Perl is fun and gets stuff done. Easy things easy and hard things possible. I feel like I don't actually program but talk to it. The community is warm and damn clever and the language itself has been around for 28 years now.
+Perl might be losing in terms of eyeballs but in a game people cheer to outsiders, right? Larry Wall, the godfather, put a hacker ethos in literally every function call. It's a goto for systems programming. The underlying TMTOWTDI is what happens to you in life. It's a living thing, a way. And there's CPAN. As quoted from Wikipedia: "[..] Perl users are known to express surprise when they start to encounter topics for which a CPAN module doesn't exist already."
+
+Perl 6 kind of bothers me. I just don't get it. It's more of a rocket science to me. I think if you develop a thing for 15 years, it deviates.
+
+*
+Why might someone who is entirely new to web development choose that language?
+*
+Because we have Dancer, and Dancer2, and Mojolicious. The first one lets you understand how the web app actually works. The latter lets you harvest the latest in web development (web sockets, HTTP/2, CSS3 selectors). There're resources advent.perldancer.org or perlmaven.com/dancer or an amazing course at geekuni.com/course/perl-web. And always helpful people on IRC or SO.
+
+And of course outstanding modules for JSON, web scraping, WWW APIs, DBIx, Moo for objects..
+
+*
+What tools or websites are commonly used by programmers of that language?
+*
+cpanmin.us (cpanm), perlbrew.pl, perldoc
+
+Perl Monks perlmonks.org
+Perl Mongers pm.org
+Perl Tricks perltricks.com
+
+*
+Are there any libraries you find yourself using on almost every project? What are they? 
+*
+LWP::Simple or Test::More, and Dancer2
+
+*
+What frameworks are you aware of that are built in that language?
+*
+Dancer
+Mojolicious
+Ado (on Mojolicious)
+Catalyst
+
+*
+What content management systems are you aware of that are built in that language?
+*
+PerlBee
+MovableType
+Act for conferences
+
+*
+Is there anything else about that language that you think people should know?
+*
+Try Perl, write a few lines, wonder. A man chooses his group, not the group chooses him. To be part of Perl and the people — just do/read/follow some.
+
+
+p.s. I don't know much about Perl, yet :)
+
+
+
+
+
+
+
+
+
 Perl is a programming language. Perl is fun. It makes easy things easy and hard things possible. Perl has been around for 28 years now. 
 
 I'm glad I've found it. Now you did too.
+
+You may not hear Perl around much (yet and now)
+
+> If I find too many people adapting a certain idea,
+> I probably think it's wrong.
+> *[Donald Knuth](https://youtu.be/75Ju0eM5T2c)*
+
+You may be alone. But you're right — if you keep the will.
+
+People start with PHP or Ruby not because it's better — it's just what other people do.
+
+at least, same good.
 
 
 
@@ -55,7 +130,12 @@ bbc
 goodata
 bioperl
 craigslist
+imdb
+slashdot
+livejournal
 buzzfeed.com
+cPanel
+
 
 
 jurcapavel.cz/Perl5
