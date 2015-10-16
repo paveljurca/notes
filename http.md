@@ -58,6 +58,7 @@ __dev__
 * [Technologizer](http://www.technologizer.com/the-best-of-technologizer/)
 * [Xmodulo](http://xmodulo.com/)
 * [techblast.org](http://techblast.org/)
+* [The Daily WTF](http://thedailywtf.com/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
