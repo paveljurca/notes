@@ -80,6 +80,7 @@ __misc__
 * [The Review](http://firstround.com/review/)
 * [Room for Debate](http://www.nytimes.com/roomfordebate)
 * [Opinionator](http://opinionator.blogs.nytimes.com/)
+* [Upshot](http://www.nytimes.com/upshot/)
 * [Guernica](http://www.guernicamag.com/)
 * [n+1](https://nplusonemag.com/online-only/)
 * [The Paris Review](http://www.theparisreview.org/interviews/)
@@ -370,6 +371,10 @@ __misc__
 * [Wonkhe](http://wonkhe.com/blogs/)
 * [Petr Bittner](http://denikreferendum.cz/autor/901-petr-bittner)
 * [Radkin Honzák](http://blog.aktualne.cz/blogy/radkin-honzak.php)
+* [Vladimir Iakovlev](https://nvbn.github.io/)
+* [Emerging Tech in Libraries](http://emerging.commons.gc.cuny.edu/)
+* [Robin Camille Davis](http://www.robincamille.com/blog/)
+* [Miriam Posner](http://miriamposner.com/blog/)
 
 ## podcasts
 
@@ -782,6 +787,7 @@ __addendum__
 * [soit.sk](http://www.soit.sk/sk/aktualne/oit-doma)
 * [Our World in Data](http://ourworldindata.org/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
 
 ## TODO 
 
