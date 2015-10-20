@@ -153,6 +153,7 @@ __misc__
 * [Cybergology](http://thesocietypages.org/cyborgology/)
 * [A2larm](http://a2larm.cz/)
 * [A2](http://www.advojka.cz/archiv)
+* [Global Editors Network](http://community.globaleditorsnetwork.org/projects)
 
 ## blog
 
@@ -375,6 +376,7 @@ __misc__
 * [Emerging Tech in Libraries](http://emerging.commons.gc.cuny.edu/)
 * [Robin Camille Davis](http://www.robincamille.com/blog/)
 * [Miriam Posner](http://miriamposner.com/blog/)
+* [Simon Rogers](http://simonrogers.net/archives/)
 
 ## podcasts
 
@@ -736,6 +738,7 @@ __misc__
 * [firstround.com/jobs](http://firstround.com/jobs)
 
 __addendum__
+* [Sample Resume Template](http://thingsthatarebrown.com/blog/2009/05/sample-resume-template/)
 * [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
