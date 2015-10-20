@@ -1,10 +1,8 @@
 Test
 ====
 
-First, I'm no pro on [unit tests](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf).
-It's just I'd like to write
-down a few notes to keep
-a future reference for myself.
+First, I don't know much on [TDD](http://www.ibm.com/developerworks/library/j-test/j-test-pdf.pdf).
+It's just I'd like to write down a few lines to keep a future reference for myself.
 
 My __Test__ incentive is
 I feel less pressure.
@@ -48,7 +46,7 @@ you're likely to be wrong.
 
 - Beware of [code smells](http://c2.com/cgi/wiki?CodeSmell), i.e. a constructor with unreachable objects
 
-- Comments are there to clarify intentions, quirks, i.e. say what the code doesn't
+- Comments are there to clarify intentions, quirks, i.e. say what the code does not
 
 *Code a little, test a little, redo*. Considering the __Test__ itself..
 
@@ -68,7 +66,10 @@ So to get us going..
 
 <script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
-[TDD](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
+And [Perl Testing: A Developer's Notebook](http://shop.oreilly.com/product/9780596100926.do)
+which I came across a week ago. It's The book.
+
+[Unit tests](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
 [some](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 [dark sides](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf).
 And there's even a [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
