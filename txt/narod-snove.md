@@ -1,21 +1,56 @@
 Národ snově
 ===========
 
+uprchlíci a jejich chléb
+http://www.unhcr.org/556725e69.html
+
+
+
+z pera člověka, jenž ví o historií českých zemí
+
+Výzvu vědců, kterou správně chápe jako "státem placenou falangu vědeckých pracovníků (něco na způsob anticharty)"
+"Pokud spoutáme slovo, přestaneme myslet." (Vondruška, MfD 17. 10. 2015)
+
+> Smyslem dogma je totiž tvrzení, o němž se nediskutuje a nepochybuje,
+> protože je z výše velikosti Boží (a Evropského parlamentu) správné,
+> neotřesitelné, a pro myšlení prostého člověka tedy povinné. [..]
+> Diskuse se nevede a nepřipouští, už proto, že dogma se nedá dokázat,
+> jen vynutit silou. [..] Možná se vám zdá, že jsem útočný, ale věřte,
+> je to pouhý strach autora historických románů, který ví, co dokáže
+> inkvizice. [..] Zbývá už jen, aby ti, kteří udávají sousedy, za odměnu
+> získali část jejich majetku, jak tomu bývalo ve středověku.
+> *Vlastimil Vondruška, MfD 17. 10. 2015, A15.*
+
+
++ Merkelová doslova řekla, že budou přemýšlet, co ve vztahu k Východu, tedy k nám, udělali špatně. Proč že teď neposloucháme. To, že něco dělají špatně oni teď - a my máme pravdu,
+to že dítě (chcete-li) má pravdu a rodič (chcete-li) ne - neberou.
+
+Castro nebo Hitler, levice nebo pravice, nepustit nikoho nebo změnit žádosti o pomoc v invazi - vše je extrémní, tedy šílené. EU v čele s Merkelovou a Hollandem takovou dystopií právě jsou.
+
+Referendum o vstupu do EU bylo stejné: Ano - Ne.
+
+Čecháčkovství? Stůj při EU v dobrém i špatném. Chtít jen dobré by byla drzost. Tzn. chceš manželství, vydrž i domácí násilí.
+
+My si vybrali zemi zde, oni tam. V EU se rozdíl mezi tady a tam nedělá. My všichni "jsme přece ta bohatá Evropa".
+
+
+
+
 ideálem to lze chápat, ale už ne rozumět
 
 "Nám jde o to, aby se lidé měli dobře."
 https://vimeo.com/138459697#t=1094s
 
 
-http://denikreferendum.cz/clanek/21411-muj-rozchod-s-janem-kellerem
-přirovnání k hořícímu domu kulhá... spíš honit se za zlodějem a nechat otevřenou kasu
+
+
 ..jako koupit si psa, protože se vám zrovna teď líbí. Ten pes tu ale bude dalších
 15 let.
 
 současný humánní zápal hlav je paradoxně znakem novodobé sobeckosti.
 
 není válka ve Vietnamu ani Woodstock; a tohle šance, jak se na čas odpoutat
-od společnosti, rodičů, systému.
+od společnosti, umaštěnosti, rodičů.
 
 nechme však příkladů, srovnání. Jsou tam jen proto, že se zrovna hodí.
 podobně jako mluvčí nesdělují jak se věcí mají, ale že jen jsou.
@@ -389,4 +424,12 @@ Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Mig
 
 přispějete kvadraplegikům, a proč ne trpícím leukémií nebo na boj s AIDS? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: je novou koblihou na krámě.
 
+
+
+http://denikreferendum.cz/clanek/21411-muj-rozchod-s-janem-kellerem
+Hořící dům ve kterém ale nikdo není. Abych ho mohl opravit, nejdřív ho uhasím.
+Abych mohl migrační invazi řešit, nejdřív ji zastavím. Aby metro mohlo vyrazit,
+zavřu dveře. Pojede další.
+
+(pj)
 
