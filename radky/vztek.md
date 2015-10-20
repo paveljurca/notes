@@ -1,4 +1,4 @@
-Řádky
+Vztek
 =====
 
 Stít tělo, by  
@@ -15,7 +15,7 @@ Hynout.
 
 *
 
-vozka a sobi  
+nohy  
 kvapí dál  
 do doby  
 vnuknutí  
@@ -28,13 +28,6 @@ na duši
 řvou — tuší  
 že radost  
 mávnutí mušší
-
-*
-
-do země Oz  
-napojit sos  
-pro „dost“  
-hombre nevyrost
 
 *
 

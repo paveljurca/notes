@@ -13,6 +13,8 @@ zdali
 tep v nebi  
 ve snaze  
 sami —  
+a čas  
+nad stromy  
 snad ryba  
 v nádobě  
 co svými roky  
