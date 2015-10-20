@@ -6,17 +6,14 @@ Mluvit
 > neptal, ale stejně mi to říkali.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
-Každý je zhruba kompetentní ke všemu, ke zmatku,
-pohoršení i mluvení.
+Zmatek, pohoršení i mluvení. Vše v mé kompetenci.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
-Potkávat se a mluvit. Znovu se potkat a znovu
-mluvit. Okopat okopané.
+Potkávat se a mluvit.
 Nikdo o ničem nic pořádně neví. A když ví, neví to zase ten druhý.
-Ale holt jsme se potkali — budeme mluvit.
 
 > [..] "In what field did you do your work?"  
 > "In physics," I said.  
@@ -31,8 +28,8 @@ Ale holt jsme se potkali — budeme mluvit.
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
 Člověk: do uší rádio a před oči týdeník.
-Zahýbat sobě. Skutečnost, mlčení, prst hlíny,
-hmota. Mluvit chvílí ale ne slovy.
+Zahýbat sobě. Přitom by stačila prsť hlíny.
+Mluvit chvílí ale ne slovy.
 
 > Vyprávět, učit, ba i popisovat, tohle jde,
 > i když by k výměně lidských myšlenek každému
@@ -70,7 +67,7 @@ hmota. Mluvit chvílí ale ne slovy.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 96.*
 
 Mluvit někdy znamená zapomenout, co pravda je,
-byla — a teď už není. Netušíme zdali *vůbec a ještě* mluvit.
+byla — a teď už není. Netuším zdali *vůbec a ještě* mluvit.
 Přeháním. Mám strach, že se uslyším.
 
 > Jsou lidé, kteří musí mluvit [..] Stane-li se mi,
@@ -94,7 +91,7 @@ Přeháním. Mám strach, že se uslyším.
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
-Psát lze o smyslu, mluvit o nesmyslu.
+Psát možno o smyslu, mluvit o nesmyslu.
 Hádka, při které nikdo nemluví? Byla by kratší.
 
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
@@ -115,23 +112,22 @@ Hádka, při které nikdo nemluví? Byla by kratší.
 > Když to řekl, vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
 
-Sdělovat se. *Jsme*. Prý to nestačí.
+Sdělovat se.
 Lépe je nemluvit, lépe je číst.
-Raději ohrozit jen sebe.
+Raději ohrozit sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-Svět vězí v pomlce, tichu. Věci, zvířectvo a stavy *jsou*.
-To člověk na rampě *myšleného* tábora provádí selekci: dané a vadné.
+Svět vězí v pomlce, tichu. A člověk na rampě viděného tábora provádí selekci: dané a vadné.
 
 > Mateřský jazyk bývá pouhým instrumentem,
 > někdejší košatý strom pragmaticky zcenzurovaný
 > na telegrafní tyč.
 > *Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 18.*
 
-WWW předpona vede v Zem (slovník) přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo). Proč spěchat..
+WWW předpona vede v Zem — slovník — přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo). Proč spěchat..
 
 > Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 262.*
