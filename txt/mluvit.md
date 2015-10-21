@@ -37,13 +37,13 @@ Mluvit chvílí ale ne slovy.
 > druhému do ruky minci [..]
 > *Mallarmé, S.: Crise de vers.*
 
-;
+.
 
 > Nikdy mě nenapadá nic tak zvláštního.  
 > Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
-;
+.
 
 > Je stará dobrá pravda, že si člověk nevidí do huby.
 > Kdyby si tam viděl, především by méně mluvil, nebo
@@ -51,14 +51,14 @@ Mluvit chvílí ale ne slovy.
 > znamená rozeznávat.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 154.*
 
-;
+.
 
 > Lhát neznamená jen říkat to, co není pravda.
 > Znamená to hlavně říkat víc než to, co je ve
 > skutečnosti pravda [..]
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 107.*
 
-;
+.
 
 > Člověk tím víc poznává, a mlčí-li, dráždí tím
 > druhé tak, že tito povědí i takové věci, které
@@ -76,14 +76,14 @@ Přeháním. Mám strach, že se uslyším.
 > blbec.
 > *Drtikol, F.: Deníky a dopisy věnované Elišce Janské. Svět, Praha 2001, s. 118.*
 
-;
+.
 
 > Liším prostě mezi jazykem mluveným a jazykem psaným [..]
 > mezi jazykem empirické náhody a jazykem soustředěné vůle,
 > mezi hlučným jazykem pouličním a řečí ticha a hudby [..]
 > *Šalda, F.X.: Boje o zítřek.*
 
-;
+.
 
 > [..] jestli se mnou můžou udělat interview.
 > Podobný žádosti dostávám dvakrát tejdně.
@@ -99,7 +99,7 @@ Hádka, při které nikdo nemluví? Byla by kratší.
 > předmětu, o němž byla řeč.
 > *Boccaccio, G.: Život Dantův. In: Alighieri, D.: Peklo. Mladá fronta, Praha 1978, s. 228.*
 
-;
+.
 
 > Nerad mluvím, rád poslouchám. Vycházím
 > z předpokladu, že když mluvím, nedozvím
@@ -107,7 +107,7 @@ Hádka, při které nikdo nemluví? Byla by kratší.
 > dovědět se mohu mnoho.
 > *Mroček, S.: Baltazar. Slovart, Praha 2008, s. 24.*
 
-;
+.
 
 > Když to řekl, vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
