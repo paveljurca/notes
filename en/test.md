@@ -67,7 +67,7 @@ So to get us going..
 <script src="https://gist.github.com/paveljurca/57deec705e09ac4070fc.js"></script>
 
 And [Perl Testing: A Developer's Notebook](http://shop.oreilly.com/product/9780596100926.do)
-which I came across a week ago. It's The book.
+which I came across a week ago. Amazing.
 
 [Unit tests](http://martinfowler.com/bliki/TestDrivenDevelopment.html) might have
 [some](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
