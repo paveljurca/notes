@@ -13,25 +13,26 @@ every time I've pressed one too many `BACKSPACE` or so
 ## /sbin/route
 
 Being connected to [RJ-45](https://en.wikipedia.org/wiki/Ethernet) and [WiFi](https://en.wikipedia.org/wiki/Hotspot_%28Wi-Fi%29)
-at once may cause the routing table to "blow out" (two DHCP servers and two gateways).
+at once may cause a routing table to mess up, i.e. two networks, two gateways.
 
-So look up a "primary" `Iface` and mark its gateway [default](https://en.wikipedia.org/wiki/Default_gateway)
+So look up a "primary" `Iface` and mark its [gateway default](https://en.wikipedia.org/wiki/Default_gateway)
+where `10.0.0.138` is a gateway to the Internet
 
 /* @todo screenshot */
 
     % sudo route  # print the table
     % sudo route add default gw 10.0.0.138
 
-## fstab
+## fstab is like Diskpart's assign letter
 
 /etc/[fstab](http://www.linfo.org/etc_fstab.html) lets you mount a given partition
-persistently; you may wish to specify the `r,w,x` bits or [effective](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-security/cha.security.acls.html#sec.security.acls.handle.defacl.eff) IDs, i.e. `dmask` dirs and `fmask` files
+persistently. Plus you may specify the `r,w,x` bits or [effective](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-security/cha.security.acls.html#sec.security.acls.handle.defacl.eff) IDs, i.e. `dmask` dirs and `fmask` files
 
     /dev/sda1            /mnt/data            ntfs       uid=1000,gid=1000,dmask=027,fmask=137              0 2
 
 ## PowerPoint 2013 changes display setup
 
-PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](http://www.indezine.com/products/powerpoint/learn/powerpoint-2013/enhanced-presenter-view-ppt2013.html) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to tell PowerPoint to clean up after itself
+PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](http://www.indezine.com/products/powerpoint/learn/powerpoint-2013/enhanced-presenter-view-ppt2013.html) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to clean up the mess
 
 create `C:\powerpnt_restore_topology.vbs`
     
@@ -50,18 +51,18 @@ logoff
 * [PowerPoint 2013 Changes display setup](https://answers.microsoft.com/en-us/office/forum/office_2013_release-powerpoint/powerpoint-2013-changes-display-setup/3ca470a0-d896-4577-b724-a360b6bf1c4e?auth=1)
 * [How to add subkeys by using a .reg file](https://support.microsoft.com/en-us/kb/310516)
 
-p.s. [disable presenter view](https://social.technet.microsoft.com/Forums/office/en-US/a91dea3b-9c88-4d2b-9545-e48c3055a16c/powerpoint-2013-presenter-view-is-a-big-issue?forum=officeitpro) completely
+p.s. [disable presenter view](https://social.technet.microsoft.com/Forums/office/en-US/a91dea3b-9c88-4d2b-9545-e48c3055a16c/powerpoint-2013-presenter-view-is-a-big-issue?forum=officeitpro) for good
 
-## Windows 8/10 upgrade and OEM partition
+## Windows 8 to Windows 10 upgrade and OEM partition
 
-So you did a clean install instead of an [upgrade](http://windows.microsoft.com/en-us/windows-10/media-creation-tool-install). **Warning** The following is a rough outline, always have backup and now what you type in!
+So you did a clean install instead of an [upgrade](http://windows.microsoft.com/en-us/windows-10/media-creation-tool-install). **Warning** The following is a rough outline, always have a backup and know what you type in..
 
 1. Boot [Live CD](https://help.ubuntu.com/community/LiveCD#Reasons_for_Using_a_LiveCD_Session) and in [Gparted](https://apps.ubuntu.com/cat/applications/gparted/) toggle off the filesystem `hidden` [flag](http://www.linux.org/threads/gparted-partition-and-filesystem-flags.8112/) on a partition (usually) called `RESERVED`, it's (usually) the last one
 2. Start Windows in a repair mode with command line, and `X:\> dism.exe Dism /apply-image /imagefile:G:\RecoveryImage\install.wim /index:1 /applydir:C:\`
 3. Backup boot configuration data `X:\> bcdedit /export D:\BCD.BAK`
 4. Remove the current entry `X:\> bcdedit /delete {current}`
 5. Create boot files `X:\> bcdboot c:\windows /s c: /f ALL`
-6. Create the boot entry `X:\> bootrec /rebuildbcd`
+6. Create a boot entry `X:\> bootrec /rebuildbcd`
 7. reboot
 
 * [DISM Image Management Command-Line](https://technet.microsoft.com/en-us/library/hh825258.aspx)
