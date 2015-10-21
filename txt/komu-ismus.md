@@ -88,6 +88,14 @@ Báli jsme se Habsburků, přišli Němci. Báli jsme se Němců, přišli Rusov
 > život plouti proti proudu.
 > *Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 12.*
 
+
+kouzelné paralely..
+
+> Hrabě Thun přichází smiřovat. [..] To by nebylo ostatně, kdyby to byla
+> pravda, ani tak smutné, jako to, co jest pravda. Že totiž nebyli jsme
+> násilím podrobeni, ale zvrhli jsme se sami a dobrovolně.
+> *Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 14.*
+
 Nezdolní pro „vyšetřovatele“ obou totalit byli právě duchovní. Devětaosmdesátý zahrnul všechny objetím a kuponovou knížkou. Devízou bylo [neušpinit se](https://youtu.be/b99OnZLl_JM). Omak sametu evokoval, že to lze. Pak se zjistilo, že když jste na někoho hodnej — na někoho jste zlej. Věřili jsme dojmům člověka, ne jeho, a tehdy známé, trajektorii činů a přečinů. 1945 porodnici vypálil, 1989 založil druhou a třetí. Ani jednou nevadilo, kdo je uvnitř. I po šestadvaceti letech se úderníci smějí s námi, ale *vždyť nikomu nic nedělaj*. Každé čtyři roky pro ně namísto vězeňských lavic máme ty parlamentní, i něco málo milionů, asi na uniformy milice — monterky. Nebo je zpravíme [radními](http://ceskapozice.lidovky.cz/jihoceska-radni-za-kscm-se-brani-chci-jen-kvalitni-skoly-pib-/tema.aspx?c=A121121_002554_pozice_84596) pro [školství](http://prehravac.rozhlas.cz/audio/2781412). Paměti národa to nejde do hlavy, paměti obyvatelů ano.
 
 Z projektu [Kraje pro bezpečný internet](http://elearning.ecrime.cz/course/view.php?id=2)
@@ -96,6 +104,9 @@ Z projektu [Kraje pro bezpečný internet](http://elearning.ecrime.cz/course/vie
 a tedy i trestný?"
 
 "Na internetu nesmí být propagováno hnutí a názory, které směřují k potlačení práv a svobod člověka"
+
+
++ citace preambule zakona o 3. odboji
 
 > Sláva, socialismus zvítězil,
 > člověk už si nemůže koupit, co potřebuje.
