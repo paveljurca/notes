@@ -1,7 +1,7 @@
 Slova
 =====
 
-;
+.
 
 > Define or be defined.
 > *Thomas Szasz*
@@ -629,6 +629,12 @@ Slova
 > I když půjdu dneska z práce domů, nevrátím se
 > stejnou cestou, jakou jsem vyšel. Nemám to rád.
 > *Bořek Šípek*
+
+.
+
+> Don't run when you lose. Don't whine when it hurts.
+> It's like first grade. No one likes a cry baby.
+> *Gordon Gekko*
 
 
 * __apod.__
