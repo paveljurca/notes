@@ -5,6 +5,22 @@ uprchlíci a jejich chléb
 http://www.unhcr.org/556725e69.html
 
 
+Jan Schroth působí v Mezinárodní organizaci pro migraci 12 let.
+MfD 21. 10. 2015, A12
+
+Otázka:
+Může uprchlická vlna položit Evropu a její zřízení?
+Odpověď:
+EU je nejbohatší region světa a má půl miliardy obyvatel.
+Jeden milion je tudíž 0,2 procenta. **Evropa má finanční a technické
+kapacity**, aby to zvládla.
+
+Otázka:
+Je vůbec v možnostech Evropy přistupovat k uprchlíkům individuálně?
+Odpověď:
+To je zásadní problém. **Nejsou na to kapacity**, a proto se v posledních
+měsících improvizuje.
+
 
 z pera člověka, jenž ví o historií českých zemí
 
