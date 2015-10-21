@@ -155,7 +155,7 @@ __misc__
 * [A2larm](http://a2larm.cz/)
 * [A2](http://www.advojka.cz/archiv)
 * [Global Editors Network](http://community.globaleditorsnetwork.org/projects)
-* [Studio 1.0](http://www.bloomberg.com/shows/studio-1)
+* [Bloomberg Studio 1.0](http://www.bloomberg.com/shows/studio-1)
 
 ## blog
 
