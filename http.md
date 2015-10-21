@@ -60,6 +60,7 @@ __dev__
 * [techblast.org](http://techblast.org/)
 * [The Daily WTF](http://thedailywtf.com/)
 * [Bloomberg West](http://www.bloomberg.com/shows/bloomberg-west)
+* [Business Insider Tech](http://www.businessinsider.com/sai)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -379,6 +380,7 @@ __misc__
 * [Robin Camille Davis](http://www.robincamille.com/blog/)
 * [Miriam Posner](http://miriamposner.com/blog/)
 * [Simon Rogers](http://simonrogers.net/archives/)
+* [Inside the Box](http://frominsidethebox.com/)
 
 ## podcasts
 
