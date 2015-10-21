@@ -381,6 +381,7 @@ __misc__
 * [Miriam Posner](http://miriamposner.com/blog/)
 * [Simon Rogers](http://simonrogers.net/archives/)
 * [Inside the Box](http://frominsidethebox.com/)
+* [Blog zaměstnanců CZ.NIC](http://blog.nic.cz/)
 
 ## podcasts
 
