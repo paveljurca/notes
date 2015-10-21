@@ -281,7 +281,7 @@ p.p.s.
 * Tigrid, P.: Kapesní průvodce inteligentní ženy po vlastním osudu
 * Přečan, V.: Charta 77: Od morální k demokratické revoluci
 
-;
+.
 
 * __Peroutka__
 * [Jak číst Peroutku](http://hlidacipes.org/milan-zeleny-poukazka-do-koncentraku-aneb-jak-cist-peroutku/)
@@ -289,20 +289,20 @@ p.p.s.
 > Demokracie musí pečovat o to, aby byla většinou.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 209.*
 
-;
+.
 
 > Demokracie do sebe přijímá tezi a antitezi
 > a dává jim ochranu práva a zákona.
 > *Ibid., s. 140.*
 
-;
+.
 
 > Dvě tendence proplétají se historií, protikladné,
 > ale obě nepopiratelné, tendence ke svobodě
 > a tendence k disciplíně.
 > *Ibid., s. 224.*
 
-;
+.
 
 > Přestala existovat porážka, existuje jen zničení.
 > *Ibid., s. 133.*
