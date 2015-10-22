@@ -688,6 +688,7 @@ __misc__
 * [Mobile User Experience](http://www.pmn.co.uk/mex/)
 * [Eyeo Festival](http://eyeofestival.com/)
 * [Paralelní Polis](https://www.facebook.com/vejdiven/events)
+* [Sociologické večery](http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=130)
 
 ## 20. století
 
