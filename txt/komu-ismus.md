@@ -89,6 +89,12 @@ Báli jsme se Habsburků, přišli Němci. Báli jsme se Němců, přišli Rusov
 > *Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 12.*
 
 
+"
+Studovat totalitní režimy pokládám za smysluplné hned po jejich pádu, kdy je třeba určit vinu za zlo páchané na lidech. Poté musí následovat trest a to nikoliv symbolický. 
+"
+https://www.facebook.com/boris.zeman/activity/844967765517522
+
+
 kouzelné paralely..
 
 > Hrabě Thun přichází smiřovat. [..] To by nebylo ostatně, kdyby to byla
