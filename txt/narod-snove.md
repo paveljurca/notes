@@ -60,6 +60,21 @@ https://vimeo.com/138459697#t=1094s
 
 
 
+
+
+
+
+Na to je jediná možná odpověď 
+
+> I believe in making the world safe for our children,
+> but not for our children's children, because I don't think
+> children should be having sex.
+> *Jack Handey*
+
+
+
+
+
 ..jako koupit si psa, protože se vám zrovna teď líbí. Ten pes tu ale bude dalších
 15 let.
 
