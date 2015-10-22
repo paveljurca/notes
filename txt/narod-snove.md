@@ -1,6 +1,12 @@
 Národ snově
 ===========
 
+
+
+začíná to u [volnosti mravů](http://www.radiovaticana.cz/clanek.php4?id=22158)
+
+
+
 PhDr. Pavel Sitek, Ph.D.
 Ideální žadatel/ka o české státní občanství
 http://migraceonline.cz/cz/e-knihovna/idealni-zadatel-ka-o-ceske-statni-obcanstvi
