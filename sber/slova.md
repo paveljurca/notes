@@ -641,6 +641,11 @@ Slova
 > It's like first grade. No one likes a cry baby.
 > *Gordon Gekko*
 
+.
+
+> Perspektiva, v níž se pohybují, je stále znečištěna sněním o pozemské realizaci.
+> *Homilie — 18. 10. 2015*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
