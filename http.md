@@ -61,6 +61,7 @@ __dev__
 * [The Daily WTF](http://thedailywtf.com/)
 * [Bloomberg West](http://www.bloomberg.com/shows/bloomberg-west)
 * [Business Insider Tech](http://www.businessinsider.com/sai)
+* [Inside.com](https://www.inside.com/all)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
