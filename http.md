@@ -158,6 +158,8 @@ __misc__
 * [A2](http://www.advojka.cz/archiv)
 * [Global Editors Network](http://community.globaleditorsnetwork.org/projects)
 * [Bloomberg Studio 1.0](http://www.bloomberg.com/shows/studio-1)
+* [Homilie](http://www.radiovaticana.cz/podrubrika.php4?id=3)
+* [Radio Vaticana](http://www.radiovaticana.cz/podrubrika.php4?id=6)
 
 ## blog
 
@@ -451,7 +453,7 @@ __cro__
 * [Stránky na dobrou noc](http://www.rozhlas.cz/vltava/porady/_porad/2151)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
 * [U muziky s Josefem Zímou](http://www.rozhlas.cz/strednicechy/porady/_porad/101549)
-* [Rádio Vatikán](http://www.ustrcr.cz/cs/archiv-vysilani-ceske-redakce-radia-vatikan)
+* [Rozhlas Vatikán](http://www.ustrcr.cz/cs/archiv-vysilani-ceske-redakce-radia-vatikan)
 
 __misc__
 * [Serial](http://serialpodcast.org/#episodes)
