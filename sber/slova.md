@@ -620,6 +620,11 @@ Slova
 
 .
 
+> I hope life isn't a big joke, because I don't get it.
+> *Jack Handey*
+
+.
+
 > V době, kdy současnost je nepřehledná a budoucnost nejistá,
 > se může vyplatit důkladně se ohlédnout zpět.
 > *Daniel Soukup*
