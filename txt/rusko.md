@@ -123,8 +123,8 @@ Počátek 20. století byl k Rusku nevlídný,
 k Evropě nezasloužený. Tehdy totiž rozvědčíci,
 horující za zájmy svých potentátů, podali bolševikům
 levou ruku na cestě k destabilizaci. Naneštěstí
-rozumější menševici byli toho času jen uťáplou
-kulisou. A geopolitika, ve které si nikdo nepřeje
+rozumější menševici byli toho času poplatni svému názvu
+a zůstali uťáplou kulisou. A geopolitika, ve které si nikdo nepřeje
 silné Rusko, trvá právem do dnešních dob. Otázkou
 však zůstává, zdali je horší silné nebo zmatené
 Rusko, případně, a to je vůbec nejhorší, obojí naráz.
@@ -207,6 +207,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * Zubov, A.: Dějiny Ruska 20. století
 * Dostojevskij, Gogol, Tolstoj, Puškin, apod.
 * Vaněk, K.: Charašo pán, da?
+* [Východoevropský klub](https://www.facebook.com/V%C3%BDchodoevropsk%C3%BD-klub-487178291434942/)
 
 __o Trockém__
 > My tři králi, my jdeme k vám,  
