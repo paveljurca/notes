@@ -497,6 +497,7 @@ __misc__
 * [Morning Coffee Notes](http://morningcoffeenotes.com/)
 * [In The Abstract](http://www.intheabstract.co.uk/series/in-the-abstract/)
 * [Cultures of Knowledge](http://www.culturesofknowledge.org/?page_id=187)
+* [Write For Your Life](http://5by5.tv/wfyl)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
