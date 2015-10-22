@@ -2,6 +2,8 @@ Národ snově
 ===========
 
 
+to je jako ubytovat lidi bez domova a chtít po zbytku domu, abychom si rozdělili inkaso.
+
 
 začíná to u [volnosti mravů](http://www.radiovaticana.cz/clanek.php4?id=22158)
 
@@ -441,8 +443,8 @@ Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký s
 > pobytový *status* [..]
 > *P. Stanislav Přibyl, Katolický týdeník 8. 9. 2015, s. 3.*
 
-Když se i z duchovních úst trousí technická *integrace* namísto vřelého *zapojení*,
-tedy z těch úst, kterým je *jazyk* jediným chlebem — jsme vážně v prdeli.
+Když se i z duchovních úst trousí technická *integrace* namísto vřelého *zapojení* nebo prosté *účasti*
+tedy z těch úst, jichž chlebem je Slovo — jsme vážně v prdeli.
 
 > Je Bůh, holky? Jestli je,  
 > tak jsme vážně v prdeli.
