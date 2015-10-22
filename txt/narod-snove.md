@@ -1,6 +1,17 @@
 Národ snově
 ===========
 
+PhDr. Pavel Sitek, Ph.D.
+Ideální žadatel/ka o české státní občanství
+http://migraceonline.cz/cz/e-knihovna/idealni-zadatel-ka-o-ceske-statni-obcanstvi
+
+[Akademie věd k tématu migrace](http://www.cas.cz/sd/novinky/hlavni-stranka/2015/151016-akademie-ved-k-tematu-migrace.html)
+
+
+vono je to ještě nepustilo
+[Konference o demokracii (nejen) v muslimských zemích](http://av21.avcr.cz/sd/novinky/hlavni-stranka/150917-konference-o-demokracii.html)
+
+
 uprchlíci a jejich chléb
 http://www.unhcr.org/556725e69.html
 
