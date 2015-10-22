@@ -383,6 +383,7 @@ __misc__
 * [Inside the Box](http://frominsidethebox.com/)
 * [Blog zaměstnanců CZ.NIC](http://blog.nic.cz/)
 * [Emerging Writer](http://emergingwriter.blogspot.com/search/label/interview)
+* [Jason Calacanis](http://calacanis.com/)
 
 ## podcasts
 
@@ -412,6 +413,7 @@ __dev__
 * [Heavybit](https://soundcloud.com/heavybit/sets)
 * [Turing-Incomplete](http://turing.cool/)
 * [The Naked Freelancer](http://thenakedfreelancer.com/category/episodes/)
+* [This Week In Startups](https://feeds2.feedburner.com/twist-audio)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
