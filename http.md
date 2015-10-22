@@ -382,6 +382,7 @@ __misc__
 * [Simon Rogers](http://simonrogers.net/archives/)
 * [Inside the Box](http://frominsidethebox.com/)
 * [Blog zaměstnanců CZ.NIC](http://blog.nic.cz/)
+* [Emerging Writer](http://emergingwriter.blogspot.com/search/label/interview)
 
 ## podcasts
 
