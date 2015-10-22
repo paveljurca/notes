@@ -1045,6 +1045,8 @@ odpolední pobožnost
 nic nového pod sluncem
 * _nihilismus_
 popření všeho
+* _niveau_
+úroveň
 * _nivelizovat_
 učinit sobě rovným
 * _no vanitas vanitatis_
