@@ -9,7 +9,8 @@ různě
 na zemi  
 hadr  
 snář sovy  
-rdít se  
+a rdít se
+
 u „My“
 
 *
