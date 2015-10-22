@@ -451,6 +451,7 @@ __cro__
 * [Stránky na dobrou noc](http://www.rozhlas.cz/vltava/porady/_porad/2151)
 * [Čtenářský deník](http://ctenarskydenik.rozhlas.cz)
 * [U muziky s Josefem Zímou](http://www.rozhlas.cz/strednicechy/porady/_porad/101549)
+* [Rádio Vatikán](http://www.ustrcr.cz/cs/archiv-vysilani-ceske-redakce-radia-vatikan)
 
 __misc__
 * [Serial](http://serialpodcast.org/#episodes)
@@ -581,6 +582,7 @@ __misc__
 * [A2larm](https://vimeo.com/a2larm/videos)
 * [Petr Čtvrtníček](http://video.aktualne.cz/petr-ctvrtnicek-tv/)
 * [Miloš Čermák](http://video.aktualne.cz/milos-cermak/l~785fad84135c11e4b462002590604f2e/)
+* [The Vatican](https://www.youtube.com/user/vatican/videos)
 
 ## events 
 
