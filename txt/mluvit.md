@@ -90,6 +90,12 @@ Netuším zdali *vůbec a ještě* mluvit. Přeháním. Mám strach, že se usly
 
 Psát možno o smyslu, mluvit o nesmyslu. Hádka, při které nikdo nemluví? Byla by kratší.
 
+> What’s writing really about?
+> It’s about trying to take fuller possession of the reality of your life.
+> *Ted Hughes*
+
+.
+
 > Zřídkakdy mluvil, nebyl-li tázán, a i tehdy
 > hovořil vždy jen rozvážně a hlasem odpovídajícím
 > předmětu, o němž byla řeč.
