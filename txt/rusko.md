@@ -154,9 +154,15 @@ než co čtyři roky ustanovit nad-lidi,
 znamená „něco zkusit a čekat“.
 Nově příchozí kapitalismus sdílení (neřízené přenechání
 aut, bytů i svého volna za úplatu) možná dojde k tomu,
-že hraniční pásma už nejsou třeba.
+že [hraniční pásma nejsou třeba](http://www.wazoku.com/blog/innovation-in-e-residency/).
 Francouzsko-německá pokoutnost ale jedná v opak: najmenování „vlády EU“.
 Ty uvozovky budou jednou zbytečné.
+
+
+nezakážete nikomu, aby byl hloupý; tak ji zkusíte aspoň řídit (EU, úřady, zákony, směrnice)
+
+namísto chtít, aby hloupý nebyl nikdo
+
 
 Dobrat se dnes pravdy o stavu světa je vinou
 masívní dezinformace a bezostyšného lhaní
@@ -192,6 +198,7 @@ ještě stále hodně. A netřeba snad připomínat,
 [jaro 1968](http://www.pametnaroda.cz/anniversary/detail/id/7),
 [srpen 1968](http://prehravac.rozhlas.cz/audio/433702)
 * [Ruský příběh pravdy a lži](http://www.ceskatelevize.cz/porady/1142743803-reporteri-ct/214452801240019/video/327399)
+* [Polibek od Putina](http://www.ceskatelevize.cz/ivysilani/10420875686-polibek-od-putina/21438255850)
 * [Děti ze stanice Leningradská](http://youtu.be/0JW6Qslwd3w)
 * [Romancov](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
 [Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
