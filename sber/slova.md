@@ -646,6 +646,12 @@ Slova
 > Perspektiva, v níž se pohybují, je stále znečištěna sněním o pozemské realizaci.
 > *Homilie — 18. 10. 2015*
 
+.
+
+> The meaning of life is to find your gift.
+> The purpose of life is to give it away.
+> *Pablo Picasso*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
