@@ -160,6 +160,9 @@ __misc__
 * [Bloomberg Studio 1.0](http://www.bloomberg.com/shows/studio-1)
 * [Homilie](http://www.radiovaticana.cz/podrubrika.php4?id=3)
 * [Radio Vaticana](http://www.radiovaticana.cz/podrubrika.php4?id=6)
+* [IMD Business School](https://www.imd.org/research-knowledge/tomorrows-challenges/)
+* [The Diplomat](http://thediplomat.com/)
+* [Foreign Policy](http://foreignpolicy.com/)
 
 ## blog
 
@@ -387,6 +390,13 @@ __misc__
 * [Blog zaměstnanců CZ.NIC](http://blog.nic.cz/)
 * [Emerging Writer](http://emergingwriter.blogspot.com/search/label/interview)
 * [Jason Calacanis](http://calacanis.com/)
+* [Bryce Roberts](http://bryce.vc/)
+* [Tomáš Zdechovský](http://zdechovsky.blog.idnes.cz/)
+* [Eric Mill](https://konklone.com/blog)
+* [Gabe Kleinman](https://medium.com/@gabekleinman)
+* [Brené Brown](http://brenebrown.com/my-blog/)
+* [Semil Shah](http://blog.semilshah.com/)
+* [Jiří Peňás](http://www.lidovky.cz/novinar.aspx?idnov=2474)
 
 ## podcasts
 
@@ -528,6 +538,7 @@ __dev__
 * [Heavybit](https://vimeo.com/heavybit/videos)
 * [An Event Apart](https://vimeo.com/zeldman/videos)
 * [nytm.org](http://nytm.org/)
+* [Chaos Computer Club](https://media.ccc.de/b)
 
 __misc__
 * [multimedia.vse.cz](http://multimedia.vse.cz)
@@ -659,6 +670,9 @@ __dev__
 * [linux.conf.au](https://linux.conf.au/)
 * [StartUp Harvest Ostrava](http://startupharvest.com/)
 * [Central European Startup Awards](http://www.cesawards.com)
+* [OpenAlt](https://openalt.cz/)
+* [Chaos Communication Congress](https://events.ccc.de/congress/)
+* [Chaos Communication Camp](https://events.ccc.de/camp/)
 
 __misc__
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
@@ -691,6 +705,7 @@ __misc__
 * [Eyeo Festival](http://eyeofestival.com/)
 * [Paralelní Polis](https://www.facebook.com/vejdiven/events)
 * [Sociologické večery](http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=130)
+* [kino.openalt.org](https://kino.openalt.org)
 
 ## 20. století
 
@@ -767,6 +782,7 @@ __addendum__
 * [Ako personalisti vnímajú ajťákov a benefity](http://content.fczbkk.com/ako-personalisti-vnimaju-ajtakov-a-benefity/)
 * [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
 * [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
+* [What if recruiters started reading the resume backwards?](http://blogs.timesofindia.indiatimes.com/just-like-that/how-to-find-a-jagged-resume/)
 
 ## ex lege 
 
@@ -793,7 +809,11 @@ __addendum__
 
 * [nasstat.cz](http://nasstat.cz)
 * [otevrenadata.cz](http://www.otevrenadata.cz/)
+* [Opendata Praha](http://opendata.praha.eu/dataset)
+* [datastory.cz](https://datastory.cz/)
 * [volby.cz/opendata/opendata.htm](http://volby.cz/opendata/opendata.htm)
+* [Koncepce katalogizace otevřených dat VS ČR](http://www.mvcr.cz/soubor/koncepce-katalogizace-otevrenych-dat-vs-cr-pdf.aspx)
+* [Informace pro všechny](http://www.infoprovsechny.cz/)
 * [data.worldbank.org/indicator](http://data.worldbank.org/indicator)
 * [developers.google.com/freebase](http://developers.google.com/freebase/)
 * [wiki.dbpedia.org/About](http://wiki.dbpedia.org/About)
