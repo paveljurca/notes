@@ -518,10 +518,10 @@ __misc__
 * [In The Abstract](http://www.intheabstract.co.uk/series/in-the-abstract/)
 * [Cultures of Knowledge](http://www.culturesofknowledge.org/?page_id=187)
 * [Write For Your Life](http://5by5.tv/wfyl)
+* [Center for Internet and Society](https://itunes.apple.com/us/podcast/center-for-internet-society/id131237275)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
-
 
 ## video
 
