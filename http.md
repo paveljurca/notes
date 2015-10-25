@@ -399,6 +399,7 @@ __misc__
 * [Brené Brown](http://brenebrown.com/my-blog/)
 * [Semil Shah](http://blog.semilshah.com/)
 * [Jiří Peňás](http://www.lidovky.cz/novinar.aspx?idnov=2474)
+* [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
 
 ## podcasts
 
