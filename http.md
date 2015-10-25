@@ -1,7 +1,7 @@
 Http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following) (and [twitter](https://twitter.com/paveljurca/lists/list/members)) I seek information here
+Besides [twitter](https://twitter.com/paveljurca/following), and [twitter](https://twitter.com/paveljurca/lists/list/members), I seek information here
 
 ## news 
 
@@ -62,6 +62,7 @@ __dev__
 * [Bloomberg West](http://www.bloomberg.com/shows/bloomberg-west)
 * [Business Insider Tech](http://www.businessinsider.com/sai)
 * [Inside.com](https://www.inside.com/all)
+* [BetaList](http://betalist.com/#newest)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -163,6 +164,7 @@ __misc__
 * [IMD Business School](https://www.imd.org/research-knowledge/tomorrows-challenges/)
 * [The Diplomat](http://thediplomat.com/)
 * [Foreign Policy](http://foreignpolicy.com/)
+* [abeceda.xyz](http://www.abeceda.xyz/)
 
 ## blog
 
