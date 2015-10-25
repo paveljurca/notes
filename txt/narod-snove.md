@@ -77,8 +77,11 @@ ideálem to lze chápat, ale už ne rozumět
 https://vimeo.com/138459697#t=1094s
 
 
+pořád ten pocit, že je to chyba systému a ne lidí v něm?
 
+lidé tak zažraní do zdí institucí, že už jsou víc systémem než lidmi
 
+pořád je ale víc lidí než systémů :)
 
 
 
