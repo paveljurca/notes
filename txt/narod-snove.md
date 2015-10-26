@@ -1,6 +1,9 @@
 Národ snově
 ===========
 
+Jezdíte rádi na kole? Vyražte po deváté večer. Najdete ty, jež ulehají v kartonech. Těch, jež včera stály složené a plné jídla na druhé straně zdi - supermarketu.
+Jiný příklad? Pozdním průjezdem utopenými sídlišti za výčitek tlumičů linky č. (doplňte si) je skutečnosti dost — sedí na každém sedadle.
+
 
 to je jako ubytovat lidi bez domova a chtít po zbytku domu, abychom si rozdělili inkaso.
 
@@ -235,7 +238,10 @@ Hladomor a hubená léta pravděpodobně není víc než samozáchovný pud Zem�
 EU nemůže fungovat v činžovním domě, kde jedni nájemníci šetří a druzí z peněz fondu na opravy platí výlety. Řecký student Dimostenis na otázku, zdali se mají dluhy platit: „Jsme suverénní stát“ (MfD 29. 6. 2015, A9). 
 
 
-Nerad bych napínal tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku. Pozdním průjezdem utopenými sídlišti za výčitek tlumičů linky č. (doplňte si) je skutečnosti dost — sedí na každém sedadle. Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Dvě slova se podivně kroutí: *My* a *Evropa*.
+Nerad bych napínal tětivu třídního boje, ale ve vilových čtvrtích evropského politbyra skutečnost chybí i sytě zelenému trávníku.
+
+
+Šéfka diplomacie EU: „My jsme ta bohatá Evropa.“ Dvě slova se podivně kroutí: *My* a *Evropa*.
 
 > Mojí nadějí je, že se shodneme nejen na číslech, kolik lidí ubytujeme.
 > Přitom budeme mít na paměti, že Turecko má 2 miliony, Jordánsko 900 000
