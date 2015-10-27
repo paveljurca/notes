@@ -400,6 +400,8 @@ __misc__
 * [Semil Shah](http://blog.semilshah.com/)
 * [Jiří Peňás](http://www.lidovky.cz/novinar.aspx?idnov=2474)
 * [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
+* [Jezen Thomas](http://jezenthomas.com/archive/)
+* [blog.ed.gov](http://blog.ed.gov/)
 
 ## podcasts
 
@@ -773,6 +775,7 @@ __misc__
 __addendum__
 * [Sample Resume Template](http://thingsthatarebrown.com/blog/2009/05/sample-resume-template/)
 * [Résumé TeX template](http://coding-time.blogspot.cz/2014/04/resume-tex-template-and-tutorial.html)
+* [Jekyll Resume Template](http://resume-template.joelglovier.com/)
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
 * [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
@@ -786,6 +789,7 @@ __addendum__
 * [Jak psát nabídky práce pro vývojáře](http://www.zdrojak.cz/clanky/jak-psat-nabidky-prace-pro-vyvojare/?show=comments#comments)
 * [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
 * [What if recruiters started reading the resume backwards?](http://blogs.timesofindia.indiatimes.com/just-like-that/how-to-find-a-jagged-resume/)
+* [3 classic resume rules](http://college.usatoday.com/2015/10/21/resume-rules-updated/)
 
 ## ex lege 
 
