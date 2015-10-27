@@ -648,9 +648,9 @@ Slova
 
 .
 
-> The meaning of life is to find your gift.
-> The purpose of life is to give it away.
-> *Pablo Picasso*
+> There are two rules for success:  
+> 1. Never tell everything you know.
+> *Roger H. Lincoln*
 
 
 * __apod.__
