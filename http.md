@@ -402,6 +402,7 @@ __misc__
 * [Petr Žantovský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1419)
 * [Jezen Thomas](http://jezenthomas.com/archive/)
 * [blog.ed.gov](http://blog.ed.gov/)
+* [Bob Rosenschein](http://bobr.com/)
 
 ## podcasts
 
@@ -835,6 +836,8 @@ __addendum__
 * [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
 
 ## TODO 
+
+    curiyo.com/en/topic/ 'meta base search
 
     velkyctvrtek.cz 'Velký knižní čtvrtek
     syrah.co 'to write
