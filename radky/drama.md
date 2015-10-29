@@ -15,6 +15,13 @@ u „My“
 
 *
 
+Ty tam  
+Já tady  
+— květ  
+bez zahrady
+
+*
+
 klubko  
 od chyby  
 tehdy a kdyby  
@@ -36,7 +43,7 @@ tělo:
 
 hlt chleba  
 drobt vína  
-žaludek — víra
+žaludek — díra
 
 *
 

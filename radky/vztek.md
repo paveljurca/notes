@@ -32,8 +32,20 @@ mávnutí mušší
 *
 
 skon —  
-světa jenž  
+světa jež  
 jen  
 ty oči viděly
+
+*
+
+Život
+
+moc dlouhej  
+bych brečel
+
+Život
+
+moc krátkej  
+bych se smál
 
 
