@@ -13,14 +13,14 @@ a rdít se
 
 u „My“
 
-*
+.
 
 Ty tam  
 Já tady  
 — květ  
 bez zahrady
 
-*
+.
 
 klubko  
 od chyby  
@@ -30,7 +30,7 @@ bez ladu
 chtít  
 a stát vzadu
 
-*
+.
 
 „Bych tu stih...“  
 (užít těch knih)  
@@ -39,13 +39,13 @@ mozek:
 tělo:  
 „Co jsme si, to jsme si.“
 
-*
+.
 
 hlt chleba  
 drobt vína  
 žaludek — díra
 
-*
+.
 
 blíž věcem  
 znát stěží  

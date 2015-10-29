@@ -1,9 +1,9 @@
-Diváček Novy
-============
+Bulvami
+=======
 
 Zpráva: Střílel by zas!  
 Pohnutí z nuly.  
-Vypni to včas,  
+Zhasni to včas,  
 diváku Novy.  
 Hmátnout, jít ve sráz.  
 Splést to — bulvami.

@@ -6,14 +6,14 @@ pomohlo se hlavě.
 Zatají oči, že  
 navzdory sobě.
 
-*
+.
 
 Řádky  
 vzpomenout.  
 Číst zpátky.  
 Hynout.
 
-*
+.
 
 nohy  
 kvapí dál  
@@ -21,7 +21,7 @@ do doby
 vnuknutí  
 kdež — stavy
 
-*
+.
 
 uši  
 na duši  
@@ -29,14 +29,14 @@ na duši
 že radost  
 mávnutí mušší
 
-*
+.
 
 skon —  
 světa jež  
 jen  
 ty oči viděly
 
-*
+.
 
 Život
 
