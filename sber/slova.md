@@ -652,6 +652,11 @@ Slova
 > 1. Never tell everything you know.
 > *Roger H. Lincoln*
 
+.
+
+> A srdce marně zabolí nad tím, jak jsme se rozprchli a co z nás zbylo.
+> *Stanislav Kostka Neumann, Vzpomínky*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
