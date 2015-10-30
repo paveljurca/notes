@@ -657,6 +657,12 @@ Slova
 > A srdce marně zabolí nad tím, jak jsme se rozprchli a co z nás zbylo.
 > *Stanislav Kostka Neumann, Vzpomínky*
 
+.
+
+> Víš jak lidi nenáviděj, že musej bejt se svojí rodinou?
+> Tak bez ní je to ještě horší.
+> *Homer J. Simpson, XXVI, 9*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
