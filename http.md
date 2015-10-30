@@ -63,6 +63,7 @@ __dev__
 * [Business Insider Tech](http://www.businessinsider.com/sai)
 * [Inside.com](https://www.inside.com/all)
 * [BetaList](http://betalist.com/#newest)
+* [Crunch Network](http://techcrunch.com/crunch-network/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
