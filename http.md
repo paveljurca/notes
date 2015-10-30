@@ -433,6 +433,7 @@ __dev__
 * [Turing-Incomplete](http://turing.cool/)
 * [The Naked Freelancer](http://thenakedfreelancer.com/category/episodes/)
 * [This Week In Startups](https://feeds2.feedburner.com/twist-audio)
+* [StartUp](https://gimletmedia.com/show/startup/episodes/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -522,6 +523,8 @@ __misc__
 * [Cultures of Knowledge](http://www.culturesofknowledge.org/?page_id=187)
 * [Write For Your Life](http://5by5.tv/wfyl)
 * [Center for Internet and Society](https://itunes.apple.com/us/podcast/center-for-internet-society/id131237275)
+* [On The Media](http://feeds.wnyc.org/onthemedia)
+* [ProPublica Podcast](https://www.propublica.org/podcast/)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
