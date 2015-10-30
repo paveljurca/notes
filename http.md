@@ -526,6 +526,7 @@ __misc__
 * [Center for Internet and Society](https://itunes.apple.com/us/podcast/center-for-internet-society/id131237275)
 * [On The Media](http://feeds.wnyc.org/onthemedia)
 * [ProPublica Podcast](https://www.propublica.org/podcast/)
+* [Reply All](https://gimletmedia.com/show/reply-all/episodes/)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
@@ -606,6 +607,7 @@ __misc__
 * [Petr Čtvrtníček](http://video.aktualne.cz/petr-ctvrtnicek-tv/)
 * [Miloš Čermák](http://video.aktualne.cz/milos-cermak/l~785fad84135c11e4b462002590604f2e/)
 * [The Vatican](https://www.youtube.com/user/vatican/videos)
+* [Secular Talk](https://www.youtube.com/user/SecularTalk/playlists)
 
 ## events 
 
