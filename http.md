@@ -1,7 +1,11 @@
 http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following) here I look for
+Besides [twitter](https://twitter.com/paveljurca/following), and a shitload of newsletters, here I look for
+
+__tips__
+Don't watch videos. Listen to `alias ya='youtube-dl --extract-audio --audio-format mp3 '`  
+Read articles without the mess `www() {w3m "$1" -dump -cols 50|less}`
 
 - [news](#news)
 - [blog](#blog)
@@ -10,12 +14,12 @@ Besides [twitter](https://twitter.com/paveljurca/following) here I look for
 - [events](#events)
 - [jobs](#jobs)
 - [data](#data)
-- [ex lege](#ex-lege)
 - [20. století](#20-století)
+- [ex lege](#ex-lege)
 - [česky](#česky)
-- [TODO](#TODO)
+- and [TODO](#TODO)
 
-## news 
+## news
 
 __dev__
 * [lobste.rs](http://lobste.rs/)
@@ -417,6 +421,7 @@ __misc__
 * [blog.ed.gov](http://blog.ed.gov/)
 * [Bob Rosenschein](http://bobr.com/)
 * [Imran On Tech](http://imranontech.com/)
+* [Milan Šmíd](http://louc.cz)
 
 ## podcast
 
@@ -811,21 +816,6 @@ __addendum__
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
 
-## ex lege 
-
-* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
-* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
-* [Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
-* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
-* [Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
-* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
-* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
-* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
-* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
-* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
-* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
-* [NOZ](http://obcanskyzakonik.justice.cz/)
-
 ## 20. století
 
 * [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
@@ -850,13 +840,28 @@ __addendum__
 * [jedensvetnaskolach.cz](http://jedensvetnaskolach.cz)
 * [hrdinove.cz](http://hrdinove.cz)
 
+## ex lege
+
+* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
+* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
+* [Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
+* [Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
+* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
+* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
+* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
+* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
+* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
+* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
+* [NOZ](http://obcanskyzakonik.justice.cz/)
+
 ## česky
 
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
 
-## TODO 
+## TODO
 
     curiyo.com/en/topic/ 'meta base search
 
@@ -936,7 +941,7 @@ __addendum__
     startupweekend.org 'launch a startup around the world
     startupyard.cz 'czech accelerator
 
-    web.archive.org 'wayback machine for the whole web
+    web.archive.org 'wayback machine for the web
 
     !!
     http://www.faqs.org/rfcs/np.html 'RFC
@@ -1044,7 +1049,6 @@ __addendum__
     madehow.com 'how products are made
     joindiaspora.com 'facebook competitor
     gowalla.com 'foursquare competitor
-    last.fm 'own music catalogue
     scuk.cz 'logs and tracks everything delicious
     foursquare.com 'social check-in
     mixergy.com 'founders shares their secrets
@@ -1211,7 +1215,6 @@ __addendum__
     openstreetmap.org 'the free wiki world map
     forrst.com 'developers and designers community site
     sharypic.com 'collaborative photo sharing
-    pinterest.com 'online photo pinboard
     map.innovatesf.com 'startups-map
     kickstarter.com 'funding platform
     wallwisher.com 'build a wall
@@ -1430,7 +1433,6 @@ __addendum__
     mzl.la/weblitstd 'the web literacy standard
     growhack.com 'hacks for the growth of your startup
     getpocket.com 'read it later
-    louc.cz 'glosy Milana Smida na cokoli
     wikitravel.org 'crowdsourced travel guide
     codevisually.com 'web developer tools and resources
     breakpoint.io 'share your side web projects
@@ -1628,7 +1630,6 @@ __addendum__
     
     [Radiotéka](http://www.radioteka.cz/)
 
-    ##
     http://nfa.cz/cz/fp/ 'Národní filmový archiv
 
 
