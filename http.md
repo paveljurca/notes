@@ -404,6 +404,7 @@ __misc__
 * [Jezen Thomas](http://jezenthomas.com/archive/)
 * [blog.ed.gov](http://blog.ed.gov/)
 * [Bob Rosenschein](http://bobr.com/)
+* [Imran On Tech](http://imranontech.com/)
 
 ## podcasts
 
