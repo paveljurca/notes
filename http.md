@@ -1,7 +1,19 @@
-HTTP
+http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following) I seek information here
+Besides [twitter](https://twitter.com/paveljurca/following) here I look for
+
+- [news](#news)
+- [blog](#blog)
+- [podcast](#podcast)
+- [video](#video)
+- [events](#events)
+- [jobs](#jobs)
+- [data](#data)
+- [ex lege](#ex-lege)
+- [20. století](#20-století)
+- [česky](#česky)
+- [TODO](#TODO)
 
 ## news 
 
@@ -406,7 +418,7 @@ __misc__
 * [Bob Rosenschein](http://bobr.com/)
 * [Imran On Tech](http://imranontech.com/)
 
-## podcasts
+## podcast
 
 __dev__
 * [Brus kódu](http://bruskodu.cz)
@@ -610,7 +622,7 @@ __misc__
 * [The Vatican](https://www.youtube.com/user/vatican/videos)
 * [Secular Talk](https://www.youtube.com/user/SecularTalk/playlists)
 
-## events 
+## events
 
 __dev__
 * [devfest.cz](http://devfest.cz)
@@ -720,30 +732,6 @@ __misc__
 * [Sociologické večery](http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=130)
 * [kino.openalt.org](https://kino.openalt.org)
 
-## 20. století
-
-* [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
-* [exil a samizdat](http://www.scriptum.cz/)
-* [periodika](http://archiv.ucl.cas.cz/)
-* [publikace](http://www.ucl.cas.cz/edicee/)
-* [Kdo byl kdo](http://www.libri.cz/databaze/kdo20/main.php)
-* [slovnikceskeliteratury.cz](http://www.slovnikceskeliteratury.cz/)
-* [ustrcr.cz](http://www.ustrcr.cz/)
-* [abscr.cz](http://www.abscr.cz/)
-* [vernyzustanu.cz](http://www.vernyzustanu.cz/)
-* [moderni-dejiny.cz](http://www.moderni-dejiny.cz/)
-* [perzekuce.cz/linky.html](http://perzekuce.cz/linky.html)
-* [vyznamenani.net](http://vyznamenani.net)
-* [svazky.cz](http://www.svazky.cz)
-* [zrusmekomunisty.cz](http://zrusmekomunisty.cz)
-* [antikomunismus.com](http://antikomunismus.com)
-* [dekomunizace.cz](http://dekomunizace.cz)
-* [totalita.cz](http://totalita.cz)
-* [pametnaroda.cz](http://pametnaroda.cz)
-* [myjsmetonevzdali.cz](http://myjsmetonevzdali.cz)
-* [jedensvetnaskolach.cz](http://jedensvetnaskolach.cz)
-* [hrdinove.cz](http://hrdinove.cz)
-
 ## jobs
 
 * [itjobs.cz](http://itjobs.cz)
@@ -801,27 +789,6 @@ __addendum__
 * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
 * [Studying for Job Interviews isn’t cheating](http://imranontech.com/2008/04/01/studying-for-job-interviews-isnt-cheating/)
 
-## ex lege 
-
-* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
-* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
-* [_Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
-* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
-* [_Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
-* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
-* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
-* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
-* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
-* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
-* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
-* [NOZ](http://obcanskyzakonik.justice.cz/)
-
-## česky
-
-* [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
-* [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
-* [nechybujte.cz](http://nechybujte.cz/)
-
 ## data
 
 * [nasstat.cz](http://nasstat.cz)
@@ -843,6 +810,51 @@ __addendum__
 * [Our World in Data](http://ourworldindata.org/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
+
+## ex lege 
+
+* [Ústava](http://www.psp.cz/docs/laws/constitution.html)
+* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
+* [Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
+* [Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
+* [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
+* [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
+* [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
+* [Stenozáznamy](http://www.psp.cz/eknih/2013ps/stenprot/index.htm)
+* [Strakovka](http://www.vlada.cz/cz/urad-vlady/)
+* [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
+* [NOZ](http://obcanskyzakonik.justice.cz/)
+
+## 20. století
+
+* [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
+* [exil a samizdat](http://www.scriptum.cz/)
+* [periodika](http://archiv.ucl.cas.cz/)
+* [publikace](http://www.ucl.cas.cz/edicee/)
+* [Kdo byl kdo](http://www.libri.cz/databaze/kdo20/main.php)
+* [slovnikceskeliteratury.cz](http://www.slovnikceskeliteratury.cz/)
+* [ustrcr.cz](http://www.ustrcr.cz/)
+* [abscr.cz](http://www.abscr.cz/)
+* [vernyzustanu.cz](http://www.vernyzustanu.cz/)
+* [moderni-dejiny.cz](http://www.moderni-dejiny.cz/)
+* [perzekuce.cz/linky.html](http://perzekuce.cz/linky.html)
+* [vyznamenani.net](http://vyznamenani.net)
+* [svazky.cz](http://www.svazky.cz)
+* [zrusmekomunisty.cz](http://zrusmekomunisty.cz)
+* [antikomunismus.com](http://antikomunismus.com)
+* [dekomunizace.cz](http://dekomunizace.cz)
+* [totalita.cz](http://totalita.cz)
+* [pametnaroda.cz](http://pametnaroda.cz)
+* [myjsmetonevzdali.cz](http://myjsmetonevzdali.cz)
+* [jedensvetnaskolach.cz](http://jedensvetnaskolach.cz)
+* [hrdinove.cz](http://hrdinove.cz)
+
+## česky
+
+* [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
+* [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
+* [nechybujte.cz](http://nechybujte.cz/)
 
 ## TODO 
 
