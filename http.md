@@ -797,6 +797,7 @@ __addendum__
 * [Making a CV For The Broadcast Industry](http://pietropassarelli.com/articles/2013/09/12/cv-for-broadcast-industry/)
 * [What if recruiters started reading the resume backwards?](http://blogs.timesofindia.indiatimes.com/just-like-that/how-to-find-a-jagged-resume/)
 * [3 classic resume rules](http://college.usatoday.com/2015/10/21/resume-rules-updated/)
+* [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
 
 ## ex lege 
 
