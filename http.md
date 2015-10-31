@@ -3,10 +3,6 @@ http
 
 Besides [twitter](https://twitter.com/paveljurca/following), and a shitload of newsletters, here I look for
 
-__tips__  
-Don't watch videos. Listen to `alias ya='youtube-dl --extract-audio --audio-format mp3 '`  
-Read articles without the mess `www() {w3m "$1" -dump -cols 50|less}`
-
 - [news](#news)
 - [blog](#blog)
 - [podcast](#podcast)
@@ -17,11 +13,16 @@ Read articles without the mess `www() {w3m "$1" -dump -cols 50|less}`
 - [20. století](#20-století)
 - [ex lege](#ex-lege)
 - [česky](#česky)
-- and [TODO](#TODO)
+- and [TODO](#todo)
+
+__tip #0__ Don't watch videos. Listen to  
+`alias ya='youtube-dl --extract-audio --audio-format mp3 '`  
+__tip #1__ Read articles without the mess  
+`www() {w3m "$1" -dump -cols 50|less}`
 
   
+
 * * *
-  
 
 ## news
 
