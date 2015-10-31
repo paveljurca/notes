@@ -15,14 +15,15 @@ Besides [twitter](https://twitter.com/paveljurca/following), and a shitload of n
 - [česky](#česky)
 - and [TODO](#todo)
 
-__tip #0__ Don't watch videos. Listen to  
-`alias ya='youtube-dl --extract-audio --audio-format mp3 '`  
-__tip #1__ Read articles without the mess  
+Don't watch videos. Listen to  
+`alias ya='youtube-dl --extract-audio --audio-format mp3 '`
+
+Read articles without the mess  
 `www() {w3m "$1" -dump -cols 50|less}`
 
-  
 
-* * *
+
+***
 
 ## news
 
