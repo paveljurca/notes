@@ -1,7 +1,7 @@
-Http
+HTTP
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following), and [twitter](https://twitter.com/paveljurca/lists/list/members), I seek information here
+Besides [twitter](https://twitter.com/paveljurca/following) I seek information here
 
 ## news 
 
@@ -798,6 +798,7 @@ __addendum__
 * [What if recruiters started reading the resume backwards?](http://blogs.timesofindia.indiatimes.com/just-like-that/how-to-find-a-jagged-resume/)
 * [3 classic resume rules](http://college.usatoday.com/2015/10/21/resume-rules-updated/)
 * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
+* [Studying for Job Interviews isn’t cheating](http://imranontech.com/2008/04/01/studying-for-job-interviews-isnt-cheating/)
 
 ## ex lege 
 
