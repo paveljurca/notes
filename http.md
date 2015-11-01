@@ -428,6 +428,7 @@ __misc__
 * [Bob Rosenschein](http://bobr.com/)
 * [Imran On Tech](http://imranontech.com/)
 * [Milan Šmíd](http://louc.cz)
+* [Henry Fraser](http://www.henryfraser.org/blog/)
 
 ## podcast
 
