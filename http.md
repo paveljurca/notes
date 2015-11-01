@@ -632,6 +632,7 @@ __misc__
 * [Miloš Čermák](http://video.aktualne.cz/milos-cermak/l~785fad84135c11e4b462002590604f2e/)
 * [The Vatican](https://www.youtube.com/user/vatican/videos)
 * [Secular Talk](https://www.youtube.com/user/SecularTalk/playlists)
+* [#TheGameStartsHere](https://www.youtube.com/playlist?list=PL8YnSZD5H0qIxM-2PFdGDHWTD-yKPHHVX)
 
 ## events
 
