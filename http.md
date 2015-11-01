@@ -1,7 +1,7 @@
 http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/following), and a shitload of newsletters, here I look for
+Besides [twitter](https://twitter.com/paveljurca/lists/on-the-planet) and a shitload of newsletters, here I look for
 
 - [news](#news)
 - [blog](#blog)
@@ -13,12 +13,12 @@ Besides [twitter](https://twitter.com/paveljurca/following), and a shitload of n
 - [20. století](#20-století)
 - [ex lege](#ex-lege)
 - [česky](#česky)
-- and [TODO](#todo)
+- [TODO](#todo)
 
-Don't watch videos. Listen to  
+don't watch videos, listen to  
 `alias ya='youtube-dl --extract-audio --audio-format mp3 '`
 
-Read articles without the mess  
+read articles without the mess  
 `www() {w3m "$1" -dump -cols 50|less}`
 
 
