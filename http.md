@@ -429,6 +429,7 @@ __misc__
 * [Imran On Tech](http://imranontech.com/)
 * [Milan Šmíd](http://louc.cz)
 * [Henry Fraser](http://www.henryfraser.org/blog/)
+* [Ben Klemens](http://modelingwithdata.org/index.html)
 
 ## podcast
 
