@@ -3,8 +3,11 @@ Bulvami
 
 Zpráva: Střílel by zas!  
 Pohnutí z nuly.  
-Zhasni to včas,  
+Odhlédni včas,  
 diváku Novy.  
-Hmátnout, jít ve sráz.  
-Splést to — bulvami.
+A hmátnout,  
+jít ve sráz.  
+Splést to  
+— bulvami.
+
 
