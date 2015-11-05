@@ -11,6 +11,23 @@ své názory, třebaže všecko kolem se změnilo, jsou snad
 šťastní lidé, ale nezávidím jim a nechtěl bych s nimi měnit.
 (Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948.)
 
+Snilo-li se tehdy o federálním Rakousku, můžeme říci
+jen bohužel, že se o něm už ani nesní u nás. Sníme naopak,
+rozumějte, sníme jen, že se jednou co nejdráže prodáme
+centralismu.. [..] Nervali jsme se o cáry starého kabátu,
+kdo jich více urve: chtěli jsme nový kabát pro všecky,
+volnou cestu pro vývoj.
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 27.)
+
+A politicky radikálním bude opět každé příští, zdravé
+hnutí v českém národě, jakmile bude chtít skutečně něco
+a narazí na starou překážku: centralistický stát se všemi
+jeho známými nectnostmi. [..] Jako šelmy na krvavá sousta
+vrhali jsme se na knihy, v nichž myšlenky byly. Debatovali
+jsme, milovali a nenáviděli. Bylo-li to povrchní, pak je
+povrchní každé krásné mládí, upřímné a lačné [..]
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 27.)
+
 
 MOBERG
 ======
