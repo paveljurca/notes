@@ -441,6 +441,7 @@ __radio3__
 * [Justin Ellingwood](https://www.digitalocean.com/community/users/jellingwood?primary_filter=tutorials)
 * [Jesse Noller](http://jessenoller.com/)
 * [Nick Craver](http://nickcraver.com/blog/)
+* [Jiří Svoboda](http://svoboda145.tumblr.com/)
 
 ## podcast
 
@@ -836,6 +837,7 @@ __addendum__
 * [Our World in Data](http://ourworldindata.org/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
+* [data.stackexchange.com](http://data.stackexchange.com/)
 
 ## 20. století
 
