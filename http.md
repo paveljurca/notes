@@ -188,6 +188,10 @@ __misc__
 * [The Diplomat](http://thediplomat.com/)
 * [Foreign Policy](http://foreignpolicy.com/)
 * [abeceda.xyz](http://www.abeceda.xyz/)
+* [PressThink](http://pressthink.org/)
+
+__radio3__
+* [Dave Winer's](http://radio3.io/users/davewiner/)
 
 ## blog
 
@@ -430,6 +434,13 @@ __misc__
 * [Milan Šmíd](http://louc.cz)
 * [Henry Fraser](http://www.henryfraser.org/blog/)
 * [Ben Klemens](http://modelingwithdata.org/index.html)
+* [Ota Ulč](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1285)
+* [Mark Suster](http://www.bothsidesofthetable.com/category/startup-lessons/)
+* [Pieter Van Ostaeyen](https://pietervanostaeyen.wordpress.com/)
+* [Essena O'Neill](http://www.letsbegamechangers.com/behindtheimage/)
+* [Justin Ellingwood](https://www.digitalocean.com/community/users/jellingwood?primary_filter=tutorials)
+* [Jesse Noller](http://jessenoller.com/)
+* [Nick Craver](http://nickcraver.com/blog/)
 
 ## podcast
 
@@ -461,6 +472,7 @@ __dev__
 * [The Naked Freelancer](http://thenakedfreelancer.com/category/episodes/)
 * [This Week In Startups](https://feeds2.feedburner.com/twist-audio)
 * [StartUp](https://gimletmedia.com/show/startup/episodes/)
+* [Bothsides TV](https://soundcloud.com/bothsidestv/sets)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -872,6 +884,7 @@ __addendum__
 
 ## TODO
 
+    startpage.com 'private search engine
     curiyo.com/en/topic/ 'meta base search
 
     velkyctvrtek.cz 'Velký knižní čtvrtek
