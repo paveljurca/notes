@@ -28,6 +28,33 @@ jsme, milovali a nenáviděli. Bylo-li to povrchní, pak je
 povrchní každé krásné mládí, upřímné a lačné [..]
 (Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 27.)
 
+Ale nebylo by ani našeho relativního pokroku, kdybychom
+se vždy jen utěšovali, že jindy bývalo hůře. Puch, špína
+a šero jsou sice tradicionelní, ale nikoli nezbytné
+vlastnosti žalářů a vězení.
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 44.)
+
+Každý člověk, aniž si to třeba uvědomuje, žije tak trochu
+předem. Má své plány, své naděje, svá očekávání. Učiní-li
+pak ruka policajtova nebo soudcova náhlý škrt přes to
+všechno, nastane-li prudké procitnutí k nějaké nové,
+nezvyklé skutečnosti, nastane přirozeně zmatek v celém
+lidském organismu. Zastavíme-li prudce rozběhnutý stroj,
+vždy riskujeme, že se v něm něco zlomí.
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 43.)
+
+[..] člověk, který si ponejprv uvědomí svou nezaviněnou
+odstrčenost od hostiny života, musí být filosof, nemá-li
+být pojat nenávistí a touhou po pomstě.
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 33.)
+
+Dá se přece protestovat a důstojně protestovat proti násilí
+i způsobem, jímž se mu podrobím, když nic jiného nezbývá..
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 46.)
+
+
+(Neumann, St.K.: Vzpomínky. Svoboda, Praha 1948, s. 33.)
+
 
 MOBERG
 ======
