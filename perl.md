@@ -136,6 +136,8 @@ livejournal
 buzzfeed.com
 cPanel
 openfoodfacts.org
+ipcalc
+crowdtilt https://web.archive.org/web/20120914031745/http://dsog.info/blog/Perl/Hacking/Technology/2012/08/31/why-did-i-choose-perl-for-crowdtilt/?
 
 
 
