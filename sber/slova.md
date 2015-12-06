@@ -266,16 +266,15 @@ Slova
 
 .
 
-> Givers need to set limits  
-> because takers rarely do.
+> Givers need to set limits because takers rarely do.
 > *Rachel Wolchin*
 
 .
 
-> Že když něco děláme, ať to neděláme
-> jen proto, že nás to baví. Ať to děláme
+> Že když něco děláme, ať to neděláme  
+> jen proto, že nás to baví. Ať to děláme  
 > líp než ostatní.
-> *Andrea Musilová*
+> *Andrea Musilová, 30. 4. 2015*
 
 .
 
@@ -334,7 +333,7 @@ Slova
 
 > Každé období života má jinou podobu,
 > to je zákon přírody a nemá cenu se tím trápit.
-> *Marie Vaculíková*
+> *Marie Vaculíková, 18. 6. 2015*
 
 .
 
@@ -570,7 +569,7 @@ Slova
 
 > Když se na sebe člověk podívá,
 > tak si prostě uvědomí ty mantinely.
-> *Bohumil Klepl*
+> *Bohumil Klepl, 1. 10. 2015*
 
 .
 
@@ -633,7 +632,7 @@ Slova
 
 > I když půjdu dneska z práce domů, nevrátím se
 > stejnou cestou, jakou jsem vyšel. Nemám to rád.
-> *Bořek Šípek*
+> *Bořek Šípek, 15. 10. 2015*
 
 .
 
@@ -663,6 +662,171 @@ Slova
 > Tak bez ní je to ještě horší.
 > *Homer J. Simpson, XXVI, 9*
 
+.
+
+> We do not learn from experience.
+> We learn from reflecting on experience.
+> *John Dewey*
+
+.
+
+> Nikdy se nebojte vzdát se dobrého pro lepší.
+> *John Davison Rockefeller*
+
+.
+
+> Dnes se ze všeho můžete omluvit, protože mobil je při ruce.
+> Myslím, že nějaký řád je třeba.
+> *Norbert Lichý, 5. 11. 2015*
+
+.
+
+> The test of our progress is not whether we add more
+> to the abundance of those who have much it is whether
+> we provide enough for those who have little.
+> *Franklin Delano Roosevelt*
+
+.
+
+> Jsme povoláni dávat čas, který potřebujeme, nikoli ten,
+> který nám zbývá; jsme povoláni dávat ihned a bezvýhradně
+> své talenty, nikoli až poté, co jsme je využili ke svým cílům.
+> *Anděl Páně — 8. 11. 2015*
+
+.
+
+> Those who can make you believe absurdities,
+> can make you commit atrocities.
+> *Voltaire*
+
+.
+
+> Každá revoluce končí tím, že se nová prasata dostanou ke korytům.
+> *George Orwell*
+
+.
+
+> The future belongs to those
+> who give the next generation reason for hope.
+> *Pierre Teilhard de Chardin*
+
+.
+
+> Start where you are.
+> Use what you have.
+> Do what you can.
+> *Arthur Robert Ashe, Jr.*
+
+.
+
+> Když to nejde doprava,
+> jde to doleva,
+> a když to ani tam nejde,
+> je třeba vrátit se k definici
+> a zkusit to jinak.
+> *Tatiana Drexler, 2. 11. 2015*
+
+.
+
+> Everyone has two lives. A second one begins
+> when you realize you only have one.
+> *Steven Sotloff*
+
+.
+
+> Toto, a ne jiný, je původ všech tyranů:
+> když se poprvé objeví, tváří se jako ochránce.
+> *Platón*
+
+.
+
+> Without data you're just another person with an opinion.
+> *William Edwards Deming*
+
+.
+
+> Ve věrnosti je naše láska.
+> *Anton Srholec, Příb. 20. stol.*
+
+.
+
+> Common sense is not so common.
+> *Voltaire*
+
+.
+
+> Když víš co děláš, tak to nedělej. Je to nuda.
+> *Robert Wilson*
+
+.
+
+> Žena hlavně musí heroicky přežít, kdežto chlap heroicky umírá.
+> *Petra Procházková, 3. 7. 2008*
+
+.
+
+> Stupid is as stupid does.
+> *Forrest Gump*
+
+.
+
+> Došlo mi, že to může být přesně ten typ holky,
+> co mi v sedmadvaceti řekne, že se rozchází, protože
+> už jsem jí řekl všechny svoje historky.
+> *Libor Bouček, 26. 11. 2015*
+
+.
+
+> Zodpovědní lidé by nikomu neměli podsouvat postranní úmysly,
+> neboť nikdo z nás nevidí druhému do srdce.
+> *Andrej Imrich, 20. 10. 2015*
+
+.
+
+> Dějepis je vždycky výběrový.
+> *Petr Čornej, 27. 11. 2015*
+
+.
+
+> Zvolil jsem náročný žánr eseje, od něhož se očekává
+> spojení hloubky obsahu s krásou jazyka.
+> *Tomáš Halík, 20. 10. 2015*
+
+.
+
+> Krize je, když přicházíme pozdě.
+> *Jana Hybášková, 13. 11. 2015*
+
+.
+
+> Ak sa k niečomu vyjadríte kriticky,
+> buď ste zneužitý opozíciou,
+> alebo s ňou rovno spolupracujete!
+> *Ingrid Timková, 23. 1. 2006*
+
+.
+
+> Relativita je pro fyziku, ne pro morálku.
+> *Albert Einstein*
+
+.
+
+> Směšuji se se zemí, která neskládá účty nikomu
+> a brání se podobat těm strojově opracovaným
+> krajinám Evropy.
+> *Jules Supervielle*
+
+.
+
+> Lidé touží po nesmrtelnosti, a přitom nevědí
+> co mají dělat, když v neděli odpoledne prší.
+> *Susan Ertz*
+
+.
+
+> Mně se osvědčilo pracovat se svými myšlenkami.
+> *Barbora Chuecos, 18. 11. 2015*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
@@ -670,4 +834,5 @@ Slova
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
 * [Brian Clapper's collect.](https://raw.githubusercontent.com/bmc/fortunes/master/fortunes)
 * [Shlomi Fish's collect.](http://www.shlomifish.org/humour/fortunes/shlomif-fav)
+
 
