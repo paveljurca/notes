@@ -1,14 +1,13 @@
-Dno
-===
+U Bližních jmen  
+===============
 
 vjem  
-bližních jmen  
-ve stínu  
-po zemi jen  
-zsinalé dny  
-bezduše dávny  
+z jmen?  
+s námi  
+pramalé sny  
+ dávny  
 svící  
-si přály  
+si vzplály  
 zdali  
 tep v nebi  
 ve snaze  

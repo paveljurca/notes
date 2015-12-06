@@ -1,5 +1,5 @@
-Drama
-=====
+Nezáleží
+========
 
 krok  
 dvě vlohy  
@@ -17,7 +17,7 @@ u „My“
 
 Ty tam  
 Já tady  
-— květ  
+Co květ —  
 bez zahrady
 
 .
@@ -34,9 +34,9 @@ a stát vzadu
 
 „Bych tu stih...“  
 (užít těch knih)  
-mozek:  
+Mozek:  
 „A jak asi?“  
-tělo:  
+Tělo:  
 „Co jsme si, to jsme si.“
 
 .
