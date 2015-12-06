@@ -1,7 +1,7 @@
 http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/lists/on-the-planet) and a shitload of newsletters, here I look for
+Besides [twitter](https://twitter.com/paveljurca/lists), here I look for
 
 - [news](#news)
 - [blog](#blog)
@@ -15,10 +15,10 @@ Besides [twitter](https://twitter.com/paveljurca/lists/on-the-planet) and a shit
 - [česky](#česky)
 - [TODO](#todo)
 
-don't watch videos, listen to  
+don't watch, listen to  
 `alias ya='youtube-dl --extract-audio --audio-format mp3 '`
 
-read articles without the mess  
+read with no headache  
 `www() {w3m "$1" -dump -cols 50|less}`
 
 
@@ -86,6 +86,7 @@ __dev__
 * [Inside.com](https://www.inside.com/all)
 * [BetaList](http://betalist.com/#newest)
 * [Crunch Network](http://techcrunch.com/crunch-network/)
+* [SD Times](http://sdtimes.com/)
 
 __design__
 * [Nielsen Norman Group](http://www.nngroup.com/articles/)
@@ -189,6 +190,9 @@ __misc__
 * [Foreign Policy](http://foreignpolicy.com/)
 * [abeceda.xyz](http://www.abeceda.xyz/)
 * [PressThink](http://pressthink.org/)
+* [CS Magazin](http://www.cs-magazin.com/)
+* [Y Combinator Research](https://ycr.org/)
+* [The Atavist Magazine](https://magazine.atavist.com/)
 
 __radio3__
 * [Dave Winer's](http://radio3.io/users/davewiner/)
@@ -266,7 +270,7 @@ __radio3__
 * [somerandomdude.com](http://somerandomdude.com)
 * [Václav Lorenc](http://pricingidiot.com)
 * [Jan Sládek](http://withoutanswers.com)
-* [googleforstudents.blogspot.com](http://googleforstudents.blogspot.com)
+* [Google Student Blog](http://googleforstudents.blogspot.com)
 * [Roman Staněk](http://roman.stanek.org)
 * [cryptoexperts.blogspot.com](http://cryptoexperts.blogspot.com)
 * [cloud101.eu/blog](http://cloud101.eu/blog/)
@@ -442,6 +446,29 @@ __radio3__
 * [Jesse Noller](http://jessenoller.com/)
 * [Nick Craver](http://nickcraver.com/blog/)
 * [Jiří Svoboda](http://svoboda145.tumblr.com/)
+* [Michael Seibel](http://www.michaelseibel.com/)
+* [Joel Achenbach](https://www.washingtonpost.com/news/achenblog/)
+* [Khaled Hussein](http://dsog.info/#open)
+* [People of Color In Tech](http://peopleofcolorintech.com/interview/)
+* [Teemu Leinonen](http://teemuleinonen.fi/)
+* [Yan Zhu](https://zyan.scripts.mit.edu/blog/)
+* [The Setup](https://usesthis.com/interviews/)
+* [Austin Kleon](http://austinkleon.com/)
+* [HBX Blog](http://www.hbxblog.com/)
+* [Ben Thompson](https://stratechery.com/)
+* [Daniel Soukup](http://denikreferendum.cz/autor/772-daniel-soukup)
+* [Harry McCracken](https://www.fastcompany.com/user/harry-mccracken)
+* [Karl Fisch](http://thefischbowl.blogspot.com/)
+* [Scott McLeod](http://dangerouslyirrelevant.org/)
+* [Anna Matušková](http://blog.aktualne.cz/blogy/anna-matuskova.php)
+* [Zdeněk Pečený](http://zpravy.e15.cz/osobnost/zdenek-peceny)
+* [Alexander Tomský](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=2258)
+* [Tomáš Baldýnský](http://www.lidovky.cz/novinar.aspx?idnov=655)
+* [Jeff Thompson](http://www.jeffreythompson.org/blog/)
+* [Jiří Krákora](http://jirikrakora.blog.idnes.cz/)
+* [On War | On Peace](http://www.onwar.eu/)
+* [Jiří Vítek](http://vitekjiri.blog.idnes.cz/)
+* [Jan Šinágl](http://www.sinagl.cz/)
 
 ## podcast
 
@@ -474,6 +501,7 @@ __dev__
 * [This Week In Startups](https://feeds2.feedburner.com/twist-audio)
 * [StartUp](https://gimletmedia.com/show/startup/episodes/)
 * [Bothsides TV](https://soundcloud.com/bothsidestv/sets)
+* [Accidental Tech](http://atp.fm/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
@@ -566,6 +594,12 @@ __misc__
 * [On The Media](http://feeds.wnyc.org/onthemedia)
 * [ProPublica Podcast](https://www.propublica.org/podcast/)
 * [Reply All](https://gimletmedia.com/show/reply-all/episodes/)
+* [Innovation Hub](https://soundcloud.com/innovationhub/tracks)
+* [Exponent](http://exponent.fm/)
+* [Back and Forth](http://podcastone.com/back-and-forth-with-shawn-larry-king)
+* [The Bill Simmons Podcast](http://thebillsimmonspodcast.tumblr.com/archives)
+* [Planet Money](http://www.npr.org/sections/money/)
+* [NPR Politics Podcast](http://www.npr.org/podcasts/510310/npr-politics-podcast)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
@@ -589,6 +623,7 @@ __dev__
 * [An Event Apart](https://vimeo.com/zeldman/videos)
 * [nytm.org](http://nytm.org/)
 * [Chaos Computer Club](https://media.ccc.de/b)
+* [The Scene](https://thescene.com/categories/science-technology)
 
 __misc__
 * [multimedia.vse.cz](http://multimedia.vse.cz)
@@ -725,10 +760,13 @@ __dev__
 * [OpenAlt](https://openalt.cz/)
 * [Chaos Communication Congress](https://events.ccc.de/congress/)
 * [Chaos Communication Camp](https://events.ccc.de/camp/)
+* [DataFestak](http://www.datafestak.cz/)
+* [mlprague.com](http://www.mlprague.com/)
 
 __misc__
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
 * [Kulturní přehled](http://goout.cz)
+* [Praha Neznámá](http://www.prahaneznama.cz/)
 * [informuji.cz](http://www.informuji.cz/akce/)
 * [tyinternety.cz/kalendar-akci](http://www.tyinternety.cz/kalendar-akci/)
 * [srazy.info](http://srazy.info)
@@ -758,6 +796,8 @@ __misc__
 * [Paralelní Polis](https://www.facebook.com/vejdiven/events)
 * [Sociologické večery](http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=130)
 * [kino.openalt.org](https://kino.openalt.org)
+* [EUNIC](http://www.eunicapp.eu/)
+* [Zlin Design Week](http://zlindesignweek.com/)
 
 ## jobs
 
@@ -804,7 +844,7 @@ __addendum__
 * [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
 * [Questions for Design Interview](https://www.evernote.com/shard/s196/sh/a3d73e74-62c7-40a5-9fe2-16f1e32fc2e9/826f07f295ad50207f916fa7cd5ed450)
 * [How to Test Java Programming Skills in an Interview](https://medium.com/@rope_zg/how-to-test-java-programming-skills-in-an-interview-cc7c6a575ff9)
-* [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
+* [Frontend questions to the interview stage](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage)
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
 * [ABC: Always Be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2)
 * [CV go digital](https://medium.com/@write4research/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b)
@@ -815,6 +855,9 @@ __addendum__
 * [3 classic resume rules](http://college.usatoday.com/2015/10/21/resume-rules-updated/)
 * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
 * [Studying for Job Interviews isn’t cheating](http://imranontech.com/2008/04/01/studying-for-job-interviews-isnt-cheating/)
+* [How to get hired](https://twitter.com/jonathansampson/status/658730109365567489)
+* [What Profile Photo Works Best on LinkedIn](https://business.linkedin.com/talent-solutions/blog/2013/08/what-profile-photo-works-best-on-linkedin-a-real-life-experiment)
+* [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
 
 ## data
 
@@ -838,6 +881,7 @@ __addendum__
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Government Data Privacy Policies and Open Data](https://github.com/startuppolicylab/government-data-privacy-policies-open-data-managi)
 * [data.stackexchange.com](http://data.stackexchange.com/)
+* [Data.gov](http://www.data.gov/)
 
 ## 20. století
 
@@ -862,6 +906,14 @@ __addendum__
 * [myjsmetonevzdali.cz](http://myjsmetonevzdali.cz)
 * [jedensvetnaskolach.cz](http://jedensvetnaskolach.cz)
 * [hrdinove.cz](http://hrdinove.cz)
+* [Jazzová sekce](http://jazzova-sekce.cz/)
+* [Dějepis v 21. století](http://www.dejepis21.cz/)
+* [Pamětní místa](http://www.pametnimista.usd.cas.cz/)
+* [StB](http://www.ibadatelna.cz)
+* [gulag.cz](http://gulag.cz/)
+* [Paměť a dějiny](http://www.ustrcr.cz/cs/pamet-a-dejiny)
+* [Političtí vězni.cz](http://www.politictivezni.cz/)
+* [Knihovna Václava Havla](http://www.vaclavhavel-library.org/)
 
 ## ex lege
 
@@ -883,6 +935,8 @@ __addendum__
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
+* [Čeština 2.0](http://cestina20.cz/)
+* [Česky a hezky](http://www.rozhlas.cz/cesky/portal/)
 
 ## TODO
 
