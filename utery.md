@@ -6,7 +6,7 @@
 sednul stín  
 na kusy gobelín  
 tórou etikety vín  
-světa vešlo míň  
+světa dýchá míň  
 sebou nebo tím  
 můj je splín  
 ty nechápeš  
@@ -17,9 +17,8 @@ já vím
 blíž věcem  
 znát stěží  
 dál srdcem  
-tehdy záleželo
-
-teď nezáleží
+tehdy záleželo  
+— teď nezáleží
 
 ## Na zemi
 
@@ -33,14 +32,6 @@ hadr
 snář sovy  
 rdít se!  
 u „My“
-
-## Květ
-
-ty tam..  
-já tady  
-sešel květ  
-u zahrady  
-Proč?
 
 ## Klubko
 
@@ -83,7 +74,7 @@ who I am
 and I do  
 what I can
 
-## U Bližních jmen  
+## Pod listovím
 
 vjem  
 z kmenů jmen  
@@ -91,7 +82,7 @@ ze světů
 prsť hlíny, zem  
 vězí čas  
 nad stromy  
-tep v nebi  
+tep v nebi?  
 snad ryba  
 v nádobě  
 co svými roky  
@@ -124,6 +115,7 @@ váhavý krok
 stezkou pro sebevrahy  
 stav  
 střídá stavy  
+zdali  
 presumpce viny  
 když dveře  
 proč stěny  
