@@ -830,7 +830,7 @@ Slova
 .
 
 > Kde nejsem sám, tam je přelidněno.
-> *Pavel Pojar vulgo Misantrop*
+> *Pavel Pojar*
 
 
 * __apod.__
