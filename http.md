@@ -861,6 +861,7 @@ __addendum__
 * [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
 * [How to write a Developer CV that will get you hired](http://www.slideshare.net/perlcareers/how-to-write-a-developer-cvrsum-that-will-get-you-hired)
 * [So you want to stand out as a Developer?](http://eligo.co.uk/stand-out-as-developer-job-market/)
+* [Do zaměstnání](http://inet.sweb.cz/job.html)
 
 ## data
 
