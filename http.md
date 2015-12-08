@@ -469,6 +469,7 @@ __radio3__
 * [On War | On Peace](http://www.onwar.eu/)
 * [Jiří Vítek](http://vitekjiri.blog.idnes.cz/)
 * [Jan Šinágl](http://www.sinagl.cz/)
+* [Ivan Bíbr](http://www.bibri.net/)
 
 ## podcast
 
@@ -858,6 +859,8 @@ __addendum__
 * [How to get hired](https://twitter.com/jonathansampson/status/658730109365567489)
 * [What Profile Photo Works Best on LinkedIn](https://business.linkedin.com/talent-solutions/blog/2013/08/what-profile-photo-works-best-on-linkedin-a-real-life-experiment)
 * [netacadadvantage.com/category/prepare-for-work](http://netacadadvantage.com/category/prepare-for-work/)
+* [How to write a Developer CV that will get you hired](http://www.slideshare.net/perlcareers/how-to-write-a-developer-cvrsum-that-will-get-you-hired)
+* [So you want to stand out as a Developer?](http://eligo.co.uk/stand-out-as-developer-job-market/)
 
 ## data
 
