@@ -827,6 +827,11 @@ Slova
 > Mně se osvědčilo pracovat se svými myšlenkami.
 > *Barbora Chuecos, 18. 11. 2015*
 
+.
+
+> Kde nejsem sám, tam je přelidněno.
+> *Pavel Pojar vulgo Misantrop*
+
 
 * __apod.__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
