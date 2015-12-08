@@ -1,26 +1,26 @@
 Úterý
 =====
 
-## Splín
 
 sednul stín  
 na kusy gobelín  
+světa vešlo míň  
 tórou etikety vín  
-světa dýchá míň  
 sebou nebo tím  
 můj je splín  
 ty nechápeš  
 já vím
 
-## Blíž
+,
 
 blíž věcem  
 znát stěží  
 dál srdcem  
-tehdy záleželo  
-— teď nezáleží
+tehdy záleželo
 
-## Na zemi
+teď nezáleží
+
+,
 
 krok  
 dvě vlohy  
@@ -30,10 +30,10 @@ dost různě
 na zemi  
 hadr  
 snář sovy  
-rdít se!  
+to rdít se  
 u „My“
 
-## Klubko
+,
 
 klubko  
 od chyby  
@@ -43,7 +43,7 @@ bez ladu
 chtít  
 a stát vzadu
 
-## Nejinak
+,
 
 „Bych tu stih...“  
 (užít těch knih)  
@@ -52,13 +52,13 @@ Mozek:
 Tělo:  
 „Co jsme si, to jsme si.“
 
-## Curriculum
+,
 
 hlt chleba  
 drobt vína  
 žaludek — díra
 
-## Zpráva
+,
 
 „Střílel by zas!“  
 Pohnutí z nuly.  
@@ -67,34 +67,29 @@ diváku Novy.
 Stejně splést to  
 bulvami.
 
-## I am
-
-I am  
-who I am  
-and I do  
-what I can
-
-## Pod listovím
+,
 
 vjem  
-z kmenů jmen  
+z řádků jmen  
 ze světů  
 prsť hlíny, zem  
 vězí čas  
 nad stromy  
-tep v nebi?  
+co v nebi?!  
 snad ryba  
 v nádobě  
 co svými roky  
 propíjí se na dno  
-to dno  
-— mohlo  
+to dno —  
+mohlo
+
 ale nemuselo
 
-## Tati, mami
+,
 
 včera  
-si přáli —  
+si přáli —
+
 teď svící  
 si vzpláli  
 lelkují v nás  
@@ -103,42 +98,38 @@ nad všemi
 
 Tati, mami!
 
-## Stavy
+,
 
 ve snaze  
 zda sami?  
-nezmůže nic  
+nesvede víc  
 ATM meny  
 v kapse klíč  
 od nory  
 váhavý krok  
 stezkou pro sebevrahy  
-stav  
-střídá stavy  
-zdali  
-presumpce viny  
+stav — střídá stavy  
 když dveře  
-proč stěny  
-výsadek  
-prostřed zimy
+proč stěny?  
+výsadek — do zimy
 
-## Děti listového těsta
+,
 
-děvečka prostá  
-koho se doptá?  
+děvečka letmá  
+co má?  
 Bůh trestá  
 šance stá ze sta  
 jsme děti  
 listového těsta
 
-## Zbít tělo
+,
 
-Zbít tělo, by  
+Odpálit tělo, by  
 pomohlo se hlavě.  
-Zatají oči, že  
-zalhaly sobě.
+Zatají uši, že  
+„pro mě za mě“.
 
-## Na duši
+,
 
 oči  
 na duši  
@@ -146,14 +137,14 @@ zřou — tuší
 že radost  
 mávnutí mušší
 
-## Řádky
+,
 
 Řádky  
 vzpomenout.  
 Číst zpátky.  
 Hynout.
 
-## Nohy
+,
 
 nohy  
 kvapí dál  
