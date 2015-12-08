@@ -1,7 +1,6 @@
 Úterý
 =====
 
-
 sednul stín  
 na kusy gobelín  
 světa vešlo míň  
@@ -56,7 +55,8 @@ Tělo:
 
 hlt chleba  
 drobt vína  
-žaludek — díra
+žaludek — díra  
+no fuj
 
 ,
 
@@ -64,7 +64,8 @@ drobt vína
 Pohnutí z nuly.  
 Přepínej včas  
 diváku Novy.  
-Stejně splést to  
+Nesplést to
+
 bulvami.
 
 ,
@@ -72,15 +73,16 @@ bulvami.
 vjem  
 z řádků jmen  
 ze světů  
-prsť hlíny, zem  
+prsť hlíny  
+znovu zem  
 vězí čas  
 nad stromy  
-co v nebi?!  
+jak v nebi?!  
 snad ryba  
 v nádobě  
 co svými roky  
 propíjí se na dno  
-to dno —  
+to dno  
 mohlo
 
 ale nemuselo
@@ -88,10 +90,10 @@ ale nemuselo
 ,
 
 včera  
-si přáli —
+si přáli
 
 teď svící  
-si vzpláli  
+zapláli  
 lelkují v nás  
 sní kdes  
 nad všemi
@@ -102,16 +104,16 @@ Tati, mami!
 
 ve snaze  
 zda sami?  
-nesvede víc  
-ATM meny  
+vyskočit  
+z ATM meny  
 v kapse klíč  
 od nory  
 váhavý krok  
 stezkou pro sebevrahy  
-stav — střídá stavy  
+stav  
+střídá stavy  
 když dveře  
-proč stěny?  
-výsadek — do zimy
+proč stěny?
 
 ,
 
@@ -124,10 +126,10 @@ listového těsta
 
 ,
 
-Odpálit tělo, by  
+Dít tělo, by  
 pomohlo se hlavě.  
-Zatají uši, že  
-„pro mě za mě“.
+Seznají uši, že  
+po boltce v bahně.
 
 ,
 
