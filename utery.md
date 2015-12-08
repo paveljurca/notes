@@ -2,13 +2,12 @@
 =====
 
 sednul stín  
-na kusy gobelín  
-světa vešlo míň  
+mě míň  
 tórou etikety vín  
+splín  
 sebou nebo tím  
-můj je splín  
 ty nechápeš  
-já vím
+já —
 
 ,
 
@@ -17,7 +16,7 @@ znát stěží
 dál srdcem  
 tehdy záleželo
 
-teď nezáleží
+nezáleží
 
 ,
 
@@ -29,7 +28,8 @@ dost různě
 na zemi  
 hadr  
 snář sovy  
-to rdít se  
+rdít se
+
 u „My“
 
 ,
@@ -64,9 +64,8 @@ no fuj
 Pohnutí z nuly.  
 Přepínej včas  
 diváku Novy.  
-Nesplést to
-
-bulvami.
+Nesplést to  
+bulvami!
 
 ,
 
@@ -74,10 +73,10 @@ vjem
 z řádků jmen  
 ze světů  
 prsť hlíny  
-znovu zem  
+lem!  
 vězí čas  
 nad stromy  
-jak v nebi?!  
+keby  
 snad ryba  
 v nádobě  
 co svými roky  
@@ -89,12 +88,10 @@ ale nemuselo
 
 ,
 
-včera  
-si přáli
-
-teď svící  
-zapláli  
-lelkují v nás  
+léty  
+se dáli  
+teď svíčkou  
+mi okřáli  
 sní kdes  
 nad všemi
 
@@ -103,33 +100,29 @@ Tati, mami!
 ,
 
 ve snaze  
-zda sami?  
-vyskočit  
-z ATM meny  
-v kapse klíč  
+zda sami  
+klíč  
 od nory  
 váhavý krok  
-stezkou pro sebevrahy  
+se sebevrahy  
 stav  
 střídá stavy  
-když dveře  
-proč stěny?
+kde dveře  
+vrážím v stěny
 
 ,
 
-děvečka letmá  
-co má?  
-Bůh trestá  
+Bůh kecá  
 šance stá ze sta  
 jsme děti  
 listového těsta
 
 ,
 
-Dít tělo, by  
-pomohlo se hlavě.  
-Seznají uši, že  
-po boltce v bahně.
+tělo  
+na hlavě  
+kočička  
+neklamně
 
 ,
 
@@ -141,17 +134,17 @@ mávnutí mušší
 
 ,
 
-Řádky  
-vzpomenout.  
-Číst zpátky.  
-Hynout.
-
-,
-
 nohy  
 kvapí dál  
 do doby  
 vnuknutí  
-kdež — stavy
+kdež — z Prahy
+
+,
+
+Řádky  
+vzpomenout.  
+Číst zpátky.  
+Plout..
 
 
