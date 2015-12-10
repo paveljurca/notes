@@ -777,6 +777,11 @@ A
 > Kde nejsem sám, tam je přelidněno.
 > *Pavel Pojar, misantrop*
 
+.
+
+> The more you know the less you need to say.
+> *Jim Rohn*
+
 
 * __a__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
