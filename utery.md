@@ -1,13 +1,13 @@
 Úterý
 =====
 
-sednul stín  
-mě míň  
-tórou etikety vín  
+sedl stín  
+etikety vín  
 splín  
-sebou nebo tím  
-ty nechápeš  
-já —
+obzoru míň  
+dut gobelín  
+sebou, tím?  
+žel já —
 
 ,
 
@@ -24,11 +24,11 @@ krok
 dvě vlohy  
 spolu  
 žas něhy  
-dost různě  
-na zemi  
+různě  
+na Zemi  
 hadr  
 snář sovy  
-rdít se
+zas rdít se
 
 u „My“
 
@@ -60,12 +60,12 @@ no fuj
 
 ,
 
-„Střílel by zas!“  
-Pohnutí z nuly.  
-Přepínej včas  
-diváku Novy.  
-Nesplést to  
-bulvami!
+lká hlas  
+pohnutí z nuly  
+přepínej včas  
+diváku Novy  
+neplést to  
+bulvami
 
 ,
 
@@ -73,10 +73,10 @@ vjem
 z řádků jmen  
 ze světů  
 prsť hlíny  
-lem!  
+lem  
 vězí čas  
 nad stromy  
-keby  
+
 snad ryba  
 v nádobě  
 co svými roky  
@@ -91,7 +91,7 @@ ale nemuselo
 léty  
 se dáli  
 teď svíčkou  
-mi okřáli  
+okřáli  
 sní kdes  
 nad všemi
 
@@ -121,8 +121,8 @@ listového těsta
 
 tělo  
 na hlavě  
-kočička  
-neklamně
+zády  
+ku pravdě
 
 ,
 
@@ -137,8 +137,8 @@ mávnutí mušší
 nohy  
 kvapí dál  
 do doby  
-vnuknutí  
-kdež — z Prahy
+já v opak  
+z Prahy
 
 ,
 
