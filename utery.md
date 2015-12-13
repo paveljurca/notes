@@ -1,13 +1,12 @@
 Úterý
 =====
 
-sedl stín  
+stín  
 etikety vín  
 splín  
-obzoru míň  
-dut gobelín  
-sebou, tím?  
-žel já —
+obzoru míň, klín  
+těžko  
+když vím
 
 ,
 
@@ -20,15 +19,15 @@ nezáleží
 
 ,
 
-krok  
+sun krok  
 dvě vlohy  
 spolu  
 žas něhy  
-různě  
+jen různě  
 na Zemi  
-hadr  
+klapl  
 snář sovy  
-zas rdít se
+rdít se
 
 u „My“
 
@@ -60,15 +59,6 @@ no fuj
 
 ,
 
-lká hlas  
-pohnutí z nuly  
-přepínej včas  
-diváku Novy  
-neplést to  
-bulvami
-
-,
-
 vjem  
 z řádků jmen  
 ze světů  
@@ -76,7 +66,7 @@ prsť hlíny
 lem  
 vězí čas  
 nad stromy  
-
+s těmi —  
 snad ryba  
 v nádobě  
 co svými roky  
@@ -90,45 +80,44 @@ ale nemuselo
 
 léty  
 se dáli  
-teď svíčkou  
-okřáli  
+chvílí  
+plápolem vstali  
+sluchu v nás  
 sní kdes  
 nad všemi
 
-Tati, mami!
+Tati, mami
 
 ,
 
-ve snaze  
-zda sami  
-klíč  
-od nory  
-váhavý krok  
-se sebevrahy  
+snaha  
+a sami?  
 stav  
 střídá stavy  
+váhat  
+se sebevrahy  
 kde dveře  
-vrážím v stěny
+eufemie stěny
 
 ,
 
 Bůh kecá  
 šance stá ze sta  
-jsme děti  
+ze školy  
 listového těsta
 
 ,
 
 tělo  
 na hlavě  
-zády  
-ku pravdě
+nepůsobí  
+zdravě
 
 ,
 
 oči  
 na duši  
-zřou — tuší  
+klnou — tuší  
 že radost  
 mávnutí mušší
 
@@ -137,8 +126,8 @@ mávnutí mušší
 nohy  
 kvapí dál  
 do doby  
-já v opak  
-z Prahy
+Jack Daniel's  
+Honey
 
 ,
 
