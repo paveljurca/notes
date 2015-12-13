@@ -27,7 +27,7 @@ jen různě
 na Zemi  
 klapl  
 snář sovy  
-rdít se
+zardít se
 
 u „My“
 
@@ -91,27 +91,20 @@ Tati, mami
 ,
 
 snaha  
-a sami?  
+zda sami  
 stav  
 střídá stavy  
 váhat  
 se sebevrahy  
-kde dveře  
+dveře?  
 eufemie stěny
 
 ,
 
 Bůh kecá  
 šance stá ze sta  
-ze školy  
+na pracák  
 listového těsta
-
-,
-
-tělo  
-na hlavě  
-nepůsobí  
-zdravě
 
 ,
 
