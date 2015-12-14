@@ -4,9 +4,10 @@
 stín  
 etikety vín  
 splín  
-obzoru míň, klín  
+obzoru míň  
+jde klín  
 těžko  
-když vím
+já vím
 
 ,
 
@@ -27,7 +28,7 @@ jen různě
 na Zemi  
 klapl  
 snář sovy  
-zardít se
+a rdít se
 
 u „My“
 
@@ -54,8 +55,7 @@ Tělo:
 
 hlt chleba  
 drobt vína  
-žaludek — díra  
-no fuj
+žaludek — znova
 
 ,
 
@@ -66,7 +66,7 @@ prsť hlíny
 lem  
 vězí čas  
 nad stromy  
-s těmi —  
+my němi —  
 snad ryba  
 v nádobě  
 co svými roky  
@@ -82,11 +82,10 @@ léty
 se dáli  
 chvílí  
 plápolem vstali  
-sluchu v nás  
 sní kdes  
 nad všemi
 
-Tati, mami
+Tati, mami!
 
 ,
 
@@ -96,14 +95,14 @@ stav
 střídá stavy  
 váhat  
 se sebevrahy  
-dveře?  
-eufemie stěny
+dveře  
+nebo stěny
 
 ,
 
 Bůh kecá  
 šance stá ze sta  
-na pracák  
+s osudem  
 listového těsta
 
 ,
