@@ -782,6 +782,11 @@ A
 > The more you know the less you need to say.
 > *Jim Rohn*
 
+.
+
+> By constant self-discipline and self-control, you develop character.
+> *Grenville Kleiser*
+
 
 * __a__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
