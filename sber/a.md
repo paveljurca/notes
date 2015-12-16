@@ -787,6 +787,11 @@ A
 > By constant self-discipline and self-control, you develop character.
 > *Grenville Kleiser*
 
+.
+
+> Those who cannot change their minds cannot change anything.
+> *George Bernard Shaw*
+
 
 * __a__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
