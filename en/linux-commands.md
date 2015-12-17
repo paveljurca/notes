@@ -47,8 +47,9 @@ _*nix quick ref_
     nmap -v -A google.com                         # network explore
     nmap -v -sn 10.0.0.0/24                       # subnet scan
     iwlist wlan0 scanning                         # APs scan
-    tcpdump -i wlan0                              # packets on given interface
+    tcpdump -i wlan0                              # packets on a given interface
     tcpdump port 80                               # sniff port 80
+    iftop -i wlan0                                # what is using all the bandwith
     lsof -nPi tcp:80                              # processes using TCP port 80
     netstat -anp --inet                           # which port which process
     arp                                           # MAC <-> IP address mapping
