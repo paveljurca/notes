@@ -5,9 +5,9 @@ stín
 etikety vín  
 splín  
 obzoru míň  
-jde klín  
-těžko  
-já vím
+jinak  
+vražen klín
+
 
 ,
 
@@ -27,9 +27,9 @@ spolu
 jen různě  
 na Zemi  
 klapl  
-snář sovy  
-a rdít se
+snář sovy
 
+rdít se  
 u „My“
 
 ,
@@ -61,10 +61,10 @@ drobt vína
 
 vjem  
 z řádků jmen  
-ze světů  
+z těch světů  
 prsť hlíny  
 lem  
-vězí čas  
+a hraje čas  
 nad stromy  
 my němi —  
 snad ryba  
@@ -81,7 +81,7 @@ ale nemuselo
 léty  
 se dáli  
 chvílí  
-plápolem vstali  
+plápolem hřáli  
 sní kdes  
 nad všemi
 
@@ -91,12 +91,13 @@ Tati, mami!
 
 snaha  
 zda sami  
+tep, na nebi  
 stav  
-střídá stavy  
+má stavy  
 váhat  
 se sebevrahy  
-dveře  
-nebo stěny
+dveře —  
+stěny
 
 ,
 
@@ -107,7 +108,7 @@ listového těsta
 
 ,
 
-oči  
+běhy  
 na duši  
 klnou — tuší  
 že radost  
@@ -128,4 +129,25 @@ vzpomenout.
 Číst zpátky.  
 Plout..
 
+,
 
+svět proto  
+že oči viděly  
+myslíme stejně  
+stejnou neděli?
+
+,
+
+lká hlas
+zem smoly
+
+-„Nač?“ dere se snáz.
++Vrou znavené stvoly.
++„Nač?“ vykřičet snáz.
+ Jít, napadat slovy.
+
+ Vějíř ohnilý v nás
+ zastřel klas — plody.
+-Hmátnout, sevřít sráz.
++Hmátnout, sejít sráz.
+ Jitřit tmu slovy.
