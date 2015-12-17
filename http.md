@@ -470,6 +470,7 @@ __radio3__
 * [Jiří Vítek](http://vitekjiri.blog.idnes.cz/)
 * [Jan Šinágl](http://www.sinagl.cz/)
 * [Ivan Bíbr](http://www.bibri.net/)
+* [Nolan Lawson](http://nolanlawson.com/)
 
 ## podcast
 
@@ -503,6 +504,7 @@ __dev__
 * [StartUp](https://gimletmedia.com/show/startup/episodes/)
 * [Bothsides TV](https://soundcloud.com/bothsidestv/sets)
 * [Accidental Tech](http://atp.fm/)
+* [Marketing for Developers](http://simplecast.fm/podcasts/1446/rss)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
