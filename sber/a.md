@@ -792,6 +792,9 @@ A
 > Those who cannot change their minds cannot change anything.
 > *George Bernard Shaw*
 
+> Design creates culture. Culture shapes values. Values determine the future.
+> *Robert L. Peters*
+
 
 * __a__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
