@@ -1,6 +1,10 @@
 Překlad
 =======
 
+Letmý přehled slov, na která jsem narážel a která zdržovala,
+protože nebyla česky..
+
+
 * _a limine_
 zásadně
 * _a posteriori_
@@ -34,7 +38,7 @@ na vlastní oči
 * _ad rem_
 k věci
 * _ad usum_
-pro potřebu
+k užitku
 * _advocatus diaboli_
 ďáblův obhájce
 * _adagium_
@@ -486,11 +490,13 @@ předem
 * _ex lege_
 ze zákona
 * _ex nunc_
-od nynějška
+od teď
 * _ex novo_
-od znovu
+nanovo
 * _ex post_
 dodatečně
+* _ex tunc_
+od vzniku
 * _exaktní_
 přesný
 * _exaltovaný_
@@ -647,6 +653,8 @@ minulost nás učí
 podvodník
 * _holistický_
 úplný
+* _homo homini lupus_
+člověk člověku vlkem
 * _honoris causa_
 čestný doktorát
 * _horror vacui_
@@ -1003,6 +1011,8 @@ stavebnicový
 zaběhnutý způsob
 * _modus vivendi_
 způsob soužití
+* _mondénní_
+světa znalý
 * _monety_
 peníze
 * _monáda_
