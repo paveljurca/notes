@@ -471,6 +471,7 @@ __radio3__
 * [Jan Šinágl](http://www.sinagl.cz/)
 * [Ivan Bíbr](http://www.bibri.net/)
 * [Nolan Lawson](http://nolanlawson.com/)
+* [Miroslav Uďan](http://www.miroslavudan.cz/)
 
 ## podcast
 
