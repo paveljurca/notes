@@ -193,6 +193,8 @@ __misc__
 * [CS Magazin](http://www.cs-magazin.com/)
 * [Y Combinator Research](https://ycr.org/)
 * [The Atavist Magazine](https://magazine.atavist.com/)
+* [e-Polis.cz](http://www.e-polis.cz/)
+* [Pravý břeh](https://www.pravybreh.cz/)
 
 __radio3__
 * [Dave Winer's](http://radio3.io/users/davewiner/)
@@ -436,6 +438,7 @@ __radio3__
 * [Bob Rosenschein](http://bobr.com/)
 * [Imran On Tech](http://imranontech.com/)
 * [Milan Šmíd](http://louc.cz)
+* [Milan Šmíd](http://blog.aktualne.cz/blogy/milan-smid.php)
 * [Henry Fraser](http://www.henryfraser.org/blog/)
 * [Ben Klemens](http://modelingwithdata.org/index.html)
 * [Ota Ulč](http://neviditelnypes.lidovky.cz/novinari.aspx?idnov=1285)
@@ -471,6 +474,8 @@ __radio3__
 * [Jan Šinágl](http://www.sinagl.cz/)
 * [Ivan Bíbr](http://www.bibri.net/)
 * [Nolan Lawson](http://nolanlawson.com/)
+* [Marek Vácha](http://blog.aktualne.cz/blogy/marek-vacha.php)
+* [Bohumil Doležal](http://www.bohumildolezal.cz/archiv/archiv.htm)
 * [Miroslav Uďan](http://www.miroslavudan.cz/)
 
 ## podcast
@@ -537,6 +542,9 @@ __cro__
 * [Dvacet minut Radiožurnálu](http://hledani.rozhlas.cz/iradio/?porad[]=Dvacet+minut+Radiožurnálu)
 * [Casablanca](http://hledani.rozhlas.cz/iradio/?porad[]=Casablanca)
 * [Mozaika](http://hledani.rozhlas.cz/iradio/?porad[]=Mozaika)
+* [Glosa](http://hledani.rozhlas.cz/iradio/?porad[]=Glosa)
+* [Glosa dne](http://hledani.rozhlas.cz/iradio/?porad[]=Glosa+dne)
+* [Glosa ČRo Plus](http://hledani.rozhlas.cz/iRadio/?stanice[]=%C4%8CRo+Plus&porad[]=Glosa)
 * [Deníček Josefa Veselého](http://hledani.rozhlas.cz/iRadio/?&porad[]=Dobr%C3%A9+r%C3%A1no%2C+Moravo!)
 * [Jazzový podvečer](http://hledani.rozhlas.cz/iradio/?porad[]=Jazzový+podvečer)
 * [Stránky na dobrou noc](http://www.rozhlas.cz/vltava/porady/_porad/2151)
