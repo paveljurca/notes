@@ -1,13 +1,13 @@
 Spectrum
 ========
 
-A multi-line text panel *SPECTRUM* has 15 rows by 30 columns and it hangs out at a few schools and canteens here in the Czech Republic. So instead of dull data like opening hours wouldn't it be nice to have a room schedule there?
+A multi-line text panel *SPECTRUM* has 15 rows by 30 columns and it hangs out at a few schools and canteens here in the Czech Republic. So instead of dull data like opening hours wouldn't it be nice to have a room(s) schedule(s) there?
 
 ![SPECTRUM display](d/display.jpg)
 
-The display needs to load all the files at once. That means we use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start. Finally run `spectrum.exe` and site's live..
+The display needs to load all the files at once. We use [Windows Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) to run a yet-to-be-written script every morning just before classes start.
 
-The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
+[BAT](https://en.wikipedia.org/wiki/Batch_file) file of commands reloading the display (every morning as said) may contain
 
     @echo off
     title classes
@@ -22,7 +22,7 @@ The [BAT](https://en.wikipedia.org/wiki/Batch_file) file may contain
     spectrum.exe
     time /t >>log.txt
 
-`keybuf.exe` is a DOS keyboard buffer which simulates a key press. Colleague of mine wrote this. `eeeey` is a sequence of chars that reloads the text panel with just updated files. But our job is elsewhere..
+`keybuf.exe` is a DOS keyboard buffer which simulates a key press. Colleague of mine wrote this. `eeeey` is a sequence of chars whose are send to `spectrum.exe` that actually reloads the text panel (the display) with just updated files.
 
 ![spectrum.exe](d/spectrum.png)
 
@@ -225,7 +225,7 @@ We can parse it with a little of [regex](https://www.cs.tut.fi/~jkorpela/perl/re
         return @subjects;
     }
 
-The most important part of our script is done, i.e. mining the data. But there's still a fence to put down. We'll map the SPECTRUM charset table. This we know
+The most important part of the script is done, i.e. mining the data. But there's still a fence to put down. We'll map the SPECTRUM charset table. This we know
 
             lower   upper
     A       97      65
@@ -401,7 +401,7 @@ As you see below, char code for a month or a second is very very specific
                         "\n"
                     ;
 
-This prints/saves our classroom schedules
+This prints/saves classroom schedules
 
                     # body ~ 14 rows
                     print $fh
@@ -416,7 +416,7 @@ This prints/saves our classroom schedules
 
                     #====== END ======
 
-Matrix at the end of file stores control chars for each row and a letter. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. __NEXT__ subpanel of this hour changes to __NOW__ subpanel of next hour. And obviously the very last file has no NEXT subpanel, so we redo our named code block
+Matrix at the end of a file stores control chars for each row. Number of lines — of matrix and actual content — must equal. The code above always outputs 14 lines no matter what. __NEXT__ subpanel of this hour changes to __NOW__ subpanel of next hour. And obviously the very last file has no NEXT subpanel, so we redo our named code block
 
                     # control chars ~ 15 rows
                     print $fh
@@ -437,7 +437,7 @@ Matrix at the end of file stores control chars for each row and a letter. Number
         print "(i) written\n";
     }
 
-Look, what we've just did..
+Done.
 
 ![classes.pl does room schedules](d/display2.jpg)
 
@@ -445,11 +445,8 @@ Last thing, we set times on each file as when to show off
 
 ![spectrum.exe](d/spectrum2.png)
 
+For the source code, just [let me know](http://paveljurca.com).
 
-**UPDATE** 9/10/2015
-
-I'm in version 1.1. The panel shows classes which span more hours or a placeholder if nothing happens.
-
-For the source code, just [let me know](http://jurcapavel.cz).
+p.s. The sub `print_panels` is a mess. It should rather go with one sub to create panels and one to print or save them. At least we've experienced Perl named blocks.
 
 
