@@ -477,6 +477,7 @@ __radio3__
 * [Marek Vácha](http://blog.aktualne.cz/blogy/marek-vacha.php)
 * [Bohumil Doležal](http://www.bohumildolezal.cz/archiv/archiv.htm)
 * [Miroslav Uďan](http://www.miroslavudan.cz/)
+* [Veronika Hlaváčová](http://www.neonovahr.cz/)
 
 ## podcast
 
