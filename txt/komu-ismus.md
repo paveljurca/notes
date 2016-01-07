@@ -239,7 +239,7 @@ Kdo nechce, ten nebude vědět. A přesně takoví rozhodují, i vyhrávají vol
 > méně potěšení než její nepřítomnost bolesti.
 > *Jean Paul*
 
-Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluhou *zhůry* než umu plánovačů), Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD). Svobodně přeloženo: Tady si hezky sedni a seď. Je otázkou, co by „ke směně“ nabízel komu?ismus 21. století.
+Svobodu náš komunismus vykoupil hereckou i hudební velegenerací (zde zásluhou *zhůry* než umu plánovačů), Dietlem, televizním přijímačem nebo [ROH](https://cs.wikipedia.org/wiki/Revolu%C4%8Dn%C3%AD_odborov%C3%A9_hnut%C3%AD). Totiž, tady si hezky sedni a seď. [Je otázkou](http://blisty.cz/art/14083.html), co by „ke směně“ nabízel [komu?ismus 21. století](http://aluze.cz/2012_02/09f_recenze.php).
 
 > Když jsem tehdy v Praze hostoval, byla ještě pod ruskou kontrolou.
 > Pro farmářského kluka ze státu Illinois to byla zvláštní zkušenost.

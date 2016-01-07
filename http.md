@@ -930,6 +930,7 @@ __addendum__
 * [Paměť a dějiny](http://www.ustrcr.cz/cs/pamet-a-dejiny)
 * [Političtí vězni.cz](http://www.politictivezni.cz/)
 * [Knihovna Václava Havla](http://www.vaclavhavel-library.org/)
+* [The Vaclav Havel Library Foundation](http://www.vhlf.org/havel-archives/)
 
 ## ex lege
 

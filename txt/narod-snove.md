@@ -1,11 +1,268 @@
-Národ snově
-===========
+V pohodě
+========
+
+Krátká verze: [Zoufalci](http://www.novinky.cz/komentare/386496-komentar-zoufalci-vaclav-klaus-ml.html).
+
+chceme-li za každou žádostí vidět člověka => [Samba](http://www.aerovod.cz/katalog/samba/)
+
+Ta delší je na řádkách níže.
+
+http://www.novinky.cz/komentare/387817-komentar-podnecovani-k-nenavisti-vaclav-klaus-ml.html
+Vzdělaný hlupák, vzdělán ve své hlouposti, nelze ji upřít.
+
+že vzdělaný hlupák má od hlupáka iniciativu
+
+=
+
+Zeman, 1992
+"the bad thing about getting mad is you don't know you're getting mad"
+https://www.facebook.com/karel.patak.5/posts/890970497666427
+http://www.psp.cz/eknih/1990fs/slsn/stenprot/020schuz/s020006.htm
+
+
+[Tři sestry - O strašlivé vojně s Turkem](https://www.youtube.com/watch?v=q3XoZo9Huts)
+máme poslat 3 mld. eur, za nás 800 mil. korun, na Turka a ještě si jeden milion uprchlíků vzít?
+
+
+[Holka modrooká](https://www.youtube.com/watch?v=KYikHS1am9I) v cover verzi od PROislám, o.s.
+
+
+pro tohle umanutí jedním směrem už máme hashtag #presstitutes
+Zmiňuje Tomský, jak Economist po 30 letech, kdy je četl, zešílel, a vypočítává krásu migrace.
+
+je nevzdělanost 21. stoleti "vzdělanost jinak"?
+
+vzdělanej blbec je blbec s iniciativou
+
+Je naše armáda obranyschopná?
+http://www.ceskatelevize.cz/porady/10175540660-mate-slovo-s-m-jilkovou/215411030520033/
++ Jan Tamáš
++ Dana Feminová
++ Táňa Bednářová
+=> Humanistická strana, věrohodné asi jako nacvičená estráda
+
+AČR by v případě války ubránila jeden kraj po dobu jednoho týdne,
+zaznělo při přidružení Krymu Ruskem od analytika M. Kollera. Třebaže má minulou minulost, v přítomnosti má pravdu.
+
+
+A civilized society is one which tolerates eccentricity to the point of doubtful sanity. - Robert Frost
+
+
+australii je ten, koho je zrovna treba presvedcit
+https://twitter.com/cathywilcox1/status/669982684693663745/photo/1
+
+
+taky otázka, proč musíme všechno zpřízemnit
+https://www.facebook.com/francine.hardaway/posts/10155640086478647
+
+
+ať už Merta: Kecy nebo Řezník: Všude samej hejt
+a proto nemohl dostat Slavíka
+
+Ortel nebo Kryl. Protest song má své "Oni".
+Tomáš Ortel je z kontextu posledních 25 let.
+Myslím, že se není čemu divit.
+"Přijde doba, kdy vlastenec bude naroveň zločince" slova Daniela Landy z posledního koncertu.
+Myslím, že se není čemu divit.
+
+
+
+tohle je zásadní, Jana Hybášková: nevyužili jsme vakua
+http://video.aktualne.cz/dvtv/hybaskova-do-evropy-bude-smerovat-12-milionu-lidi-cervi-jedn/r~7a181d4a895411e5974b0025900fea04/
+o něco hůře už tady "konstatuje a upozorňuje, že dnešní svět je mobilní a Evropa nemůže strkat hlavu do písku."
+http://www.rozhlas.cz/radiozurnal/dvacetminut/_zprava/jana-hybaskova-o-uprchlicich-evropa-nemuze-strkat-hlavu-do-pisku-kdo-odmita-solidaritu-odmita-evropanstvi--1554076
+
+=====
+Musí se ale změnit nejednoznačný přístup Turecka, umožňující volný průchod zahraničních bojovníků a ropy, aby byla upevněna severní část koalice,“ uvádí Bar
+http://zpravy.idnes.cz/jak-celit-teroru-nazory-odborniku-d50-/zahranicni.aspx?c=A151124_162244_zahranicni_jw
+=> no supr, proto na Turky dáme 3 mld. eur :D :D
+
+taktika islamistů je tak zdá se - prostá https://en.wikipedia.org/wiki/Management_of_Savagery
+=====
+
+
+viz papír: stíhání německ. zast. projevy na pochodu Pegidy (z MfD)
+
+a zcela stejně záměna příčiny a důsledku
+http://zpravy.idnes.cz/soud-osvobodil-muze-kteri-sprejovali-pres-snemovnou-pdd-/krimi.aspx?c=A151104_111832_domaci_pku
+
+
+Události ČT, 29. 11. 2015
+http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/215411000101129
+Somálec: u nás je válka 25 let, ne jen 4 roky jako v Sýrii.
+Afghánec: všichni jsme uprchlíci.
+Sborově: Merkelová, prosííííím!
+
+Věta, která chrání před smrtí, není "Pomoz mi, prosím"
+ale "Jsem uprchlík" nebo úderněji "Jsem uprchlík ze Sýrie, Afghánistánu, Eritreje a Iráku".
+
+
+Jiří Brančík: V určitých oblastech je Islám radikální.
+Tereza Kručinská: Ale v Evropě třeba ne.
+
+Jiří Brančík: Vznětlivost islámu je téměř geneticky daná.
+Tereza Kručinská: Nebudeme se bavit jenom o Islámu.
+Titulek debaty: Příčiny radikalizace muslimů v Evropě
+
+A jak si už internet všiml, *jeho názor nebyl tím, který chtěla moderátorka slyšet*.
+Televize, za cenu jednoho BigMac meny měsíčně.
+
+64. minuta
+http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/215411058061123
+příp. rovnou zde https://www.youtube.com/watch?v=OlzkD9e5KmM
+
+
+
+protože nic [v co doufali](https://www.youtube.com/watch?v=wzRHUZoYxjc) se nestane.
+
+důvodem mohou být [adventní kalendáře](https://www.stream.cz/adost/10008188-adventni-kalendare), třeba do Německa kvůli tomu
+
+https://www.facebook.com/emefka.sk/photos/a.306333829577931.1073741828.303307216547259/405591556318824/
+nejlepší hospodáři jsou Němci: s jednou krávou dokážou pohnojit celou Evropu
+
+
+znamenalo by to vsak i nadale se do cizich zemi srat...
+> Putting an end to terrorism, or even containing it, means treating the conditions that give rise to it. In the Middle East, Africa, and Asia, that involves ending civil wars, resolving ethnic and religious differences, strengthening state structures in ways that don’t discriminate against minorities, and providing economic opportunities for youthful populations.
+http://www.newyorker.com/news/john-cassidy/the-facts-about-terrorism
+
+
+"Je zcela samozřejmé, že se imigrantům musí vysvětlit, že to byla právě jejich kultura, která vedla k jejich emigraci. A je to právě evropská kultura, která stojí za tím, že jejich vysněná zem je Evropa."
+http://blog.aktualne.cz/blogy/bohumil-slama.php?itemid=26384
+
+
+střízlivý pohled ministra Stropnického
+http://www.rozhlas.cz/plus/interviewplus/_zprava/martin-stropnicky-plot-je-pro-me-rozhodne-lepsi-nez-sbirat-roztrhana-tela-na-ulicich--1557706
+
+a excelentní osvětlení evropských hodnot Alexenderem Tomským
+http://www.rozhlas.cz/plus/proaproti/_zprava/chybou-kultu-humanismu-je-ze-povazuje-lidi-za-sobe-rovne-kritizuje-politolog-tomsky--1558075
+
+
+
+v době ultrapravicových levičáků
+
+
+odsají vakuum a pak ho zkritizují
+
+tohle vakuum nahraje šílencům i komunistům, protože za nich by se to přece nestalo, aby džihádisti v Evropě řezali hlavy.
+
+
+
+http://www.ceskatelevize.cz/ct24/svet/1620413-online-poprve-v-historii-eu-aktivuje-kvuli-francii-clanek-o-pomoci-napadenemu-statu
+mluvíme o té Francii, která v roce 1938 zvolila hanbu, a proto měla válku (jak pronesl Churchill)?
+Samozřejmě nejdebilnější heslo naší historie, totiž "Nejsme jako oni" na sebe opět nenechalo čekat..
+
+
+http://www.protinenavisti.net/
+stejně jako jsem se jednou hloupě ptal
+v červnu 2012 na Karlově náměstí (výstava Atentát na Heydricha -- 70)
+gen. Sedláčka, odvětil, že
+nebojoval proti nacismu, ale za Českou (tehdy i Slovenskou) republiku!
+
+Stejně jako zápal pro socialismus přešel v závist (srovnej St. K. Neumann: Vzpomínky)
+tak ...
+
+[ti mladí trockijsté]
+"solidarita" je v jejich ústech stejně prázdná jako "evropské hodnoty"
+umí ji zakřičet, ale ne naplnit.. umí ryby rozdat, ne pomoc poradit v jejich chytání
+
+My všichni ale jedno víme..  víme, co bylo před 100 lety, a k čemu nás dovedlo..
+onen rudý zápal, chtíč po sociální spravedlnosti..
+známe jich průběh, známe tak až do morku kosti jejich dnešní paralely (účastníky)...
+
+je však nutno být obezřetnější a ve zdravém rozumu i sveřepější vůči nim..
+nejen proto, že jsme jim už jednou po 40 let uvěřili, ale především proto,
+že vinou k hlouposti nedozírné prostory
+
+A)
+těmi 40 lety myslím komunismus a každý systém (právě že systém!), který
+má v programu "dobro pro lidi" a pak až "ty samotné lidi"
+
+Mao-Ce, Stalin, Kim-čong, Castro, Chavez, Morales, Dubček
+
+B)
+masarykovská demokracie
+
+C)
+nebo různá obměna diktatury, ať už osvícená nebo ne,
+PolPot Kambodža, Hitler Německo, Mugabe Zimbabwe, Yahya Jammeh / Gambie
+Sadám Irák, Kadáfí Lybie. Účelem je prosté vládnout, měnit ústavu, a vládnout.
+
+d)
+anarchie,
+nejsou treba hranice (clanky, + airbnb, uber apod.)
+ani vydaje statu (ten USA gov non/spending clanek twitter)
+ani konani dobra (crowdfunding)
+
+
+==>> víc cest není, a zapálené hlavy se budou muset po jedné spustit
+
+Hledáním ideálu jsme strávili 20. století, a zjistili jsme, že možná je,
+ale nesmíme ho najít, jinak to někoho (miliony) bude stát život nebo žití
+
+
+
+
+než demonstrovat vlastní hloupost, raděj si udělejte domácí úkoly, čtěte, ale nepředčítejte - to nikdo nemá rád.
+Asi posté: demokracie je spolek jednotlivců, kteří nemají společného nepřítele, ale společné přátele, kteří umí
+zůstat jednotlivcem, udělat si domácí úkol. Tahle skupinová masturbace je domácí úkoly, když máme google.
+Nebo ještě lépe, nekorektně: přestat se neustále někam srát. Nerezignovat na sebe.
+
+
+
+akce ze 17. listopadu [Tahle Země patří všem "REFUGEES WELCOME"](https://www.facebook.com/events/198934897104317/)
+nás přesouvá někam k VŘSR. 
+a přebalit to sametem a navrch posadit Opletala už hraničí s vandalstvím.
+
+"Tahle země patří všem" je škatulka, kterou si obstarali sami. A my ji teď můžeme použít.
+Jak jedním pochodem lze národu, a lidem v něm, upřít právo na existenci, cítění, omyly, šanci.
+
+
+Alexander Tomský: "Evropa nam zakazuje rozlisovat"
+https://youtu.be/HjzSpKinccw?t=31m14s
+
+
+http://zlevaprotixenofobii.cz/uprchlici-ve-veku-migrace/
+Přijít k hotovému není zločin. Tím spíš by dotyční měli utichnout a seznam s nároky a právy na dalších 20 let odložit.
+Do ruk ale na ten čas dostanou seznam povinností. Proč nehrát jen finále?!
+
+přicházejí ze zemí, ve kterých se nejdřív střílí a pak se ptá, kde den a noc záleží na rozmaru a korupci úředníka, a tady najednou od vyjednavačů slyšíme, že se bouří, protože neradi čekají?
+
+
+
+
+http://domaci.eurozpravy.cz/spolecnost/131053-kdo-nepomaha-uprchlikum-je-zly-rika-ct-detem-sklizi-za-to-ostrou-kritiku/
+Marie Doleželová se ptá: "Yo, vždyť víš jak to na planetě NE chodí."
+Yo příznačně neřekne nic, protože to nikdo neví.
+
+Nemusí nutně jít o intence ČT, jako spíš o náš požadavek, aby věci, které si platíme, byly dělány správně.
+U zastupitele nebo byrokrata se to pozná hned, ale u sdělovacího prostředku?
+Třeba si vyjasnit, zdali má veřejnoprávní médium uplatňovat veřejné právo na informaci, ať je jakákoli,
+nebo má taky kultivovat, tedy informace prosévat, ergo mít názor.
+
+
+> Tváří v tvář nouzi bližního jsme povoláni zříci se – jako ony děti
+> půlky řízku – něčeho, co potřebujeme a nikoli nadbytku; jsme povoláni
+> dávat čas, který potřebujeme, nikoli ten, který nám zbývá; jsme povoláni
+> dávat ihned a bezvýhradně svoje talenty, nikoli až poté, co jsme je využili
+> ke svým osobním či skupinovým cílům.
+> *Anděl Páně — 8. 11. 2015, [radiovaticana.cz](http://www.radiovaticana.cz/clanek.php4?id=22725)*
+
+
+http://zpravy.aktualne.cz/zahranici/zive-ctvrtek-15-rijna-uprchlici/r~667e8d886e9611e5adcb0025900fea04/
+EU pošle Turecku 3 miliardy eur, Africe 2 miliardy. Z toho se pro každého koupí tenisky a dvě bagety.
+Ty peníze vysublimují. Kdyby za ně EU vzdělala ten milion lidí, který k nám za rok 2015 přišel a za tři roky
+je poslala budovat zpět - pomohly by. Afričani to však odmítli. 
+
+
+
+
 
 Jezdíte rádi na kole? Vyražte po deváté večer. Najdete ty, jež ulehají v kartonech. Těch, jež včera stály složené a plné jídla na druhé straně zdi - supermarketu.
 Jiný příklad? Pozdním průjezdem utopenými sídlišti za výčitek tlumičů linky č. (doplňte si) je skutečnosti dost — sedí na každém sedadle.
 
 
-to je jako ubytovat lidi bez domova a chtít po zbytku domu, abychom si rozdělili inkaso.
+to je jako ubytovat lidi bez domova a chtít po sousedech, abychom si rozpočítali inkaso.
+
 
 
 začíná to u [volnosti mravů](http://www.radiovaticana.cz/clanek.php4?id=22158)
@@ -147,14 +404,28 @@ redaktorka MfD Jana Ciglerová na rok a půl ubytovala uprchlici (její slova) z
 > že jsme pro ni byli jen přestupnou stanicí. Samozřejmost,
 > se kterou si nabrala všechno, co jsme jí poskytli,
 > aniž by to pro ni bylo jakkoli zavazující, mi pomohla
-> **pochopit, že nemůžu nikoho jen tak zachránit.**
+> pochopit, že nemůžu nikoho jen tak zachránit.
 > *Jana Ciglerová, Magazín MfD 15. 10. 2015, s. 26.*
 
 
 Islámem Arábie umrtvila kulturu, snahu. Do sedmého století n. l. byli v mnoha ohledech napřed. 
 
+
+> Je nepředstavitelné, že by z oblastí, které jsou těžce zasaženy
+> různými krizemi, nepřicházeli lidé do prosperujících oblastí,
+> kde jejich počet klesá. [..]
+> Pokud ne, pokud to vyvolá nástup nacionalismu a stavění plotů,
+> pak se z toho může stát velká krize.
+> Vladimír Špidla, MfD 1. 12. 2015, A12.
+
+Je tak zajímavé, že v poválečném Německu museli všichni zůstat ;)
+
+
 https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density#Secondary_table
 Zalidněnost na km^2 u nás dělá 136, u Francie 120, Švédska 24, Saudské Arábie 13, USA 35, Řecka 85 a Německa 232 lidí (zdroj [Světová banka](http://data.worldbank.org/indicator/EN.POP.DNST)).
+
+
+[SAE](http://www.theguardian.com/world/2015/nov/20/saudi-court-sentences-poet-to-death-for-renouncing-islam) právě předsedá lidským právům v OSN
 
 
 Dle [Agentury UN pro uprchlíky](https://twitter.com/Refugees) je vlna z poloviny uprchlická-syrská, z poloviny přeběhnuvší-zbylá-africká.
@@ -452,7 +723,7 @@ Ve vaší ulici, na západní frontě klid. Jen někdo někde vyměnil vysoký s
 > pobytový *status* [..]
 > *P. Stanislav Přibyl, Katolický týdeník 8. 9. 2015, s. 3.*
 
-Když se i z duchovních úst trousí technická *integrace* namísto vřelého *zapojení* nebo prosté *účasti*
+Když se i z duchovních úst trousí technokratická *integrace* namísto vřelého *zapojení* nebo prosté *účasti*
 tedy z těch úst, jichž chlebem je Slovo — jsme vážně v prdeli.
 
 > Je Bůh, holky? Jestli je,  
@@ -468,20 +739,16 @@ budete chtít na dovolenou, s kamarády
 
 Pomáhejme člověku, ne masám. Jako vy a já ... Dopředu bydlení, práci, vkladní knížku, jazyk, v úctě a bez nároku na nic.
 
-Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - při pohledu do páru očí. Ne párů sto. V davu 500 000 lidí, který teď v Evropě je, či do nižších týdnů bude - vidím tu nejčernější tmu.
+Z asijských rodin, lidí z Východu, Afričanů.. kouká z nich slušnost - při pohledu do páru očí. Ne párů sto. V davu 500 000 lidí, který teď v Evropě je, či do nižších týdnů bude - nevidím zhola nic.
 
 
 ===
 
-Každá hlava je dnes notářem přes evropské hodnoty. Tahaj je jak králíky z klobouku.
-===
-
-
-Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Migrant - cestuje za něčím. Ztráta existence mu nehrozí, proto si **vybírá** cílovou zemi - Německo. To jsou ti, jimž máváme na českých nádražích při jejich cestě. Jedinečné šance, jak demonstrovat, že já ještě ideály mám: rozdáním baget a tepláků - za společné foto na facebook.
+Uprchlík - utíká před něčím, je spasen prvním drnem evropské půdy. Migrant - cestuje za něčím. Ztráta existence mu nehrozí, proto si **vybírá** cílovou zemi - Německo. To jsou ti, jimž máváme na českých nádražích při jejich cestě. Jedinečné šance, jak demonstrovat, že já ještě ideály mám: rozdáním baget a tepláků.
 
 ===
 
-přispějete kvadraplegikům, a proč ne trpícím leukémií nebo na boj s AIDS? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: je novou koblihou na krámě.
+přispějete kvadraplegikům, a proč ne trpícím leukémií nebo na boj s AIDS? Lapidárně: pomůžete těm, kteří jsou právě na očích. Jen běda, aby tam nebyli moc dlouho. Stanou se všední — a to nebaví. Migrant má štěstí: stojí za novou aplikací v Evropském appstoru.
 
 
 
@@ -490,5 +757,52 @@ Hořící dům ve kterém ale nikdo není. Abych ho mohl opravit, nejdřív ho u
 Abych mohl migrační invazi řešit, nejdřív ji zastavím. Aby metro mohlo vyrazit,
 zavřu dveře. Pojede další.
 
-(pj)
+krize se vždy nabalí v jeden neobsáhnutelný celek: ropa, voda, krym, Isil, čína, bomby v Indii, řecká žranice, klima a stamiliony na nohách
+
+> The future belongs to those who give the next generation reason for hope.
+> *Pierre Teilhard de Chardin*
+
+Nechci zlatý podnos. Třeba jen dřevěný. Ale ne ten, který už byl nadvakrát slepen čínským lepidlem.
+
+
+Bohuslav "Suitcase" Sobotka
+https://www.facebook.com/protinenavisti/posts/577037485777796
+Upřímnej byl jen Gross a Sobotkův charakter leží v tom milionu z poslaneckých náhrad za který dnes bydlí. V parlamentu populizuje od 23, ale zase [se domluví anglicky](https://youtu.be/V_TUEJW30aY)
+
+
+> Škoda že nepoučitelné voličstvo sází v době růstu na levicové vlády,
+> které rozfofrují, co mohou. Pak po nich musí uklízet pravice, která
+> kvůli škrtům ztratí popularitu i voliče. A kolotoč se točí dál.
+> Jakou že to máme v Česku vládu?
+> *[Zdeněk Pečený](http://nazory.euro.e15.cz/blogy/blogy-zapisnik/zdenek-peceny-debakl-v-argentine-1248894)*
+
+[Státy, kde vládnou socialisti, dokázaly, že to nedokáží.](https://twitter.com/prochyster/status/669548775661244416)
+A celá EU je zápalem socialismu, jímž knotem je humanismus.
+
+
+Myslím, že [laxnost lidí na Jihu](https://www.facebook.com/GuyVerhofstadt/photos/a.100029970015.120344.99985820015/10154096237040016/?type=3&comment_id=10154098300890016)
+už ani nepřekvapí.
+
+Jako hudební přestávku, [Osudovou](https://www.youtube.com/watch?v=bc8Ntu0n4Nk).
+
+**Následující věta není vhodná pro děti a mladistvé.** Přestat se pořád někam srát.
+
+Díky za rok 2015
+...jak vypadá občanská společnost — bez občanů.
+
+KONEC
+KONEC
+KONEC
+KONEC
+
+Raděj jít s radou, jež dal bachař St.K.Neumannovi: raději se ubít ženskými než politikou.
+
+Každý by měl mít doma morče, aby taky poznal někoho, kdo je v pohodě.
+
+[Užívejte světa, blíží se kometa](https://www.youtube.com/watch?v=Mpe3Qk2tzOs).
+
+Je ale docela možný, že je to všechno úplně jinak.
+
+-pj
+
 

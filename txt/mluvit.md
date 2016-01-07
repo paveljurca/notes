@@ -1,18 +1,40 @@
-Mluvit
-======
+Nestačila by literatura?
+========================
+
+K čemu přídavných jmen?
+
+Musí být *šťastný nový* rok?
+Nestačil by *nový* rok?
+
+https://thescene.com/watch/gq/jaden-smith-life-tips
+Lidi mluví pořád dokola, protože se prostě neučí nic novýho.
+
+Dostat se k Plivanci na rozloučenou od Pavla Pojara dříve, tvrdil bych,
+že byl mi předlohou k výňatkům a tichosti příští.
+
+> Někteří píší proto, aby si vydělali na živobytí. Pak jsou ti,
+> kteří píší, aby čtenáře seznámili se svým pohledem na svět,
+> kladli znepokojivé otázky a hledali neobvyklé odpovědi. Ještě
+> jiní píší proto, aby se vyznali ve vlastním nitru. Ale pak
+> jsou ti, kteří píší, protože kdyby nepsali, tak by zemřeli.
+> *Anthony de Mello In: KaTyd 20. 10. 2015, s. 5.*
+
+
+> O čem nelze mluvit, o tom se musí mlčet.
+> *[Ludwig Wittgenstein](https://www.youtube.com/watch?v=pQ33gAyhg2c)*
 
 > Všichni mluvili o tý operaci naprosto ležérně.
 > Je to procházka parkem. Nikoho jsem se na nic
 > neptal, ale stejně mi to říkali.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 99.*
 
-Zmatek, pohoršení i mluvení. Vše v mé kompetenci.
+Zmatek, pohoršení, —. Však v právu.
 
 > Mlčením žádný se nikdy nezavedl;
 > mluvením přemnozí vždycky zavozují.
 > *Komenský, J.A.: Informatorium školy mateřské. Academia, Praha 2007, s. 75.*
 
-Potkávat se a mluvit. Nikdo o ničem nic pořádně neví. A když ví, neví to zase ten druhý.
+Potkat se. Mluvit. Nikdo o ničem nic pořádně neví. Když ví, neví to zase ten druhý.
 
 > [..] "In what field did you do your work?"  
 > "In physics," I said.  
@@ -26,8 +48,9 @@ Potkávat se a mluvit. Nikdo o ničem nic pořádně neví. A když ví, neví t
 > problems; we can talk about psychology; [..]"
 > *Feynman, R.P.: Surely You're Joking, Mr. Feynman! Vintage, London 1992, s. 310.*
 
-Člověk: do uší rádio a před oči týdeník. Zahýbat sobě. Přitom by stačila prsť hlíny.
-Mluvit chvílí ale ne slovy.
+Člověk. Do uší rádio a před oči deník.
+Zkusit to [chvílí](https://www.youtube.com/watch?v=HLnTOZqIlUM) než slovy.
+Třeba jen dlaň, a v ní prsť hlíny.
 
 > Vyprávět, učit, ba i popisovat, tohle jde,
 > i když by k výměně lidských myšlenek každému
@@ -37,8 +60,7 @@ Mluvit chvílí ale ne slovy.
 
 .
 
-> Nikdy mě nenapadá nic tak zvláštního.  
-> Proto mlčím.
+> Nikdy mě nenapadá nic tak zvláštního. Proto mlčím.
 > *Camus, A.: Cizinec. Garamond, Praha 2005 (5. vyd.), s. 61.*
 
 .
@@ -88,7 +110,7 @@ Netuším zdali *vůbec a ještě* mluvit. Přeháním. Mám strach, že se usly
 > věcí, ale nevím, o čem mluvit.
 > *Bukowski, Ch.: Kapitán odešel na oběd a námořníci převzali velení. Pragma, Praha 2001, s. 34.*
 
-Psát možno o smyslu, mluvit o nesmyslu. Hádka, při které nikdo nemluví? Byla by kratší.
+Psát možno o smyslu, mluvit o nesmyslu. Hádka, při které nikdo nemluví? O co by byla kratší.
 
 > What’s writing really about?
 > It’s about trying to take fuller possession of the reality of your life.
@@ -114,13 +136,13 @@ Psát možno o smyslu, mluvit o nesmyslu. Hádka, při které nikdo nemluví? By
 > Když to řekl, vzal na sebe povinnost dokázati to.
 > *Čapek, K.: O umění a kultuře; Od člověka k člověku. Český spisovatel, Praha 1995, s. 9.*
 
-Sdělovat se. Lépe je nemluvit, lépe je číst. Raději ohrozit sebe.
+Sdělovat se. Lépe je nemluvit, lépe je číst. Ohrozit akorát sebe.
 
 > Běda těm, kdo jsou moudří ve vlastních
 > očích a rozumní sami před sebou.
 > *Iz 5, 21*
 
-Svět vězí v pomlce, tichu. A člověk na rampě viděného tábora provádí selekci: dané a vadné.
+Svět žije v pomlce, tichu. A člověk na rampě viděného tábora provádí selekci: dané a vadné.
 
 > Mateřský jazyk bývá pouhým instrumentem,
 > někdejší košatý strom pragmaticky zcenzurovaný
@@ -132,10 +154,12 @@ WWW předpona vede v Zem — slovník — přejatých myšlenek (Kundera, M.: Zn
 > Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 262.*
 
-p.s. Jediné televizní zprávy jsou ty bez zvuku.
+p.s. Lepšejší televizní zprávy jsou ty bez zvuku.
 
 > Pro dospělého člověka je ponižující, když nedovede mluvit svou mateřštinou
 > čistě a bez chyby. Cítil hluboký stud. To je totéž, jako kdyby nepoznal svou starou mámu.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 371.*
 
+Co víme o slovech, použitá literatura? Použitý toaletní papír možná.
+Nestačila by — literatura?
 

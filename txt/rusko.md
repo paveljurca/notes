@@ -14,7 +14,7 @@ a svobodnější imperativ konzumní osnovy:
 Žij krásně, můžeš-li. Odeznělo mírotvorné
 „každému dle jeho potřeb“.
 A ublížený dav udává cestu — tím komu tleská.
-[Putin](http://youtu.be/sUNslUmQNiw) tu slabost poddaných zná a posiluje ji kde může;
+[Putin](https://youtu.be/sUNslUmQNiw) tu slabost poddaných zná a posiluje ji kde může;
 ruský oxymóron už ze starých dob.
 
 > Vaši přátelé už vás nemají rádi. Nutili jste je
@@ -92,10 +92,11 @@ v Evropě, kam pro sichr *čas od času* pošlou tanky.
 > v zabíjení jako v umírání..
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 117.*
 
-Atomovými hlavicemi vystrojili Čínu i Indii.
+Atomovými [hlavicemi](https://youtu.be/RNYe_UaWZ3U) vystrojili Čínu i Indii.
 Proč? Asi prostoduchost. Nukleární třaskavina
 není záležitostí nějaké země, nýbrž
-konkrétní Země. Nedivme se, že voják Rudé
+konkrétní Země. A rada? [V době výbuchu](https://vimeo.com/34655821) buďte co nejdál.
+Nedivme se, že voják Rudé
 armády není povinován zabít, ale být zabit.
 Národní ctižádostí je trpět. A rádi by o tom
 přesvědčili i své, dnes občasně bývalé, *ideo*bratříčky.
@@ -156,12 +157,17 @@ Nově příchozí kapitalismus sdílení (neřízené přenechání
 aut, bytů i svého volna za úplatu) možná dojde k tomu,
 že [hraniční pásma nejsou třeba](http://www.wazoku.com/blog/innovation-in-e-residency/).
 Francouzsko-německá pokoutnost ale jedná v opak: najmenování „vlády EU“.
-Ty uvozovky budou jednou zbytečné.
+
+crowdfunding, že už nevíme, co stát je nebo zda-li je
+
+gofundme.com a watsi.org; a zaroven vydaje statu http://blogs.wsj.com/economics/2015/10/28/what-u-s-growth-looks-like-without-the-government-spending-slowdown/
+
+
 
 
 nezakážete nikomu, aby byl hloupý; tak ji zkusíte aspoň řídit (EU, úřady, zákony, směrnice)
 
-namísto chtít, aby hloupý nebyl nikdo
+namísto zkusit chtít, aby hloupý nebyl nikdo (školu)
 
 
 Dobrat se dnes pravdy o stavu světa je vinou
@@ -170,7 +176,9 @@ nemožné — pokud nechcete prochodit boty.
 Stačí si vzpomenout na tajnosti,
 jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/vlada-pozastavuje-ratifikaci-dohody-acta-92694/).
 Za svízelí v porozumění mezi národy stojí
-věc jediná: lidská imbecilita. A proti té se
+věc jediná: lidská
+
+. A proti té se
 těžko pořádá *exodus nebo exitus*
 — jedeme v ní všichni. 
 
@@ -181,18 +189,19 @@ těžko pořádá *exodus nebo exitus*
 > jemu statečně, tehdy jemu neškodí.
 > *Hus, J.: Dcerka. Kalich, Praha 1995, s. 31.*
 
-Možná je Rusko jen takové, jaké ho chceme mít.
+Možná je Rusko takové, jaké ho chceme mít.
 Havel v americkém Kongresu 21. února 1990 řekl:
 „Nejvíc nám pomůžete, když pomůžete Sovětskému svazu.“
 Vyšumělo 25 let, a mnoho se nezměnilo:
-postranních úmyslů mají Rusové (žel i „Západ“)
-ještě stále hodně. A netřeba snad připomínat,
+Úmyslů má Rusko, a s ním Západ, hodně.
+A netřeba snad připomínat,
 že na bratrskou výpomoc v šedesátém osmém
 *nikagda nězabudněm*.
 
-
 * __apod.__
+* Kovtun, J.: Pražská ekloga
 * [Rusové proti Rusům](http://www.rozhlas.cz/zpravy/data/_zprava/rusove-proti-rusum-zeme-v-nevyhlasene-obcanske-valce--1484099)
+* [Nebezpečný idealismus Západu](http://blog.aktualne.cz/blogy/alexander-tomsky.php?itemid=24747)
 * [Vítr se vrací](http://prehravac.rozhlas.cz/audio/2876556)
 * [rok 1968](http://www.ceskatelevize.cz/porady/10192661914-rok-68/20756226860-nadeje/),
 [jaro 1968](http://www.pametnaroda.cz/anniversary/detail/id/7),
@@ -203,6 +212,7 @@ ještě stále hodně. A netřeba snad připomínat,
 * [Romancov](http://www.radio1.cz/archiv-poradu/stahnout/36545-hudba-porady-2014-zatisi-2014-01-29-jero-phdr-michael-romancov-ukrajina-mp3),
 [Vyvadil](http://video.aktualne.cz/dvtv/putin-je-mekkej-mel-bych-mu-radit-rika-sef-pratel-ruska/r~e1b4f00087a611e498be002590604f2e/)
 * [Ukrajina](https://medium.com/@Hromadske/ukraines-decentralization-explained-7b83e1897dfc)
+* [Východoevropský klub](https://www.facebook.com/V%C3%BDchodoevropsk%C3%BD-klub-487178291434942/)
 * Fučík, J.: V zemi, kde zítra již znamená včera
 * Gide, A.: [Návrat ze SSSR](http://www.iliteratura.cz/Clanek/34861/gide-andre-navrat-ze-sssr-a-poopraveni-navratu-ze-sssr)
 * Masaryk, T.G.: O bolševismu
@@ -214,7 +224,6 @@ ještě stále hodně. A netřeba snad připomínat,
 * Zubov, A.: Dějiny Ruska 20. století
 * Dostojevskij, Gogol, Tolstoj, Puškin, apod.
 * Vaněk, K.: Charašo pán, da?
-* [Východoevropský klub](https://www.facebook.com/V%C3%BDchodoevropsk%C3%BD-klub-487178291434942/)
 
 __o Trockém__
 > My tři králi, my jdeme k vám,  
