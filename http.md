@@ -613,6 +613,7 @@ __misc__
 * [The Bill Simmons Podcast](http://thebillsimmonspodcast.tumblr.com/archives)
 * [Planet Money](http://www.npr.org/sections/money/)
 * [NPR Politics Podcast](http://www.npr.org/podcasts/510310/npr-politics-podcast)
+* [Hired.](http://hired.fm/)
 
 __podcatch__
 * [podcatch.com](http://podcatch.com/)
@@ -776,6 +777,7 @@ __dev__
 * [DataFestak](http://www.datafestak.cz/)
 * [mlprague.com](http://www.mlprague.com/)
 * [mDevTalk](https://www.mdevtalk.cz/)
+* [On Demand](http://www.ondemandconference.co/)
 
 __misc__
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
@@ -933,7 +935,7 @@ __addendum__
 * [Knihovna Václava Havla](http://www.vaclavhavel-library.org/)
 * [The Vaclav Havel Library Foundation](http://www.vhlf.org/havel-archives/)
 
-## ex lege
+## de iure
 
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
 * [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
