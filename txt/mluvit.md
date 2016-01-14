@@ -163,3 +163,7 @@ p.s. Lepšejší televizní zprávy jsou ty bez zvuku.
 Co víme o slovech, použitá literatura? Použitý toaletní papír možná.
 Nestačila by — literatura?
 
+> Představte si to ticho, kdyby lidé říkali jen to, co vědí.
+> *Karel Čapek*
+
+
