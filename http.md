@@ -1,26 +1,25 @@
 http
 ====
 
-Besides [twitter](https://twitter.com/paveljurca/lists), here I look for
+If not on [twitter](https://twitter.com/paveljurca/following)..
 
 - [news](#news)
 - [blog](#blog)
 - [podcast](#podcast)
 - [video](#video)
-- [events](#events)
+- [event](#event)
 - [jobs](#jobs)
 - [data](#data)
 - [20. století](#20-století)
-- [ex lege](#ex-lege)
+- [de iure](#de-iure)
 - [česky](#česky)
 - [TODO](#todo)
 
 don't watch, listen to  
 `alias ya='youtube-dl --extract-audio --audio-format mp3 '`
 
-read with no headache  
+follow the text  
 `www() {w3m "$1" -dump -cols 50|less}`
-
 
 
 ***
@@ -698,7 +697,7 @@ __misc__
 * [Secular Talk](https://www.youtube.com/user/SecularTalk/playlists)
 * [#TheGameStartsHere](https://www.youtube.com/playlist?list=PL8YnSZD5H0qIxM-2PFdGDHWTD-yKPHHVX)
 
-## events
+## event
 
 __dev__
 * [devfest.cz](http://devfest.cz)
@@ -776,6 +775,7 @@ __dev__
 * [Chaos Communication Camp](https://events.ccc.de/camp/)
 * [DataFestak](http://www.datafestak.cz/)
 * [mlprague.com](http://www.mlprague.com/)
+* [mDevTalk](https://www.mdevtalk.cz/)
 
 __misc__
 * [radio1.cz/kulturni-servis](http://www.radio1.cz/kulturni-servis/)
