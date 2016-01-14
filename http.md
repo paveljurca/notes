@@ -478,6 +478,7 @@ __radio3__
 * [Miroslav Uďan](http://www.miroslavudan.cz/)
 * [Veronika Hlaváčová](http://www.neonovahr.cz/)
 * [Dagmar Lánská](http://nez-to-vsechno-zapomenu.tumblr.com/)
+* [Suraj Patil](http://mytechbooks.blogspot.in/)
 
 ## podcast
 
