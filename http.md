@@ -478,6 +478,7 @@ __radio3__
 * [Bohumil Doležal](http://www.bohumildolezal.cz/archiv/archiv.htm)
 * [Miroslav Uďan](http://www.miroslavudan.cz/)
 * [Veronika Hlaváčová](http://www.neonovahr.cz/)
+* [Dagmar Lánská](http://nez-to-vsechno-zapomenu.tumblr.com/)
 
 ## podcast
 
