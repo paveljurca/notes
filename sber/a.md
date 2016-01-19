@@ -795,6 +795,11 @@ A
 > Design creates culture. Culture shapes values. Values determine the future.
 > *Robert L. Peters*
 
+.
+
+> Chtěl jsem dělat něco užitečného.
+> *Houdini*
+
 
 * __a__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
