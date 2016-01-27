@@ -805,7 +805,7 @@ Je ale docela možný, že je to všechno úplně jinak.
 
 -pj
 
-__zdroje [imigracniho testu](http://test.kohovolit.eu/imigranti-2015/) od kohovolit.eu__
+[Imigrační test](http://test.kohovolit.eu/imigranti-2015/), zdroje:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War#cite_note-Tagesspiegel.2C_Berlin.2C_Germany-8)
 [UN Refugee Agency](http://data.unhcr.org/syrianrefugees/regional.php)
@@ -818,3 +818,5 @@ __zdroje [imigracniho testu](http://test.kohovolit.eu/imigranti-2015/) od kohovo
 [Wikipedia](https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War)
 [Správa uprchlických zařízení](http://www.suz.cz/media/54650/Prichody-do-AZ.jpg)
 [Ministerstvo vnitra ČR](http://www.mvcr.cz/soubor/extrem07-pdf.aspx)
+
+
