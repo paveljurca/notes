@@ -1,5 +1,5 @@
-Nestačila by literatura?
-========================
+Do hlavy Joe Nohy
+=================
 
 K čemu přídavných jmen?
 
@@ -160,10 +160,15 @@ p.s. Lepšejší televizní zprávy jsou ty bez zvuku.
 > čistě a bez chyby. Cítil hluboký stud. To je totéž, jako kdyby nepoznal svou starou mámu.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 371.*
 
-Co víme o slovech, použitá literatura? Použitý toaletní papír možná.
-Nestačila by — literatura?
-
 > Představte si to ticho, kdyby lidé říkali jen to, co vědí.
 > *Karel Čapek*
+
+Do hlavy Joe Nohy
+=================
+
+Lidi mluví a mluví, ale nemyslim si, že chtějí něco říct.
+Použitá literatura? Použitý toaletní papír!
+Problém tohohle světa je, že mu nestačí jenom *literatura*, chce ji mít *krásnou* nebo *použitou*.
+S podstatným jménem si nevystačí.
 
 
