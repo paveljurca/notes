@@ -194,6 +194,7 @@ __misc__
 * [The Atavist Magazine](https://magazine.atavist.com/)
 * [e-Polis.cz](http://www.e-polis.cz/)
 * [Pravý břeh](https://www.pravybreh.cz/)
+* [Project for the Study of the 21st Century](http://projects21.com/category/society-and-culture/)
 
 __radio3__
 * [Dave Winer's](http://radio3.io/users/davewiner/)
