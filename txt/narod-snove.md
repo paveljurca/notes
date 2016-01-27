@@ -805,7 +805,8 @@ Je ale docela možný, že je to všechno úplně jinak.
 
 -pj
 
-__zdroje imigracniho testu od kohovolit.eu__
+__zdroje [imigracniho testu](http://test.kohovolit.eu/imigranti-2015/) od kohovolit.eu__
+
 [Wikipedia](https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War#cite_note-Tagesspiegel.2C_Berlin.2C_Germany-8)
 [UN Refugee Agency](http://data.unhcr.org/syrianrefugees/regional.php)
 [Pew Forum](http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-europe/)
