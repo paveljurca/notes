@@ -479,6 +479,7 @@ __radio3__
 * [Veronika Hlaváčová](http://www.neonovahr.cz/)
 * [Dagmar Lánská](http://nez-to-vsechno-zapomenu.tumblr.com/)
 * [Suraj Patil](http://mytechbooks.blogspot.in/)
+* [Michal Škop](http://blog.aktualne.cz/blogy/michal-skop.php)
 
 ## podcast
 
@@ -883,8 +884,10 @@ __addendum__
 ## data
 
 * [nasstat.cz](http://nasstat.cz)
+* [kohovolit.eu](http://kohovolit.eu/)
 * [otevrenadata.cz](http://www.otevrenadata.cz/)
 * [Opendata Praha](http://opendata.praha.eu/dataset)
+* [Frank Bold](http://frankbold.org/o-co-nam-jde)
 * [datastory.cz](https://datastory.cz/)
 * [volby.cz/opendata/opendata.htm](http://volby.cz/opendata/opendata.htm)
 * [Koncepce katalogizace otevřených dat VS ČR](http://www.mvcr.cz/soubor/koncepce-katalogizace-otevrenych-dat-vs-cr-pdf.aspx)
@@ -1650,7 +1653,6 @@ __addendum__
     thunderclap.it 'amplify your message globally
     nptechforgood.com 'non-profits
     http://www.eps.cz/obcandvanula
-    http://frankbold.org
     http://topsy.com 'twitter search
     http://www.project-syndicate.org/ 'the world's opinion page
     http://rokjinak.cz 'vodafone money for non-profits
