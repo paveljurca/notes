@@ -483,6 +483,7 @@ __radio3__
 * [Suraj Patil](http://mytechbooks.blogspot.in/)
 * [Michal Škop](http://blog.aktualne.cz/blogy/michal-skop.php)
 * [Jan Kubita](http://blog.aktualne.cz/blogy/jan-kubita.php)
+* [Martin Tisné](http://tisne.org/)
 
 ## podcast
 
@@ -864,6 +865,7 @@ __addendum__
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [mrchlblng.me/2013/07/interviews](http://mrchlblng.me/2013/07/interviews/)
 * [Questions I Ask in Interviews](http://blog.kablamo.org/2014/03/14/interview-questions/)
+* [The Most Effective Questions to Use When Interviewing Candidates](http://tomtunguz.com/job-interviews/)
 * [Questions for Design Interview](https://www.evernote.com/shard/s196/sh/a3d73e74-62c7-40a5-9fe2-16f1e32fc2e9/826f07f295ad50207f916fa7cd5ed450)
 * [How to Test Java Programming Skills in an Interview](https://medium.com/@rope_zg/how-to-test-java-programming-skills-in-an-interview-cc7c6a575ff9)
 * [Frontend questions to the interview stage](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage)
