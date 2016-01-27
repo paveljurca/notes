@@ -195,6 +195,7 @@ __misc__
 * [e-Polis.cz](http://www.e-polis.cz/)
 * [Pravý břeh](https://www.pravybreh.cz/)
 * [Project for the Study of the 21st Century](http://projects21.com/category/society-and-culture/)
+* [The Sinocism China Newsletter](https://sinocism.com/?tag=newsletter)
 
 __radio3__
 * [Dave Winer's](http://radio3.io/users/davewiner/)
@@ -481,6 +482,7 @@ __radio3__
 * [Dagmar Lánská](http://nez-to-vsechno-zapomenu.tumblr.com/)
 * [Suraj Patil](http://mytechbooks.blogspot.in/)
 * [Michal Škop](http://blog.aktualne.cz/blogy/michal-skop.php)
+* [Jan Kubita](http://blog.aktualne.cz/blogy/jan-kubita.php)
 
 ## podcast
 
@@ -1712,9 +1714,6 @@ __addendum__
     http://www.englishgrammarsecrets.com/ 'awesome!
     http://hshtags.com/
     http://niice.co/
-    https://cmd.fm/ 'music genres
-    audiomicro.com 'royalty free music and sound effects
-    audiojungle.com 'royalty free audio files from $1
     yr.no 'weather
     wunderground.com/q/zmw:00000.44.11567 'Praha
     paper.li 'fb/twitter as a newspaper
@@ -1730,6 +1729,10 @@ __addendum__
     http://dublab.com/category/listen/archive/ 'dublab.com
     http://22tracks.com 'music discovery
     http://spotlst.com/ 'playlists
+    https://cmd.fm/ 'music genres
+    audiomicro.com 'royalty free music and sound effects
+    audiojungle.com 'royalty free audio files from $1
+    http://www.jazzradio.com/ 'JAZZRADIO.com
     
     [Radiotéka](http://www.radioteka.cz/)
 
