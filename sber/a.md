@@ -808,6 +808,11 @@ A
 > Then when you know better, do better.
 > *Maya Angelou*
 
+.
+
+> The only way you can do this is to turn down most opportunities.
+> *Seth Godin*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
