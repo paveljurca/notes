@@ -1,15 +1,3 @@
-Úterý
-=====
-
-stín  
-etikety vín  
-splín  
-obzoru míň  
-jinak  
-vražen klín
-
-
-,
 
 blíž věcem  
 znát stěží  
@@ -20,153 +8,40 @@ nezáleží
 
 ,
 
-sun krok  
-dvě vlohy  
-spolu  
-žas něhy  
-jen různě  
-na Zemi  
-klapl  
-snář sovy
-
-rdít se  
-u „My“
-
-,
-
-klubko  
-od chyby  
-tehdy a kdyby  
-žít matně  
-bez ladu  
-chtít  
-a stát vzadu
-
-,
-
-„Bych tu stih...“  
-(užít těch knih)  
-Mozek:  
-„A jak asi?“  
-Tělo:  
-„Co jsme si, to jsme si.“
-
-,
-
-hlt chleba  
-drobt vína  
-žaludek — znova
-
-,
-
-vjem  
-z řádků jmen  
-z těch světů  
-prsť hlíny  
-lem  
 a hraje čas  
 nad stromy  
-my němi —  
-snad ryba  
-v nádobě  
-co svými roky  
-propíjí se na dno  
-to dno  
-mohlo
-
-ale nemuselo
+je mi —
 
 ,
 
-léty  
-se dáli  
-chvílí  
-plápolem hřáli  
-sní kdes  
-nad všemi
-
-Tati, mami!
+To dno mohlo,  
+ale nemuselo.
 
 ,
 
-snaha  
-zda sami  
-tep, na nebi  
-stav  
-má stavy  
-váhat  
-se sebevrahy  
-dveře —  
-stěny
+dveře  
+a stěny
 
 ,
 
-Bůh kecá  
-šance stá ze sta  
-s osudem  
-listového těsta
+Když krápník tuší mávnutí mušší.
 
 ,
 
-běhy  
-na duši  
-klnou — tuší  
-že radost  
-mávnutí mušší
+Nohy. @TODO
+Kvapí dál@TODO
+do doby.@TODO
+Sorry.
 
 ,
 
-nohy  
-kvapí dál  
-do doby  
-Jack Daniel's  
-Honey
-
-,
-
-Řádky  
-vzpomenout.  
-Číst zpátky.  
+Řádky
+vzpomenout.
+Číst zpátky.
 Plout..
 
 ,
 
-svět proto  
-že oči viděly  
-myslíme stejně  
-stejnou neděli?
-
-,
-
-lká hlas
-zem smoly
-
--„Nač?“ dere se snáz.
-+Vrou znavené stvoly.
-+„Nač?“ vykřičet snáz.
- Jít, napadat slovy.
-
- Vějíř ohnilý v nás
- zastřel klas — plody.
--Hmátnout, sevřít sráz.
-+Hmátnout, sejít sráz.
- Jitřit tmu slovy.
-@TODO
-===
-
-+OKa
-+---
-+
-+oči
-+kamkoli vkročím
-+šílenosti
-+pod obočím
-+jenom sedět
-+čekat na čin
-+Člověče?
-+teď ne  teď otročím
-+tak prosím
-+prosím
 +
  naráží morče
  do stěny plastové
@@ -439,7 +314,7 @@ vyje po úkolu
  leč nepřeje jí den
 
 mřít
-�====
+▒====
 
  plachtí
  v ságu bdění
@@ -454,7 +329,7 @@ mřít
 -a trochu
 -silhouetta  č. dva
 
-´�===
+´▒===
 
 -Hodiny
 -------
@@ -580,7 +455,7 @@ Za věci bez přídavných jmen
  Nepopovídáš si,
  nerozumí ti.
 
-´�====
+´▒====
 
 +Neznámá
 +=======
@@ -590,7 +465,7 @@ Za věci bez přídavných jmen
 +k společnému My
 +zbývá překonat veletoky
 
-´�====
+´▒====
 
 +a čím dále srdcem
 +tehdy záleželo — teď nezáleží
@@ -598,7 +473,7 @@ Za věci bez přídavných jmen
 +to je celé
 +to je stesk
 
-´�====
+´▒====
 
 Hrůzné zjištění
 +neumím prý žít
