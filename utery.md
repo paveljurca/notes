@@ -14,24 +14,16 @@ je mi —
 
 ,
 
-To dno mohlo,  
-ale nemuselo.
+Mohlo, ale nemuselo.
 
 ,
 
-dveře  
-a stěny
-
-,
-
-Když krápník tuší mávnutí mušší.
-
-,
-
-Nohy. @TODO
-Kvapí dál@TODO
-do doby.@TODO
+Nebylo z mojí hlavy.  
 Sorry.
+
+,
+
+Byli jsme lepší, a věděli všechno.
 
 ,
 
