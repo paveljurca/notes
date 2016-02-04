@@ -8,12 +8,20 @@ nezáleží
 
 ,
 
-a hraje čas  
+a čas  
 nad stromy  
 je mi —
 
 ,
 
+je krásná  
+nech se zdá  
+ jihne  
+blízkost první, stá
+
+,
+
+To dno
 Mohlo, ale nemuselo.
 
 ,
@@ -33,6 +41,15 @@ vzpomenout.
 Plout..
 
 ,
+
+dál od lidí
+pro plachost dnů
+lákem samoty
+dál příbojem snů
+
+,
+
+
 
 +
  naráží morče
