@@ -8,9 +8,11 @@ nezáleží
 
 ,
 
-a čas  
+a hraje
+zbývá čas  
 nad stromy  
-je mi —
+je mi —  
+sorry
 
 ,
 
