@@ -8,28 +8,9 @@ nezáleží
 
 ,
 
-a hraje
-zbývá čas  
+čas  
 nad stromy  
-je mi —  
-sorry
-
-,
-
-je krásná  
-nech se zdá  
- jihne  
-blízkost první, stá
-
-,
-
-To dno
-Mohlo, ale nemuselo.
-
-,
-
-Nebylo z mojí hlavy.  
-Sorry.
+je mi —
 
 ,
 
@@ -37,17 +18,29 @@ Byli jsme lepší, a věděli všechno.
 
 ,
 
-Řádky
-vzpomenout.
-Číst zpátky.
+Řádky  
+vzpomenout.  
+Číst zpátky.  
 Plout..
 
 ,
 
-dál od lidí
-pro plachost dnů
-lákem samoty
-dál příbojem snů
+dál od lidí  
+pro plachost dnů  
+jen příboj samoty  
+já a úděl snu
+
+,
+
+Je ti dvacet tři  
+a musíš to začít brát vážně.
+
+,
+
+Pohladit hřbet času  
+a vzdálenost hvězd smýt.  
+V křehkou spásu  
+leť si — kam chtějí tě vzít.
 
 ,
 
