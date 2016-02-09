@@ -1,23 +1,4 @@
 
-blíž věcem  
-znát stěží  
-dál srdcem  
-tehdy záleželo
-
-nezáleží
-
-,
-
-čas  
-nad stromy  
-je mi —
-
-,
-
-Byli jsme lepší, a věděli všechno.
-
-,
-
 Řádky  
 vzpomenout.  
 Číst zpátky.  
@@ -26,9 +7,11 @@ Plout..
 ,
 
 dál od lidí  
-pro plachost dnů  
-jen příboj samoty  
-já a úděl snu
+pro lásku dnů  
+musím, když nevidí  
+ty uzlíčky samoty
+
+a snů
 
 ,
 
@@ -43,6 +26,32 @@ V křehkou spásu
 leť si — kam chtějí tě vzít.
 
 ,
+
+jsi krásná, první, stá  
+být chybou tvou  
+snáším svět prázdna  
+vidět tě — ještě jednou  
+jsi silhouetta!  
+co prošla mnou
+
+,
+
+tehdy záleželo  
+teď nezáleží
+
+,
+
+nad stromy  
+už budeme sami —
+
+,
+
+Byli jsme lepší, a věděli všechno.
+
+,
+
+Co když  
+je to všechno jinak?
 
 
 
