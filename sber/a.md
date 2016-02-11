@@ -813,6 +813,11 @@ A
 > The only way you can do this is to turn down most opportunities.
 > *Seth Godin*
 
+.
+
+> Pro budoucnost českého národa jest třeba dělat více.
+> *Josef Hlávka*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
