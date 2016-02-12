@@ -818,6 +818,12 @@ A
 > Pro budoucnost českého národa jest třeba dělat více.
 > *Josef Hlávka*
 
+.
+
+> Ať už je smysl existence jakýkoli, je tak nesmyslný,
+> že se dá nejlépe vyjádřit mlčky.
+> *David Stephen Calonne*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
