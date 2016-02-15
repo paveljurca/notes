@@ -484,6 +484,7 @@ __radio3__
 * [Michal Škop](http://blog.aktualne.cz/blogy/michal-skop.php)
 * [Jan Kubita](http://blog.aktualne.cz/blogy/jan-kubita.php)
 * [Martin Tisné](http://tisne.org/)
+* [Michael Larabel](https://www.phoronix.com/scan.php?page=phoronix_news)
 
 ## podcast
 
