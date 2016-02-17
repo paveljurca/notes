@@ -668,7 +668,7 @@ __misc__
 * [Crash Course](http://www.youtube.com/user/crashcourse)
 * [Era svět](http://www.youtube.com/user/prostorerasvet/videos)
 * [Sociální nauka](http://www.youtube.com/user/socialninauka/videos)
-* [VH](http://www.youtube.com/user/knihovnavaclavahavla/videos)
+* [Václav Havel](http://www.youtube.com/user/knihovnavaclavahavla/videos)
 * [Kristoffer Borgli](https://vimeo.com/kristofferborgli/videos)
 * [Stephen Rae](https://vimeo.com/mediahauspng/videos)
 * [Matthijs Vlot](http://www.mattatjeoorlog.nl/)
@@ -704,6 +704,7 @@ __misc__
 * [The Vatican](https://www.youtube.com/user/vatican/videos)
 * [Secular Talk](https://www.youtube.com/user/SecularTalk/playlists)
 * [#TheGameStartsHere](https://www.youtube.com/playlist?list=PL8YnSZD5H0qIxM-2PFdGDHWTD-yKPHHVX)
+* [The Project on Middle East Political Science](https://vimeo.com/user8550739/videos)
 
 ## event
 
