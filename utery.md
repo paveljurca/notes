@@ -7,9 +7,8 @@ Plout..
 ,
 
 dál od lidí  
-pro lásku dnů  
-musím, když nevidí  
-ty uzlíčky samoty  
+pro trochu dnů  
+nevidí.. ty uzlíčky samoty  
 a snů
 
 ,
