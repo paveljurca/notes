@@ -1,4 +1,9 @@
 
+nohy  
+kvapí dál  
+do doby
+
+
 Řádky  
 vzpomenout.  
 Číst zpátky.  
@@ -7,24 +12,22 @@ Plout..
 ,
 
 dál od lidí  
-pro trochu dnů  
+pro starost dnů  
 nevidí.. ty uzlíčky samoty  
 a snů
 
 ,
 
- hřbet času  
-vzdálenost hvězd smýt  
+laskat hřbet času  
+roky hvězd smýt  
 křehkou spásu.. leť si  
-kam chtějí tě vzít.
+kam chtějí tě vzít
 
 ,
 
-jsi silhouetta  
-co prošla mnou  
 být.. chybou tvou  
-vidět tě.. 
-nocí první, stou
+jsi silhouetta  
+co prošla mnou
 
 ,
 
@@ -34,11 +37,11 @@ a teď nezáleží.
 ,
 
 nad stromy  
-jsme sami —
+sami —
 
 ,
 
-Byli jsme lepší, a věděli všechno.
+Byli jsme lepší a věděli všechno.
 
 ,
 
@@ -58,58 +61,17 @@ Byli jsme lepší, a věděli všechno.
 -Stehno
 -------
 -
--kus zvířátka (bez jména)
--dozlatova  doběla
+-zvíře
+bez jména
 -dezert  čoko poleva
--jídelníčku obměna
+-pak jídelníčku obměna
 -Ave pia!
--bude  stehno jelena
+-bude stehno jelena
 
-V lihu
--------
--
--tam kde oči  vrby
--hrdla rytmus  nestíhá
--vzpomněl mouder sovy
--jinak  liška podšitá
--
--večer snahy
--rum  přeludy promítá
-
-+zvíře  (bez jména)
-+jej touha  pomněla
-+zákus  čoko poleva
-+Ave pia
-+dáme  stehno jelena
-+
 +kde oči  vrby
 +sova  slovy zalitá
 +jen  dnes nelétá
-+rum —
-+se zalyká
- blíže věcem
- nehezčí se zdají
- dále srdcem
--tehdy záleželo  teď nezáleží
--
--(flaška dopitá)
--
-+tehdy záleželo
 
-Pod nebí
----------
--
--zatuchá klima
--se špetkou nevkusu
--super, bájo, príma
--pronárody v poklusu
--
--příliš někdy je
--negramotných úvodů
--
--brát v knihy!
--
--řka při porodu
 -
 -
 -Pryč
@@ -159,32 +121,22 @@ Pod nebí
 -přimknuta
 -zem skonem  vzdor
 -hlubší  a rozryta
--
--nocí hlasy
--vrásky  kání krajiny
--doufat víc  nekončit
--lad hlušiny
+
+
+,
+
 -na Adama
 -Evy jmeniny
--míza předků
--za dcery  za syny
--zdrží-li  se rodiny
--ve větvoví
+a ve větvoví
 -nadešlé světa  hodiny
--
+
+,
+
 -balanc  do sevření
 -vteřiny  zasnění
--nic za nic  jich jmění
--frakturou  pod víčky
--smír  krašší @@@@
--
--slova
--protkaná nedělí
--nejisto  a tiše
--bez sebe  pondělí
--mrholí  stud rána
--vnitř korálů
--usedaví  pohrobci Abraháma
+nic nezměni
+
+,
 -
 -jsme ryba
 -ryba v nádobě
@@ -208,19 +160,13 @@ Pod nebí
 -sval snahy
 -křídla motýlí
 -prach  dým doby
--já  a já
--vnitř  sami
--stínohra mysli
--sté stavy
--vakuum čela  úvahy
--vzdálené
--volnosti vlohy
--vidina  piedestal
--postavy
--prostřed někoho
--bokem vřavy
--pyžamo  úbor
--únavy
+-já a já.. vnitř sami
+-stínohra mysli.. sté stavy
+-vakuum čela.. úvahy
+-vzdálené.. volnosti vlohy
+-vidina.. piedestal postavy
+-prostřed někoho.. bokem vřavy
+-pyžamo.. úbor únavy
 -
 -
 -Žít
@@ -235,117 +181,31 @@ Pod nebí
 -máma  sivější, sivá
 -parte  íá
 
-
-+Dno
-+---
-
- ve světle
- za šera
-@@ -14,10 +14,6 @@ přimknuta
- zem skonem  vzdor
- hlubší  a rozryta
-
--
--Hodiny
--------
--
- nocí hlasy
- vrásky  kání krajiny
- doufat víc  nekončit
-@@ -30,19 +26,11 @@ zdrží-li  se rodiny
- ve větvoví
- nadešlé světa  hodiny
-
--
--Zlom
------
--
- balanc  do sevření
- vteřiny  zasnění
- nic za nic  jich jmění
- frakturou  pod víčky
--smír  krašší domnění
+,
 
 -Fáma
 -----
 -
 -zpatříš ji
 -dosah ruky
--společné  my
--přes  veletoky
--věta sněná
--strádáš  loky
++k My
++přes veletoky
++svádí  něžné roky
++rým, tři sloky
 
--oblak  chtíč nebe
--bytí  žůžo hra
--chodník svádí
--silhouettu  č. dva
--
+,
 
--Bylo
------
--
 -Hloupé
 -co bylo.
 -Lepší
 -co jistě bude.
 
+,
+
 +milé dráma
 +vším tělem
 +pána Jána!
 
-+svádí  něžné roky
-+rým, tři sloky
-
-+zpatříš ji
-+dosah ruky
-+k My
-+přes veletoky
-
-------
-
-Nnámořník na molu
-vyje po úkolu
-
------
-
- zmatení
- hle nový vjem!
- udatnost
- leč nepřeje jí den
-
-mřít
-▒====
-
- plachtí
- v ságu bdění
- přimknuta
--zem skonem  tím
-+zem skonem  vzdor
- hlubší  a rozryta
-
-===
-
--bytí  trochu hra
--a trochu
--silhouetta  č. dva
-
-´▒===
-
--Hodiny
--------
--
--nocí hlasy
--vrásky  zralost krajiny
--doufat víc  nekončit
--lad hlušiny
--na Adama
--Evy jmeniny
--míza předků
--za dcery  za syny
--vydrží-li  rodiny
--ve větvoví
--nadešlé světa  hodiny
 
 Po těle
 =======
@@ -358,7 +218,6 @@ Po těle
  úzko  běda
  sval snahy
  křídla motýlí
--prach   zůstatek doby
 +prach  dým doby
  já  a já
  vnitř  sami
@@ -379,11 +238,6 @@ Po těle
 +pyžamo  úbor
  únavy
 
-
-=====
-
-patník
-do dávna
 
 ====
 
