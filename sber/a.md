@@ -829,6 +829,11 @@ A
 > Life is a great big canvas, and you should throw all the paint on it you can.
 > *Danny Kaye*
 
+.
+
+> The difference between a dream and reality is just doing it.
+> *Boey Chimming, TED Ads*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
