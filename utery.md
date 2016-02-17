@@ -9,50 +9,39 @@ Plout..
 dál od lidí  
 pro lásku dnů  
 musím, když nevidí  
-ty uzlíčky samoty
-
+ty uzlíčky samoty  
 a snů
 
 ,
 
-Je ti dvacet tři  
-a musíš to začít brát vážně.
+ hřbet času  
+vzdálenost hvězd smýt  
+křehkou spásu.. leť si  
+kam chtějí tě vzít.
 
 ,
 
-Pohladit hřbet času  
-a vzdálenost hvězd smýt.  
-V křehkou spásu  
-leť si — kam chtějí tě vzít.
+jsi silhouetta  
+co prošla mnou  
+být.. chybou tvou  
+vidět tě.. 
+nocí první, stou
 
 ,
 
-jsi krásná, první, stá  
-být chybou tvou  
-snáším svět prázdna  
-vidět tě — ještě jednou  
-jsi silhouetta!  
-co prošla mnou
-
-,
-
-tehdy záleželo  
-teď nezáleží
+Když tehdy záleželo  
+a teď nezáleží.
 
 ,
 
 nad stromy  
-už budeme sami —
+jsme sami —
 
 ,
 
 Byli jsme lepší, a věděli všechno.
 
 ,
-
-Co když  
-je to všechno jinak?
-
 
 
 +
