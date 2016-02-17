@@ -824,6 +824,11 @@ A
 > že se dá nejlépe vyjádřit mlčky.
 > *David Stephen Calonne*
 
+.
+
+> Life is a great big canvas, and you should throw all the paint on it you can.
+> *Danny Kaye*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
