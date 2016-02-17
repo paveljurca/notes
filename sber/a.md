@@ -834,6 +834,11 @@ A
 > The difference between a dream and reality is just doing it.
 > *Boey Chimming, TED Ads*
 
+.
+
+> Vytrvalost je důležitější než pravda.
+> *Charles Bukowski, Absence hrdiny*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)

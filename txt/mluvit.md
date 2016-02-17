@@ -149,7 +149,7 @@ Svět žije v pomlce, tichu. A člověk na rampě viděného tábora provádí s
 > na telegrafní tyč.
 > *Just, V.: Velký slovník floskulí. Leda, Voznice 2009, s. 18.*
 
-WWW předpona vede v Zem — slovník — přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo). Proč spěchat..
+WWW předpona svádí v Zem — slovník — přejatých myšlenek (Kundera, M.: Zneuznávané dědictví Cervantesovo). Proč spěchat..
 
 > Slyšel lidi mluvit, odpovídal jim, ale svým slovům nepřikládal žádnou váhu a nestaral se o to, co znamenají.
 > *Moberg, V.: Usedlíci. Knižní klub, Praha 1994 (2. vyd.), s. 262.*
@@ -163,12 +163,18 @@ p.s. Lepšejší televizní zprávy jsou ty bez zvuku.
 > Představte si to ticho, kdyby lidé říkali jen to, co vědí.
 > *Karel Čapek*
 
+> Každý spisovatel to má se slovem jinak.
+> Jeden si ho trhá z břicha.
+> Jiný ho vytahuje z kapsy kabátu.
+> *Charles Péguy*
+
+
 Do hlavy Joe Nohy
 =================
 
 Lidi mluví a mluví, ale nemyslim si, že chtějí něco říct.
 Použitá literatura? Použitý toaletní papír!
 Problém tohohle světa je, že mu nestačí jenom *literatura*, chce ji mít *krásnou* nebo *použitou*.
-S podstatným jménem si nevystačí.
+Nechci jejich přídavný jména. Chci svoje!
 
 
