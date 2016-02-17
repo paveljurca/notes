@@ -1,9 +1,4 @@
 
-nohy  
-kvapí dál  
-do doby
-
-
 Řádky  
 vzpomenout.  
 Číst zpátky.  
@@ -344,4 +339,10 @@ Hrůzné zjištění
  kormorán z pobřeží
  Jen on zná bolest mou
  jen on nehřeší
+
+,
+
+nohy  
+Jack Daniel's
+Honey
 
