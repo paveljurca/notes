@@ -346,3 +346,9 @@ nohy
 Jack Daniel's
 Honey
 
+,
+
+každej den  
+umíráme s tím  
+že o sobě víme
+
