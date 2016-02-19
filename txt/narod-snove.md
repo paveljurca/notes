@@ -1,6 +1,10 @@
 V pohodě
 ========
 
+The Club of Rome and the Limits to Growth
+Orio Giarini, italský ekonom
+http://www.clubofrome.net/news/index.html#giarini
+
 Krátká verze: [Zoufalci](http://www.novinky.cz/komentare/386496-komentar-zoufalci-vaclav-klaus-ml.html).
 
 chceme-li za každou žádostí vidět člověka => [Samba](http://www.aerovod.cz/katalog/samba/)
