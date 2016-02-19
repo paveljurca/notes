@@ -839,6 +839,11 @@ A
 > Vytrvalost je důležitější než pravda.
 > *Charles Bukowski, Absence hrdiny*
 
+.
+
+> It is our job to know where to look.
+> *Lawrence M. Krauss*
+
 
 * __other__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
