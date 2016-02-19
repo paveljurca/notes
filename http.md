@@ -196,6 +196,7 @@ __misc__
 * [Pravý břeh](https://www.pravybreh.cz/)
 * [Project for the Study of the 21st Century](http://projects21.com/category/society-and-culture/)
 * [The Sinocism China Newsletter](https://sinocism.com/?tag=newsletter)
+* [Atlantic Council](http://www.atlanticcouncil.org/blogs/futuresource)
 
 __radio3__
 * [Dave Winer's](http://radio3.io/users/davewiner/)
