@@ -832,7 +832,7 @@ A
 .
 
 > The difference between a dream and reality is just doing it.
-> *Boey Chimming, TED Ads*
+> *Boey Chimming, Sharpie*
 
 .
 
@@ -843,6 +843,11 @@ A
 
 > It is our job to know where to look.
 > *Lawrence M. Krauss*
+
+.
+
+> Every change makes it worse. Don't forget that.
+> *Henrik Ibsen*
 
 
 * __other__
