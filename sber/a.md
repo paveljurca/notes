@@ -846,8 +846,14 @@ A
 
 .
 
-> Every change makes it worse. Don't forget that.
+> Every change makes things worse.
 > *Henrik Ibsen*
+
+.
+
+> Myšlenky plynou z činnosti a ne z hlavy, která zírá.
+> Nejlepší inspirací je termín. Nutnost.
+> *Miroslav Horníček*
 
 
 * __other__
