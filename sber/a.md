@@ -775,7 +775,7 @@ A
 .
 
 > Kde nejsem sám, tam je přelidněno.
-> *Pavel Pojar, misantrop*
+> *Pavel Pojar*
 
 .
 
@@ -854,6 +854,23 @@ A
 > Myšlenky plynou z činnosti a ne z hlavy, která zírá.
 > Nejlepší inspirací je termín. Nutnost.
 > *Miroslav Horníček*
+
+.
+
+> Until lions have their historians, histories of the hunt will glorify the hunter.
+> *African proverb*
+
+.
+
+> Na konci 90. let se to jmenovalo application service provider,
+> dnes se tomu říká cloud. Samozřejmě se vyvíjejí i samotné technologie,
+> ale názvosloví jde rychleji.
+> *Jiří Voves, 11. 2. 2016*
+
+.
+
+
+> *norský úzus*
 
 
 * __other__
