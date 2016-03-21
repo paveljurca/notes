@@ -352,3 +352,8 @@ každej den
 umíráme s tím  
 že o sobě víme
 
+,
+
+že neví
+nestačí   aby (abychom) nebyli
+

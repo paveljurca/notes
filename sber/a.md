@@ -869,11 +869,17 @@ A
 
 .
 
+> Věděl jsem, že ať se děje, co se děje, chci si žít tak,
+> jak to cítím a potřebuji, nechci žít, jak se má.
+> *Ralph Young, 13. 8. 2015*
+
+.
+
 
 > *norský úzus*
 
 
-* __other__
+* __jinde__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
 * [Familiar and Unfamiliar Quotations](http://norvig.com/quotations.html)
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
