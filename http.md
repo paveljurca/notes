@@ -487,6 +487,7 @@ __radio3__
 * [Martin Tisné](http://tisne.org/)
 * [Michael Larabel](https://www.phoronix.com/scan.php?page=phoronix_news)
 * [David Jacoby](http://varlogrant.blogspot.com/)
+* [Rory Cellan-Jones](http://www.bbc.com/news/correspondents/rorycellanjones)
 
 ## podcast
 
