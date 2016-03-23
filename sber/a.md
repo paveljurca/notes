@@ -875,6 +875,12 @@ A
 
 .
 
+> Záleží jen na tom, co děláte: to pomáhá všem, kteří chtějí pochopit svět,
+> přizpůsobit se, nalézt sebedůvěru a prorazit novou, svoji cestu.
+> *Milan Zelený*
+
+.
+
 
 > *norský úzus*
 
