@@ -1505,6 +1505,8 @@ významosloví
 stínohra
 * _šmok_
 prodejný novinář
+* _šosák_
+maloměšťan
 * _šovinizmus_
 fanatická nadřazenost
 * _švabach_
@@ -1512,7 +1514,7 @@ gotické písmo
 * _tabu_
 nedotknutelnost
 * _tabula rasa_
-nepopsaný list
+prázdný list
 * _tacitní_
 vžitý
 * _talmud_
