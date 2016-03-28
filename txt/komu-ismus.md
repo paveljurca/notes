@@ -272,6 +272,11 @@ p.p.s.
 > Zabijete-li jich milion, je to statistika.
 > *Josif Vissarionovič Stalin*
 
+\*
+> Nikdy jsem nic neměl proti ubožákům, kteří skutečně věřili, že jim komunismus dovolí lepší život.
+> Bojoval jsem proti těm, kteří těm ubožákům nalejvali hlavy.
+> *Pavel Knihař, MfD Víkend 26. 3. 2016, s. 14.*
+
 
 * __apod.__
 * [Komunistický manifest](https://www.gutenberg.org/files/31193/31193-h/31193-h.htm)
