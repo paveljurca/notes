@@ -1,7 +1,7 @@
 Linux commands
 ==============
 
-_*nix quick ref_
+_some quick ref_
 
 
 ## system
