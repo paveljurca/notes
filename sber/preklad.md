@@ -329,6 +329,8 @@ zásada
 až příliš oddaný
 * _devíza_
 průpověď
+* _diadém_
+korunka
 * _dialektika_
 umění sporu
 * _diaspora_
@@ -434,7 +436,7 @@ právě proto
 * _eon_
 čas
 * _epigonství_
-napodobování
+nápodoba
 * _epigram_
 krátké výstižné veršování
 * _episkopální_
