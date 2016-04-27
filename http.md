@@ -522,6 +522,7 @@ __dev__
 * [Bothsides TV](https://soundcloud.com/bothsidestv/sets)
 * [Accidental Tech](http://atp.fm/)
 * [Marketing for Developers](http://simplecast.fm/podcasts/1446/rss)
+* [Loosely Coupled](http://looselycoupled.info/blog/archives/)
 
 __bbc__
 * [bbc.co.uk/podcasts](http://bbc.co.uk/podcasts)
