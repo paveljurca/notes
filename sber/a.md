@@ -881,14 +881,12 @@ A
 
 .
 
-> Shromažďujte si poklady moudrosti, neboť v jejím vlastnictví jest mnoho panování;
-> budete-li nenávidět lakomství, poplyne vám bohatství.
+> Shromažďujte si poklady moudrosti neboť v jejím vlastnictví jest mnoho panování.
 > *Karel IV.*
 
 .
 
 > MfD Mag., ucitel CESTINY 
-
 > **
 
 .
