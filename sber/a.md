@@ -881,8 +881,31 @@ A
 
 .
 
+> Shromažďujte si poklady moudrosti, neboť v jejím vlastnictví jest mnoho panování;
+> budete-li nenávidět lakomství, poplyne vám bohatství.
+> *Karel IV.*
+
+.
+
+> MfD Mag., ucitel CESTINY 
+
+> **
+
+.
+
+> Co je krása? Nehoda.
+> *Pavlína Pořízková*
+
+.
+
 
 > *norský úzus*
+
+.
+
+> The most common way people give up their power
+> is by thinking they don't have any.
+> *Alice Walker*
 
 
 * __jinde__
