@@ -886,6 +886,11 @@ A
 
 .
 
+> Budete-li nenávidět lakomství, poplyne vám bohatství.
+> *Karel IV.*
+
+.
+
 > MfD Mag., ucitel CESTINY 
 > **
 
