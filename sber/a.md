@@ -910,6 +910,11 @@ A
 > is by thinking they don't have any.
 > *Alice Walker*
 
+.
+
+> Každý den dává každému šanci sám začít!
+> *Jan Šinágl*
+
 
 * __jinde__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
