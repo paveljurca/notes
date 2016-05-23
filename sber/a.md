@@ -832,7 +832,7 @@ A
 .
 
 > The difference between a dream and reality is just doing it.
-> *Boey Chimming, Sharpie*
+> *Boey Chimming, artist*
 
 .
 
@@ -886,23 +886,13 @@ A
 
 .
 
-> Budete-li nenávidět lakomství, poplyne vám bohatství.
-> *Karel IV.*
-
-.
-
-> MfD Mag., ucitel CESTINY 
-> **
+> Děti jsou obecně daleko méně připravené na systematickou a houževnatou práci.
+> *Josef Soukal, 24. 3. 2016*
 
 .
 
 > Co je krása? Nehoda.
 > *Pavlína Pořízková*
-
-.
-
-
-> *norský úzus*
 
 .
 
@@ -914,6 +904,21 @@ A
 
 > Každý den dává každému šanci sám začít!
 > *Jan Šinágl*
+
+.
+
+> Oproti našim začátkům se také změnila hodnota času. Za nás ho bylo na všechno dost.
+> *Milena Steinmasslová, 23. 5. 2016*
+
+.
+
+> Budete-li nenávidět lakomství, poplyne vám bohatství.
+> *Karel IV.*
+
+.
+
+
+> *norský úzus*
 
 
 * __jinde__
