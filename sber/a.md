@@ -917,6 +917,11 @@ A
 
 .
 
+> Lisabonská smlouva praktickým výkladem změnila svůj obsah.
+> *Klára Samková, 23. 5. 2016*
+
+.
+
 
 > *norský úzus*
 
