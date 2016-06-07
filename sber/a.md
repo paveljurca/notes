@@ -922,6 +922,11 @@ A
 
 .
 
+> The world is an absolute game of my absolute will.
+> *Ladislav Klíma*
+
+.
+
 
 > *norský úzus*
 
