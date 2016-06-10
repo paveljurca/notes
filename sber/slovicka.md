@@ -1,9 +1,11 @@
-Překlad
-=======
+Slovíčka
+========
 
-Letmý přehled slov, na která jsem narážel a která zdržovala,
-protože nebyla česky..
+Zdržují, protože nejsou česky!
 
+„Dóbrej _content_, ty vole!“
+
+„xD xo xo^^^“
 
 * _a limine_
 zásadně
@@ -1669,8 +1671,4 @@ nepříjemný
 potvrdit
 * _žoviální_
 bodrý
-
-
-p.s. Zpeněžit nebo *monetizovat*?
-
 
