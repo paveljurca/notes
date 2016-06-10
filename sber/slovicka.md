@@ -3,7 +3,7 @@ Slovíčka
 
 Zdržují, protože nejsou česky!
 
-„Dóbrej _content_, ty vole!“
+„Dóbrej _content_, ty kastráte!“
 
 „xD xo xo^^^“
 
