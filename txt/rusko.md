@@ -1,6 +1,10 @@
 Rusko
 =====
 
+=============
+PŘEPSAT
+=============
+
 Ruská [láska](http://www.divadlonavinohradech.com/divadelni-hra/Laska-na-Krymu)
 ke Krymu došla svého konce
 nebo snad staronového začátku.
@@ -8,6 +12,10 @@ Prý vůle lidu, ale kterého? Sounáležitost
 jeví se hanebně. Vavřínové věnce teď sklízí
 právo na sebeurčení, ačkoli na pomnících té
 myšlenky leží už věnce smuteční.
+
+=============
+PŘEPSAT
+=============
 
 Perestrojka směnila *jistoty* ve volnější
 a svobodnější imperativ konzumní osnovy:
@@ -22,12 +30,20 @@ ruský oxymóron už ze starých dob.
 > dělají co říkám.
 > *Calvera, Sedm statečných, 1960.*
 
+=============
+PŘEPSAT
+=============
+
 Funkcionáři opírají se o lichou naději, že Obyvatel
 snad ví, jak se má chovat. *Neví to*, nikde se to neučí. 
 Zábrany z hlav mizí rychle, obzvláště pak z těch ruských.
 Patočka zmínil zákonitosti vnitřní (filosofie)
 a vnější (právo). Rusům se nedostává obého.
 Dříve by byla válka, dnes jsme humánější: máme sankce.
+
+=============
+PŘEPSAT
+=============
 
 Rozpínavost, asi (jedno!)duchá věc:
 každý hraniční patník k dobru dá zapomenout
@@ -73,6 +89,10 @@ a podivní lidé tam asi vždy snáze udělají kariéru.
 > hranic, aby zničili evropskou civilizaci.
 > *Mises, von L.: Liberalismus. Ekopress, Praha 1998, s. 122.*
 
+=============
+PŘEPSAT
+=============
+
 Prosté a poddajné dělnictvo je tichým strůjcem
 režimu. Jejich apatie je neukojitelná. Ani okusování kůry
 ze stromů nebylo důvodem k otázkám.
@@ -109,6 +129,10 @@ musejí nejprve stát.
 > život za půl kopejky a cizí už docela zadarmo.
 > *Peroutka, F.: Jací jsme; Demokratický manifest. Středočeské nakl. a knih., Praha 1991, s. 116.*
 
+=============
+PŘEPSAT
+=============
+
 Matička Rus navykla už synonymu armády,
 arzenálu zbraní, bigotnosti a strachu. A protože
 bránit není co, tahle armáda může jen útočit.
@@ -144,6 +168,10 @@ historie tu s námi nemuselo být.
 Až to vypadá, že je jedno, co člověk udělá:
 vždy to totiž udělá špatně.
 
+=============
+PŘEPSAT
+=============
+
 Machina mundi, stroj světa, je štelován
 byrokraty, jež v územním celku
 „netknutě dělí“ vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
@@ -178,6 +206,10 @@ jež se děly kolem dohody [ACTA](http://www.vlada.cz/cz/media-centrum/aktualne/
 Za svízelí v porozumění mezi národy stojí
 věc jediná: lidská
 
+=============
+PŘEPSAT
+=============
+
 . A proti té se
 těžko pořádá *exodus nebo exitus*
 — jedeme v ní všichni. 
@@ -197,6 +229,13 @@ Vyšumělo 25 let, a mnoho se nezměnilo:
 A netřeba snad připomínat,
 že na bratrskou výpomoc v šedesátém osmém
 *nikagda nězabudněm*.
+
+> Navzdory obrazu světové mocnosti, který země projektuje do zahraničí, je zřejmé, že sami Sověti si nejsou jisti svými národními schopnostmi. Tento komplex méněcennosti pramení ze století ekonomické zaostalosti, z vojenské zranitelnosti a ze zkušenosti despotických vlád.
+> *Newsweek 29. 5. 1972*
+
+> Mezi sebou navzájem Rusové argumentují, že autoritářský systém je přirozeným řádem věcí v jejich zemi. My jsme příliš velcí, chaotičtí a neřiditelní. Pokud bychom  zítra získali demokracii, země by se rozpadla.
+> *Andrej Amalrik, Newsweek 29. 5. 1972*
+
 
 * __apod.__
 * Kovtun, J.: Pražská ekloga
@@ -222,7 +261,7 @@ A netřeba snad připomínat,
 * Solženicyn, A.: Rakovina
 * Zima, J.: Zima v Rusku
 * Zubov, A.: Dějiny Ruska 20. století
-* Dostojevskij, Gogol, Tolstoj, Puškin, apod.
+* Dostojevskij, Gogol, Tolstoj, Puškin..
 * Vaněk, K.: Charašo pán, da?
 
 __o Trockém__
