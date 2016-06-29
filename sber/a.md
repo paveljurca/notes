@@ -927,6 +927,11 @@ A
 
 .
 
+> Right now it's only a notion, but I think I can get money to make it into a concept, and later turn it into an idea.
+> *Woody Allen*
+
+.
+
 
 > *norský úzus*
 
