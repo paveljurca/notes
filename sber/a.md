@@ -932,6 +932,11 @@ A
 
 .
 
+> Everyday, think as you wake up.
+> *Dalai Lama*
+
+.
+
 
 > *norský úzus*
 
