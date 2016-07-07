@@ -937,6 +937,20 @@ A
 
 .
 
+> Everyone who got where he is had to begin where he was.
+> *Richard L. Evans*
+
+.
+
+> It was so impossible, you couldn't even think about it.
+> *Charles Bukowski, Post Office*
+
+.
+
+> Lady, how the hell do I know who you are or I am or anybody is?
+> *Charles Bukowski, Post Office*
+
+.
 
 > *norský úzus*
 
@@ -947,4 +961,3 @@ A
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
 * [Brian Clapper's collect.](https://raw.githubusercontent.com/bmc/fortunes/master/fortunes)
 * [Shlomi Fish's collect.](http://www.shlomifish.org/humour/fortunes/shlomif-fav)
-
