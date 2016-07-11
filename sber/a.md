@@ -937,13 +937,13 @@ A
 
 .
 
-> Everyone who got where he is had to begin where he was.
-> *Richard L. Evans*
+> It was so impossible, you couldn't even think about it.
+> *Charles Bukowski, Post Office*
 
 .
 
-> It was so impossible, you couldn't even think about it.
-> *Charles Bukowski, Post Office*
+> Everyone who got where he is had to begin where he was.
+> *Richard L. Evans*
 
 .
 
@@ -954,6 +954,11 @@ A
 
 > The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 > *Oscar Wilde*
+
+.
+
+> Jsi dítě a z těchhle věcí nemáš pojem.
+> *Arthur Miller, Pohled z mostu*
 
 .
 
