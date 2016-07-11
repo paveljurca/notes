@@ -3,6 +3,28 @@ Observanda
 
 * [Bret Victor's](http://worrydream.com/quotes/)
 
+
+__Co nám neřekli, si můžeme přečíst.__
+
+
+MILLER
+======
+
+To jako říkáte, že na chlapa, co není v pořádku, není
+žádnej zákon, že takovej chlap může chodit do práce
+a vzít si děvče?
+(Miller, A.: Pohled z mostu. ARTUR, Praha 2010 (2. vyd.), s. 47.)
+
+Jsou takové okamžiky, kdy by člověk nejradši zvonil
+na poplach, a přitom se vlastně nic nestalo. Věděl jsem
+to, hned jsem to věděl — už tenkrát odpoledne [..]
+(Miller, A.: Pohled z mostu. ARTUR, Praha 2010 (2. vyd.), s. 50.)
+
+Ne, Beatrice, jestli dělá něco špatně, musíte mu to říct.
+— Co dělá špatně?
+(Miller, A.: Pohled z mostu. ARTUR, Praha 2010 (2. vyd.), s. 54.)
+
+
 NEUMANN
 =======
 
