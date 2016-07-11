@@ -967,6 +967,11 @@ A
 
 .
 
+> Nesouhlas má být nenásilný.
+> *Barack Obama*
+
+.
+
 > *norský úzus*
 
 
