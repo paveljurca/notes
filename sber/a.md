@@ -962,6 +962,11 @@ A
 
 .
 
+> Write life, not art.
+> *Charles Bukowski*
+
+.
+
 > *norský úzus*
 
 
