@@ -972,6 +972,11 @@ A
 
 .
 
+> The funniest people are the saddest once.
+> *Confucius*
+
+.
+
 > *norský úzus*
 
 
