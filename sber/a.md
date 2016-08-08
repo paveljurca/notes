@@ -982,6 +982,21 @@ A
 
 .
 
+> News reports don't change the world. Only facts change it, and those have already happened when we get the news.
+> *Friedrich Dürrenmatt*
+
+.
+
+> The world is bad but not without hope. It is only hopeless when you look at it from an ideal viewpoint.
+> *Friedrich Dürrenmatt*
+
+.
+
+> Life isn't what we want but what we have.
+> *unknown*
+
+.
+
 > *norský úzus*
 
 
