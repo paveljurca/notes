@@ -977,6 +977,11 @@ A
 
 .
 
+> Work hard in silence; let success make the noise.
+> *Obay Ibrahim*
+
+.
+
 > *norský úzus*
 
 
