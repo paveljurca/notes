@@ -997,6 +997,11 @@ A
 
 .
 
+> A new way of reading can produce a better way to live.
+> *Kate Millett*
+
+.
+
 > *norský úzus*
 
 
