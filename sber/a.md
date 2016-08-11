@@ -1002,6 +1002,11 @@ A
 
 .
 
+> Každý ví, že gymnastika je nejtěžší sport na světě. A pokud to nevíte, tak nevíte nic o gymnastice.
+> *Danell Leyva*
+
+.
+
 > *norský úzus*
 
 
