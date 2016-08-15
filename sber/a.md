@@ -1007,6 +1007,11 @@ A
 
 .
 
+> Občas musíte přijmout, že ten kluk na kurtu proti vám je lepší.
+> *Roger Federer*
+
+.
+
 > *norský úzus*
 
 
