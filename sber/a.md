@@ -1022,6 +1022,11 @@ A
 
 .
 
+> Všechno, co dostáváme v životě po čtyřicítce, je vlastně navíc.
+> *Martin Hollý*
+
+.
+
 > *norský úzus*
 
 
