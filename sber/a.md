@@ -1012,6 +1012,16 @@ A
 
 .
 
+> I no longer want it all, just some comfort and some sex and some minor love.
+> *Charles Bukowski*
+
+.
+
+> Já rozhodně každý nový den nevítám. Jen se mi po chemoterapii změnily chutě.
+> *Jiří Bartoška, 18. 8. 2016*
+
+.
+
 > *norský úzus*
 
 

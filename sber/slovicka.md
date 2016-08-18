@@ -1,12 +1,10 @@
 Slovíčka
 ========
 
-Zdržují, protože nejsou česky!
+Zdržuje a rozumu nepřidá, co není česky.
 
-„Dóbrej _content_, ty kastráte!“
-
-„xD xo xo^^^“
-
+* _Alea iacta est_
+Tak jest
 * _a limine_
 zásadně
 * _a posteriori_

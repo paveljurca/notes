@@ -175,7 +175,7 @@ PŘEPSAT
 Machina mundi, stroj světa, je štelován
 byrokraty, jež v územním celku
 „netknutě dělí“ vědomí chvíle ve dví. *Příklad: Studená válka byla záležitostí
-asi tak půl druhého tisíce lidí. Zbylých pět miliard suchozemců chodilo — jako obyčejně — do práce.*
+asi tak půl druhého tisíce lidí. Zbylých pět miliard suchozemců chodilo — jako obyčejně — do práce, nebo taky ne.*
 Z druhé půle „chvíle“ jsou totiž samotní lidé (z těch prvních je malůvka podpisových čar),
 kteří sice cítí a žijí krize, ale nemohou víc,
 než co čtyři roky ustanovit nad-lidi,
