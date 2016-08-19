@@ -1023,7 +1023,12 @@ A
 .
 
 > Všechno, co dostáváme v životě po čtyřicítce, je vlastně navíc.
-> *Martin Hollý*
+> *Martin Hollý, Moje psychologie*
+
+.
+
+> Spokojenost je to, co prožívám já.
+> *Martin Hollý, Moje psychologie*
 
 .
 
