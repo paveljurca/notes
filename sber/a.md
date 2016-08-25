@@ -1007,8 +1007,8 @@ A
 
 .
 
-> Občas musíte přijmout, že ten kluk na kurtu proti vám je lepší.
-> *Roger Federer*
+> The idea of Europe v the rest of the World is nothing we've ever seen before.
+> *Roger Federer, Lever Cup 25. 8. 2016*
 
 .
 
@@ -1023,12 +1023,27 @@ A
 .
 
 > Všechno, co dostáváme v životě po čtyřicítce, je vlastně navíc.
-> *Martin Hollý, Moje psychologie*
+> *Martin Hollý, 1. 8. 2016*
 
 .
 
 > Spokojenost je to, co prožívám já.
-> *Martin Hollý, Moje psychologie*
+> *Martin Hollý, 1. 8. 2016*
+
+.
+
+> One gets large impressions in boyhood, sometimes, which he has to fight against all his life.
+> *Mark Twain, The Innocents Abroad*
+
+.
+
+> Lidé se tlačí k světlu ne proto, aby lépe viděli, ale aby mohli více zářit.
+> *Friedrich Nietzsche*
+
+.
+
+> Lidé pomalí v poznávání se domnívají, že pomalost patří k poznávání.
+> *Friedrich Nietzsche*
 
 .
 
