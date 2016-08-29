@@ -1047,6 +1047,11 @@ A
 
 .
 
+> We cannot walk alone. And as we walk, we must make the pledge that we shall always march ahead. We cannot turn back.
+> *Martin Luther King Jr.*
+
+.
+
 > *norský úzus*
 
 
