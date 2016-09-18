@@ -134,6 +134,7 @@ imdb
 slashdot
 livejournal
 buzzfeed.com
+https://github.com/major/MySQLTuner-perl
 cPanel
 openfoodfacts.org
 ipcalc
