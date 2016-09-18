@@ -1052,6 +1052,12 @@ A
 
 .
 
+> Technology is dominated by two types of people: those who understand
+> what they do not manage, and those who manage what they do not understand.
+> *Putt's Law*
+
+.
+
 > *norský úzus*
 
 
