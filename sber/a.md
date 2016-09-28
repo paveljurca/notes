@@ -65,7 +65,7 @@ A
 .
 
 > Nechovejte se hloupě a nedělejte nic nelegálního. Všechno je pak jednodušší.
-> *pravidlo Disqus.com*
+> *pravidlo Disqus.com, 2013*
 
 .
 
@@ -821,7 +821,7 @@ A
 .
 
 > Ať už je smysl existence jakýkoli, je tak nesmyslný,
-> že se dá nejlépe vyjádřit mlčky.
+> že je nejlépe vyjádřit ho mlčky.
 > *David Stephen Calonne*
 
 .
@@ -1055,6 +1055,11 @@ A
 > Technology is dominated by two types of people: those who understand
 > what they do not manage, and those who manage what they do not understand.
 > *Putt's Law*
+
+.
+
+> Nejsem rasista. Popravdě, nesnáším všechny lidi stejně.
+> *Woody Harrelson, Rampart*
 
 .
 
