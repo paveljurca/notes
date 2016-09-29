@@ -1,96 +1,71 @@
 A
 =
 
-> Define or be defined.
-> *Thomas Szasz*
+Define or be defined / Thomas Szasz
 
 .
 
-> Bděte, neboť nevíte dne ani hodiny.
-> *Mt 25,13*
+Bděte, neboť nevíte dne ani hodiny / Mt 25,13
 
 .
 
-> Blažený ten, kdo byl, dříve než se stal.
-> *log. 19*
+Blažený ten, kdo byl, dříve než se stal / log. 19
 
 .
 
-> [..] for character is not what you do, it's the way you do it.
-> *James Hillman, The Soul's Code*
+[..] for character is not what you do, it's the way you do it / James Hillman, The Soul's Code*
 
 .
 
-> Remember there are no shortcuts, son.
-> *Lou Mannheim, Wall Street*
+Remember there are no shortcuts, son / Lou Mannheim, Wall Street
 
 .
 
-> Kritik je člověk, který nám říká, jak by to udělal, kdyby to sám uměl.
-> *Karel Čapek*
+Kritik je člověk, který nám říká, jak by to udělal, kdyby to sám uměl / Karel Čapek
 
 .
 
-> Hudba je lékem na trápení duše.
-> *Johann Sebastian Bach*
+Hudba je lékem na trápení duše / Johann Sebastian Bach
 
 .
 
-> Uč se, nekurvi se, neflámuj.
-> *Karel Steigerwald, Tatarská pouť*
+Uč se, nekurvi se, neflámuj / Karel Steigerwald, Tatarská pouť
 
 .
 
-> Už toho, chlapče, nech a dělejme to,
-> co je nutné. Písně si zapějem lépe potom.
-> *Vergilius, Zpěvy pastýřské*
+Už toho, chlapče, nech a dělejme to, co je nutné. Písně si zapějem lépe potom / Vergilius, Zpěvy pastýřské
 
 .
 
-> V Jaspersově pojetí je člověk jen možnou existencí.  
-> Ne každý člověk se existencí skutečně stává.
-> *Ladislav Hejdánek, Člověk a jeho dluhy*
+V Jaspersově pojetí je člověk jen možnou existencí. Ne každý člověk se existencí skutečně stává / Ladislav Hejdánek, Člověk a jeho dluhy
 
 .
 
-> You are self-made, or never-made.
-> *Bill Gates*
+You are self-made, or never-made / Bill Gates
 
 .
 
-> I accepted the inevitable: I became an adult.
-> That was how my expulsion from the present began.
-> *Octavio Paz, In Search of the Present*
+I accepted the inevitable: I became an adult. That was how my expulsion from the present began / Octavio Paz, In Search of the Present
 
 .
 
-> Nechovejte se hloupě a nedělejte nic nelegálního. Všechno je pak jednodušší.
-> *pravidlo Disqus.com, 2013*
+Nechovejte se hloupě a nedělejte nic nelegálního. Všechno je pak jednodušší / Disqus.com, 2013
 
 .
 
-> Lid milá Duňo je dneska bdělej,  
-> ale bohužel gramotnej. Proč říkám bohužel?  
-> Protože kdyby byl jenom bdělej,  
-> to by ještě tak nevadilo,  
-> ale jak je gramotnej —  
-> tak umí napsat udání.
-> *Timofejič Golubjev, Čonkin*
+Lid milá Duňo je dneska bdělej, ale bohužel gramotnej. Proč říkám bohužel? Protože kdyby byl jenom bdělej, to by ještě tak nevadilo, ale jak je gramotnej — tak umí napsat udání/ Timofejič Golubjev, Čonkin
 
 .
 
-> Leč věci, jež nemají žádný řád, nemají ani dlouhého trvání.
-> *Giovanni Boccaccio, Dekameron*
+Leč věci, jež nemají žádný řád, nemají ani dlouhého trvání / Giovanni Boccaccio, Dekameron
 
 .
 
-> Není snad život jakési trvalé odkládání sebevraždy na později?
-> *Václav Havel, Dálkový výslech*
+Není snad život jakési trvalé odkládání sebevraždy na později? / Václav Havel, Dálkový výslech
 
 .
 
-> Přišli jsme na to, že člověk nemá umírat, nýbrž žít.
-> *Ferdinand Peroutka, Jací jsme*
+Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Peroutka, Jací jsme
 
 .
 
