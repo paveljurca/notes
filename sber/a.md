@@ -1038,6 +1038,14 @@ Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Perou
 
 .
 
+Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášterech a modlit se. Ale pouhá modlitba nestačí / Džigme Kongčhok Lhamo, MfD 1. 10. 2016
+
+.
+
+Šmarjá, kdo bude jednou pracovat, když všichni chtějí sedět doma a tahat myší? / Pavel Trávníček, 30. 9. 2016
+
+.
+
 > *norský úzus*
 
 
