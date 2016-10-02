@@ -1046,6 +1046,10 @@ Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášte
 
 .
 
+There are three rules for writing the novel. Unfortunately, no one knows what they are / W. Somerset Maugham
+
+.
+
 > *norský úzus*
 
 
