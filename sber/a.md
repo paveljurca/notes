@@ -1050,6 +1050,10 @@ There are three rules for writing the novel. Unfortunately, no one knows what th
 
 .
 
+S trochou nadsázky se bojím spíše o budoucnost mužů v byznysu. Mladé ženy jsou často mnohem aktivnější a cílevědomější / Barbara Řimánková, 29. 9. 2016
+
+.
+
 > *norský úzus*
 
 
