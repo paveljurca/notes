@@ -1038,7 +1038,7 @@ Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Perou
 
 .
 
-Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášterech a modlit se. Ale pouhá modlitba nestačí / Džigme Kongčhok Lhamo, MfD 1. 10. 2016
+Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášterech a modlit se. Ale pouhá modlitba nestačí / Džigme Kongčhok Lhamo, 1. 10. 2016
 
 .
 
@@ -1051,6 +1051,10 @@ There are three rules for writing the novel. Unfortunately, no one knows what th
 .
 
 S trochou nadsázky se bojím spíše o budoucnost mužů v byznysu. Mladé ženy jsou často mnohem aktivnější a cílevědomější / Barbara Řimánková, 29. 9. 2016
+
+.
+
+Neexistuje postup, který by vedl k nejlepšímu rozhodnutí. Ale můžeme zvýšit pravděpodobnost, že se tak stane, pokud si vybereme správně / Aleš Neusar, 10. 10. 2016
 
 .
 
