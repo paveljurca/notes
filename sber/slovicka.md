@@ -1603,6 +1603,8 @@ Pravda vítězí
 velké tiskace
 * _vexilologie_
 historie vlajek
+* _vezdejší_
+pozemský
 * _via facti_
 vývojem věci
 * _vice_
