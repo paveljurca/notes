@@ -1058,6 +1058,10 @@ Neexistuje postup, který by vedl k nejlepšímu rozhodnutí. Ale můžeme zvý�
 
 .
 
+My life, and by extension everyone else's is meaningless / Bender, Futurama
+
+.
+
 > *norský úzus*
 
 
