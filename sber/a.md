@@ -1038,11 +1038,11 @@ Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Perou
 
 .
 
-Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášterech a modlit se. Ale pouhá modlitba nestačí / Džigme Kongčhok Lhamo, 1. 10. 2016
+Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášterech a modlit se. Ale pouhá modlitba nestačí / Džigme Kongčhok Lhamo 1. 10. 2016
 
 .
 
-Šmarjá, kdo bude jednou pracovat, když všichni chtějí sedět doma a tahat myší? / Pavel Trávníček, 30. 9. 2016
+Šmarjá, kdo bude jednou pracovat, když všichni chtějí sedět doma a tahat myší? / Pavel Trávníček 30. 9. 2016
 
 .
 
@@ -1050,15 +1050,19 @@ There are three rules for writing the novel. Unfortunately, no one knows what th
 
 .
 
-S trochou nadsázky se bojím spíše o budoucnost mužů v byznysu. Mladé ženy jsou často mnohem aktivnější a cílevědomější / Barbara Řimánková, 29. 9. 2016
+S trochou nadsázky se bojím spíše o budoucnost mužů v byznysu. Mladé ženy jsou často mnohem aktivnější a cílevědomější / Barbara Řimánková 29. 9. 2016
 
 .
 
-Neexistuje postup, který by vedl k nejlepšímu rozhodnutí. Ale můžeme zvýšit pravděpodobnost, že se tak stane, pokud si vybereme správně / Aleš Neusar, 10. 10. 2016
+Neexistuje postup, který by vedl k nejlepšímu rozhodnutí. Ale můžeme zvýšit pravděpodobnost, že se tak stane, pokud si vybereme správně / Aleš Neusar 10. 10. 2016
 
 .
 
 My life, and by extension everyone else's is meaningless / Bender, Futurama
+
+.
+
+ Sociální sítě, facebook a rychlá komunikace mezi lidmi. To mi připadá zásadnější než umělá inteligence a algoritmy. Vytváří to větší celky. [..] Překotnost změn je veliká. Člověk je tvor, který možná není připraven tak rychlé změny podstupovat / Libor Winkler 18. 10. 2016
 
 .
 
