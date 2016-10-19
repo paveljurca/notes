@@ -140,6 +140,9 @@ openfoodfacts.org
 ipcalc
 crowdtilt https://web.archive.org/web/20120914031745/http://dsog.info/blog/Perl/Hacking/Technology/2012/08/31/why-did-i-choose-perl-for-crowdtilt/?
 
+perl is all over the web, just look closer
+
+just today, came across email sign-up form on website http://www.aweber.com/sign-up-forms.htm, and it has called https://www.aweber.com/scripts/addlead.pl, what a day!
 
 
 jurcapavel.cz/Perl5
