@@ -1062,7 +1062,11 @@ My life, and by extension everyone else's is meaningless / Bender, Futurama
 
 .
 
- Sociální sítě, facebook a rychlá komunikace mezi lidmi. To mi připadá zásadnější než umělá inteligence a algoritmy. Vytváří to větší celky. [..] Překotnost změn je veliká. Člověk je tvor, který možná není připraven tak rychlé změny podstupovat / Libor Winkler 18. 10. 2016
+Sociální sítě, facebook a rychlá komunikace mezi lidmi. To mi připadá zásadnější než umělá inteligence a algoritmy. Vytváří to větší celky. [..] Překotnost změn je veliká. Člověk je tvor, který možná není připraven tak rychlé změny podstupovat / Libor Winkler 18. 10. 2016
+
+.
+
+Where the press is free, and every man able to read, all is safe / Thomas Jefferson to Charles Yancey 1816
 
 .
 
