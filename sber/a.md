@@ -1070,6 +1070,14 @@ Where the press is free, and every man able to read, all is safe / Thomas Jeffer
 
 .
 
+Život je neustále se zpřesňující definice toho, čím nikdy nebudeme / Ludvík Vaculík
+
+.
+
+Čím větší počet lidí něco rozhoduje, tím nižší je výsledek / Ludvík Vaculík
+
+.
+
 > *norský úzus*
 
 
