@@ -13,7 +13,7 @@ Blažený ten, kdo byl, dříve než se stal / log. 19
 
 .
 
-[..] for character is not what you do, it's the way you do it / James Hillman, The Soul's Code*
+[..] for character is not what you do, it's the way you do it / James Hillman, The Soul's Code
 
 .
 
@@ -1075,6 +1075,10 @@ Where the press is free, and every man able to read, all is safe / Thomas Jeffer
 .
 
 Čím větší počet lidí něco rozhoduje, tím nižší je výsledek / Ludvík Vaculík
+
+.
+
+Až to bude nejblbější, tak najednou se to začne obracet k lepšímu / Václav Havel 2011
 
 .
 
