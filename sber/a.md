@@ -1082,6 +1082,10 @@ Až to bude nejblbější, tak najednou se to začne obracet k lepšímu / Václ
 
 .
 
+We maintain the peace through our strength; weakness only invites aggression / Ronald Reagan 23. 3. 1983
+
+.
+
 > *norský úzus*
 
 
