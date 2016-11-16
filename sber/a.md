@@ -1090,6 +1090,10 @@ The world isn't run by the laws written on paper, it's run by people / Thomas An
 
 .
 
+Tak to kurva ani omylem / Bronislav Poloczek
+
+.
+
 > *norský úzus*
 
 
