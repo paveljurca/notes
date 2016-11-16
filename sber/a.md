@@ -1086,6 +1086,10 @@ We maintain the peace through our strength; weakness only invites aggression / R
 
 .
 
+The world isn't run by the laws written on paper, it's run by people / Thomas Angelo
+
+.
+
 > *norský úzus*
 
 
