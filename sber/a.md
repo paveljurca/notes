@@ -1094,6 +1094,14 @@ Tak to kurva ani omylem / Bronislav Poloczek
 
 .
 
+Be kind whenever it's possible / Dalai Lama
+
+.
+
+Poverty is not a lack of character. It’s a lack of cash / Rutger Bregman
+
+.
+
 > *norský úzus*
 
 
