@@ -1102,6 +1102,10 @@ Poverty is not a lack of character. It’s a lack of cash / Rutger Bregman
 
 .
 
+Bez peněz do postele nelez / Woody Allen, Riverside Drive
+
+.
+
 > *norský úzus*
 
 
