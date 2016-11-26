@@ -1106,6 +1106,10 @@ Bez peněz do postele nelez / Woody Allen, Riverside Drive
 
 .
 
+Příběhy za náma samy nepřijdou / Tomáš Slavata
+
+.
+
 > *norský úzus*
 
 
