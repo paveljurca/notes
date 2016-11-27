@@ -13,11 +13,11 @@ Blažený ten, kdo byl, dříve než se stal / log. 19
 
 .
 
-[..] for character is not what you do, it's the way you do it / James Hillman, The Soul's Code
+[..] for character is not what you do, it's the way you do it / James Hillman The Soul's Code
 
 .
 
-Remember there are no shortcuts, son / Lou Mannheim, Wall Street
+Remember there are no shortcuts, son / Lou Mannheim Wall Street
 
 .
 
@@ -1042,7 +1042,7 @@ Mnozí lidé říkají, že když jsme mnišky, máme zůstat ve svých klášte
 
 .
 
-Šmarjá, kdo bude jednou pracovat, když všichni chtějí sedět doma a tahat myší? / Pavel Trávníček 30. 9. 2016
+Šmarjá, kdo bude jednou pracovat, když všichni chtějí sedět doma a tahat myší / Pavel Trávníček 30. 9. 2016
 
 .
 
@@ -1058,11 +1058,7 @@ Neexistuje postup, který by vedl k nejlepšímu rozhodnutí. Ale můžeme zvý�
 
 .
 
-My life, and by extension everyone else's is meaningless / Bender, Futurama
-
-.
-
-Sociální sítě, facebook a rychlá komunikace mezi lidmi. To mi připadá zásadnější než umělá inteligence a algoritmy. Vytváří to větší celky. [..] Překotnost změn je veliká. Člověk je tvor, který možná není připraven tak rychlé změny podstupovat / Libor Winkler 18. 10. 2016
+My life, and by extension everyone else's is meaningless / Bender Futurama
 
 .
 
@@ -1115,6 +1111,14 @@ Jak doma moc rodina nefungovala, tak jsem si myslel, že budu závodit s tramvaj
 .
 
 Je to v naší společnosti taková skoro automatická věc — jsi z problémové rodiny, tak budeš nejspíš sám problémový / Tomáš Slavata Otvíráme NTM 2012
+
+.
+
+She will say anything, and change nothing / Donald J. Trump 26. 9. 2016
+
+.
+
+Děti sedí u počítačů a poslouchají, co jim říkají nějací debilové, kteří si říkají youtubeři / Jiří Bartoška 18. 8. 2016
 
 .
 
