@@ -1122,6 +1122,10 @@ Děti sedí u počítačů a poslouchají, co jim říkají nějací debilové, 
 
 .
 
+Do not pray for an easy life, pray for the strength to endure a difficult one / Bruce Lee
+
+.
+
 > *norský úzus*
 
 
