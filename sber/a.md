@@ -1102,11 +1102,19 @@ Poverty is not a lack of character. It’s a lack of cash / Rutger Bregman
 
 .
 
-Bez peněz do postele nelez / Woody Allen, Riverside Drive
+Bez peněz do postele nelez / Woody Allen Riverside Drive
 
 .
 
-Příběhy za náma samy nepřijdou / Tomáš Slavata
+Děti a příběhy za námi samy nepřijdou / Tomáš Slavata
+
+.
+
+Jak doma moc rodina nefungovala, tak jsem si myslel, že budu závodit s tramvajemi a lidi mě budou potom chválit / Tomáš Slavata 13. 5. 2016
+
+.
+
+Je to v naší společnosti taková skoro automatická věc — jsi z problémové rodiny, tak budeš nejspíš sám problémový / Tomáš Slavata Otvíráme NTM 2012
 
 .
 
