@@ -1126,6 +1126,10 @@ Do not pray for an easy life, pray for the strength to endure a difficult one / 
 
 .
 
+Empty your mind, be formless, shapeless — like water. Now you put water into a cup, it becomes the cup / Bruce Lee 1971
+
+.
+
 > *norský úzus*
 
 
