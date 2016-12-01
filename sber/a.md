@@ -1130,6 +1130,14 @@ Empty your mind, be formless, shapeless — like water. Now you put water into a
 
 .
 
+Všechno je možné — jen někdy nedostupné / indické přísloví
+
+.
+
+Žena potřebuje mluvit, nepotřebuje řešení. Muži si naopak musí rozmyslet věci sami / Zuzana Filipová 1. 12. 2016
+
+.
+
 > *norský úzus*
 
 
