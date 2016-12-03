@@ -1138,6 +1138,18 @@ Všechno je možné — jen někdy nedostupné / indické přísloví
 
 .
 
+Evil can seduce man, but cannot become man / Franz Kafka The Zürau Aphorisms
+
+.
+
+From a certain point onward there is no longer any turning back / Franz Kafka The Zürau Aphorisms
+
+.
+
+Pstruh je ryba apolitická. Pstruhům je to fuk / Jan Werich Co tomu říkáte, pane Werich?
+
+.
+
 > *norský úzus*
 
 
