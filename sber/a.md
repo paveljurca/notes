@@ -1186,6 +1186,10 @@ Kamyk jest stworzeniem doskonałym / Zbigniew Herbert
 
 .
 
+Ženatí muži žijí déle — nebo jim to alespoň tak připadá / Johann Nepomuk Nestroy
+
+.
+
 > *norský úzus*
 
 
