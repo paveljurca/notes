@@ -1150,6 +1150,38 @@ Pstruh je ryba apolitická. Pstruhům je to fuk / Jan Werich Co tomu říkáte, 
 
 .
 
+Most people don't care whether you're telling them the truth, as long as you're amusing them / Tom Waits 2009
+
+. 
+
+Most people are a combination of truth and fiction / Tom Waits
+
+.
+
+Government is the Entertainment Division of the military-industrial complex / Frank Zappa 1987
+
+.
+
+The establishment of a rating system, voluntary or otherwise, opens the door to an endless parade of moral quality control programs based on things certain Christians do not like / Frank Zappa U.S. Congress 1985
+
+.
+
+Only the boring and bland shall survive / Frank Zappa
+
+.
+
+My best advice to anyone who wants to raise a happy, mentally healthy child is: Keep him or her as far away from a church as you can / Frank Zappa
+
+.
+
+People are people — and they are basically bad / Frank Zappa
+
+.
+
+If everyone demanded peace instead of TV set, then there'd be peace / John Lennon
+
+.
+
 > *norský úzus*
 
 
