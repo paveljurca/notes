@@ -1182,6 +1182,10 @@ If everyone demanded peace instead of TV set, then there'd be peace / John Lenno
 
 .
 
+Kamyk jest stworzeniem doskonałym / Zbigniew Herbert
+
+.
+
 > *norský úzus*
 
 
