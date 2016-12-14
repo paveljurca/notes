@@ -1190,6 +1190,10 @@ Kamyk jest stworzeniem doskonałym / Zbigniew Herbert
 
 .
 
+Another flaw in human character is that everybody wants to build and nobody wants to do maintenance / Kurt Vonnegut
+
+.
+
 > *norský úzus*
 
 
