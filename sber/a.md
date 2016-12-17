@@ -1194,6 +1194,14 @@ Another flaw in human character is that everybody wants to build and nobody want
 
 .
 
+Talent je dravec Micheli. Když už nemá co žrát, přestěhuje se jinam. Ale já mu ještě mám co nabídnout / F. Scott Fitzgerald Takový krásný pár
+
+.
+
+Jestli tě nezničí ta tvá hrůzná horlivost, zničí tě zklamání, že k ničemu nebyla [..] Zapadáš sama do sebe jako do bahna / F. Scott Fitzgerald Takový krásný pár
+
+.
+
 > *norský úzus*
 
 
