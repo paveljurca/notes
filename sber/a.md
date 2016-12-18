@@ -1202,6 +1202,10 @@ Jestli tě nezničí ta tvá hrůzná horlivost, zničí tě zklamání, že k n
 
 .
 
+Forgive your enemies, but never forget their names / John F. Kennedy
+
+.
+
 > *norský úzus*
 
 
