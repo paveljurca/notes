@@ -1206,6 +1206,11 @@ Forgive your enemies, but never forget their names / John F. Kennedy
 
 .
 
+I would tell you the key here, Jim, is not to be trained for the job today.
+Our focus is how do you train people for the jobs of tomorrow / Greg Hayes 5. 12. 2016
+
+.
+
 > *norský úzus*
 
 
