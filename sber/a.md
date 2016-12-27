@@ -1239,6 +1239,18 @@ When you're a star, they let you do it. You can do anything / John Martz Star Po
 
 .
 
+He kept telling me I was unhappy because I was overweight. Rubbish! Obviously I was overweight.. because I was unhappy / Avanti!
+
+.
+
+Naučili jsme se podceňovat a nevěřit si. Jsem pro zavedení hodin sebeúcty a sebedůvěry na školách / Barbora Seidlová 27. 12. 2016
+
+.
+
+A co je to rodina? Podle mě je to společenství lidí, kteří se mají rádi takoví, jací jsou / Barbora Seidlová 27. 12. 2016
+
+.
+
 > *norský úzus*
 
 
