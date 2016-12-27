@@ -1198,7 +1198,11 @@ Talent je dravec Micheli. Když už nemá co žrát, přestěhuje se jinam. Ale 
 
 .
 
-Jestli tě nezničí ta tvá hrůzná horlivost, zničí tě zklamání, že k ničemu nebyla [..] Zapadáš sama do sebe jako do bahna / F. Scott Fitzgerald Takový krásný pár
+Jestli tě nezničí ta tvá hrůzná horlivost, zničí tě zklamání, že k ničemu nebyla / F. Scott Fitzgerald Takový krásný pár
+
+.
+
+Zapadáš sama do sebe jako do bahna / F. Scott Fitzgerald Takový krásný pár
 
 .
 
@@ -1208,6 +1212,22 @@ Forgive your enemies, but never forget their names / John F. Kennedy
 
 I would tell you the key here, Jim, is not to be trained for the job today.
 Our focus is how do you train people for the jobs of tomorrow / Greg Hayes 5. 12. 2016
+
+.
+
+You should stick to whores, too. Much less stress.. another mans wives and daughters / bradýř Ranhojič
+
+.
+
+Chceš-li udělat ze starého muže blázna, dej mu mladou ženu / S čerty nejsou žerty
+
+.
+
+Je to rebel: Při zatýkání tři vojáky těžce zranil, dva zhmoždil a jednoho zesměšnil / kaprál S čerty nejsou žerty
+
+.
+
+Co nám nejvíc leze na nervy, nejsou ironické poznámky druhých, ale naše neschopnost na ně odpovědět / Woody Allen
 
 .
 
