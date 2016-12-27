@@ -1231,6 +1231,14 @@ Co nám nejvíc leze na nervy, nejsou ironické poznámky druhých, ale naše ne
 
 .
 
+Myslí si namyšleně, že to, co bylo odepřeno jí, nesmí mít ani druzí / Závist Nesmrtelná teta
+
+.
+
+When you're a star, they let you do it. You can do anything / John Martz Star Power
+
+.
+
 > *norský úzus*
 
 
