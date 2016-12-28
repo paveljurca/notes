@@ -1267,6 +1267,10 @@ Plans are only good intentions unless they immediately degenerate into hard work
 
 .
 
+A child's life is like a piece of paper on which every person leaves a mark / Chinese Proverb
+
+.
+
 > *norský úzus*
 
 
