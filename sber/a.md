@@ -1263,6 +1263,10 @@ Society flourishes when people think entrepreneurially / Reid Hoffman
 
 .
 
+Plans are only good intentions unless they immediately degenerate into hard work / Peter Drucker
+
+.
+
 > *norský úzus*
 
 
