@@ -1255,6 +1255,10 @@ Nejsou všichni lidé tak dobří jako ty / Zkřížené meče
 
 .
 
+The worst of my community are those who speak a lot / Al-Adab al-Mufrad
+
+.
+
 > *norský úzus*
 
 
