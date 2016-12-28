@@ -1227,7 +1227,7 @@ Je to rebel: Při zatýkání tři vojáky těžce zranil, dva zhmoždil a jedno
 
 .
 
-Co nám nejvíc leze na nervy, nejsou ironické poznámky druhých, ale naše neschopnost na ně odpovědět / Woody Allen
+Co nám nejvíc leze na nervy, nejsou ironické poznámky druhých, ale neschopnost na ně odpovědět / Woody Allen
 
 .
 
@@ -1248,6 +1248,10 @@ Naučili jsme se podceňovat a nevěřit si. Jsem pro zavedení hodin sebeúcty 
 .
 
 A co je to rodina? Podle mě je to společenství lidí, kteří se mají rádi takoví, jací jsou / Barbora Seidlová 27. 12. 2016
+
+.
+
+Nejsou všichni lidé tak dobří jako ty / Zkřížené meče
 
 .
 
