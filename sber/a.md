@@ -1271,6 +1271,10 @@ A child's life is like a piece of paper on which every person leaves a mark / Ch
 
 .
 
+One who says it can't be done should not interrupt the person doing it / Chinese Proverb
+
+.
+
 > *norský úzus*
 
 
