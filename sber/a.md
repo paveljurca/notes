@@ -1259,6 +1259,10 @@ The worst of my community are those who speak a lot / Al-Adab al-Mufrad
 
 .
 
+Society flourishes when people think entrepreneurially / Reid Hoffman
+
+.
+
 > *norský úzus*
 
 
