@@ -1275,6 +1275,14 @@ One who says it can't be done should not interrupt the person doing it / Chinese
 
 .
 
+Je třeba odhalovat tajemství, ne stavět se na hlavu / Ilja Hurník Demonstrace profesora Wyara
+
+.
+
+Úspěch, peníze, práce. Práce, úspěch, peníze / Anna Včera, dnes a zítra
+
+.
+
 > *norský úzus*
 
 
