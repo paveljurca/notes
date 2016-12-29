@@ -1283,6 +1283,10 @@ Je třeba odhalovat tajemství, ne stavět se na hlavu / Ilja Hurník Demonstrac
 
 .
 
+Nepřátel se nelekejte a na množství nehleďte / Jan Žižka
+
+.
+
 > *norský úzus*
 
 
