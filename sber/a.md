@@ -1283,7 +1283,15 @@ Je třeba odhalovat tajemství, ne stavět se na hlavu / Ilja Hurník Demonstrac
 
 .
 
-Nepřátel se nelekejte a na množství nehleďte / Jan Žižka
+Nepřátel se nelekejte a na množství nehleďte / Jan Žižka z Trocnova
+
+.
+
+Moje smrt bude rychlá a zbytečná / Lenny Simpsonovi XIII 10
+
+.
+
+Pustil jsem se cestou universalismu. Jde o to, na co mi zbývá čas a tomu se pak věnuji / Viktor Velek 30. 12. 2016
 
 .
 
