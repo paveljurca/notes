@@ -1295,6 +1295,10 @@ Pustil jsem se cestou universalismu. Jde o to, na co mi zbývá čas a tomu se p
 
 .
 
+You get so alone at times that it just makes sense / Charles Bukowski 1986
+
+.
+
 > *norský úzus*
 
 
