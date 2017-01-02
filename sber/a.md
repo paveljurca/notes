@@ -1303,6 +1303,10 @@ Nejradši mám současnost / Barbora Seidlová 27. 12. 2016
 
 .
 
+Nechci, aby lidi padali, když odhalím kotník, ale dneska? Vidí všechno / Zdena Procházková 31. 12. 2016
+
+.
+
 > *norský úzus*
 
 
