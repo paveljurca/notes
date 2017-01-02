@@ -1299,6 +1299,10 @@ You get so alone at times that it just makes sense / Charles Bukowski 1986
 
 .
 
+Nejradši mám současnost / Barbora Seidlová 27. 12. 2016
+
+.
+
 > *norský úzus*
 
 
