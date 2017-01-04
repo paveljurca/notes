@@ -1307,6 +1307,10 @@ Nechci, aby lidi padali, když odhalím kotník, ale dneska? Vidí všechno / Zd
 
 .
 
+You have enemies? Good. That means you've stood up for something / Winston Churchill
+
+.
+
 > *norský úzus*
 
 
