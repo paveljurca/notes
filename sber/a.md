@@ -1311,6 +1311,14 @@ You have enemies? Good. That means you've stood up for something / Winston Churc
 
 .
 
+Kdo neví kam chce, ten neví, kdo je, jestli se nepletu / Sam Hawkens Winnetou 2
+
+.
+
+Nic není tak těžký, jako najít si v životě správný místo / Sam Hawkens Winnetou 2
+
+.
+
 > *norský úzus*
 
 
