@@ -1323,6 +1323,10 @@ Nothing is so permanent as a temporary government program / Milton Friedman
 
 .
 
+No, blbí vědí, ty maj čas si pamatovat. Chytrý musej vymejšlet / Jan Werich Balada z hadrů
+
+.
+
 > *norský úzus*
 
 
