@@ -1319,6 +1319,10 @@ Nic není tak těžký, jako najít si v životě správný místo / Sam Hawkens
 
 .
 
+Nothing is so permanent as a temporary government program / Milton Friedman
+
+.
+
 > *norský úzus*
 
 
