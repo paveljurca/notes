@@ -1327,6 +1327,10 @@ No, blbí vědí, ty maj čas si pamatovat. Chytrý musej vymejšlet / Jan Weric
 
 .
 
+Svět je plný nás běžných smrtelníků, kteří chodí do práce, mají zaměstnání nebo povolání. Ale jsou tu také takoví, kdo objevili  svůj talent a živí se jeho rozvojem / Petr Bísek 11. 1. 2017
+
+.
+
 > *norský úzus*
 
 
