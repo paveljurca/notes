@@ -7,6 +7,16 @@ Observanda
 __Co nám neřekli, si můžeme přečíst.__
 
 
+BYRNE
+=====
+
+
+(R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.)
+
+
+(R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.)
+
+
 MILLER
 ======
 
