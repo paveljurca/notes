@@ -1343,6 +1343,10 @@ Peníze daňových poplatníků jsou vypláceny za stejné činnosti, jaké vyko
 
 .
 
+Jedinec zmůže dost / Václav Havel 2011
+
+.
+
 > *norský úzus*
 
 
