@@ -1347,6 +1347,10 @@ Jedinec zmůže dost / Václav Havel 2011
 
 .
 
+Takto získáš všechnu slávu světa / Smaragdová deska
+
+.
+
 > *norský úzus*
 
 
