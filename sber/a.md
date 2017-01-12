@@ -1335,6 +1335,14 @@ Kdo chce Vinnetoua bít, tomahawk si najde / indiánské přísloví
 
 .
 
+Prožít dětství se sportem je to nejlepší / Michal Hrdlička 12. 1. 2017
+
+.
+
+Peníze daňových poplatníků jsou vypláceny za stejné činnosti, jaké vykonávají nebo mají vykonávat pracovníci ministerstva, lidem, kteří většinou žádnou práci neodvedou / Pavlína Nytrová 11. 1. 2017
+
+.
+
 > *norský úzus*
 
 
