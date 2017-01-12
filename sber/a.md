@@ -1331,6 +1331,10 @@ Svět je plný nás běžných smrtelníků, kteří chodí do práce, mají zam
 
 .
 
+Kdo chce Vinnetoua bít, tomahawk si najde / indiánské přísloví
+
+.
+
 > *norský úzus*
 
 
