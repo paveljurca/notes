@@ -1351,6 +1351,10 @@ Takto získáš všechnu slávu světa / Smaragdová deska
 
 .
 
+Ale jak se říká, všechno je o koncovkách / Radek Štěpánek 16. 1. 2017
+
+.
+
 > *norský úzus*
 
 
