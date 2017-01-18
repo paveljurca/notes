@@ -1355,6 +1355,10 @@ Ale jak se říká, všechno je o koncovkách / Radek Štěpánek 16. 1. 2017
 
 .
 
+Let him who would enjoy a good future waste none of his present / Roger Babson
+
+.
+
 > *norský úzus*
 
 
