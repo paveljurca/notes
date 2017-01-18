@@ -1359,6 +1359,26 @@ Let him who would enjoy a good future waste none of his present / Roger Babson
 
 .
 
+Asi není možné přivést k lítosti někoho, kdo si nepamatuje, co by mu mělo být líto / Ondřej Štindl Svět pod hlavou
+
+.
+
+Všechno jde až moc dobře. Budeme mít určitě hromadu problémů. Já nemám rád, když se věci jen dařej nebo nedařej. Mám to rád tak napůl / Červená řeka
+
+.
+
+Ta dnešní generace je úplně jiná, my jsme žili jen pro ně a teď nevím, jak na ně / Strnadovi
+
+.
+
+Odstranění hranic a limitů nás přivedlo do odlišných podmínek. Kdo chce něco dokázat, musí si limity stanovit sám / Marian Jelínek 14. 1. 2017
+
+.
+
+Taky jsem byl šerif, než jsem se naučil psát / Harper Paul Newman
+
+.
+
 > *norský úzus*
 
 
