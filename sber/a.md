@@ -1379,6 +1379,10 @@ Taky jsem byl šerif, než jsem se naučil psát / Harper Paul Newman
 
 .
 
+Dokud se sami nezamilujeme, věříme básníkům, že popisují lásku pravdivě / Edward Bulwer-Lytton
+
+.
+
 > *norský úzus*
 
 
