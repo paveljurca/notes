@@ -1395,6 +1395,10 @@ Learn the rules then break some / Life's Little Instruction Book
 
 .
 
+Don't act. Just think / Slavoj Žižek
+
+.
+
 > *norský úzus*
 
 
