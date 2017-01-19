@@ -1387,6 +1387,14 @@ Tahle generace je moc, protože všeho je dost / Young Havel
 
 .
 
+Learn the rules before you break them / The Bookman vol. 60
+
+.
+
+Learn the rules then break some / Life's Little Instruction Book
+
+.
+
 > *norský úzus*
 
 
