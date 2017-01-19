@@ -1383,6 +1383,10 @@ Dokud se sami nezamilujeme, věříme básníkům, že popisují lásku pravdiv�
 
 .
 
+Tahle generace je moc, protože všeho je dost / Young Havel
+
+.
+
 > *norský úzus*
 
 
