@@ -1399,6 +1399,10 @@ Don't act. Just think / Slavoj Žižek
 
 .
 
+Age doesn't determine a person's path, situation or approach. I don't see my age / Xavier Dolan
+
+.
+
 > *norský úzus*
 
 
