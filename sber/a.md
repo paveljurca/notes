@@ -1403,6 +1403,14 @@ Age doesn't determine a person's path, situation or approach. I don't see my age
 
 .
 
+The most important office in democracy — citizen / Barack Obama Farewell Address
+
+.
+
+And no one who threatens America will ever be safe / Barack Obama Farewell Address
+
+.
+
 > *norský úzus*
 
 
