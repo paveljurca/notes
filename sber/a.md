@@ -1415,6 +1415,10 @@ We share one house, one dream and one glorious destiny / Donald J. Trump 20. 1. 
 
 .
 
+When you open your heart to patriotism there is no room for prejudice / Donald J. Trump 20. 1. 2017
+
+.
+
 > *norský úzus*
 
 
