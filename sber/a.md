@@ -1427,6 +1427,10 @@ As long as we have presidents who lie to us we'll be political just by using lan
 
 .
 
+I want us to ask ourselves every day, how are we using technology to make a real difference in people's lives / President Barack Obama
+
+.
+
 > *norský úzus*
 
 
