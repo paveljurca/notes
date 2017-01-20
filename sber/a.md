@@ -1419,6 +1419,10 @@ When you open your heart to patriotism there is no room for prejudice / Donald J
 
 .
 
+As long as we have presidents who lie to us we'll be political just by using language clearly / John Irving
+
+.
+
 > *norský úzus*
 
 
