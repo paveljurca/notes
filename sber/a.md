@@ -1411,6 +1411,10 @@ And no one who threatens America will ever be safe / Barack Obama Farewell Addre
 
 .
 
+We share one house, one dream and one glorious destiny / Donald J. Trump 20. 1. 2017
+
+.
+
 > *norský úzus*
 
 
