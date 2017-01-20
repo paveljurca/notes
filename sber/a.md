@@ -1423,6 +1423,10 @@ As long as we have presidents who lie to us we'll be political just by using lan
 
 .
 
+Život je někdy dobrej, ale občas pro to musíte něco udělat / Charles Bukowski Women
+
+.
+
 > *norský úzus*
 
 
