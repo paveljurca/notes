@@ -6,15 +6,20 @@ Observanda
 
 __Co nám neřekli, si můžeme přečíst.__
 
+# R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.
+# ??? (XY. vyd.) přijde kam???
+
 
 BYRNE
 =====
 
-
-(R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.)
-
-
-(R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.)
+Nejhlubší vděk patří také velikánům dávných staletí,
+kteří objevovali životní pravdy a zanechali po sobě
+svá slova zapsaná, abychom je my mohli v tu pravou
+chvíli objevit — v ten nedefinovatelný okamžik, který
+mění život, když náhle vidíme, co máme před očima,
+a slyšíme, co máme slyšet.
+(Byrne, R.: Kouzlo. Ikar, Praha 2013, s. 10.)
 
 
 MILLER
