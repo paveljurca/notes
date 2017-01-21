@@ -1431,6 +1431,10 @@ I want us to ask ourselves every day, how are we using technology to make a real
 
 .
 
+Nezajímá nás lachtan v Antarktidě tolik jako omáčka v Pelhřimově / Václav Klaus ml.
+
+.
+
 > *norský úzus*
 
 
