@@ -1435,6 +1435,10 @@ Nezajímá nás lachtan v Antarktidě tolik jako omáčka v Pelhřimově / Václ
 
 .
 
+This is not a period; it's a comma / Barack Obama Andrews Air Force Base 20. 1. 2017
+
+.
+
 > *norský úzus*
 
 
