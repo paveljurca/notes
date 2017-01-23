@@ -1439,6 +1439,14 @@ This is not a period; it's a comma / Barack Obama Andrews Air Force Base 20. 1. 
 
 .
 
+I have no patience for useless things / Frank Underwood
+
+.
+
+Democracy is so overrated / House of Cards
+
+.
+
 > *norský úzus*
 
 
