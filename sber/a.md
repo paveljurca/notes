@@ -1447,6 +1447,10 @@ Democracy is so overrated / House of Cards
 
 .
 
+Pokud nemá tělo s čím bojovat, začne bojovat samo se sebou / Jaroslav Julák MfD 17. 1. 2017
+
+.
+
 > *norský úzus*
 
 
