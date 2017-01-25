@@ -1451,6 +1451,10 @@ Pokud nemá tělo s čím bojovat, začne bojovat samo se sebou / Jaroslav Julá
 
 .
 
+If you only read the books that everyone else is reading, you can only think what everyone else is thinking / Haruki Murakami Norwegian Wood
+
+.
+
 > *norský úzus*
 
 
