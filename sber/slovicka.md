@@ -1315,6 +1315,8 @@ skutečnější
 mravokárce
 * _quantité négligeable_
 zanedbatelné množství
+* _Questa guerra è cosa nostra_
+Tohle je naše věc
 * _quotidie morior_
 umírám kdykoliv
 * _quo vadis_
