@@ -1455,6 +1455,14 @@ If you only read the books that everyone else is reading, you can only think wha
 
 .
 
+Throw a lucky man in the sea, and he will come up with a fish in his mouth / Arab proverb
+
+.
+
+All companies fit into one of two buckets: either becoming a software company or being disrupted by one. Every industry is being fundamentally altered by software / Scott Farquhar
+
+.
+
 > *norský úzus*
 
 
