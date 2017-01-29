@@ -1463,6 +1463,10 @@ All companies fit into one of two buckets: either becoming a software company or
 
 .
 
+Zatímco gymnazisté vám vyprávějí o tom, jak si vybrali tuhle kvalitní školu, protože chtějí umět jazyky a hodně cestovat, náctiletí v učení jsou citlivější na různé těžkosti, které život přináší, vnímají je také silně u svých rodičů / Kateřina Nedbálková 28. 1. 2017
+
+.
+
 > *norský úzus*
 
 
