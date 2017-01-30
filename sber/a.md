@@ -1471,6 +1471,10 @@ Only the paranoid survive / Andrew Grove
 
 .
 
+What happened in 1977? I was black and I got life, that's what happened / James Robert McClurkin
+
+.
+
 > *norský úzus*
 
 
