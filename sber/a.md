@@ -1467,6 +1467,10 @@ Zatímco gymnazisté vám vyprávějí o tom, jak si vybrali tuhle kvalitní šk
 
 .
 
+Only the paranoid survive / Andy Grove
+
+.
+
 > *norský úzus*
 
 
