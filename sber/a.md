@@ -1475,6 +1475,10 @@ What happened in 1977? I was black and I got life, that's what happened / James 
 
 .
 
+S vírou je snazší žít, než o ní mluvit / Vratislav J. Slezák 27. 4. 2011
+
+.
+
 > *norský úzus*
 
 
