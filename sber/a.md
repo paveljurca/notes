@@ -1479,6 +1479,10 @@ S vírou je snazší žít, než o ní mluvit / Vratislav J. Slezák 27. 4. 2011
 
 .
 
+Duchovno mě zdržuje / Zdeněk Pohlreich 3. 2. 2017
+
+.
+
 > *norský úzus*
 
 
