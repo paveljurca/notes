@@ -2008,15 +2008,57 @@ poznat sám sebe a sám sebe také zdokonalovat.
 Nejdůležitější je však správný systém."
 (Kumpera, J.: Citovaná Komenského díla. In: Komenský, J.A.: Jak (se) učit, (ed. Kumpera, J.). Mladá fronta, Praha 2004, s. 104.)
 
+> Podle našeho přání má vyučovací methoda dospět té dokonalosti,
+> aby se mezi obvyklým a dosud užívaným a mezi tímto novým způsobem
+> vyučování jevil takový rozdíl, jaký vidíme mezi obvyklým kdysi
+> uměním, rozmnožovat knihy perem, a mezi později vynalezeným a nyní
+> již užívaným, rozmnožovat je tiskem.
+> *J. A. Komenský, Didaktika velká.*
+
 Jak dovedně užívat knih
 =======================
-řeč z 28. listopadu 1651 k žákům na škole v Sárospataku
+
+Jako učitel dějepisu a zeměpisu jsem hleděl na vlastní oči poznat ty země, o nichž jsem učil.
+(František Mokrý jubilující. In: Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991.)
+
+
+Neboť k čemu by bylo kováři kladivo, kdyby neměl železo, které by kul?
+K čemu by byly krejčímu tisíce jehel, náprstky, nůžky a lokte, kdyby neměl
+látky, z nichž by našil šaty? A v podobné situaci jsou zpravidla mladí kandidáti
+učenosti, zaměstnávaní jen samými předpisy a pravidly. Když pak přijdou ke skutečným
+věcem, jsou buď němí, nebo se zajíkají, nebo zvuk beze smyslu vydávají. Jsou vychrtlí
+a suší a jsou daleci toho, aby věcem opravdu rozuměli, neřku-li, aby jich uměli užívat
+v praxi. Zkrátka řečeno, jsou prázdní a neplodní. Tato zakořeněná vada škol musí tedy
+být napravena a místo mnoha soustavných pravidel musí být raději zavedeno čtení spisovatelů.
+
+Konečně je třeba dbát toho, aby od sebe nebyli odtrhování spisovatelé staří a noví,
+obecní a zvláštní.
+
+Četl jsi některé spisovatele našeho věku? Okus také starších.
+Neboť staré víno je lepší, praví Spasitel. Četl jsi staré? Nezamítej ani novější,
+neboť přinášejí nová pozorování, neznámá starým. Četl jsi něco obecného? Pátrej také
+po zvláštním rozvedení těchto věcí. Viděl jsi části věcí? Podívej se také, jak se z nich
+vytváří jeden celek.
+Zkrátka vědění starých je třeba si vážit pro starobylost, vědění mladších
+pro hojnější světlo. Zvláštní vylíčení věcí má být poznáváno proto, že velmi
+názorně vzdělává, obecné vylíčení proto, že velmi zdokonaluje úsudek a dodává
+mu jednoty a síly.
+
+Avšak nestačí knihy jen číst, musí být čteny pozorně a nejdůležitější
+místa musí být podtržena a vypsána.
+(Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání.)
+
+Roku 1945 se režisér Filipenský pokusil obnovit divadelní činnost Sázavanu-Havlíčka.
+A já se tehdy poprvé setkal s tím, jak lze postupnými zákazy a omezováním zničit aktivitu člověka.
+(František Mokrý jubilující. In: Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991.)
 
 "Jak je krásné znát všechno, co lze znát,
 takže nám nic není cizí! Jak je hezké umět
 pronést o všem, co má být předneseno, několik
 velmi moudrých úsudků! Nezískám-li vás pro to,
 budu zde nadarmo."
+>>
+řeč z 28. listopadu 1651 k žákům na škole v Sárospataku
 (Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991, s. 10.)
 
 "Vyžeňte tedy toho zlého hosta, lenost, moji Uhři!
@@ -2065,13 +2107,20 @@ za vesnici určovat hvězdy, světové strany,
 oběh Měsíce atd."
 (Mokrý, F.: František Mokrý jubilující, (ed. Havlíková, L.). In: Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991, s. 31.)
 
-"Pan učitel, od r. 1941 pan ředitel Mokrý,
+"Jaký byl učitel Mokrý?
+
+Klasifikoval přísně, ale to souviselo s jeho vysokými požadavky.
+Zastával názor, že vzdělaná mládež znamená v budoucnosti vzdělaný národ.
+I když mi dal dvojku z mravů, měl jsem ho rád.
+[..]
+Pan učitel, od r. 1941 pan ředitel Mokrý,
 byl skutečnou učitelskou osobností; na žácích
 vyžadoval především přesná fakta, píli
 a zdravý úsudek. Jeho výklady nebyly
 prošpikovány červenými poučkami a nic
-neříkajícími frázemi."
-(Mokrý, F.: František Mokrý jubilující, (ed. Havlíková, L.). In: Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991, s. 33.)
+neříkajícími frázemi. To bylo trnem v oku
+novým mocipánům."
+(František Mokrý jubilující, (ed. Havlíková, L.). In: Komenský, J.A.: Jak dovedně užívat knih, hlavního nástroje vzdělávání. Okresní knihovna M. J. Sychry, Žďár nad Sázavou 1991, s. 33.)
 
 "V hodinách dovedl vyhmátnout to specifické
 a charakteristické, co často neobsahovaly

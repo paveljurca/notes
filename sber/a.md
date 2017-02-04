@@ -1483,6 +1483,22 @@ Duchovno mě zdržuje / Zdeněk Pohlreich 3. 2. 2017
 
 .
 
+Špatně upečené kuře umřelo zbytečně / Zdeněk Pohlreich 3. 2. 2017
+
+.
+
+Vážím si každého dne a každé hodiny. Ani jediná se neopakuje. Bylo by hříchem promarnit ji / František Mokrý
+
+.
+
+Code never lies, comments sometimes do / unknown
+
+.
+
+Pravda vyjde najevo jako olej na vodu / Jan Antonín Baťa
+
+.
+
 > *norský úzus*
 
 

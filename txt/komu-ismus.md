@@ -1,6 +1,14 @@
 Komu?ismus
 ==========
 
+> Dnešnímu světu není třeba nenávisti, nýbrž dobré vůle, ochoty,
+> shody a spolupráce; je mu třeba vlídnějšího morálního klimatu;
+> myslím, že by se s trochou obyčejné lásky a srdečnosti daly
+> ještě dělat zázraky.
+> *Čapek, K.: Proč nejsem komunistou, 1924*
+
+.
+
 > Komunismus — ze své vlastní volby — je největším žijícím
 > nepřítelem svobody. V zápase proti sobě stojí systém
 > demokratický a komunistický, ne kapitalistický a socialistický.
