@@ -1499,6 +1499,10 @@ Pravda vyjde najevo jako olej na vodu / Jan Antonín Baťa
 
 .
 
+Jestli Bůh stvořil něco lepšího, nechal si to pro sebe / William S. Burroughs
+
+.
+
 > *norský úzus*
 
 
