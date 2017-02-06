@@ -1515,6 +1515,10 @@ Dáte-li vedle sebe dokonalé a nedokonalé, poznají lidé hned rozdíl. Dáte-
 
 .
 
+Co tě nezabije, to tě rozčílí / Vendula Pačesová 6. 2. 2017
+
+.
+
 > *norský úzus*
 
 
