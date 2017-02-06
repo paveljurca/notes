@@ -1507,6 +1507,14 @@ No one can have a right not to be insulted or offended / Ronald Dworkin The Righ
 
 .
 
+All the citizens of a state cannot be equally powerful, but they may be equally free / Ronald Dworkin
+
+.
+
+Dáte-li vedle sebe dokonalé a nedokonalé, poznají lidé hned rozdíl. Dáte-li jim jen nedokonalé, budou spokojeni / Gottfried W. Leibniz
+
+.
+
 > *norský úzus*
 
 
