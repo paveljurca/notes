@@ -1503,6 +1503,10 @@ Jestli Bůh stvořil něco lepšího, nechal si to pro sebe / William S. Burroug
 
 .
 
+No one can have a right not to be insulted or offended / Ronald Dworkin The Right to Ridicule
+
+.
+
 > *norský úzus*
 
 
