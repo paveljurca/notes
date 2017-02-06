@@ -1519,6 +1519,10 @@ Co tě nezabije, to tě rozčílí / Vendula Pačesová 6. 2. 2017
 
 .
 
+Hard work beats talent when talent doesn't work hard / Tim Notke
+
+.
+
 > *norský úzus*
 
 
