@@ -1523,6 +1523,10 @@ Hard work beats talent when talent doesn't work hard / Tim Notke
 
 .
 
+Tohle je moje práce. Zvláštní, já bych spíš řek, že je to tvůj problém / The Color of Money
+
+.
+
 > *norský úzus*
 
 
