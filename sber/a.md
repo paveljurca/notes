@@ -1527,6 +1527,10 @@ Tohle je moje práce. Zvláštní, já bych spíš řek, že je to tvůj problé
 
 .
 
+Some people say you are going the wrong way, when it's simply a way of your own / Angelina Jolie
+
+.
+
 > *norský úzus*
 
 
