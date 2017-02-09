@@ -1,17 +1,62 @@
 Observanda
 ==========
 
+__Možná nám neřekli všechno, ale určitě to napsali.__
+
+
+A library is an arsenal of liberty / unknown
+
+
+
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
-__Co nám neřekli, si můžeme přečíst.__
 
-# R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.
-# ??? (XY. vyd.) přijde kam???
+MORE
+====
+
+>>>
+Utopie potřebuje člověka zjednodušit, mít ho někde jednotného, tak aby se na něm shodla: bez soukromého vlastnictví, náboženství nebo manželství.
+Ne tak statky nebo práce, ale člověk má být společný všem. Má začít vyhovovat. Má se držet programu.
+Ale jak dál s takovým člověkem, třeba že plníme plány, možná máme i vlastní stranu, a zvedáme produkci pšenice? Koho jsou ty plány? Čí je ta strana? A kdo je ten, kdo říká jak dál?
+Co je to za společnost, kde už její jedince neidentifikujeme, nepoznáváme? Víme, že tam ještě jsou?
+Co je to za posun, kde toho jedinec má mít méně, aniž by méně potřeboval?
+Budoucnost má být uvolněna minulosti, organizaci, nějaké struktuře nebo spisu. Většinou stejně naléhavě,
+jak dlouho jsou jejich autoři mrtvy. Možná umřeli a změnili názor. Možná se smějí. Tak i tak, radši bych dělal něco svého.
+<<<
+
+
+Je-li tedy v obci ve vážnosti bohatství a boháči, ztrácí z vážnosti ctnost a lidé dobří [..]
+takováto obec není jedna, nýbrž nutně dvě, jedna chudých, druhá boháčů [..]
+(Platón, Ústava, Praha 1921, s. 291-292.)
+
+
+
+Hlavní myšlenkou Fichtovy práce [J. G. Fichte, Uzavřený obchodní stát, Německo, 1800]
+je proklamované právo spravedlivého rozdělování vlastnictví, které ovšem chápe nikoliv jako právo
+na rozdělování věcí, ale jako právo na jednání — práci, která je zdrojem všeho vlastnictví a bohatství lidstva.
+Člověk přichází na svět a nemá žádné vlastnictví, ale schopnost získávat jej svou prací, svým jednáním.
+(Jan Halada (předmluva), In: Thomas MORE, Utopie, Praha: Mladá fronta, 1978 (překl. B. Ryba), 2. vyd.)
+
+'Boj světla' s nevědomostí a předsudky, akcent na rozum, přesvědčení, že zdrojem pokroku je co nejširší poznání,
+požadavek obecného vzdělání a racionální výchovy a víra v nezávislost myšlení a svobodu přesvědčení dovádí francouzské
+osvícence k ateismu a materialismu. [..] Jejich utopie se otvírají všem lidem, lidstvu vůbec. [..] snaží se vychovávat
+vnímavé čtenáře pomocí názorných příkladů jak vládnout, jak studovat a využívat vědy, jak se chovat k lidem i cizím
+národům, jak vést rodinný život atd., ve smyslu čistě rozumového uspořádání společnosti [..]
+(Jan Halada (předmluva), In: Thomas MORE, Utopie, Praha: Mladá fronta, 1978 (překl. B. Ryba), 2. vyd.)
+
+Fourier [Charles Fourier, 1772 - 1837] si uvědomuje, že dělník v kapitalistické společnosti není zainteresován
+na výsledku své práce, že se kapitál pomalu, ale jistě soustřeďuje v rukou menšiny vlastníků a že kapitalismus
+sám brzdí rozvoj společenské produktivity práce. V ekonomické oblasti to vede k válce všech proti všem a stát
+je podle Fouriera sluhou a ochráncem bohatých. Tak v buržoazní civilizaci, jež je dvojnásob pokrytecká oproti
+předchozím obdobím, vzniká chudoba z nadbytku.
+(Jan Halada (předmluva), In: Thomas MORE, Utopie, Praha: Mladá fronta, 1978 (překl. B. Ryba), 2. vyd.)
 
 
 BYRNE
 =====
+
+# R. Byrne, Kouzlo, Praha: Ikar, 2013 (překl. B. Boturová), s. XY.
 
 Nejhlubší vděk patří také velikánům dávných staletí,
 kteří objevovali životní pravdy a zanechali po sobě

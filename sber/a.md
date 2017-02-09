@@ -1531,6 +1531,14 @@ Some people say you are going the wrong way, when it's simply a way of your own 
 
 .
 
+Vskutku pro sebe získávám jenom tolik času, kolik ho ukrádám spánku a jídlu / Thomas More Utopie
+
+.
+
+A library is an arsenal of liberty / unknown
+
+.
+
 > *norský úzus*
 
 
