@@ -1539,6 +1539,14 @@ A library is an arsenal of liberty / unknown
 
 .
 
+Nechápu, proč jezdí mladí spisovatelé na stipendia do Berlína, když je válka v Jugoslávii / Peter Handke
+
+.
+
+Dneska vyučený kluk půjde dělat něco snazšího, než aby pracoval za každého počasí na střeše / Ivan Dvořák 10. 2. 2017
+
+.
+
 > *norský úzus*
 
 
