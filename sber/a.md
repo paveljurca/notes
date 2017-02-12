@@ -1543,7 +1543,11 @@ Nechápu, proč jezdí mladí spisovatelé na stipendia do Berlína, když je v�
 
 .
 
-Dneska vyučený kluk půjde dělat něco snazšího, než aby pracoval za každého počasí na střeše / Ivan Dvořák 10. 2. 2017
+Dnes půjdete dělat něco snazšího, než pracovat za každého počasí na střeše / Ivan Dvořák 10. 2. 2017
+
+.
+
+Ekologičtí aktivisté mají své dogma, tvrdí třeba, že se má jezdit na kole / Martin Kolovratník 10. 2. 2017
 
 .
 
