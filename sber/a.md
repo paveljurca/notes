@@ -1551,6 +1551,10 @@ Ekologičtí aktivisté mají své dogma, tvrdí třeba, že se má jezdit na ko
 
 .
 
+The answer to attacks on journalism is always more journalism / Josh Marshall
+
+.
+
 > *norský úzus*
 
 
