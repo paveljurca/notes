@@ -1555,6 +1555,10 @@ The answer to attacks on journalism is always more journalism / Josh Marshall
 
 .
 
+Systematická práce před čekáním na invenci / Igor Stravinskij
+
+.
+
 > *norský úzus*
 
 
