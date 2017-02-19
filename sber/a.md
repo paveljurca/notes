@@ -1571,6 +1571,14 @@ Myslím, že kdyby všichni lidé žili podle evangelia, zakoušeli by to, co se
 
 .
 
+S cizí poctivostí nejdál dojdeš / Ivan Kraus Ve vlastních názorech se shodnu s každým
+
+.
+
+Když král nemá vkus, vyjdou krejčí z módy / Ivan Kraus Ve vlastních názorech se shodnu s každým
+
+.
+
 > *norský úzus*
 
 

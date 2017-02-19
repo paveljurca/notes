@@ -1,11 +1,17 @@
 Komu?ismus
 ==========
 
+> Systém, který lze udržet jen pomocí zavřených hranic, neotvírá žádné perspektivy.
+> *Ivan KRAUS, Ve vlastních názorech se shodnu s každým, Praha: Academia, 2016.*
+
+> Socialismus potřebuje pevné základy. Nejlépe kapitalistické.
+> *Ivan KRAUS, Ve vlastních názorech se shodnu s každým, Praha: Academia, 2016.*
+
 > Dnešnímu světu není třeba nenávisti, nýbrž dobré vůle, ochoty,
 > shody a spolupráce; je mu třeba vlídnějšího morálního klimatu;
 > myslím, že by se s trochou obyčejné lásky a srdečnosti daly
 > ještě dělat zázraky.
-> *Čapek, K.: Proč nejsem komunistou, 1924*
+> *Čapek, K.: Proč nejsem komunistou, 1924.*
 
 .
 
