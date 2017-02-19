@@ -1567,6 +1567,10 @@ Dějiny jsou a budou jen potud, pokud budou lidé, kteří nechtějí pouze ží
 
 .
 
+Myslím, že kdyby všichni lidé žili podle evangelia, zakoušeli by to, co se tu pokouším popsat. Hluboká, naprostá bezpečnost: neexistuje už smrt, je jenom láska / Jan Čep Kniha týdne
+
+.
+
 > *norský úzus*
 
 
