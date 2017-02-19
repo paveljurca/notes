@@ -1,6 +1,6 @@
 
-Je pozdě a naděje nelétá
-========================
+Naděje nelétá
+=============
 
 
 chci do polí  
@@ -28,12 +28,12 @@ i jeho postavou
 jsi ránem
 jeho proměnou
 jsi nadějí
-co dává plout
-/ co bude plout
+co bude plout
 
 ,
 
-teprv nad krovy  
+teprv
+nad krovy  
 budeme spolu  
 budeme sami
 
