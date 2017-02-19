@@ -1559,6 +1559,14 @@ Systematická práce před čekáním na invenci / Igor Stravinskij
 
 .
 
+K inteligenci patří jen ten, kdo se trápí s opravdovostí svého vztahu k pravdě. Ne ten, kdo už pravdu má / Jan Patočka
+
+.
+
+Dějiny jsou a budou jen potud, pokud budou lidé, kteří nechtějí pouze žít, nýbrž jsou ochotni hájit společenství vzájemného respektu / Jan Patočka
+
+.
+
 > *norský úzus*
 
 
