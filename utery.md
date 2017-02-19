@@ -1,105 +1,60 @@
 
-Řádky  
-vzpomenout.  
-Číst zpátky.  
-Plout..
+Je pozdě a naděje nelétá
+========================
+
+
+chci do polí  
+zas vyběhnout  
+chci letět s ptáky  
+zas se hnout
 
 ,
 
-dál od lidí  
-pro starost dnů  
-nevidí.. ty uzlíčky samoty  
-a snů
+tak leť si  
+kam chtějí tě vzít  
+jsi kouskem času  
+s hvězdami budeš snít  
 
 ,
 
-laskat hřbet času  
-roky hvězd smýt  
-křehkou spásu.. leť si  
-kam chtějí tě vzít
-
-,
-
-být.. chybou tvou  
 jsi silhouetta  
 co prošla mnou
+jsi nocí
+jdoucí oblohou
+jsi snem
+hezkou představou
+jsi světlem
+i jeho postavou
+jsi ránem
+jeho proměnou
+jsi nadějí
+co dává plout
+/ co bude plout
 
 ,
 
-Když tehdy záleželo  
-a teď nezáleží.
+teprv nad krovy  
+budeme spolu  
+budeme sami
 
 ,
 
-nad stromy  
-sami —
+je pozdě
+a naděje nelétá
+
+
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
 
 ,
-
-Byli jsme lepší a věděli všechno.
-
-,
-
-
-+
- naráží morče
- do stěny plastové
- na malém kousíčku
- čenichá  oči těkavé
--
- kdo zavřel ho
- prázdnit pítko sté
- to malé morčátko
- blouzní  je mu bléé
--
--
--Stehno
--------
--
--zvíře
-bez jména
--dezert  čoko poleva
--pak jídelníčku obměna
--Ave pia!
--bude stehno jelena
-
-+kde oči  vrby
-+sova  slovy zalitá
-+jen  dnes nelétá
-
--
--
--Pryč
------
--
--rozum
--pryč  z útesu
--
--študák stižen
--rozmarem forbesu
--
--paměť křepčí
--v přednesu
--
--místo dlaní
--vúdú od vřesu
--
--jich hra
--na noblesu
--
--
--Zjev
------
--
--zmatení
--hle nový vjem!
--udatnost
--leč nepřeje jí den
--
--obelisk ksichtu
--plachý srdcí let
--k tíži zrcadlo
--piha, pupek, dech
 
 -Dno
 ----
@@ -120,29 +75,12 @@ bez jména
 
 ,
 
--na Adama
--Evy jmeniny
-a ve větvoví
--nadešlé světa  hodiny
-
-,
-
 -balanc  do sevření
 -vteřiny  zasnění
 nic nezměni
 
 ,
--
--jsme ryba
--ryba v nádobě
--co svými roky
--propíjí se na dno
--
--to dno
--
--mohlo
--ale nemuselo
--
+
 
 -Jinak
 ------
@@ -164,18 +102,6 @@ nic nezměni
 -pyžamo.. úbor únavy
 -
 -
--Žít
-----
--
--úterý  středa
--poledník  stěna
--léto  podzima
--větrolam  mima
--drobt chleba  hlt vína
--memoár  díra
--máma  sivější, sivá
--parte  íá
-
 ,
 
 -Fáma
@@ -229,9 +155,8 @@ Po těle
  postavy
  prostřed někoho
  bokem vřavy
--pyžamo.. úbor
-+pyžamo  úbor
- únavy
+pyžamo
+je úbor únavy
 
 
 ====
@@ -282,78 +207,52 @@ Za věci bez přídavných jmen
  kde věci jsou per se,
  bez přídavných jmen,
 
-====
+==
 
- Drkot těla
--bijeme
--třeskem hlavy.
--Ten vzácný
--prostor mezi bolestmi
-+smění
-+třesk hlavy.
-+
-+&nbsp;Dvě bolesti.
-+
-+Ten prostor
-+mezi nimi
-+(tak akorát na 2 knihy)
- zdá se být
- aspoň životem.
- Slova zadrhla,
+Ten prostor
+mezi bolestmi
+zdá se být
+aspoň životem.
+
+
+Slova zadrhla,
 -myšlenky hloupě zejí.
 +myšlenky divně zejí.
  Nepopovídáš si,
  nerozumí ti.
 
-´▒====
 
 +Neznámá
 +=======
 +
-+Zpatříš ji
-+jste na vzdálenost ruky
-+k společnému My
-+zbývá překonat veletoky
 
-´▒====
+Vidíš ji
+jen vzdálenost ruky
 
-+a čím dále srdcem
-+tehdy záleželo — teď nezáleží
-+
-+to je celé
-+to je stesk
+a k společnému My
+zbývá překonat veletoky
 
-´▒====
 
-Hrůzné zjištění
-+neumím prý žít
- Snad odstup od lidí
- s vlky věnce vít
+blíž věcem
 
--Z lomozu světa
--v ten čas jsem odeplul
--Ztratila se vlídná věta
--já dospělost zavrhnul
--
- To vysoko nade krou
- kormorán z pobřeží
+dál srdcem
+tehdy záleželo
+teď nezáleží
+
+
+chci jít
+jsem žebrák
+i stín
+
+
+
+
+ Nade mnou
+ kluk z pobřeží
  Jen on zná bolest mou
  jen on nehřeší
 
-,
-
-nohy  
-Jack Daniel's
-Honey
-
-,
-
-každej den  
-umíráme s tím  
-že o sobě víme
-
-,
 
 že neví
-nestačí   aby (abychom) nebyli
+nestačí abychom nebyli
 
