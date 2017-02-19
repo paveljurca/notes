@@ -1579,6 +1579,10 @@ Když král nemá vkus, vyjdou krejčí z módy / Ivan Kraus Ve vlastních názo
 
 .
 
+Mám řadu dobrých nepřátel / Ivan Kraus Ve vlastních názorech se shodnu s každým
+
+.
+
 > *norský úzus*
 
 
