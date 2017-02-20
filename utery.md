@@ -18,17 +18,20 @@ s hvězdami budeš snít
 ,
 
 jsi silhouetta  
-co prošla mnou
+co prošla tmou
 jsi nocí
 jdoucí oblohou
 jsi snem
-hezkou představou
+poslední představou
 jsi světlem
 i jeho postavou
 jsi ránem
 jeho proměnou
 jsi nadějí
 co bude plout
+
+jsi chvíle
+co prošla mnou
 
 ,
 
