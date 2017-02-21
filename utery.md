@@ -14,30 +14,32 @@ tak leť si
 kam chtějí tě vzít  
 jsi kouskem času  
 s hvězdami budeš snít  
+s hvězdami můžeš jít
 
 ,
 
-jsi silhouetta  
-co prošla tmou
-jsi nocí
-jdoucí oblohou
-jsi snem
-poslední představou
-jsi světlem
-i jeho postavou
-jsi ránem
-jeho proměnou
-jsi nadějí
-co bude plout
-
+jsi sen
+co prošel tmou
+jsi silhouetta
+letní předlohou
+jsi světlo
+jeho hrou
+jsi kapka
+putující oblohou
 jsi chvíle
-co prošla mnou
+co stála přede mnou
+jsi nový den
+mojí odvahou
+jsi nadějí
+co dává snout
+jsi poslední loďkou
+na které chci plout
 
 ,
 
-teprv
-nad krovy  
-budeme spolu  
+nad krovy
+nad všemi svahy
+budeme spolu
 budeme sami
 
 ,
