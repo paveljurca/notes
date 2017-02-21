@@ -1583,6 +1583,14 @@ Mám řadu dobrých nepřátel / Ivan Kraus Ve vlastních názorech se shodnu s 
 
 .
 
+Neříkej slova do větru. Nevíš, kam vane / Ivan Kraus Ve vlastních názorech se shodnu s každým
+
+.
+
+Každý koncert je příliš dlouhý, jen můj ne / Tony Ackerman 21. 2. 2017
+
+.
+
 > *norský úzus*
 
 
