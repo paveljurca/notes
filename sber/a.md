@@ -1591,6 +1591,18 @@ Každý koncert je příliš dlouhý, jen můj ne / Tony Ackerman 21. 2. 2017
 
 .
 
+It's not that I'm afraid of death. It's living a life without purpose that I'm afraid of / unknown
+
+.
+
+It's not that I'm afraid to die, I just don't want to be there when it happens / Woody Allen
+
+.
+
+Naděje vede ke snaze, snaha k rezignaci / Úvod do současné trapnosti
+
+.
+
 > *norský úzus*
 
 
