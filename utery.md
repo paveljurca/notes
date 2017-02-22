@@ -21,15 +21,17 @@ s hvězdami můžeš jít
 jsi sen
 co prošel tmou
 jsi silhouetta
-letní předlohou
+letní samotou
 jsi světlo
 jeho hrou
 jsi kapka
 putující oblohou
 jsi chvíle
 co stála přede mnou
+
 jsi nový den
 mojí odvahou
+
 jsi nadějí
 co dává snout
 jsi poslední loďkou
