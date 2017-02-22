@@ -1,6 +1,6 @@
 
-Naděje nelétá
-=============
+Jen někdy je pozdě
+==================
 
 
 chci do polí  
@@ -20,18 +20,16 @@ s hvězdami můžeš jít
 
 jsi sen
 co prošel tmou
-jsi silhouetta
-letní samotou
+jsi křídel silhouettou
+jsi bílou krou
 jsi světlo
 jeho hrou
 jsi kapka
 putující oblohou
+jsi oblakem
+samotou —
 jsi chvíle
 co stála přede mnou
-
-jsi nový den
-mojí odvahou
-
 jsi nadějí
 co dává snout
 jsi poslední loďkou
@@ -46,8 +44,8 @@ budeme sami
 
 ,
 
+jen někdy
 je pozdě
-a naděje nelétá
 
 
 KONEC

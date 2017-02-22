@@ -1,6 +1,12 @@
 Komu?ismus
 ==========
 
+> 22. 2. 2017
+> Komunismus je ostuda lidstva!
+> Komunisti jsou ostuda Česka.
+http://www.parlamentnilisty.cz/galerie/foto/Srp-kladivo-a-kos-11689
+
+
 > Systém, který lze udržet jen pomocí zavřených hranic, neotvírá žádné perspektivy.
 > *Ivan KRAUS, Ve vlastních názorech se shodnu s každým, Praha: Academia, 2016.*
 
