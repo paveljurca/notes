@@ -1,7 +1,22 @@
 
+
+Pohádka
+=======
+
+A teď tu o budoucnosti.
+
+
+
+=======
+
+nad krovy
+nad všemi svahy
+budeme spolu
+budeme sami
+
+
 Jen někdy je pozdě
 ==================
-
 
 chci do polí  
 zas vyběhnout  
@@ -10,17 +25,33 @@ zas se hnout
 
 ,
 
-tak leť si  
-kam chtějí tě vzít  
 jsi kouskem času  
-s hvězdami budeš snít  
-s hvězdami můžeš jít
+do korun hvězd ho skrýt
+
+
+jsi vzpomínkou
+která má dál jít
+
+,
+
+jen hloupou hrou
+jen prázdnou hodnotou
+jen přejíždějící samotou
+jen hluchou tmou
+jen sami
+se sebou
+
+,
+
+Jaké to asi je
+dívat se na svět
+a nic přitom nechtít
 
 ,
 
 jsi sen
 co prošel tmou
-jsi křídel silhouettou
+jsi stesk křídel
 jsi bílou krou
 jsi světlo
 jeho hrou
@@ -30,17 +61,14 @@ jsi oblakem
 samotou —
 jsi chvíle
 co stála přede mnou
+jsi silhouettou
+touhou dvou
+jsi motýl
+mizející krajinou
 jsi nadějí
 co dává snout
 jsi poslední loďkou
 na které chci plout
-
-,
-
-nad krovy
-nad všemi svahy
-budeme spolu
-budeme sami
 
 ,
 
@@ -75,7 +103,8 @@ KONEC
 -v ságu bdění
 -přimknuta
 -zem skonem  vzdor
--hlubší  a rozryta
+-hlubší
+snad rozryta
 
 
 ,
