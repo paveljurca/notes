@@ -1611,6 +1611,14 @@ V celém lidském snažení jde pouze o dvě věci — o peníze a o mrdání. T
 
 .
 
+Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity / George S. Patton
+
+.
+
+If everyone is thinking alike, then somebody isn't thinking / George S. Patton
+
+.
+
 > *norský úzus*
 
 
