@@ -1603,6 +1603,14 @@ Naděje vede ke snaze, snaha k rezignaci / Úvod do současné trapnosti
 
 .
 
+La conne est le souverain absolu d'un pays / cardinal de Richelieu
+
+.
+
+V celém lidském snažení jde pouze o dvě věci — o peníze a o mrdání. Ten zbytek je sebeklam / Gabriel Chevallier
+
+.
+
 > *norský úzus*
 
 
