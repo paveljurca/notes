@@ -1,6 +1,18 @@
 Komu?ismus
 ==========
 
+40 let ČSSR nebylo omylem, nedorozuměním nebo tichým nesouhlasem.
+Jsme národ komunistů. Jsme komunisté. Všichni do jednoho. Nedá se to odčinit, ani to není Otázkou viny. A když to nebude komunismus, budou to gender studies, evropské hodnoty.
+Cokoli, kde je fanatismus, rovnost a maloměšťáctví (třeba ve světovém měřítku) - šaškování.
+
+Stejně jako ve Výmarské republice přetrvá
+nacismus nebo Evropská unie. Cokoli, kde se mohou se svými 80 miliony vyřádit.
+
+Stejně snadno jako se uchem Ruska protáhne bolševická nit.
+
+Za Evropskou unii mluví Němci, stávkový výbor Francie nebo komodor z Doverských útesů.
+
+
 > 22. 2. 2017
 > Komunismus je ostuda lidstva!
 > Komunisti jsou ostuda Česka.
