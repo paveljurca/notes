@@ -1627,6 +1627,10 @@ Sice se na internetu dají najít zajímavé stránky a na nich zajímavé věci
 
 .
 
+Nemůžeme to brát jen tak, že nám gadžové ubližují. Ani nás nemusíte mít rádi, ale důležitá je tolerance / Irena Eliášová 14. 2. 2017
+
+.
+
 > *norský úzus*
 
 
