@@ -28,6 +28,7 @@ zas se hnout
 jsi kouskem času  
 do korun hvězd ho skrýt
 
+nazpět vzít
 
 jsi vzpomínkou
 která má dál jít
