@@ -1631,6 +1631,14 @@ Nemůžeme to brát jen tak, že nám gadžové ubližují. Ani nás nemusíte m
 
 .
 
+Twitter is for following people you like but don't know. Facebook is for people you know but don't like / John O'Nolan
+
+.
+
+Živnostníci jsou pro Babiše konkurence, pro Sobotku třídní nepřátelé / Petr Fiala 27. 2. 2017
+
+.
+
 > *norský úzus*
 
 
