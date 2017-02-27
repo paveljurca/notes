@@ -1619,6 +1619,14 @@ If everyone is thinking alike, then somebody isn't thinking / George S. Patton
 
 .
 
+Místo abychom se vyvíjeli sami, vyvíjíme technologie kolem nás / Zdeněk Piškula 29. 12. 2016
+
+.
+
+Sice se na internetu dají najít zajímavé stránky a na nich zajímavé věci, ale knížka je knížka / Zdeněk Piškula 29. 12. 2016
+
+.
+
 > *norský úzus*
 
 
