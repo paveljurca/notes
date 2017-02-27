@@ -1639,6 +1639,14 @@ Twitter is for following people you like but don't know. Facebook is for people 
 
 .
 
+Every great startup was a social experiment / Michael Mayer 26. 2. 2017
+
+.
+
+The less you identify with the easier it is to change your mind / Shane Parrish 27. 2. 2017
+
+.
+
 > *norský úzus*
 
 
