@@ -1659,6 +1659,10 @@ Divadla ani restaurace nemají odvahu odepřít vstup nevhodně oblečeným lide
 
 .
 
+Příroda obdařila lidi smíchem, aby jim vynahradila, že musejí přemýšlet / Marcel Pagnol
+
+.
+
 > *norský úzus*
 
 
