@@ -13,7 +13,7 @@ Blažený ten, kdo byl, dříve než se stal / log. 19
 
 .
 
-[..] for character is not what you do, it's the way you do it / James Hillman The Soul's Code
+For character is not what you do, it's the way you do it / James Hillman The Soul's Code
 
 .
 
@@ -1644,6 +1644,14 @@ Every great startup was a social experiment / Michael Mayer 26. 2. 2017
 .
 
 The less you identify with the easier it is to change your mind / Shane Parrish 27. 2. 2017
+
+.
+
+Komunisté se pokusili silné lidi zlomit a slabé použít / Martin C. Putna 25. 2. 2017
+
+.
+
+Po městě chodí lidé s  kelímky, jako kdyby neměli čas napít se doma. Zvláště mladé „vystajlované“ slečny se díky tomu považují za děsně busy, in a cool / Vilém Barák 28. 2. 2017
 
 .
 
