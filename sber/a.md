@@ -1655,6 +1655,10 @@ Po městě chodí lidé s  kelímky, jako kdyby neměli čas napít se doma. Zvl
 
 .
 
+Divadla ani restaurace nemají odvahu odepřít vstup nevhodně oblečeným lidem, což dříve bývalo normální i v Česku / Vilém Barák 28. 2. 2017
+
+.
+
 > *norský úzus*
 
 
