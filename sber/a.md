@@ -1663,6 +1663,10 @@ Příroda obdařila lidi smíchem, aby jim vynahradila, že musejí přemýšlet
 
 .
 
+In America, anyone can become president. That's the problem / George Carlin
+
+.
+
 > *norský úzus*
 
 
