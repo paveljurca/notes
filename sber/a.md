@@ -1671,6 +1671,10 @@ Ráj patří tomu kdo svého druha rozesměje / talmud
 
 .
 
+Jirko, ta tvá filosofie nás dostane leda do prdele / Václav Orel Okresní přebor
+
+.
+
 > *norský úzus*
 
 
