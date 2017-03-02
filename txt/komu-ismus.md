@@ -1,10 +1,27 @@
 Komu?ismus
 ==========
 
+
+2. pohled:
+
+režisér Bořivoj Zeman http://www.ceskatelevize.cz/porady/10727398300-borivoj-zeman/
+
+Netočil ideologii, ale lidi za ní. Že 41 let muselo v sobě nést víc než komunismus.
+
+
+
+
+
+
+
+
+
+
+
 Proč tvrdit, že vám jde o druhé, když vám jde nejdřív o sebe?
 Protože sračka prodává.
 
-Komunismus svou filosofii zapáral do otázky "Co on má, a já nemám?".
+Komunismus svou filosofii vložil do hluboké otázky "Co on má, a já nemám?".
 
 40 let ČSSR nebylo omylem, nedorozuměním nebo tichým nesouhlasem.
 Jsme národ komunistů. Jsme komunisté. Všichni do jednoho. Nedá se to odčinit, ani to není Otázkou viny. A když to nebude komunismus, budou to gender studies, evropské hodnoty.

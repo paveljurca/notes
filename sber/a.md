@@ -1667,6 +1667,10 @@ In America, anyone can become president. That's the problem / George Carlin
 
 .
 
+Ráj patří tomu kdo svého druha rozesměje / talmud
+
+.
+
 > *norský úzus*
 
 
