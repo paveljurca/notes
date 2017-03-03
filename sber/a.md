@@ -1675,6 +1675,10 @@ Jirko, ta tvá filosofie nás dostane leda do prdele / Václav Orel Okresní př
 
 .
 
+The aging rabbit sucks his child / a Burundian adage
+
+.
+
 > *norský úzus*
 
 
