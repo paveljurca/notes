@@ -1,26 +1,19 @@
 
-
-Pohádka
-=======
-
-A teď tu o budoucnosti.
+O samotě
+========
 
 
+pod krovy
+míjíme dny
+docela slabí
+co zůstali sami
 
-=======
+,
 
-nad krovy
-nad všemi svahy
-budeme spolu
-budeme sami
-
-
-Jen někdy je pozdě
-==================
-
-chci do polí  
+podzim
+žene do polí  
 zas vyběhnout  
-chci letět s ptáky  
+tak letět s ptáky  
 zas se hnout
 
 ,
@@ -28,67 +21,71 @@ zas se hnout
 jsi kouskem času  
 do korun hvězd ho skrýt
 
-nazpět vzít
-
-jsi vzpomínkou
-která má dál jít
-
 ,
 
-jen hloupou hrou
-jen prázdnou hodnotou
-jen přejíždějící samotou
-jen hluchou tmou
+
+se samotou
+a tmou
 jen sami
 se sebou
 
 ,
 
-Jaké to asi je
-dívat se na svět
-a nic přitom nechtít
-
-,
-
 jsi sen
 co prošel tmou
+touha
+pod noční oblohou
+jen silhouetta
+
 jsi stesk křídel
-jsi bílou krou
-jsi světlo
-jeho hrou
-jsi kapka
-putující oblohou
-jsi oblakem
-samotou —
-jsi chvíle
-co stála přede mnou
-jsi silhouettou
-touhou dvou
-jsi motýl
-mizející krajinou
-jsi nadějí
-co dává snout
-jsi poslední loďkou
-na které chci plout
+
+bílou krou
+zas oblakem
+samotou
+
+poslední loďkou
+na které mám plout
 
 ,
 
-jen někdy
-je pozdě
-
-
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
-KONEC
+dívám se na svět
+a nic nechci
 
 ,
+
+s budoucností
+
+bez ní
+
+
+
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+KONEC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -Dno
 ----
@@ -110,9 +107,10 @@ snad rozryta
 
 ,
 
--balanc  do sevření
--vteřiny  zasnění
-nic nezměni
+-balanc
+do sevření
+-vteřiny, zasnění
+nic nezmění
 
 ,
 
@@ -142,12 +140,14 @@ nic nezměni
 -Fáma
 -----
 -
--zpatříš ji
 -dosah ruky
 +k My
 +přes veletoky
 +svádí  něžné roky
-+rým, tři sloky
+
+rým, tři sloky
+-zpatříš ji
+vytrhla se ti z ruky
 
 ,
 
@@ -265,7 +265,7 @@ Vidíš ji
 jen vzdálenost ruky
 
 a k společnému My
-zbývá překonat veletoky
+protečou veletoky
 
 
 blíž věcem
@@ -275,18 +275,9 @@ tehdy záleželo
 teď nezáleží
 
 
-chci jít
+mám jít
 jsem žebrák
 i stín
-
-
-
-
- Nade mnou
- kluk z pobřeží
- Jen on zná bolest mou
- jen on nehřeší
-
 
 že neví
 nestačí abychom nebyli

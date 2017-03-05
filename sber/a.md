@@ -1651,7 +1651,7 @@ Komunisté se pokusili silné lidi zlomit a slabé použít / Martin C. Putna 25
 
 .
 
-Po městě chodí lidé s  kelímky, jako kdyby neměli čas napít se doma. Zvláště mladé „vystajlované“ slečny se díky tomu považují za děsně busy, in a cool / Vilém Barák 28. 2. 2017
+Po městě chodí lidé s kelímky, jako kdyby neměli čas napít se doma. Zvláště mladé „vystajlované“ slečny se díky tomu považují za děsně busy / Vilém Barák 28. 2. 2017
 
 .
 
@@ -1676,6 +1676,22 @@ Jirko, ta tvá filosofie nás dostane leda do prdele / Václav Orel Okresní př
 .
 
 The aging rabbit sucks his child / a Burundian adage
+
+.
+
+S pestrými šaty jako by našly ve světě nové místo / Gabriel García Márquez Sto roků samoty
+
+.
+
+Jen vedle manžela je žena šťastná / Franz Grillparzer Vlny moře a lásky
+
+.
+
+Fourcade je tak dobrý, že poráží i nadopované / Tomáš Macek 4. 3. 2017
+
+.
+
+Tu školu jsem nějak dodělal, dodnes si pamatuji, že jsem si na závěrečné zkoušky vytáhl svíčkovou na smetaně, čočkovou polévku a vlašák / Lukáš Pech 4. 3. 2017
 
 .
 
