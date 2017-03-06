@@ -1695,6 +1695,14 @@ Tu školu jsem nějak dodělal, dodnes si pamatuji, že jsem si na závěrečné
 
 .
 
+Občas je odpovídající reakcí na realitu upadnout do šílenství / Philip K. Dick
+
+.
+
+Jsem jako komár na nudistické pláži; vím, co chci dělat, ale nevím, kde začít / Stephen Bayne
+
+.
+
 > *norský úzus*
 
 
