@@ -1711,6 +1711,14 @@ The purpose of most computer languages is to lengthen your resume by a word and 
 
 .
 
+V demokracii nic dobrovolného nefunguje / Patrick Zandl
+
+.
+
+Each person must live their life as a model for others / Rosa Parks 7. 3. 2017
+
+.
+
 > *norský úzus*
 
 
