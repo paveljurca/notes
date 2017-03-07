@@ -1703,6 +1703,10 @@ Jsem jako komár na nudistické pláži; vím, co chci dělat, ale nevím, kde z
 
 .
 
+Není málo času, který máme, ale mnoho času, který nevyužijeme / Seneca
+
+.
+
 > *norský úzus*
 
 
