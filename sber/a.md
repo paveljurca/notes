@@ -1715,7 +1715,7 @@ V demokracii nic dobrovolného nefunguje / Patrick Zandl
 
 .
 
-Each person must live their life as a model for others / Rosa Parks 7. 3. 2017
+Each person must live their life as a model for others / Rosa Parks
 
 .
 
