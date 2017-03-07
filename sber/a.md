@@ -1707,6 +1707,10 @@ Není málo času, který máme, ale mnoho času, který nevyužijeme / Seneca
 
 .
 
+The purpose of most computer languages is to lengthen your resume by a word and a comma / Larry Wall
+
+.
+
 > *norský úzus*
 
 
