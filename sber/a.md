@@ -1719,6 +1719,14 @@ Each person must live their life as a model for others / Rosa Parks
 
 .
 
+Beware of complexity disguised as a solution / Thomas Frey
+
+.
+
+Petr Jašek vděčí Bohu za to, že ho podrobuje takovýmto zkouškám. Nic proti tomu, ale ať tak Bůh nečiní za peníze českých daňových poplatníků / Bořivoj Pavlata 8. 3. 2017
+
+.
+
 > *norský úzus*
 
 
