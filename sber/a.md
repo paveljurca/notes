@@ -1727,6 +1727,10 @@ Petr Jašek vděčí Bohu za to, že ho podrobuje takovýmto zkouškám. Nic pro
 
 .
 
+Co bylo použito k ukončení jedné války, bylo nyní dostatečně zužitkováno k zahájení další / Anthony Burgess 1985
+
+.
+
 > *norský úzus*
 
 
