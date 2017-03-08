@@ -1731,6 +1731,10 @@ Co bylo použito k ukončení jedné války, bylo nyní dostatečně zužitková
 
 .
 
+ Fanatická oddanost vládnoucí straně lehce vzniká u těch, kdo strádají hmotně / Anthony Burgess 1985
+
+.
+
 > *norský úzus*
 
 
