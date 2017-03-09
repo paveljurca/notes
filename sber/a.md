@@ -1739,6 +1739,10 @@ Nestraník je člověk, který nemá žádné kamarády nebo se za své kamarád
 
 .
 
+Společným jmenovatelem úspěšných projektů jsou kvalitní lidské vlastnosti, silné emoce a správné načasování / Barbara Pešlová 5. 1. 2017
+
+.
+
 > *norský úzus*
 
 
