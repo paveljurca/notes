@@ -1735,6 +1735,10 @@ Fanatická oddanost vládnoucí straně lehce vzniká u těch, kdo strádají hm
 
 .
 
+Válka sama není nutná, stačí její hrozba a z povědomí, že nepřítel je nablízku, se stane nástroj ospravedlňující tyranii / Anthony Burgess 1985
+
+.
+
 Nestraník je člověk, který nemá žádné kamarády nebo se za své kamarády stydí / Milan Kondr
 
 .
@@ -1744,6 +1748,10 @@ Společným jmenovatelem úspěšných projektů jsou kvalitní lidské vlastnos
 .
 
 However beautiful the strategy, you should occasionally look at the results / unknown
+
+.
+
+Mê phunai ton hapanta nikai logon / Sofoklés Oidipus na Kolónu
 
 .
 
