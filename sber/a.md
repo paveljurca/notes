@@ -1743,6 +1743,10 @@ Společným jmenovatelem úspěšných projektů jsou kvalitní lidské vlastnos
 
 .
 
+However beautiful the strategy, you should occasionally look at the results / unknown
+
+.
+
 > *norský úzus*
 
 
