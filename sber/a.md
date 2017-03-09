@@ -1731,7 +1731,11 @@ Co bylo použito k ukončení jedné války, bylo nyní dostatečně zužitková
 
 .
 
- Fanatická oddanost vládnoucí straně lehce vzniká u těch, kdo strádají hmotně / Anthony Burgess 1985
+Fanatická oddanost vládnoucí straně lehce vzniká u těch, kdo strádají hmotně / Anthony Burgess 1985
+
+.
+
+Nestraník je člověk, který nemá žádné kamarády nebo se za své kamarády stydí / Milan Kondr
 
 .
 
