@@ -1755,6 +1755,10 @@ Mê phunai ton hapanta nikai logon / Sofoklés Oidipus na Kolónu
 
 .
 
+Success is not the key to happiness / Albert Schweitzer
+
+.
+
 > *norský úzus*
 
 
