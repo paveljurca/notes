@@ -1767,6 +1767,10 @@ It's hard to write quicker / Linus Torvalds
 
 .
 
+Úspěšní lidé jsou agresívní / Filip Grznár
+
+.
+
 > *norský úzus*
 
 
