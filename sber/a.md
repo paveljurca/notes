@@ -1763,6 +1763,10 @@ Success is not the key to happiness / Albert Schweitzer
 
 .
 
+It's hard to write quicker / Linus Torvalds
+
+.
+
 > *norský úzus*
 
 
