@@ -1771,6 +1771,10 @@ It's hard to write quicker / Linus Torvalds
 
 .
 
+There is no winning! Only degrees of losing / Gavin The War of the Roses
+
+.
+
 > *norský úzus*
 
 
