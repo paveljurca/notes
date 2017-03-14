@@ -1775,6 +1775,10 @@ There is no winning! Only degrees of losing / Gavin The War of the Roses
 
 .
 
+Don't think outside the box. There is no box. Create your own box, make a signature / Donald Robertson 6. 10. 2016
+
+.
+
 > *norský úzus*
 
 
