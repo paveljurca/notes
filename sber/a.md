@@ -1779,6 +1779,30 @@ Don't think outside the box. There is no box. Create your own box, make a signat
 
 .
 
+Všechno se mění, když pocítíš štěstí, aspoň na chvíli / Bogowie
+
+.
+
+Je to hodně, nebo málo? Je to jedno / Mirka Spáčilová 14. 3. 2017
+
+.
+
+On ten národ je nakonec docela přemýšlivý. Jde o to, mluvit, aby se mohli rozhodovat / Lubomír Zaorálek 14. 3. 2017
+
+.
+
+Výčty hodnot nesnáším. Když se postavíte na náměstí a vyjmenujete deset sociálnědemokratických hodnot, tak to nikoho neosloví / Lubomír Zaorálek 14. 3. 2017
+
+.
+
+To je hrozné, jací jsou dnešní lidé. Povídají si za jeho zády věci, které jsou vesměs docela pravdivé / Anton Pavlovič Čechov Černý mnich
+
+.
+
+Neboť lidé jsou zapomnětliví. Musí se znova učit všemu, i lásce. A to si, člověče, pamatuj / Max Dauthendey Lingam
+
+.
+
 > *norský úzus*
 
 
