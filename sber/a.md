@@ -1807,7 +1807,15 @@ We are who we are as we were created to be / unknown
 
 .
 
-We didn't do anything wrong, but somehow, we lost / Rajeev Suri
+We didn't do anything wrong, but somehow, we lost / Stephen Elop Nokia
+
+.
+
+We should accept all people in our society, totally independent of how they look or of their physical limitations / Torstein Lerhol listopad 2016
+
+.
+
+To, jak vypadám, je jiné od toho, co vidím / Torstein Lerhol listopad 2016
 
 .
 
