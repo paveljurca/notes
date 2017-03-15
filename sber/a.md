@@ -1803,6 +1803,14 @@ Neboť lidé jsou zapomnětliví. Musí se znova učit všemu, i lásce. A to si
 
 .
 
+We are who we are as we were created to be / unknown
+
+.
+
+We didn't do anything wrong, but somehow, we lost / Rajeev Suri
+
+.
+
 > *norský úzus*
 
 
