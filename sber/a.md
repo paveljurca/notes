@@ -1819,6 +1819,10 @@ To, jak vypadám, je jiné od toho, co vidím / Torstein Lerhol listopad 2016
 
 .
 
+When you win, say nothing, when you lose, say less / Paul Brown
+
+.
+
 > *norský úzus*
 
 
