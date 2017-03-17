@@ -1827,6 +1827,18 @@ It's all about controlling your urge to make stupid decisions / unknown
 
 .
 
+Každý občas lže, ale lhát neustále, to je přespříliš / Napoléon Bonaparte
+
+.
+
+Peer Gynt podléhá módě a za to je odsouzen / Martin Čičvák 17. 3. 2017
+
+.
+
+Gynt doufá, že je sám sebou. Je přesvědčen, že to, co dělá, dělá důsledně, bez kompromisů. Pak najednou zjistí, že to všechno dělal pro sebe, že se přizpůsoboval většině, aby se zalíbil / Ondřej Brousek 17. 3. 2017
+
+.
+
 > *norský úzus*
 
 
