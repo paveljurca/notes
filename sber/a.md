@@ -1823,6 +1823,10 @@ When you win, say nothing, when you lose, say less / Paul Brown
 
 .
 
+It's all about controlling your urge to make stupid decisions / unknown
+
+.
+
 > *norský úzus*
 
 
