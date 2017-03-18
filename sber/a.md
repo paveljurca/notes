@@ -1839,6 +1839,10 @@ Gynt doufá, že je sám sebou. Je přesvědčen, že to, co dělá, dělá důs
 
 .
 
+The Marines' response is to be careful and slow, but the people they are after move very fast. If you want to catch them, you have to move at their speed / James LaPorta 17. 3. 2017
+
+.
+
 > *norský úzus*
 
 
