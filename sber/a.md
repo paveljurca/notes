@@ -1843,6 +1843,10 @@ The Marines' response is to be careful and slow, but the people they are after m
 
 .
 
+Vzpomenout si na všechno, neznamená vědět všechno / Jason Bourne
+
+.
+
 > *norský úzus*
 
 
