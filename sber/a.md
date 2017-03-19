@@ -1879,6 +1879,10 @@ Abych neměl hlad a žízeň, na provázku skáču. Doufaje, že získám příz
 
 .
 
+If you are a hesitant European you are a European who has already lost the battle / Emmanuel Macron 16. 3. 2017
+
+.
+
 > *norský úzus*
 
 
