@@ -1875,6 +1875,10 @@ Já jsem se rval za komunismu, budu se rvát i za demokracie / Miloslav Vlk dube
 
 .
 
+Abych neměl hlad a žízeň, na provázku skáču. Doufaje, že získám přízeň — samolibých sráčů / Karel Kryl Na sebe
+
+.
+
 > *norský úzus*
 
 
