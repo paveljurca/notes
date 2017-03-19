@@ -1847,6 +1847,34 @@ Vzpomenout si na všechno, neznamená vědět všechno / Jason Bourne
 
 .
 
+Do small things with great love / Saint Teresa of Calcutta
+
+.
+
+Manažer je dnes kdekdo. Byl bych jejich cvičená opice / Jan Sigmund 18. 3. 2017
+
+.
+
+Nadvláda je neviditelná těm, kdo ji mají / Tomáš Pavlas 7. 3. 2017
+
+.
+
+Já nelžu, nekradu, nejdu nikomu na ruku / Andrej Babiš 23. 3. 2016
+
+.
+
+Všetci kradnú / Akce nespokojených občanů
+
+.
+
+Nebudeme lhát, nebudeme krást / Andrej Babiš 14. 10. 2013
+
+.
+
+Já jsem se rval za komunismu, budu se rvát i za demokracie / Miloslav Vlk duben 2008
+
+.
+
 > *norský úzus*
 
 
