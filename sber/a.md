@@ -1883,6 +1883,10 @@ If you are a hesitant European you are a European who has already lost the battl
 
 .
 
+Deal with the big while it is still small / Laozi
+
+.
+
 > *norský úzus*
 
 
