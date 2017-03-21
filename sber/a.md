@@ -1891,6 +1891,10 @@ Man is not the only animal that seeks freedom and space / Anthony Douglas Willia
 
 .
 
+Ve hře si mohou sebe představovat jako hrdiny, mohou tam zažívat úspěch, což se jim jinak nestává / Jitka Jeklová 21. 3. 2017
+
+.
+
 > *norský úzus*
 
 
