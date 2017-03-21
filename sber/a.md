@@ -1887,6 +1887,10 @@ Deal with the big while it is still small / Laozi
 
 .
 
+Man is not the only animal that seeks freedom and space / Anthony Douglas Williams Inside the Divine Pattern
+
+.
+
 > *norský úzus*
 
 
