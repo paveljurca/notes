@@ -1895,6 +1895,10 @@ Ve hře si mohou sebe představovat jako hrdiny, mohou tam zažívat úspěch, c
 
 .
 
+Free country? Name one thing you can do that isn't taxed, regulated or illegal / ?
+
+.
+
 > *norský úzus*
 
 
