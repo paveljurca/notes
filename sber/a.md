@@ -1903,6 +1903,22 @@ Ty však jsi narozen pro jasný den / Friedrich Hölderlin
 
 .
 
+Děti jsou velmi často nervově labilní, mají poruchy, o kterých rodiče ani nevědí a hlavně nechtějí vědět, protože by je museli řešit / Iva Nekvasilová 24. 3. 2017
+
+.
+
+Než zplodím dítě, ještě počkám, jestli přežije Evropská unie a co udělá Rusko / Radek Banga 24. 3. 2017
+
+.
+
+Když člověk v životě uspěje, je skoro jeho povinnost ukazovat cestu / Radek Banga 24. 3. 2017
+
+.
+
+Pořád jsem měl v hlavě, že vzdělání je jediná cesta, jak se uchytit a nebýt na dávkách / Radek Banga 24. 3. 2017
+
+.
+
 > *norský úzus*
 
 
