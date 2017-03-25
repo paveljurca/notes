@@ -1923,6 +1923,14 @@ Kdyby lidé nebyli nepozorní a nebylo jim zatěžko číst životopisy, nebyla 
 
 .
 
+If you don't know exactly where you're going, how will you know when you get there? / Steve Maraboli
+
+.
+
+I don't exactly know what I mean by that, but I mean it / J.D. Salinger
+
+.
+
 > *norský úzus*
 
 
