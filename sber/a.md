@@ -1919,6 +1919,10 @@ Pořád jsem měl v hlavě, že vzdělání je jediná cesta, jak se uchytit a n
 
 .
 
+Kdyby lidé nebyli nepozorní a nebylo jim zatěžko číst životopisy, nebyla by nezaměstnanost. Jsou racionálně nepozorní — věnují pozornost tomu, co si myslí, že je důležité. Kvůli tomu jsou někteří víc nezaměstnaní než jiní / Filip Matějka 25. 3. 2017
+
+.
+
 > *norský úzus*
 
 
