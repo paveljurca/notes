@@ -1939,6 +1939,10 @@ Dobrá kočka, která nemlsá / Václav Hollar
 
 .
 
+Writing, to me, is simply thinking through my fingers / Isaac Asimov
+
+.
+
 > *norský úzus*
 
 
