@@ -1931,6 +1931,14 @@ I don't exactly know what I mean by that, but I mean it / J.D. Salinger
 
 .
 
+Prvním pravidlem bylo nikdy žádnou věc neuznat za skutečnou, pokud jasně neseznám, že taková je / Cartesius
+
+.
+
+Dobrá kočka, která nemlsá / Václav Hollar
+
+.
+
 > *norský úzus*
 
 
