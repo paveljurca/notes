@@ -1927,7 +1927,7 @@ If you don't know exactly where you're going, how will you know when you get the
 
 .
 
-I don't exactly know what I mean by that, but I mean it / J.D. Salinger
+I don't exactly know what I mean by that, but I mean it / J. D. Salinger
 
 .
 
@@ -1940,6 +1940,34 @@ Dobrá kočka, která nemlsá / Václav Hollar
 .
 
 Writing, to me, is simply thinking through my fingers / Isaac Asimov
+
+.
+
+A writer learns that easy to read is hard to write / C. J. Heck
+
+.
+
+You can't edit a blank page / Nora Roberts
+
+.
+
+A professional writer is an amateur who didn't quit / Richard Bach
+
+.
+
+One should never write down or up to people, but out of yourself / Christopher Isherwood
+
+.
+
+The more you read, the less apt you are to make a fool of yourself with your pen or word processor / Stephen King 
+
+.
+
+Get it down. Take chances. It may be bad, but it's the only way you can do anything really good / William Faulkner
+
+.
+
+Whenever I'm asked what kind of writing is the most lucrative, I have to say ransom notes / H. N. Swanson Literary Agent
 
 .
 
