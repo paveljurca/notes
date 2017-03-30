@@ -1971,6 +1971,10 @@ Whenever I'm asked what kind of writing is the most lucrative, I have to say ran
 
 .
 
+Ever meet one of these people that makes everything a competition? I've met more / Corky Kneivel 14. 5. 2016
+
+.
+
 > *norský úzus*
 
 
