@@ -1975,6 +1975,10 @@ Ever meet one of these people that makes everything a competition? I've met more
 
 .
 
+One man or woman with courage is a majority / Andrew Jackson
+
+.
+
 > *norský úzus*
 
 
