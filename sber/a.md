@@ -1979,6 +1979,10 @@ One man or woman with courage is a majority / Andrew Jackson
 
 .
 
+Není trvalého štěstí v žádném z předmětů světa. Je v nás / Eduard Tomáš
+
+.
+
 > *norský úzus*
 
 
