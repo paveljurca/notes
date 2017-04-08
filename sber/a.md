@@ -1983,6 +1983,10 @@ Není trvalého štěstí v žádném z předmětů světa. Je v nás / Eduard T
 
 .
 
+Matkou všeho lidského štěstí je moudrost / Diogenes
+
+.
+
 > *norský úzus*
 
 
