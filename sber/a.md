@@ -1987,6 +1987,22 @@ Matkou všeho lidského štěstí je moudrost / Diogenes
 
 .
 
+Dokud tu jsme, nic se neděje nadarmo. Ani čas tolik neznamená, dokud tu jsme / Josef Topol 1985
+
+.
+
+Life is complicated. More as story develops / John Lurie 7. 4. 2017
+
+.
+
+Potíž české literatury není v tom, co se píše, ale jak je to u nás reflektováno / Vojtěch Varyš 7. 4. 2017
+
+.
+
+Když někdo pije, stoupá mu tolerance na alkohol a zvládá pít víc / Jana Hrnčiarová 7. 4. 2017
+
+.
+
 > *norský úzus*
 
 
