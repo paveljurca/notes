@@ -2003,6 +2003,10 @@ Když někdo pije, stoupá mu tolerance na alkohol a zvládá pít víc / Jana H
 
 .
 
+Kavárny jsou přeplněné a kromě sodovky ke kávě všechno stojí peníze / Jan Badalec Poslední instance
+
+.
+
 > *norský úzus*
 
 
