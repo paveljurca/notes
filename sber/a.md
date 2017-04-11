@@ -2007,6 +2007,10 @@ Kavárny jsou přeplněné a kromě sodovky ke kávě všechno stojí peníze / 
 
 .
 
+The isolationism of the Left stems from the conviction that America is bad for the rest of the world, whereas the isolationism of the Right is based on the belief that the rest of the world is bad for America / Norman Podhoretz
+
+.
+
 > *norský úzus*
 
 
