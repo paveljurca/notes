@@ -2011,6 +2011,10 @@ The isolationism of the Left stems from the conviction that America is bad for t
 
 .
 
+I wish everyone could become rich and famous so they could realize it's not the answer / Jim Carrey
+
+.
+
 > *norský úzus*
 
 
