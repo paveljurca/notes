@@ -1999,7 +1999,7 @@ Potíž české literatury není v tom, co se píše, ale jak je to u nás refle
 
 .
 
-Když někdo pije, stoupá mu tolerance na alkohol a zvládá pít víc / Jana Hrnčiarová 7. 4. 2017
+Když někdo pije, stoupá mu tolerance na alkohol a pije víc / Jana Hrnčiarová 7. 4. 2017
 
 .
 
@@ -2012,6 +2012,14 @@ The isolationism of the Left stems from the conviction that America is bad for t
 .
 
 I wish everyone could become rich and famous so they could realize it's not the answer / Jim Carrey
+
+.
+
+Bohatství je lup / Bernard Bolzano O nejlepším státě
+
+.
+
+Pokroková role státu spočívá v odstraňování sociální nerovnosti / Bernard Bolzano O nejlepším státě
 
 .
 
