@@ -2023,6 +2023,10 @@ Pokroková role státu spočívá v odstraňování sociální nerovnosti / Bern
 
 .
 
+If you're not lying awake at night worrying about it, the reader isn't going to, either / James M. Cain
+
+.
+
 > *norský úzus*
 
 
