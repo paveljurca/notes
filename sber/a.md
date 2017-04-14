@@ -2047,6 +2047,10 @@ Snazší to asi dnes je, ale je to na hovno / Marpo 12. 4. 2017
 
 .
 
+Muže bereme jako lidskou bytost, ženu jako samici. Kdykoli se pak žena chová jako lidská bytost, imituje muže / Simone de Beauvoir
+
+.
+
 > *norský úzus*
 
 
