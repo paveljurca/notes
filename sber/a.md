@@ -2027,6 +2027,10 @@ If you're not lying awake at night worrying about it, the reader isn't going to,
 
 .
 
+Láska obnovuje svět / Miloslav Vlk
+
+.
+
 > *norský úzus*
 
 
