@@ -2055,6 +2055,14 @@ If you didn't measure it, it didn't happen / Noah Kagan
 
 .
 
+Women want love to be a novel. Men, a short story / Daphne du Maurier
+
+.
+
+Write the truest sentence that you know / Ernest Hemingway
+
+.
+
 > *norský úzus*
 
 
