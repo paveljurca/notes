@@ -2031,6 +2031,22 @@ Láska obnovuje svět / Miloslav Vlk
 
 .
 
+Escape now, talk later / Han Solo Star Wars: Episode VII
+
+.
+
+Já si mluvením vysekávám cestičku / Jiří Vykřičené domy
+
+.
+
+Lidi kritizují, hlavně když vidí, že něco dokážete / Lukáš Šembera 12. 4. 2017
+
+.
+
+Snazší to asi dnes je, ale je to na hovno / Marpo 12. 4. 2017
+
+.
+
 > *norský úzus*
 
 
