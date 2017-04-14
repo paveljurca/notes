@@ -2039,11 +2039,11 @@ Já si mluvením vysekávám cestičku / Jiří Vykřičené domy
 
 .
 
-Lidi kritizují, hlavně když vidí, že něco dokážete / Lukáš Šembera 12. 4. 2017
+Lidi kritizují, hlavně když vidí, že něco dokážete / Lukáš Šembera 12. 4. 2017 Studenta (duben 2017)
 
 .
 
-Snazší to asi dnes je, ale je to na hovno / Marpo 12. 4. 2017
+Snazší to asi dnes je, ale je to na hovno / Marpo 12. 4. 2017 Studenta (duben 2017)
 
 .
 
