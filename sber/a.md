@@ -2051,6 +2051,10 @@ Muže bereme jako lidskou bytost, ženu jako samici. Kdykoli se pak žena chová
 
 .
 
+If you didn't measure it, it didn't happen / Noah Kagan
+
+.
+
 > *norský úzus*
 
 
