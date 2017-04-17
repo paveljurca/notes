@@ -2107,6 +2107,26 @@ Instead of trying to understand everybody, pick up friends and talk dirty to the
 
 .
 
+The real problem of humanity.. we have Palaeolithic emotions; medieval institutions; and godlike technology / E. O. Wilson
+
+.
+
+Lesson number one: Don't underestimate the other guy's greed / Frank Lopez Scarface
+
+.
+
+All models are false but some are useful / George Box
+
+.
+
+If it is not right, do not do it, if it is not true, do not say it / Marcus Aurelius
+
+.
+
+We have a generation of students that can answer questions on standardized tests, know factoids, but they can't do anything / Aschwanden
+
+.
+
 > *norský úzus*
 
 
