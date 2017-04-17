@@ -2063,6 +2063,46 @@ Write the truest sentence that you know / Ernest Hemingway
 
 .
 
+Never assume the obvious is true / William Safire
+
+.
+
+You don't have to be big. You don't have to be remarkable / unknown
+
+.
+
+Be a good listener. Your ears will never get you in trouble / Frank Tyger
+
+.
+
+Don't give up what you want, for what you want now / Zig Ziglar
+
+.
+
+You can often change your circumstances by changing your attitude / Eleanor Roosevelt
+
+.
+
+I know of only one duty, and that is to love / Albert Camus
+
+.
+
+Le mieux est l'ennemi du bien / Voltaire
+
+.
+
+Your life does not get better by chance, it gets better by change / Jim Rohn 
+
+.
+
+I'm not going to let school get in the way of my child's education / Mitch Joel 
+
+.
+
+Only the dead have seen the end of war / Plato
+
+.
+
 > *norský úzus*
 
 
