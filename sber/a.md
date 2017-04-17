@@ -2103,6 +2103,10 @@ Only the dead have seen the end of war / Plato
 
 .
 
+Instead of trying to understand everybody, pick up friends and talk dirty to them, make racist jokes and so on / Slavoj Žižek The Parallax View
+
+.
+
 > *norský úzus*
 
 
