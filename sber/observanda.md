@@ -11,6 +11,28 @@ A library is an arsenal of liberty / unknown
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
+BURGESS
+=======
+
+Válka skončit nesmí. Válka je způsobem života v novém věku,
+jako byl mír způsobem života ve věku starém. Je způsobem života
+a jednou ze stránek politické filosofie.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 10.)
+
+Fanatická oddanost vládnoucí
+straně lehce vzniká u těch, kdo strádají hmotně. A navíc, věrnost a to,
+co jsme si zvykli nazývat patriotismem, je na požadované výši udržováno
+vědomím, že nepřítel stojí před branami.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 11.)
+
+To, co bylo použito k ukončení jedné války, bylo nyní dostatečně
+zužitkováno k zahájení další.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 9.)
+
+Co je pravda nyní, muselo být pravda od počátku. Pravda je přece
+aktuální. A aktuální znamená tady a teď.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 12.)
+
 
 MORE
 ====

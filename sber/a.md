@@ -2135,6 +2135,10 @@ Je to možné? Je to zcela zásadní / Anthony Burgess 1985
 
 .
 
+Trvalá válka je mír / 1985
+
+.
+
 > *norský úzus*
 
 
