@@ -2127,6 +2127,14 @@ We have a generation of students that can answer questions on standardized tests
 
 .
 
+I'm as proud of what we don't do as I am of what we do / Steve Jobs
+
+.
+
+Je to možné? Je to zcela zásadní / Anthony Burgess 1985
+
+.
+
 > *norský úzus*
 
 
