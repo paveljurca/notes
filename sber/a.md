@@ -1,7 +1,7 @@
 A
 =
 
-Define or be defined / Thomas Szasz
+Definuj nebo budeš definován / Thomas Szasz
 
 .
 
