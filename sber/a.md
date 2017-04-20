@@ -2139,6 +2139,10 @@ Trvalá válka je mír / 1985
 
 .
 
+To awaken quite alone in a strange town is one of the pleasantest sensations in the world / Freya Stark
+
+.
+
 > *norský úzus*
 
 
