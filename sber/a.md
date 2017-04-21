@@ -2143,6 +2143,10 @@ To awaken quite alone in a strange town is one of the pleasantest sensations in 
 
 .
 
+The more pointless the task, the higher the pay / Peter Flemming
+
+.
+
 > *norský úzus*
 
 
