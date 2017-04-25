@@ -2147,6 +2147,10 @@ The more pointless the task, the higher the pay / Peter Fleming
 
 .
 
+Declining wages are killing the american dream / Mort Zuckerman New York Daily News
+
+.
+
 > *norský úzus*
 
 
