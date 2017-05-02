@@ -33,6 +33,14 @@ Co je pravda nyní, muselo být pravda od počátku. Pravda je přece
 aktuální. A aktuální znamená tady a teď.
 (A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 12.)
 
+Jak je možné někoho k lásce donutit? Jsou prověřené způsoby i prostředky.
+Vyloučení manželské lásky, lásky mezi rodiči a dětmi, umrtvení radosti
+ze sexu [..] Navíc existence zrádce Emmanuela Goldsteina, který je vždy
+na straně nepřítele, který nenávidí Velkého bratra a usiluje o zničení
+Oceánie, utvrzuje stálé pronikání strachu a hnusu do populace [..]
+
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 12.)
+
 
 MORE
 ====

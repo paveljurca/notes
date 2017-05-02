@@ -2151,6 +2151,10 @@ Declining wages are killing the american dream / Mort Zuckerman New York Daily N
 
 .
 
+We don't make movies so we can make money. We make money to make more movies / Walt Disney
+
+.
+
 > *norský úzus*
 
 
