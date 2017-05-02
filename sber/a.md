@@ -2155,6 +2155,10 @@ We don't make movies so we can make money. We make money to make more movies / W
 
 .
 
+Kdo chce zlomit svobodného ducha, zaútočí na vzdělanost / Ivan Klíma Moje šílené století
+
+.
+
 > *norský úzus*
 
 
