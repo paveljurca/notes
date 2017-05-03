@@ -1427,11 +1427,11 @@ As long as we have presidents who lie to us we'll be political just by using lan
 
 .
 
-I want us to ask ourselves every day, how are we using technology to make a real difference in people's lives / President Barack Obama
+I want us to ask ourselves every day, how are we using technology to make a real difference in people's lives / Barack Obama
 
 .
 
-Nezajímá nás lachtan v Antarktidě tolik jako omáčka v Pelhřimově / Václav Klaus ml.
+Nezajímá nás lachtan v Antarktidě tolik jako omáčka v Pelhřimově / Václav Klaus ml. 9. 1. 2017
 
 .
 
@@ -2159,10 +2159,19 @@ Kdo chce zlomit svobodného ducha, zaútočí na vzdělanost / Ivan Klíma Moje 
 
 .
 
+
+All creative people feel that the source of their creativity comes from the same room as their deepest pain / Rosanne Cash
+
+.
+
+When they go low, we go high / Michelle Obama 25. 7. 2016
+
+.
+
 > *norský úzus*
 
 
-* __jinde__
+* __elsewhere__
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
 * [Familiar and Unfamiliar Quotations](http://norvig.com/quotations.html)
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
