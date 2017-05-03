@@ -2176,6 +2176,10 @@ The mind is certainly its own cosmos / Alan Lightman
 
 .
 
+To philosophize is to learn how to die / Simon Critchley
+
+.
+
 > *norský úzus*
 
 
