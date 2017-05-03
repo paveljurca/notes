@@ -2168,6 +2168,14 @@ When they go low, we go high / Michelle Obama 25. 7. 2016
 
 .
 
+The mind can make a heaven of hell, a hell of heaven / John Milton
+
+.
+
+The mind is certainly its own cosmos / Alan Lightman
+
+.
+
 > *norský úzus*
 
 
