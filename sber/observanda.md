@@ -19,7 +19,7 @@ Slunce mu přestalo svítit na záda, zima se mu zakousla do nohou a ramen.
 Večer bude zachumlaný v posteli a bude vzpomínat na těch pár minut, kdy
 vnímal čas, kdy si uvědomoval, jak ubíhá den. [..] Taky úplně jiné než
 stát po kolena v příboji a cítit ten zvláštní tah. I to byl čas, ale jiný.
-(R. Carver, Slon a dvacet povídek, Praha: Volvox Globator, 2013 (překl. J. Hrubý), s. 42.)
+(R. Carver, Poseidon a další. In: Slon a dvacet povídek, Praha: Volvox Globator, 2013 (překl. J. Hrubý), s. 42.)
 
 
 BURGESS

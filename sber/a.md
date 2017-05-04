@@ -41,7 +41,7 @@ V Jaspersově pojetí je člověk jen možnou existencí. Ne každý člověk se
 
 .
 
-You are self-made, or never-made / Bill Gates
+You are self-made, or never-made / William Henry Gates III
 
 .
 
@@ -2177,6 +2177,18 @@ The mind is certainly its own cosmos / Alan Lightman
 .
 
 To philosophize is to learn how to die / Simon Critchley
+
+.
+
+Když se díváte někam daleko, tak zakopnete o to, co máte pod nosem / Darina Vymětalíková 4. 5. 2017
+
+.
+
+Jsme to, co ze sebe učiníme, nikoliv to, co z nás učiní osud / Emile Coué
+
+.
+
+Časem jsem pochopil, že se děti jmenují Michael a Susan [..] blesklo mi hlavou, že mají velké štěstí, protože jim maminka zpívá a bez táty se klidně obejdou / Raymond Carver Sny
 
 .
 
