@@ -2192,6 +2192,14 @@ Jsme to, co ze sebe učiníme, nikoliv to, co z nás učiní osud / Emile Coué
 
 .
 
+Quite frequently I am not so miserable as it would be wise to be / T.H. White
+
+.
+
+Those who are not aware they are walking in darkness will never seek the light / Bruce Lee
+
+.
+
 > *norský úzus*
 
 
