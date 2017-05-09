@@ -2200,6 +2200,10 @@ Those who are not aware they are walking in darkness will never seek the light /
 
 .
 
+A lot of other people are trying to be brilliant and we're just trying to stay rational. It's a big advantage / Charlie Munger
+
+.
+
 > *norský úzus*
 
 
