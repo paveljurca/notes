@@ -2204,6 +2204,10 @@ A lot of other people are trying to be brilliant and we're just trying to stay r
 
 .
 
+Non sub homine sed sub legem / Ne pod člověkem, ale pod řádem chceme žíti
+
+.
+
 > *norský úzus*
 
 
