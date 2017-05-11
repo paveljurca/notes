@@ -2208,6 +2208,10 @@ Non sub homine sed sub legem / Ne pod člověkem, ale pod řádem chceme žíti
 
 .
 
+When a flower doesn't bloom you fix the environment in which it grows, not the flower / Alexander Den Heijer
+
+.
+
 > *norský úzus*
 
 
