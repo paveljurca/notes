@@ -2212,6 +2212,10 @@ When a flower doesn't bloom you fix the environment in which it grows, not the f
 
 .
 
+Music is the only religion that delivers the goods / Frank Zappa
+
+.
+
 > *norský úzus*
 
 
