@@ -2220,6 +2220,18 @@ Always remember that you are absolutely unique. Just like everyone else / Margar
 
 .
 
+Do or do not, there is no try / Master Yoda
+
+.
+
+Keep your concentration here and now, where it belongs / Qui-Gon Jinn
+
+.
+
+Your focus determines your reality / Master Yoda
+
+.
+
 > *norský úzus*
 
 
