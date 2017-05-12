@@ -2216,6 +2216,10 @@ Music is the only religion that delivers the goods / Frank Zappa
 
 .
 
+Always remember that you are absolutely unique. Just like everyone else / Margaret Mead
+
+.
+
 > *norský úzus*
 
 
