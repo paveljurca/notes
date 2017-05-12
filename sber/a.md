@@ -2232,6 +2232,10 @@ Your focus determines your reality / Master Yoda
 
 .
 
+Most books that want to change us seek to make us richer or thinner. This book wants to help us to be nicer / On Being Nice
+
+.
+
 > *norský úzus*
 
 
