@@ -2236,6 +2236,10 @@ Most books that want to change us seek to make us richer or thinner. This book w
 
 .
 
+There's no problem. The problem is your attitude / unknown
+
+.
+
 > *norský úzus*
 
 
