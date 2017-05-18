@@ -2276,6 +2276,26 @@ The major barrier to skill acquisition isn't intellectual — it's emotional / J
 
 .
 
+Puška visící na zdi dělníkova příbytku nebo farmářovy chýše je symbolem demokracie. A je naším úkolem dohlédnout, aby tam zůstala / George Orwell
+
+.
+
+The quickest way of ending a war is to lose it / George Orwell
+
+.
+
+Men can only be happy when they do not assume that the object of life is happiness / George Orwell
+
+.
+
+The object of terrorism is terrorism. The object of oppression is oppression. The object of torture is torture. The object of murder is murder. The object of power is power. Now do you begin to understand me? / George Orwell
+
+.
+
+The heresy of heresies was common sense. And what was terrifying was not that they would kill you for thinking otherwise, but that they might be right. For, after all, how do we know that two and two make four? Or that the force of gravity works? Or that the past is unchangeable? If both the past and the external world exist only in the mind, and if the mind itself is controllable — what then? / George Orwell
+
+.
+
 > *norský úzus*
 
 
