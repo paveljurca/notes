@@ -2272,6 +2272,10 @@ We need to internalize this idea of excellence. Not many folks spend a lot of ti
 
 .
 
+The major barrier to skill acquisition isn't intellectual — it's emotional / Josh Kaufman
+
+.
+
 > *norský úzus*
 
 

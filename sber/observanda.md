@@ -10,6 +10,20 @@ A library is an arsenal of liberty / unknown
 
 * [Bret Victor's](http://worrydream.com/quotes/)
 
+CAMUS
+=====
+
+To dílo v sobě má bezvýznamnost a trvanlivost. Duch s tím nemá společného
+nic a hmota hodně. Průměrnost hodlá přetrvat všemi prostředky včetně bronzu.
+Jsou jí odmítána její práva na věčnosti, a ona se jich chápe dnes a denně.
+Cožpak věčnost není právě ona?
+[..] Vše, co je pomíjivé, chce přetrvat. Lidské výtvory nedávají najevo
+nic jiného a v tomto ohledu mají Caïnovi lvi stejné naděje jako rozvaliny
+Angkoru. To nabádá ke skromnosti.
+[..] Člověk je tu ostatně jen na to, abychom si uvědomili nelidský rozměr
+stavby. Právě tohle vás napadne na oranském skalním převisu západně od města.
+(A. Camus, Léto, Praha: Hynek, 1999 (překl. V. Dufková), s. 29 (1. vyd.).)
+
 
 CARVER
 ======
@@ -19,7 +33,7 @@ Slunce mu přestalo svítit na záda, zima se mu zakousla do nohou a ramen.
 Večer bude zachumlaný v posteli a bude vzpomínat na těch pár minut, kdy
 vnímal čas, kdy si uvědomoval, jak ubíhá den. [..] Taky úplně jiné než
 stát po kolena v příboji a cítit ten zvláštní tah. I to byl čas, ale jiný.
-(R. Carver, Poseidon a další. In: Slon a dvacet povídek, Praha: Volvox Globator, 2013 (překl. J. Hrubý), s. 42.)
+(R. Carver, Poseidon a další, In: Slon a dvacet povídek, Praha: Volvox Globator, 2013 (překl. J. Hrubý), s. 42.)
 
 
 BURGESS
