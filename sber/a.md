@@ -2276,7 +2276,7 @@ The major barrier to skill acquisition isn't intellectual — it's emotional / J
 
 .
 
-Puška visící na zdi dělníkova příbytku nebo farmářovy chýše je symbolem demokracie. A je naším úkolem dohlédnout, aby tam zůstala / George Orwell
+Puška visící na zdi dělníkova příbytku nebo farmářovy chýše je symbolem demokracie. A je naším úkolem dohlédnout, aby tam zůstala / Eric Arthur Blair
 
 .
 
@@ -2284,11 +2284,11 @@ The quickest way of ending a war is to lose it / George Orwell
 
 .
 
-Men can only be happy when they do not assume that the object of life is happiness / George Orwell
+Men can only be happy when they do not assume that the object of life is happiness / Eric Arthur Blair
 
 .
 
-The object of terrorism is terrorism. The object of oppression is oppression. The object of torture is torture. The object of murder is murder. The object of power is power. Now do you begin to understand me? / George Orwell
+The object of terrorism is terrorism. The object of oppression is oppression. The object of torture is torture. The object of murder is murder. The object of power is power. Now do you begin to understand me? / Eric Arthur Blair
 
 .
 
