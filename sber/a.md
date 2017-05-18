@@ -2296,6 +2296,10 @@ The heresy of heresies was common sense. And what was terrifying was not that th
 
 .
 
+We leave behind bits of us, puzzle pieces that, when joined, create a larger mystery, always for the pondering, and never for the solving / David Boles 18. 5. 2017
+
+.
+
 > *norský úzus*
 
 
