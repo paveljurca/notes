@@ -2300,6 +2300,10 @@ We leave behind bits of us, puzzle pieces that, when joined, create a larger mys
 
 .
 
+I can't wear pink, everyone at work wears white! I'm not popular enough to be different / Homer J. Simpson
+
+.
+
 > *norský úzus*
 
 
