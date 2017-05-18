@@ -2240,6 +2240,34 @@ There's no problem. The problem is your attitude / unknown
 
 .
 
+Relish the opportunity to be an outsider. Embrace that label because it's the outsiders who change the world, and who make a real and lasting difference / Donald J. Trump 13. 5. 2017
+
+.
+
+What separates the winners from the losers is how a person reacts to each new twist of fate / Donald J. Trump
+
+.
+
+Sometimes your best investments are the ones you don't make / Donald J. Trump
+
+.
+
+Everything in life is luck / Donald J. Trump
+
+.
+
+Why can't I just eat my waffle? / Barack Obama
+
+.
+
+The future rewards those who press on. I don't have time to feel sorry for myself. I don't have time to complain. I'm going to press on / Barack Obama
+
+.
+
+If the people cannot trust their government to do the job for which it exists — to protect them and to promote their common welfare — all else is lost / Barack Obama
+
+.
+
 > *norský úzus*
 
 
