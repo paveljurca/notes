@@ -2268,6 +2268,10 @@ If the people cannot trust their government to do the job for which it exists �
 
 .
 
+We need to internalize this idea of excellence. Not many folks spend a lot of time trying to be excellent / Barack Obama
+
+.
+
 > *norský úzus*
 
 
