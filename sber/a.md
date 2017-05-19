@@ -2304,6 +2304,10 @@ I can't wear pink, everyone at work wears white! I'm not popular enough to be di
 
 .
 
+Technika rozhoduje vše / Josif Stalin 1. pětiletka 1929
+
+.
+
 > *norský úzus*
 
 
