@@ -2308,6 +2308,10 @@ Technika rozhoduje vše / Josif Stalin 1. pětiletka 1929
 
 .
 
+Jsem tady, nevím jak dlouho; musím umřít, nevím kdy; putuji a nevím kam / Psí vojáci Žiju
+
+.
+
 > *norský úzus*
 
 
