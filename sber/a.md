@@ -2312,6 +2312,10 @@ Jsem tady, nevím jak dlouho; musím umřít, nevím kdy; putuji a nevím kam / 
 
 .
 
+Sny se zdají jen tomu, kdo spí / Postel
+
+.
+
 > *norský úzus*
 
 
