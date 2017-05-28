@@ -10,6 +10,20 @@ A library is an arsenal of liberty / unknown
 
 * [Bret Victor's](http://worrydream.com/quotes/)
 
+
+ZWEIG
+=====
+
+Zpočátku mi dělalo dobře být tak mimovolně pohupován v proudu lhostejného
+a venkovsky vyparáděného davu, ale záhy jsem už nesnesl ten příliv cizích
+lidí a útržky jejich nepochopitelného smíchu, ty oči, které na mě dorážely,
+překvapeně, cize, nebo s úsměškem, ty doteky, které mě nepozorovaně posouvaly
+dál, to světlo vycházející z tisíců malých zdrojů, a neustálý šelest kroků.
+[..] Náhle se mi z toho hlasitého chaosu udělalo slabo a abych se zachránil,
+zabočil jsem do postranní ulice, aniž bych se podíval na její jméno.
+(S. Zweig, Příběhy vášně a lhostejnosti, Praha: Akropolis, 1993 (překl. I. Vízdalová), s. 13 (1. vyd.).)
+
+
 CAMUS
 =====
 

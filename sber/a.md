@@ -2316,6 +2316,14 @@ Sny se zdají jen tomu, kdo spí / Postel
 
 .
 
+Líc a rub života vypadá všude stejně / Stefan Zweig Příběhy vášně a lhostejnosti
+
+.
+
+Nejistá temnota, nečekaná samota mi dělaly dobře / Stefan Zweig Příběhy vášně a lhostejnosti
+
+.
+
 > *norský úzus*
 
 
