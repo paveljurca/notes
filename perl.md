@@ -278,7 +278,11 @@ really about.
 
 We want a newcomer to start in a minute.
 And we want him to know why.
-First impression and pleasant environment really matters.
+
+
+First links really matters.
+
+
 
 That's the hint if it's enough cool for him and should
 follow through to learn more.
