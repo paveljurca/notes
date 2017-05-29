@@ -2324,6 +2324,10 @@ Nejistá temnota, nečekaná samota mi dělaly dobře / Stefan Zweig Příběhy 
 
 .
 
+Start again / Richie McCaw
+
+.
+
 > *norský úzus*
 
 
