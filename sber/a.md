@@ -2328,6 +2328,10 @@ Start again / Richie McCaw
 
 .
 
+Urban tribes are young city people that gather in relatively small, fluid groups. These groups share common interests that are, in general, different / Michel Maffesoli
+
+.
+
 > *norský úzus*
 
 
