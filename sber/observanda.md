@@ -21,6 +21,9 @@ překvapeně, cize, nebo s úsměškem, ty doteky, které mě nepozorovaně poso
 dál, to světlo vycházející z tisíců malých zdrojů, a neustálý šelest kroků.
 [..] Náhle se mi z toho hlasitého chaosu udělalo slabo a abych se zachránil,
 zabočil jsem do postranní ulice, aniž bych se podíval na její jméno.
+[..] Tyhle malé postranní uličky se musí skrývat někde v bahně velkého města,
+protože tak drze a vtíravě mluví o tom, co světlé domy s čistými okny
+a vznešenými lidmi skrývají ve stovkách masek.
 (S. Zweig, Příběhy vášně a lhostejnosti, Praha: Akropolis, 1993 (překl. I. Vízdalová), s. 13 (1. vyd.).)
 
 
