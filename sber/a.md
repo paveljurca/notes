@@ -2340,6 +2340,10 @@ Reportéři ČT nemají vždy dobré konce, ale náprava je možná / Marek Woll
 
 .
 
+The object in life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane / Marcus Aurelius
+
+.
+
 > *norský úzus*
 
 
