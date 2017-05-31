@@ -2344,6 +2344,10 @@ The object in life is not to be on the side of the majority, but to escape findi
 
 .
 
+You have one life. You're dead for tens of billions of years, and you're going to be dead for tens of billions of years / Naval Ravikant 17. 10. 2016
+
+.
+
 > *norský úzus*
 
 
