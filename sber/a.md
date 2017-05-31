@@ -2332,6 +2332,14 @@ Urban tribes are young city people that gather in relatively small, fluid groups
 
 .
 
+Assumptions are dangerous / Claire Underwood
+
+.
+
+Reportéři ČT nemají vždy dobré konce, ale náprava je možná / Marek Wollner 29. 5. 2017
+
+.
+
 > *norský úzus*
 
 
