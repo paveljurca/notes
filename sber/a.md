@@ -2348,6 +2348,14 @@ You have one life. You're dead for tens of billions of years, and you're going t
 
 .
 
+Čtu knihy v každé volné chvíli, abych na základě sebepoznání zjistila, co mě bude bavit a čím se uživím / Karolína Elhotová 1. 6. 2017
+
+.
+
+Jsem trochu jako dítě na pískovišti. Když mu dáte bábovičky a necháte ho pracovat, třeba něco pěkného postaví. Když mu ale začnete říkat, že takhle se to dělat nesmí, že to dělá špatně, zablokuje se a uteče / Patrik Hartl 1. 6. 2017
+
+.
+
 > *norský úzus*
 
 
