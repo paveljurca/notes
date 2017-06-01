@@ -2356,6 +2356,10 @@ Jsem trochu jako dítě na pískovišti. Když mu dáte bábovičky a necháte h
 
 .
 
+Hudba je smysl mého života. Já dokonce pociťuju radost, i když si noty jenom čtu / Jiří Bělohlávek
+
+.
+
 > *norský úzus*
 
 
