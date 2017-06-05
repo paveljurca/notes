@@ -2364,6 +2364,10 @@ Hudba je smysl mého života. Já dokonce pociťuju radost, i když si noty jeno
 
 .
 
+Zestárnout jako ty je mladická nerozvážnost / Král Lear
+
+.
+
 > *norský úzus*
 
 
