@@ -24,6 +24,10 @@ zabočil jsem do postranní ulice, aniž bych se podíval na její jméno.
 [..] Tyhle malé postranní uličky se musí skrývat někde v bahně velkého města,
 protože tak drze a vtíravě mluví o tom, co světlé domy s čistými okny
 a vznešenými lidmi skrývají ve stovkách masek.
+[..] To všechno je ale plaše a přece zrádně schováno za pokrytecky zavřenými
+
+TODO
+
 (S. Zweig, Příběhy vášně a lhostejnosti, Praha: Akropolis, 1993 (překl. I. Vízdalová), s. 13 (1. vyd.).)
 
 
