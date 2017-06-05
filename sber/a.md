@@ -2360,6 +2360,10 @@ Hudba je smysl mého života. Já dokonce pociťuju radost, i když si noty jeno
 
 .
 
+'Máte nějaký sen, který byste si chtěl splnit?' Ano, rád bych koupil starší dům, opravil ho a přenechal ho dětem. Nic jiného nechci / Hakob Nersisyan 2. 6. 2017
+
+.
+
 > *norský úzus*
 
 
