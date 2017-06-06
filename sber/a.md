@@ -2368,6 +2368,14 @@ Zestárnout jako ty je mladická nerozvážnost / Král Lear
 
 .
 
+Děti přivádí na svět Bůh. On pro ně místo najde.. Nemusím nad tím uvažovat / Rachel Ladani
+
+.
+
+V nejčernějším scénáři nás může být do konce století 16 miliard. Přitom je nás moc už teď / Eva Bobůrková 8. 6. 2017
+
+.
+
 > *norský úzus*
 
 
