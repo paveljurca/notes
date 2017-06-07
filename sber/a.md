@@ -2368,11 +2368,15 @@ Zestárnout jako ty je mladická nerozvážnost / Král Lear
 
 .
 
-Děti přivádí na svět Bůh. On pro ně místo najde.. Nemusím nad tím uvažovat / Rachel Ladani
+Děti přivádí na svět Bůh. On pro ně místo najde.. Nemusím nad tím uvažovat / Rachel Ladani Izrael
 
 .
 
 V nejčernějším scénáři nás může být do konce století 16 miliard. Přitom je nás moc už teď / Eva Bobůrková 8. 6. 2017
+
+.
+
+Podle údajů tajných služeb jsou v Evropě tisíce radikálních islamistů. Když říkají tisíce, věřte, že jich budou desetitisíce / Zdeněk Kořistka 7. 6. 2017
 
 .
 
