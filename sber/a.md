@@ -2400,6 +2400,10 @@ The more corrupt the state, the more numerous the laws / Tacitus
 
 .
 
+I don't make plans and breakfasts / Mad Men
+
+.
+
 > *norský úzus*
 
 
