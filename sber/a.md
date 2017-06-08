@@ -2380,6 +2380,10 @@ Podle údajů tajných služeb jsou v Evropě tisíce radikálních islamistů. 
 
 .
 
+There is nothing more uncommon than common sense / Thomas Chalmers Natural Theology
+
+.
+
 > *norský úzus*
 
 
