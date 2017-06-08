@@ -1439,7 +1439,7 @@ This is not a period; it's a comma / Barack Obama Andrews Air Force Base 20. 1. 
 
 .
 
-I have no patience for useless things / Frank Underwood
+I have no patience for useless things / Francis Underwood
 
 .
 
@@ -1447,7 +1447,7 @@ Democracy is so overrated / House of Cards
 
 .
 
-Sometimes I think the presidency is the illusion of choice / Frank Underwood
+Sometimes I think the presidency is the illusion of choice / Francis Underwood
 
 .
 
@@ -2381,6 +2381,10 @@ Podle údajů tajných služeb jsou v Evropě tisíce radikálních islamistů. 
 .
 
 There is nothing more uncommon than common sense / Thomas Chalmers Natural Theology
+
+.
+
+The universe is indifferent / Donald Draper
 
 .
 
