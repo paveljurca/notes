@@ -2388,6 +2388,10 @@ The universe is indifferent / Donald Draper
 
 .
 
+If we would do a lot more shit, then a lot more shit would be done / unknown
+
+.
+
 > *norský úzus*
 
 
