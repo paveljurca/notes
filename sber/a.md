@@ -2392,6 +2392,14 @@ If we would do a lot more shit, then a lot more shit would be done / unknown
 
 .
 
+How can you think yourself a great man, when the first accident that comes along can wipe you out completely / Euripides
+
+.
+
+The more corrupt the state, the more numerous the laws / Tacitus
+
+.
+
 > *norský úzus*
 
 
