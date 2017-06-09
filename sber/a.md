@@ -2404,6 +2404,10 @@ I don't make plans and breakfasts / Mad Men
 
 .
 
+Design depends largely on constraints / Charles Eames
+
+.
+
 > *norský úzus*
 
 
