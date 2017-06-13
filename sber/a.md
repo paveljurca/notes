@@ -2408,6 +2408,10 @@ Design depends largely on constraints / Charles Eames
 
 .
 
+Chceme, aby studenti spíše porozuměli obsahu. Navyšování objemu faktů a znalostí nepovažujeme za přínosné / Radek Špicar 13. 6. 2017
+
+.
+
 > *norský úzus*
 
 
