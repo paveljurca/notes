@@ -2412,7 +2412,7 @@ Chceme, aby studenti spíše porozuměli obsahu. Navyšování objemu faktů a z
 
 .
 
-Even a small person can shoot somebody or stab somebody / Colt Amox
+Even a small person can shoot somebody or stab somebody / Colt Amox Linden Texas 2003
 
 .
 
