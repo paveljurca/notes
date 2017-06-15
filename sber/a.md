@@ -2416,6 +2416,10 @@ Even a small person can shoot somebody or stab somebody / Colt Amox Linden Texas
 
 .
 
+It is impossible for a man to learn what he thinks he already knows / Epictetus Discourses
+
+.
+
 > *norský úzus*
 
 
