@@ -2420,6 +2420,10 @@ It is impossible for a man to learn what he thinks he already knows / Epictetus 
 
 .
 
+Všichni přece nemůžeme mít vysoké školy a dělat za počítačem / Michael Švanda 15. 6. 2017
+
+.
+
 > *norský úzus*
 
 
