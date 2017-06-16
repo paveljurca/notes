@@ -2424,6 +2424,10 @@ Všichni přece nemůžeme mít vysoké školy a dělat za počítačem / Michae
 
 .
 
+Statistically, you're more likely to go out with a girl if you actually ask her out / Natasha Gillezeau 25. 6. 2015
+
+.
+
 > *norský úzus*
 
 
