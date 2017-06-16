@@ -2432,6 +2432,10 @@ The next thing will be better, because it always is / Don Draper
 
 .
 
+The point of life is not to put dog ears on yourself and post it online for everyone to see / Jon Hamm
+
+.
+
 > *norský úzus*
 
 
