@@ -2428,6 +2428,10 @@ Statistically, you're more likely to go out with a girl if you actually ask her 
 
 .
 
+The next thing will be better, because it always is / Don Draper
+
+.
+
 > *norský úzus*
 
 
