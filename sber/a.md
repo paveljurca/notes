@@ -2448,7 +2448,11 @@ Staying quiet doesn't mean you've got nothing to say; you don't think they would
 
 .
 
-If the only tool you have is a hammer, you will treat everything as if it were a nail / Abraham Maslow 1966
+It is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail / Abraham Maslow 1966
+
+.
+
+Peace is not the absence of conflict, but the ability to cope with conflict by peaceful means / Ronald Reagan
 
 .
 
