@@ -2444,6 +2444,10 @@ Creativity is to think more efficiently / Pierre Reverdy
 
 .
 
+Staying quiet doesn't mean you've got nothing to say; you don't think they would hear you / unknown
+
+.
+
 > *norský úzus*
 
 
