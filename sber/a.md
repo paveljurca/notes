@@ -2448,6 +2448,10 @@ Staying quiet doesn't mean you've got nothing to say; you don't think they would
 
 .
 
+If the only tool you have is a hammer, you will treat everything as if it were a nail / Abraham Maslow 1966
+
+.
+
 > *norský úzus*
 
 
