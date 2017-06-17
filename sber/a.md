@@ -2436,6 +2436,14 @@ The point of life is not to put dog ears on yourself and post it online for ever
 
 .
 
+Člověk vytváří člověka ke svému obrazu — ale ne vždy ho pak ve skutečnosti pozná / Pierre Reverdy
+
+.
+
+Creativity is to think more efficiently / Pierre Reverdy
+
+.
+
 > *norský úzus*
 
 
