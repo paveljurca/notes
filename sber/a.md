@@ -2456,6 +2456,10 @@ Peace is not the absence of conflict, but the ability to cope with conflict by p
 
 .
 
+While it would be great to have programmers who are also great at sales, graphic design, system administration, and cooking, it's unrealistic. Like teaching a pig to sing, it wastes your time and it annoys the pig / Joel Spolsky 11. 4. 2006
+
+.
+
 > *norský úzus*
 
 
