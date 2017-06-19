@@ -2460,6 +2460,10 @@ While it would be great to have programmers who are also great at sales, graphic
 
 .
 
+All it takes is the desire to be better tomorrow than you are today / Professor Beekums 25. 12. 2016
+
+.
+
 > *norský úzus*
 
 
