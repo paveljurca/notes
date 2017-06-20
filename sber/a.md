@@ -2464,6 +2464,14 @@ All it takes is the desire to be better tomorrow than you are today / Professor 
 
 .
 
+Já považuji za žádoucí, aby lidé studovali, co je baví / Mikuláš Bek 19. 6. 2017
+
+.
+
+Dlouhodobě se všem vyplatí studovat / Mikuláš Bek 19. 6. 2017
+
+.
+
 > *norský úzus*
 
 
