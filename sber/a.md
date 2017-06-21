@@ -2472,6 +2472,10 @@ Dlouhodobě se všem vyplatí studovat / Mikuláš Bek 19. 6. 2017
 
 .
 
+Always be scaling / Christophe Limpalair
+
+.
+
 > *norský úzus*
 
 
