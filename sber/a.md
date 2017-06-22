@@ -2480,6 +2480,14 @@ Do not seek to follow in the footsteps of the wise. Seek what they sought / Mats
 
 .
 
+Love all, trust a few, do wrong to none / William Shakespeare
+
+.
+
+Speak not because it is safe, but because it is right / Edward Snowden 11. 2. 2017
+
+.
+
 > *norský úzus*
 
 
