@@ -2476,6 +2476,10 @@ Always be scaling / Christophe Limpalair
 
 .
 
+Do not seek to follow in the footsteps of the wise. Seek what they sought / Matsuo Bashō
+
+.
+
 > *norský úzus*
 
 
