@@ -1,0 +1,3 @@
+Jak přežít den
+
+povídka
