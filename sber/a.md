@@ -2488,6 +2488,10 @@ Speak not because it is safe, but because it is right / Edward Snowden 11. 2. 20
 
 .
 
+You can't directly change culture. But you can change behavior, and behavior becomes culture / Lloyd Taylor VP Infrastructure Ngmoco
+
+.
+
 > *norský úzus*
 
 
