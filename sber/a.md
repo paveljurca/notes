@@ -2492,6 +2492,10 @@ You can't directly change culture. But you can change behavior, and behavior bec
 
 .
 
+Příroda, to je chrám / Ecce homo Homolka
+
+.
+
 > *norský úzus*
 
 
