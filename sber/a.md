@@ -2496,6 +2496,10 @@ Příroda, to je chrám / Ecce homo Homolka
 
 .
 
+I cannot teach anybody anything, I can only make them think / Socrates
+
+.
+
 > *norský úzus*
 
 
