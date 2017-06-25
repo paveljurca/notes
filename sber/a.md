@@ -2500,6 +2500,10 @@ I cannot teach anybody anything, I can only make them think / Socrates
 
 .
 
+Jakékoliv rozhodnutí, když nevyhrajete, je špatně / Josef Jandač 24. 6. 2017
+
+.
+
 > *norský úzus*
 
 
