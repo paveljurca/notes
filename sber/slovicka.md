@@ -1475,6 +1475,8 @@ poddajný
 podřídit se
 * _subtilní_
 drobný
+* _sufražetka_
+feminní lvice
 * _suicidium_
 sebevražda
 * _suita_
