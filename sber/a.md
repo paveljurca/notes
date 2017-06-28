@@ -2508,6 +2508,10 @@ Jakékoliv rozhodnutí, když nevyhrajete, je špatně / Josef Jandač 24. 6. 20
 
 .
 
+Myslíme si, že nikdy v Česku nebylo líp, ale současně se bojíme, zda nejsme na hraně nějakého průšvihu a co má v tu chvíli dělat divadlo? A já to prostě jinak neumím než pořád dokola mluvit o snech / Vladimír Morávek 27. 6. 2017
+
+.
+
 > *norský úzus*
 
 
