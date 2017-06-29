@@ -2504,7 +2504,7 @@ Jakékoliv rozhodnutí, když nevyhrajete, je špatně / Josef Jandač 24. 6. 20
 
 .
 
-@TODO Budoucnost možná není tak otevřená / http://hledani.rozhlas.cz/iRadio/?porad[]=Otev%C5%99en%C3%A9+hlavy&from=28.6.2017&to=28.6.2017&dateLimit=TL_INTERVAL
+Budoucnost možná není tak otevřená / Ian Bogost
 
 .
 
