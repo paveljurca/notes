@@ -2512,6 +2512,14 @@ Myslíme si, že nikdy v Česku nebylo líp, ale současně se bojíme, zda nejs
 
 .
 
+A learned fool is more foolish than an ignorant one / Molière Les Femmes savantes
+
+.
+
+You are a fool in three letters, my son / Molière Tartuffe
+
+.
+
 > *norský úzus*
 
 
