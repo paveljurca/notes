@@ -2524,6 +2524,14 @@ V dnešní době je důležitější, že člověk dělá, co ho baví. K tomu p
 
 .
 
+Dear God: You do such wonderful things for complete strangers; why not for me / Yiddish proverb
+
+.
+
+The whole world is one thief / Yiddish proverb
+
+.
+
 > *norský úzus*
 
 
