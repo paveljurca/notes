@@ -2520,6 +2520,10 @@ You are a fool in three letters, my son / Molière Tartuffe
 
 .
 
+V dnešní době je důležitější, že člověk dělá, co ho baví. K tomu přirozeně dojde na základě přirozeného stavu mysli / Beata Hlavenková 30. 6. 2017
+
+.
+
 > *norský úzus*
 
 
