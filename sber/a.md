@@ -2552,6 +2552,10 @@ Tehdy během revoluce se toho muselo skartovat strašně moc, ale dělalo se to 
 
 .
 
+Ano, mnoho se změnilo, ale lidé zůstali stejní; jenomže teď víme líp, kdo je kdo. [..] Kdo mění víru, neměl žádnou. Člověka nepředěláš, jenom se Ti vybarví / Karel Čapek
+
+.
+
 > *norský úzus*
 
 
