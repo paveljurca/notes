@@ -2548,6 +2548,10 @@ If the rules are such that you can't make progress, then you have to fight the r
 
 .
 
+Tehdy během revoluce se toho muselo skartovat strašně moc, ale dělalo se to rychle a byl v tom zmatek. Tak se asi stalo, že tahle krabice skartaci unikla / Vilém Hrach Šumava… hranici přecházejte po půlnoci
+
+.
+
 > *norský úzus*
 
 
