@@ -2536,6 +2536,18 @@ Republika končí u Aše, ale Evropa nekončí u Aše a nás musí zajímat, co 
 
 .
 
+Když někoho nenávidíš, snáze ho prohlédneš / Pär Lagerkvist Trpaslík
+
+.
+
+The child believes that the world is rational and hence regards everything irrational as some sort of obstacle to be pushed aside [..] The best people, I think, are those who over the years have managed to retain this childhood faith in the world's rationality / Fazil Iskander The Goatibex Constellation
+
+.
+
+If the rules are such that you can't make progress, then you have to fight the rules / Elon Reeve Musk 2015
+
+.
+
 > *norský úzus*
 
 
