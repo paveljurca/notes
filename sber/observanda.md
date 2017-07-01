@@ -24,10 +24,7 @@ zabočil jsem do postranní ulice, aniž bych se podíval na její jméno.
 [..] Tyhle malé postranní uličky se musí skrývat někde v bahně velkého města,
 protože tak drze a vtíravě mluví o tom, co světlé domy s čistými okny
 a vznešenými lidmi skrývají ve stovkách masek.
-[..] To všechno je ale plaše a přece zrádně schováno za pokrytecky zavřenými
-
-TODO
-
+[..] To všechno je ale plaše a přece zrádně schováno za pokrytecky zavřenými..
 (S. Zweig, Příběhy vášně a lhostejnosti, Praha: Akropolis, 1993 (překl. I. Vízdalová), s. 13 (1. vyd.).)
 
 
@@ -92,7 +89,7 @@ MORE
 ====
 
 >>>
-Utopie potřebuje člověka zjednodušit, mít ho někde jednotného, tak aby se na něm shodla: bez soukromého vlastnictví, náboženství nebo manželství.
+Utopie potřebuje člověka sjednotit, mít ho někde jednoduchého, tak aby se na něm shodla: bez soukromého vlastnictví, náboženství nebo manželství.
 Ne tak statky nebo práce, ale člověk má být společný všem. Má začít vyhovovat. Má se držet programu.
 Ale jak dál s takovým člověkem, třeba že plníme plány, možná máme i vlastní stranu, a zvedáme produkci pšenice? Koho jsou ty plány? Čí je ta strana? A kdo je ten, kdo říká jak dál?
 Co je to za společnost, kde už její jedince neidentifikujeme, nepoznáváme? Víme, že tam ještě jsou?
