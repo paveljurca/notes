@@ -2532,6 +2532,10 @@ The whole world is one thief / Yiddish proverb
 
 .
 
+Republika končí u Aše, ale Evropa nekončí u Aše a nás musí zajímat, co se děje v Bruselu / Miloslav Stingl 1. 7. 2017
+
+.
+
 > *norský úzus*
 
 
