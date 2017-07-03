@@ -2556,6 +2556,10 @@ Ano, mnoho se změnilo, ale lidé zůstali stejní; jenomže teď víme líp, kd
 
 .
 
+Our liberty depends on the freedom of the press, and that cannot be limited without being lost / Thomas Jefferson
+
+.
+
 > *norský úzus*
 
 
