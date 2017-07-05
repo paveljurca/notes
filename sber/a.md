@@ -2576,6 +2576,10 @@ Asi vás nudí slyšet o těch, kteří si uchránili čest / Ivan M. Jirous
 
 .
 
+Not only is the Universe stranger than we think, it is stranger that we can think / Werner Heisenberg
+
+.
+
 > *norský úzus*
 
 
