@@ -2564,6 +2564,18 @@ The future is already here; it's just not very evenly distributed / William Gibs
 
 .
 
+[..] do noci. Doma jseš tam, kde se oběsíš / Ivan M. Jirous
+
+.
+
+Nevěřím v nic, věřím v Boha. Jdu do bitvy, teprve když je prohraná / Ivan M. Jirous
+
+.
+
+Asi vás nudí slyšet o těch, kteří si uchránili čest / Ivan M. Jirous
+
+.
+
 > *norský úzus*
 
 
