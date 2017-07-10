@@ -2580,6 +2580,10 @@ Not only is the Universe stranger than we think, it is stranger that we can thin
 
 .
 
+Nikdo nemiluje bolest samu, nevyhledává ji, ani ji nechce získat / Cicero O nejvyšším dobru a zlu
+
+.
+
 > *norský úzus*
 
 
