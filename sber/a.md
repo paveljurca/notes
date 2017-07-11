@@ -2588,6 +2588,10 @@ Rejoice in the way things are; There's nothing lacking / Laozi
 
 .
 
+Škoda, že se Klusák nedržel klasického dokumentu. Nejspíš by v něm ubylo senzace, ale pořád by zůstalo dost smutku a hlavně samoty, protože Daliborkové dští zlobu z nulové perspektivy profesní i vztahové / Mirka Spáčilová 11. 7. 2017
+
+.
+
 > *norský úzus*
 
 
