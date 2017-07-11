@@ -2584,6 +2584,10 @@ Nikdo nemiluje bolest samu, nevyhledává ji, ani ji nechce získat / Cicero O n
 
 .
 
+Rejoice in the way things are; There's nothing lacking / Laozi
+
+.
+
 > *norský úzus*
 
 
