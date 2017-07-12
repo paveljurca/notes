@@ -2592,6 +2592,10 @@ Rejoice in the way things are; There's nothing lacking / Laozi
 
 .
 
+Man is not a rational animal he is a rationalizing animal / Robert A. Heinlein
+
+.
+
 > *norský úzus*
 
 
