@@ -2596,6 +2596,10 @@ Man is not a rational animal he is a rationalizing animal / Robert A. Heinlein
 
 .
 
+Absurdita je nutná ke svobodě / Anthony Burgess 1985
+
+.
+
 > *norský úzus*
 
 
