@@ -81,8 +81,50 @@ Vyloučení manželské lásky, lásky mezi rodiči a dětmi, umrtvení radosti
 ze sexu [..] Navíc existence zrádce Emmanuela Goldsteina, který je vždy
 na straně nepřítele, který nenávidí Velkého bratra a usiluje o zničení
 Oceánie, utvrzuje stálé pronikání strachu a hnusu do populace [..]
-
+Věrnost musí být absolutní a bezvýhradná. Pokud individuální vzpomínky
+na minulost neodpovídají historii Strany, musí být použita metoda neustálé
+kontroly paměti. Každý rozpor může, a musí být vyřešen. [..] Cílem vlády
+není dosáhnout bohatství vládnoucích. Cílem vlády je moc. Strana touží
+po absolutní kontrole všeho, co je mimo ni.
 (A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 12.)
+
+Ve tmě, v posteli, člověka napadá spousta podvratných myšlenek.
+Televizní obrazovka snad ani není reálnou hrozbou. [..] Důležité je,
+že ji nelze vypnout. [..] Na Ministerstvu lásky mají hrůznou místnost,
+kde se odehrávají nejhorší věci na světě — místnost 101. Místnost 101
+v suterénu Domu rozhlasu byla místnost, odkud Orwell vysílal propagandu do Indie.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 20.)
+
+Pokud člověk vstoupil do armády jako mírný radikál, šel k volbám v roce 1945 jako zuřivý radikál.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 27.)
+
+Orwell vyvozoval, že dobrý socialista bude loajální k ženě mořící se
+s odtokovou rourou, ne k velkým mužům Strany. Jak jinak jí můžete
+pomoci, jestliže se do toho nevloží Strana u moci? Ale Strana je u moci
+a odtoková roura zůstává ucpaná. [..] Jeden z problémů se společenskou
+odpovědností je ten, že žádná politická strana nemůže říct o potřebách
+lidí ve společnosti celou pravdu. Kdyby mohla, nemohla by být politickou
+stranou. [..] Orwell byl socialistou, protože neviděl žádnou budoucnost
+v kontinuitě tradiční liberální ekonomiky. Ale je velmi těžké udržet
+vratký liberální idiosynkratický socialismus, který vyznáváte podle svého,
+tváří v tvář skutečným socialistům — těm, kteří chtějí pomocí bezchybné
+logiky dotlačit socialismus až do krajností.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 29.)
+
+
+/Jeho anglický socialismus byl spíše anglický než socialismus./
+Velmi hezky řečeno a je v tom kus pravdy. Miloval svoji zemi víc
+než svoji stranu. Neměl rád snahu ortodoxnějších socialistů zabydlit
+svět čistou doktrínou a ignorovat dědictví národní tradice. Orwell
+si cenil svého anglického dědictví [..] Jeho chutě byly buržoazní
+a obracely jej zády k dělnické třídě.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 30.)
+
+/Za podvratnou bývá vždy považována budoucnost. A přesto veškerá podvratnost
+Winstona Smithe spočívá v minulosti./ Správně, minulost je podvratná
+v tom smyslu, že staví pragmatické hodnoty proti doktrinářským. Lidské,
+nikoliv abstraktní.
+(A. Burgess, 1985, Praha: Maťa, 2017 (překl. M. Mikulášek), s. 33.)
 
 
 MORE
