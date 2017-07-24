@@ -2604,6 +2604,10 @@ Do roka je tu konec světa, přilétne sem kometa a vypaříte se i se svou výh
 
 .
 
+Odjakživa byla pomsta výrazem zmučeného bezpráví, a nikdy se nevybila tam, kde měla, nýbrž tam, kde mohla; Pomsta je akt slabých vůči slabším / Milena Jesenská Nad naše síly
+
+.
+
 > *norský úzus*
 
 
