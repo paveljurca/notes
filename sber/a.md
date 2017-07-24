@@ -2608,6 +2608,10 @@ Odjakživa byla pomsta výrazem zmučeného bezpráví, a nikdy se nevybila tam,
 
 .
 
+A small key opens big doors / Turkish proverb
+
+.
+
 > *norský úzus*
 
 
