@@ -2600,6 +2600,10 @@ Absurdita je nutná ke svobodě / Anthony Burgess 1985
 
 .
 
+Do roka je tu konec světa, přilétne sem kometa a vypaříte se i se svou výhrou / Johann Nepomuk Nestroy Ludrácký trojlístek
+
+.
+
 > *norský úzus*
 
 
