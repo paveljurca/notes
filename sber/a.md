@@ -2612,6 +2612,14 @@ A small key opens big doors / Turkish proverb
 
 .
 
+Možná že jo, napadalo mě, ale možná že dost těžko / Daniel Krhut Pašerák snů
+
+.
+
+Už dávno jste tím, kým chcete být / Daniel Krhut Pašerák snů
+
+.
+
 > *norský úzus*
 
 
