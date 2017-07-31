@@ -2620,6 +2620,10 @@ Už dávno jste tím, kým chcete být / Daniel Krhut Pašerák snů
 
 .
 
+V Řízení letového provozou dělají na první pohled několik úkolů naráz. Ve skutečnosti je však provádějí postupně. Velmi rychle, ale popořadě. Nikdy ne najednou / Michal Walter Týden 17. 7. 2017
+
+.
+
 > *norský úzus*
 
 
