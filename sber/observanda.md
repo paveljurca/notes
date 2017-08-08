@@ -1,6 +1,30 @@
 Observanda
 ==========
 
+
+[ DESIGN ]
+
+border-left
+D. Krhut, Pašerák snů, Brno: Host, 2012, s. 21 (1. vyd.).
+
+border-left
+Ibid., s. 80.
+
+border-left
+Ibid., s. 130.
+
+border-left
+A. Camus, Léto, Praha: Hynek, 1999 (překl. V. Dufková), s. 29 (1. vyd.).
+
+border-left
+Ibid., s. 200.
+
+
+
+
+
+
+
 __Možná nám neřekli všechno, ale určitě to napsali.__
 
 
