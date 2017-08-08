@@ -2624,6 +2624,10 @@ V Řízení letového provozou dělají na první pohled několik úkolů naráz
 
 .
 
+Cvičím, abych se nerozpadnul / Jiří Krampol 3. 8. 2017
+
+.
+
 > *norský úzus*
 
 
