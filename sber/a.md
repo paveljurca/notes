@@ -2644,6 +2644,34 @@ Velká láska mě nezajímá. Mě zajímá jen ta malá / Kateřina Janouchová 
 
 .
 
+Zase jsem dal příliš mnoho za příliš málo / Jiří Adamíra Fonogramy
+
+.
+
+Jsou zákony, které nesmíš poslechnout. Jsou víry, které musíš zavrhnout / Jiří Kolář Mistr Sun
+
+.
+
+Kdyby se hloupost k nerozeznání nepodobala pokroku, talentu, naději nebo polepšení, nikdo by nechtěl být hloupý / Robert Musil O hlouposti
+
+.
+
+My jsme se báli hříchu, dneska se nikdo hříchu nebojí / Stanislav Holubek 13. 8. 2017
+
+.
+
+Jakmile k velké erupci dojde, máme přibližně dvacet hodin, abychom se připravili, než se oblak plazmatu dostane k Zemi. [Co během nich můžeme stihnout?] Prakticky nic / Michal Švanda 29. 7. 2017
+
+.
+
+Časová škála vývoje hvězd slunečního typu je příhodně pomalá, takže život měl dostatek času se na Zemi plně rozvinout do současné komplexnosti. Nic nemůže trvat věčně / Michal Švanda 29. 7. 2017
+
+.
+
+Infekcí bude přibývat, bakteriálních kmenů odolávajících antibiotikům je stále víc. Podle odhadů Světové zdravotnické organizace budou odolné kmeny v polovině tohoto století zabíjet až 50 milionů lidí ročně / Ondřej Vrtiška 29. 7. 2017
+
+.
+
 > *norský úzus*
 
 
