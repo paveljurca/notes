@@ -2640,7 +2640,7 @@ Velká láska mě nezajímá. Mě zajímá jen ta malá / Kateřina Janouchová 
 
 .
 
-Švédi se tradičně bojí konfliktů a nevědí, jak je řešit / Kateřina Janouchová 11. 8. 2017
+Švédové se tradičně bojí konfliktů a nevědí, jak je řešit / Kateřina Janouchová 11. 8. 2017
 
 .
 
