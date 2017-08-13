@@ -2636,6 +2636,14 @@ The thing that is really hard is giving up on being perfect and beginning the wo
 
 .
 
+Velká láska mě nezajímá. Mě zajímá jen ta malá / Kateřina Janouchová 11. 8. 2017
+
+.
+
+Švédi se tradičně bojí konfliktů a nevědí, jak je řešit / Kateřina Janouchová 11. 8. 2017
+
+.
+
 > *norský úzus*
 
 
