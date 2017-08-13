@@ -2628,6 +2628,14 @@ Cvičím, abych se nerozpadnul / Jiří Krampol 3. 8. 2017
 
 .
 
+Another good reason to specialize. If you're a generalist, everyone is your competition / Josh R.
+
+.
+
+The thing that is really hard is giving up on being perfect and beginning the work of becoming yourself / Anna Quindlen
+
+.
+
 > *norský úzus*
 
 
