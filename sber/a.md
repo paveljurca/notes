@@ -2672,6 +2672,10 @@ Infekcí bude přibývat, bakteriálních kmenů odolávajících antibiotikům 
 
 .
 
+Když sedíš na motorce a jedeš na plný pecky, během pěti minut toho zažiješ víc než někteří za celý svůj život / The World's Fastest Indian
+
+.
+
 > *norský úzus*
 
 
