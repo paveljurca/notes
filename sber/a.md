@@ -2676,6 +2676,10 @@ Když sedíš na motorce a jedeš na plný pecky, během pěti minut toho zažij
 
 .
 
+Jestli je to těžké, dej do toho víc. Jestli je to nemožné, dej do toho všechno / The World's Fastest Indian
+
+.
+
 > *norský úzus*
 
 
