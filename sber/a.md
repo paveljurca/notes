@@ -2680,6 +2680,18 @@ Jestli je to těžké, dej do toho víc. Jestli je to nemožné, dej do toho vš
 
 .
 
+Takový ohlas jsem nečekala, ale takový je bohužel současný svět, ukazuje zvláštní, případně zajímavé, ale méně to podstatné. [..] Hlubší dekolt jsme s Jitkou plánovaly, byla spokojená, stejně jako její manžel / Natali Ruden 17. 8. 2017
+
+.
+
+Jak chcete srovnávat dobu, kdy se pracovalo při svíčkách, se současností, kdy mám počítač? / Vladimír Fassmann 17. 8. 2017
+
+.
+
+Jen si říkám, aby to těm mladým zase někdo nepokazil / Vladimír Fassmann 17. 8. 2017
+
+.
+
 > *norský úzus*
 
 
