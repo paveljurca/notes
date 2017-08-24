@@ -2692,6 +2692,14 @@ Jen si říkám, aby to těm mladým zase někdo nepokazil / Vladimír Fassmann 
 
 .
 
+Čiň jiným, jak by činili oni tobě; jen dřív / Jailhouse Rock 1957
+
+.
+
+TODO / Jailhouse Rock 1957
+
+.
+
 > *norský úzus*
 
 
