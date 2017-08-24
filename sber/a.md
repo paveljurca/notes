@@ -2692,11 +2692,15 @@ Jen si říkám, aby to těm mladým zase někdo nepokazil / Vladimír Fassmann 
 
 .
 
+It's a strange myth that atheists have nothing to live for. It's the opposite. We have nothing to die for, we have everything to live for / Ricky Gervais
+
+.
+
 Čiň jiným, jak by činili oni tobě; jen dřív / Jailhouse Rock 1957
 
 .
 
-TODO / Jailhouse Rock 1957
+I'm an animal in a jungle and I got a moral: Do unto others as they would do unto you, only do it first / Jailhouse Rock 1957
 
 .
 
