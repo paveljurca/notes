@@ -2708,6 +2708,10 @@ Při práci potmě máte před sebou čisté malířské plátno. Můžete si se
 
 .
 
+We never asked anyone's opinion. We just did what we like to do / Magnus Walker 3. 7. 2014
+
+.
+
 > *norský úzus*
 
 
