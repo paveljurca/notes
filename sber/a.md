@@ -2704,6 +2704,10 @@ I'm an animal in a jungle and I got a moral: Do unto others as they would do unt
 
 .
 
+Při práci potmě máte před sebou čisté malířské plátno. Můžete si se světlem dělat, co chcete / Will Burrard-Lucas 15. 7. 2017
+
+.
+
 > *norský úzus*
 
 
