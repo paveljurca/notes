@@ -2712,6 +2712,42 @@ We never asked anyone's opinion. We just did what we like to do / Magnus Walker 
 
 .
 
+V Německu vzniklo díky robotům o sedm procent více pracovních míst. To, co zaměstnanci budou muset umět, bude na trochu jiné úrovni než třeba dnes. Ale to není nic nového / Tanja Vainio 8. 7. 2017
+
+.
+
+Ti, kdo mě bavili svým šprýmem, byli smutní až do hloubi duše / Marcel Schwob Král se zlatou maskou
+
+.
+
+Nejmocnější ze všech je malomocný / Marcel Schwob Král se zlatou maskou
+
+.
+
+You are now officially unofficiall, unemployed and uninsured / Munich 2015
+
+.
+
+As long as you don't work for any government / Munich 2015
+
+.
+
+Každé ráno po probuzení se pokouším nic nechtít směrem k sobě, naopak tvořit ze sebe / Zdeněk Fránek 25. 8. 2017
+
+.
+
+Historii píše ten, kdo má zrovna po ruce pero a papír / Adela Banášová 25. 8. 2017
+
+.
+
+Všichni se mě ptají, co ty moje věci představují nebo znamenají. Ale já k tomu moc neumím mluvit. A ani nechci / Luboš Plný 25. 8. 2017
+
+.
+
+Člověk by měl děti vychovávat tak, aby mu mohly odpustit / Zdeněk Matějček 25. 8. 2017
+
+.
+
 > *norský úzus*
 
 
