@@ -2724,11 +2724,11 @@ Nejmocnější ze všech je malomocný / Marcel Schwob Král se zlatou maskou
 
 .
 
-You are now officially unofficiall, unemployed and uninsured / Munich 2015
+You are now officially unofficiall, unemployed and uninsured / Munich
 
 .
 
-As long as you don't work for any government / Munich 2015
+As long as you don't work for any government / Munich
 
 .
 
@@ -2745,6 +2745,14 @@ Všichni se mě ptají, co ty moje věci představují nebo znamenají. Ale já 
 .
 
 Člověk by měl děti vychovávat tak, aby mu mohly odpustit / Zdeněk Matějček 25. 8. 2017
+
+.
+
+Den bez novin je jako den bez hodinek / primář Sova
+
+.
+
+Work his belly with the left. You got it? Give him the flapdoodle with the right, because he don't know. He's kinda stupid / Cinderella Man
 
 .
 
