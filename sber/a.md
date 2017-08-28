@@ -2776,6 +2776,14 @@ Java is to JavaScript what Car is to Carpet / Chris Heilmann
 
 .
 
+Our true competitor is the concept of vehicle ownership / Juan de Antonio Cabify
+
+.
+
+The ends do not always justify the means / Juan de Antonio Cabify
+
+.
+
 > *norský úzus*
 
 
