@@ -2772,6 +2772,10 @@ Not only should you disagree with others, but you should disagree with yourself 
 
 .
 
+Java is to JavaScript what Car is to Carpet / Chris Heilmann
+
+.
+
 > *norský úzus*
 
 
