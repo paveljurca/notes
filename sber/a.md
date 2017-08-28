@@ -2764,6 +2764,14 @@ Functional programming is like describing your problem to a mathematician. Imper
 
 .
 
+Law is a very old technology that has been debugged for millennia and is effective / Nick Szabo
+
+.
+
+Not only should you disagree with others, but you should disagree with yourself / Nick Szabo
+
+.
+
 > *norský úzus*
 
 
