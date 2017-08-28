@@ -2756,6 +2756,14 @@ Work his belly with the left. You got it? Give him the flapdoodle with the right
 
 .
 
+I personally would rather do the existentially essential things in life on foot. If you live in England and your girlfriend is in Sicily, and it is clear you want to marry her, then you should walk to Sicily to propose. For these things travel by car or aeroplane is not the right thing / Werner Herzog Of Walking in Ice
+
+.
+
+Functional programming is like describing your problem to a mathematician. Imperative programming is like giving instructions to an idiot / Arnau Sanchez 2011
+
+.
+
 > *norský úzus*
 
 
