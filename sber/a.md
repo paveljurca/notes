@@ -2784,6 +2784,30 @@ The ends do not always justify the means / Juan de Antonio Cabify
 
 .
 
+What we do in life, echoes through eternity / Maximus
+
+.
+
+Do not imitate the old masters. Seek what they sought / Matsuo Bashō
+
+.
+
+A bad workman blames his tools / English proverb
+
+.
+
+Water too pure has no fish / Caigentan
+
+.
+
+First intention, then enlightenment / Buddha
+
+.
+
+The more code lines you have removed, the more progress you have made / The Suckless Philosophy
+
+.
+
 > *norský úzus*
 
 
