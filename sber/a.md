@@ -2788,6 +2788,10 @@ Z hlediska zachování demokracie mají pro společnost mnohem větší význam 
 
 .
 
+Nepodrobená! To je to slovo! Nikoli impertinente [nestoudná]. Nikoli marginale [na hraně]. Mně se líbí slovo insoumise [vzpurná, nepodrobená]. Nijak se tím nehonosím, prostě taková jsem / Jeanne Moreau
+
+.
+
 > *norský úzus*
 
 
