@@ -2784,6 +2784,10 @@ The ends do not always justify the means / Juan de Antonio Cabify
 
 .
 
+Z hlediska zachování demokracie mají pro společnost mnohem větší význam politici, kteří dokážou včas upozornit na hrozící nebezpečí a stát si za svým názorem i ve chvílích, kdy jsou méně inteligentními kolegy označováni tu za šílence, tu za rasisty, tu za zločince / Jaroslav Plesl 31. 8. 2017
+
+.
+
 > *norský úzus*
 
 
