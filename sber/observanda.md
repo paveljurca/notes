@@ -38,13 +38,17 @@ A library is an arsenal of liberty / unknown
 KRHUT
 =====
 
+>>
+D. Krhut, Pašerák snů, Brno: Host, 2012, s. 18 (1. vyd.).
 Sdělil jsem jí chladnokrevně, že jsem se sebou nespokojenej,
 protože se plynule domluvím
 jen jedním jazykem — anglicky — a francouzština a španělština
 u mě není na dobré úrovni, a že vzhledem k mýmu věku je to známka
 lenosti a nedostatečné vůle.
-(D. Krhut, Pašerák snů, Brno: Host, 2012, s. 18 (1. vyd.).)
+<<
 
+>>
+D. Krhut, Pašerák snů, Brno: Host, 2012, s. 21 (1. vyd.).
 Vypadal, že má opravdu starosti. Možná neměl, možná to vše zkreslila
 jen moje fantazie. Třeba byl zazobanej a šťastnej. Ať to bylo jakkoliv,
 byla to jeho volba. Lidi nejsou stejní. Někdo může být prázdnej bohatej
@@ -52,8 +56,10 @@ byznysmen a být šťastnej. Někdo jako já ne. A o to šlo. Vybrat si. [..]
 Každej, úplně každej se může právě teď sebrat, dát dohromady pár tisíc
 a odletět na druhej konec světa a zkusit tam štěstí. A všechno ostatní
 jsou zbabělý kecy a výmluvy.
-(D. Krhut, Pašerák snů, Brno: Host, 2012, s. 21 (1. vyd.).)
+<<
 
+>>
+D. Krhut, Pašerák snů, Brno: Host, 2012, s. 128 (1. vyd.).
 Budu si jen tak prozpěvovat, protože to ve mně je, někde to tam je
 a já to musím zlehka, zlehounka popadnout a už nepustit. Je to ten
 stejnej rytmus, při kterým se svádí ženy, balí cigarety a usrkává
@@ -61,8 +67,10 @@ koňak v kasinech, ten pocit, kdy máte poslední euro, stojíte na ulici
 a hodíte ho žebrákovi do klobouku a jdete prostě dál. Protože vím,
 že všechno je to jedno, nic na tomhle světě nezměním, a já to ani
 vlastně nechci měnit [..]
-(D. Krhut, Pašerák snů, Brno: Host, 2012, s. 128 (1. vyd.).)
+<<
 
+>>
+D. Krhut, Pašerák snů, Brno: Host, 2012, s. 130 (1. vyd.).
 [..] už dávno jste tím, kým chcete být. Je to jen zárodek a vy ho musíte
 zalívat tak dlouho, dokud nevyroste v obrovskej strom, kterej svýma větvema
 proroste skrz prázdný duše zbabělců, co měli svý sny, ale neuskutečnili je,
@@ -76,8 +84,7 @@ který nikdo nečte [..] vysávejte auta u benzínek v neděli dopoledne, jezte
 to svinstvo při nedělním obědě u vaší tchýně a chvalte ho [..] Počkejte na
 tu pravou chvíli a opusťte svý životy, tak jako opouští živá bytost území smrti,
 kde požár stereotypu spálil vše [..]
-(D. Krhut, Pašerák snů, Brno: Host, 2012, s. 130 (1. vyd.).)
-
+<<
 
 ZWEIG
 =====

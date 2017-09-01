@@ -79,6 +79,7 @@ or [Thing I Have Learned About Software Testing](http://qntm.org/test).
 
 
 * __shownotes__
+* [5 Best Practices for Commenting Your Code](https://improvingsoftware.com/2011/06/27/5-best-practices-for-commenting-your-code/)
 * [http://sscce.org/]
 * [The Testability Explorer Blog](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
