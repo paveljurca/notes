@@ -2828,6 +2828,10 @@ Never say of anything, "I have lost it;" but, "I have returned it" / Epictetus E
 
 .
 
+And we know that for those who love God all things work together for good, for those who are called according to his purpose / Romans 8:28
+
+.
+
 > *norský úzus*
 
 
