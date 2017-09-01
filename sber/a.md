@@ -2808,6 +2808,26 @@ The more code lines you have removed, the more progress you have made / The Suck
 
 .
 
+Z hlediska zachování demokracie mají pro společnost mnohem větší význam politici, kteří dokážou včas upozornit na hrozící nebezpečí a stát si za svým názorem i ve chvílích, kdy jsou méně inteligentními kolegy označováni tu za šílence, tu za rasisty, tu za zločince / Jaroslav Plesl 31. 8. 2017
+
+.
+
+Nepodrobená! To je to slovo! Nikoli impertinente [nestoudná]. Nikoli marginale [na hraně]. Mně se líbí slovo insoumise [vzpurná, nepodrobená]. Nijak se tím nehonosím, prostě taková jsem / Jeanne Moreau
+
+.
+
+Hodně čti, piš, přemýšlej, aby ses uměl vyjádřit až budeš chtít / Gaius Plinius Secundus
+
+.
+
+Life is an insignificant disappointment / unknown
+
+.
+
+Never say of anything, "I have lost it;" but, "I have returned it" / Epictetus Enchiridion
+
+.
+
 > *norský úzus*
 
 
