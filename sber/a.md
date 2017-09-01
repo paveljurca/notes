@@ -2832,6 +2832,10 @@ And we know that for those who love God all things work together for good, for t
 
 .
 
+She carried you in her womb for nine months. People buy flowers. Buy flowers / Collateral
+
+.
+
 > *norský úzus*
 
 
