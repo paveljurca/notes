@@ -26,6 +26,11 @@ a vždy ji převádí do prózy.
 <<
 
 >>
+Otto Vossler, In: M. Havelka, Dějiny a smysl, Praha: NLN, 2001, s. 6 (1. vyd.).
+Dějiny nemají předmět, nýbrž [..] mají problémy. A právě přijímání a řešení těchto problémů jsou dějiny. Jen toto samotné je smysl, jen toto je dějinami. Poněvadž obojí, dějiny bez smyslu a smysl bez dějin, nemůže existovat musíme tedy říkat, že dějiny nemají smysl, ale také — což je něco víc — že dějiny samy jsou smysl.
+<<
+
+>>
 E. Gellner, Podmínky svobody, Brno: CDK, 1998 (překl. E. Musilová, J. Richter), s. 32 (1. vyd.).
 Společenský řád vyžaduje společnou kulturu; fakta nemohou vzhledem k povaze věci
 sama o sobě zajistit existenci společného systému myšlenek, interpretací a hodnot
