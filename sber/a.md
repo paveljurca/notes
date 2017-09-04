@@ -2912,6 +2912,10 @@ Be the pull request you wish to see in the world / Ben Balter
 
 .
 
+If you are even thinking of a response while someone is talking, then you aren't really listening / James Altucher
+
+.
+
 > *norský úzus*
 
 
