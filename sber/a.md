@@ -2876,6 +2876,10 @@ Já nemám rád, aby vůbec umělci, aby jako Madonna, mluvili do politiky. Vžd
 
 .
 
+If you ignore the tech scene, does it really exist? / Mu-An Chiou 15. 4. 2016
+
+.
+
 > *norský úzus*
 
 
