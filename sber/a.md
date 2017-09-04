@@ -2908,6 +2908,10 @@ It is amazing what you can accomplish if you do not care who gets the credit / H
 
 .
 
+Be the pull request you wish to see in the world / Ben Balter
+
+.
+
 > *norský úzus*
 
 
