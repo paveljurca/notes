@@ -2836,6 +2836,42 @@ She carried you in her womb for nine months. People buy flowers. Buy flowers / C
 
 .
 
+Být slušný překvapivě často znamená být statečný / Václav Vokolek
+
+.
+
+Z čeho čerpáte optimismus, energii a mladistvý přístup ke společnosti? Asi z tvrdohlavosti / Slávka Peroutková 2011
+
+.
+
+Bděte tedy, neboť nevíte, kdy pán domu přijde / Marek 13:35
+
+.
+
+Každej chlap má někdy chvíli, kdy se zlomí / Vykoupení z věznice Shawshank
+
+.
+
+If you don't love Shawshank, chances are you're beyond redemption / Ian Nathan 2016
+
+.
+
+Mnoho lidí změnilo svůj sociální status; nevědí, kam patří. Finančně zbohatli, ale nemají k tomu zažitou ještě morálku / Jiřina Šiklová 2011
+
+.
+
+Noviny vycházejí vstříc poptávce. Kdyby celý národ chtěl mít v novinách Goethovy verše, tak tam bude mít Goethovy verše / Cyril Höschl 2011
+
+.
+
+Posláním mudrce je vytvářet řád / Tomáš Akvinský
+
+.
+
+Pravda je nekonečná, proto se sama nemůže poznávat. Jestliže je poznávána, musí to tedy být lež / Franz Kafka
+
+.
+
 > *norský úzus*
 
 
