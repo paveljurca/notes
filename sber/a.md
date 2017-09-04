@@ -2880,6 +2880,34 @@ If you ignore the tech scene, does it really exist? / Mu-An Chiou 15. 4. 2016
 
 .
 
+The price of anything is the amount of life you exchange for it / Henry David Thoreau
+
+.
+
+Until we can manage time, we can manage nothing else / Peter Drucker
+
+.
+
+Enthusiasm spells the difference between mediocrity and accomplishment / Norman Vincent Peale
+
+.
+
+I'm not young enough to know everything / J. M. Barrie
+
+.
+
+If you wish to be out front, then act as if you were behind / Laozi
+
+.
+
+Never mind what haters say, ignore them till they fade away / T.I. Live Your Life
+
+.
+
+It is amazing what you can accomplish if you do not care who gets the credit / Harry Truman
+
+.
+
 > *norský úzus*
 
 
