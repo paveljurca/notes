@@ -2872,6 +2872,10 @@ Pravda je nekonečná, proto se sama nemůže poznávat. Jestliže je poznáván
 
 .
 
+Já nemám rád, aby vůbec umělci, aby jako Madonna, mluvili do politiky. Vždyť na to nemaj; na to nemáme / Ivan Král 4. 9. 2017
+
+.
+
 > *norský úzus*
 
 
