@@ -2916,6 +2916,10 @@ If you are even thinking of a response while someone is talking, then you aren't
 
 .
 
+Už jsem dávno zjistil, že nemůžeš věřit každému. Jednou o tom napíšu knížku / Jaromír Jágr 6. 9. 2017
+
+.
+
 > *norský úzus*
 
 
