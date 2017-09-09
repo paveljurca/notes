@@ -35,6 +35,17 @@ A library is an arsenal of liberty / unknown
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
+LAICHTER
+========
+
+>>
+J. Laichter, Budoucnost I., Praha: Jan Laichter, 1913, s. 11 (1. vyd.).
+Konec konců, kdo určuje jejich životní dráhu ne-li rodiče? Kdo jest zodpověden?
+Může-li dítě samo o sobě rozhodovati? Mladá, vrtkavá, neprozíravá mysl — kam
+a co ta bez rady a vůdčí ruky? Sám trpce strádal nedostatky literárního vzdělání,
+sám rád by se byl učil, ale kdež tenkráte školy!
+<<
+
 KRHUT
 =====
 

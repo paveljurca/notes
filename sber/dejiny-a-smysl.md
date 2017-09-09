@@ -1,6 +1,41 @@
 # M. Havelka, Dějiny a smysl, Praha: NLN, 2001.
 
 >>
+M. Havelka, Dějiny a smysl, Praha: NLN, 2001, s. 53 (1. vyd.).
+Ovšem centrální filosofický význam dostává problematika smyslu teprve na konci 19. století,
+a sice v souvislosti s tím, co se od této doby opakovaně označuje a analyzuje jako krize moderního člověka
+a co např. podle Paula Tillicha lze charakterizovat jako krizi autonomie uvolněné ze svého základu.
+[..] prosazování liberalistické představy o povaze společnosti jako nesamostatného a neplánovaně vznikajícího
+kolektivního sledu souvislostí a následností jednání jednotlivých individuí, tedy něčeho, co vzniká spíše
+z individuálních preferencí a individuálních zdrojů než na základě nějakého obecného nebo dokonce univerzálního
+řádu; [..] Filosofické příčiny této krize bývají tradičně viděny v souvislosti s těmi procesy novověku, které
+nakonec vedly ke stále zřetelnějšímu nahrazování původního metafyzického řádu světa pouhou subjektivní orientací
+ve světě a k tomu, že se "přirozený" smysl celku postupně proměnil v pouhý teoretický smysl pro celkovost.
+[..] Čím více si je člověk jist, že se důrazně prosadí ve jsoucím, tím více je mu podle Hobbese vlastní to,
+oč mu jedině jde: o sebezachování v pohybu žádosti; člověk je bytost hnaná nikoli hladem samým, ale představou
+hladu budoucího, a proto je ochoten kdykoli jednat. Štěstím moderního člověka po Hobbesovi proto nemůže být klid
+při vychutnávání dosaženého cíle, nýbrž radost z neustálého dosahování věcí, které si přeje a o které usiluje.
+Úspěch mu potvrzuje, že existuje plně a je s to čelit každému nebezpečí. Cíle lidských počínání jsou z tohoto
+hlediska disparátní. Není možné je předvídat či uspořádat podle stupně důležitosti a naléhavosti. K pocitu života
+novověkého člověka podle Hobbese spíše patří, že neustále sleduje jeden cíl za druhým a snaha o sebezachování
+jej vede ke stupňování sebe sama. Potud je život pouze žádost, jen pohyb od jednoho dosaženého cíle ke svobodně
+zvolenému cíli dalšímu. [..] Není úkolem státu přivádět své občany k jejich bytostnému životnímu cíli. Žijí-li
+sjednoceni ve společnosti, pak se stát stará jen o to, aby se vůle všech dochovala a aby byla uchráněna ve spojení
+s ostatními před zničením, aby se mohla dokonce lépe prosadit a uvědomila si větší sílu než v přírodním stavu.
+<<
+
+>>
+M. Havelka, Dějiny a smysl, Praha: NLN, 2001, s. 48 (1. vyd.).
+Každé jednání zakládá jedinečnou spojitost následků, které míněnému smyslu více či méně
+odpovídají nebo neodpovídají, a jejich tematizace je pro porozumění smyslu jednání právě
+tak důležitá, jako je samotné konstatování (či rekonstrukce) účelu jednání (smysl jako něco
+"dosahovaného"). Právě tato potřeba objektivně analyzovat jednání jako něco objektivně
+strukturovaného prostřednictvím různých podob smyslu, jejž jednající člověk sám svému
+jednání subjektivně dává, a mezi výsledky a důsledky každého jednání, které jsou objektivní
+— tj. ekonomické , politické, historické atp. —, je jádrem Weberova pojetí "věd o kultuře".
+<<
+
+>>
 J. G. Herder, Vývoj lidskosti, Praha: Jan Laichter, 1941, s. 241.
 [..] a všude na zemi se stává, co se na ní stát může, dílem podle polohy a potřeby místa,
 dílem podle okolností a příležitostí doby, dílem podle vrozené či vypěstěné povahy národů.

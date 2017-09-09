@@ -2920,6 +2920,18 @@ Už jsem dávno zjistil, že nemůžeš věřit každému. Jednou o tom napíšu
 
 .
 
+Uvědomil jsem si, že nemám sebemenší zájem o život, ale pouze o to, co dělám v této chvíli, o jakousi analogii života. (…) To, co je pravdivé, mě takřka vůbec nezajímá, stejně jako to, co je skutečné; zajímá mě pouze to, co existuje podle mých představ, to, co jsem v sobě den co den dusil, abych mohl žít / Henry Miller Obratník Kozoroha
+
+.
+
+Lidé se ve svém jednání neorientují ani tak podle skutečnosti samé, nýbrž podle svých představ o skutečnosti / Miloš Havelka Dějiny a smysl
+
+.
+
+Kriteria pro správnost svého jednání může člověk nalézt pouze v sobě samém: je to on sám, tj. struktura aktivit, a nikoli nějaký prvotní cíl veškerého snažení, který by byl jeho jednání předřazen / Thomas Hobbes
+
+.
+
 > *norský úzus*
 
 

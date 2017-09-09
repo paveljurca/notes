@@ -261,6 +261,8 @@ vylepšovat
 myslím, tedy jsem
 * _conscientia_
 svědomí
+* _conservatio sui_
+zachovat sebe
 * _corrida_
 běh
 * _cui bono_
