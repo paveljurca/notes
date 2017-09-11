@@ -6,6 +6,7 @@ V našem světě rychle se měnících hodnot
 (vítaných změn, které přináší technický a vědecký pokrok)
 podléhají změnám také duchovní, morální a umělecké hodnoty,
 ovšem daleko pomaleji a ne vždy k lepšímu.
+[..]
 Těžko říct, co přinese budoucnost.
 Rád bych si dovolil vyjádřit názor,
 že nový horizont nám může otevřít pokorný zájem

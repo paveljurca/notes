@@ -2932,6 +2932,14 @@ Kriteria pro správnost svého jednání může člověk nalézt pouze v sobě s
 
 .
 
+Město nejsou jen hradby, ale také lidé, jejich myšlenky a činy / ?
+
+.
+
+Pro mě neexistuje černá a bílá ani napravo a nalevo, ale jenom nahoře a dole. Dole znamená při zemi, ale já mířím nahoru, aniž bych myslel na něco tak triviálního, jako je politika / Bob Dylan 1965
+
+.
+
 > *norský úzus*
 
 
