@@ -1,6 +1,22 @@
 # M. Havelka, Dějiny a smysl, Praha: NLN, 2001.
 
 >>
+K. Adler, The art of accompanying and coaching, Minneapolis: University of Minnesota Press, 1965 (překl. V. Urban), s. 3.
+V našem světě rychle se měnících hodnot
+(vítaných změn, které přináší technický a vědecký pokrok)
+podléhají změnám také duchovní, morální a umělecké hodnoty,
+ovšem daleko pomaleji a ne vždy k lepšímu.
+Těžko říct, co přinese budoucnost.
+Rád bych si dovolil vyjádřit názor,
+že nový horizont nám může otevřít pokorný zájem
+o vnitřní či duchovní hodnoty.
+Naše technologické pokroky
+by nám měly poskytnout více času –
+budeme totiž potřebovat kulturu,
+abychom si to všechno mohli dovolit.
+<<
+
+>>
 M. Havelka, Dějiny a smysl, Praha: NLN, 2001, s. 53 (1. vyd.).
 Ovšem centrální filosofický význam dostává problematika smyslu teprve na konci 19. století,
 a sice v souvislosti s tím, co se od této doby opakovaně označuje a analyzuje jako krize moderního člověka
