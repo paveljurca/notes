@@ -2940,6 +2940,10 @@ Pro mě neexistuje černá a bílá ani napravo a nalevo, ale jenom nahoře a do
 
 .
 
+Dokud plavou v řece ryby, nemáme důvod odejít / Sulawesi Indonesia
+
+.
+
 > *norský úzus*
 
 
