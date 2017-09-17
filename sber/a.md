@@ -2956,6 +2956,10 @@ Kdyby člověk miloval všecky lidi, nosil by v sobě celý svět / Friedrich Sc
 
 .
 
+It's never crowded along the extra mile / Wayne Dyer Wishes Fulfilled
+
+.
+
 > *norský úzus*
 
 
