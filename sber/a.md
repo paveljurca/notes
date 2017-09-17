@@ -2952,6 +2952,10 @@ Tak a víc už opravdu dělat nemůžu, dokud nebudou hotoví truhláři a čalo
 
 .
 
+Kdyby člověk miloval všecky lidi, nosil by v sobě celý svět / Friedrich Schiller Z filosofických dopisů
+
+.
+
 > *norský úzus*
 
 
