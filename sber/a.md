@@ -2944,6 +2944,14 @@ Dokud plavou v řece ryby, nemáme důvod odejít / Sulawesi Indonesia
 
 .
 
+Domorodci potřebují čas od času zvolnit tempo svého života, aby je doběhla i jejich duše / Petr Horký 2010
+
+.
+
+Tak a víc už opravdu dělat nemůžu, dokud nebudou hotoví truhláři a čalouníci, pane vedoucí. No a kde jsou? No, truhláři jsou na obědě a čalouníci ještě nepřišli / V podstatě jsme normální
+
+.
+
 > *norský úzus*
 
 
