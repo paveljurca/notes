@@ -2960,6 +2960,14 @@ It's never crowded along the extra mile / Wayne Dyer Wishes Fulfilled
 
 .
 
+Kvůli chytrým zařízením jsme také instalovali zásuvky přímo do nočních stolků, protože hosté kvůli jejich nabíjení nechtějí vstávat z postele / René Beauchamp 18. 9. 2017
+
+.
+
+[..] leckdy se děti stávají bezbranným předmětem sobeckého experimentu žen, které chtějí samy sobě něco dokázat / Mirka Spáčilová 18. 9. 2017
+
+.
+
 > *norský úzus*
 
 
