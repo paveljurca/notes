@@ -2968,6 +2968,10 @@ Kvůli chytrým zařízením jsme také instalovali zásuvky přímo do nočníc
 
 .
 
+Action is foundational / Pablo Picasso
+
+.
+
 > *norský úzus*
 
 
