@@ -2972,6 +2972,10 @@ Action is foundational / Pablo Picasso
 
 .
 
+Even though the future seems far away, it is actually right now / Mattie Stepanek
+
+.
+
 > *norský úzus*
 
 
