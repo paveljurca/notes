@@ -2976,6 +2976,10 @@ Even though the future seems far away, it is actually right now / Mattie Stepane
 
 .
 
+True happiness is the absence of desire / Buddha
+
+.
+
 > *norský úzus*
 
 
