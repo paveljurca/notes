@@ -2976,7 +2976,11 @@ Even though the future seems far away, it is actually right now / Mattie Stepane
 
 .
 
-True happiness is the absence of desire / Buddha
+Happiness is the absence of desire / Buddha
+
+.
+
+Nejkrásnější rychlost u aut je trojka. Trojka zrychluje i zpomaluje, na tu bych jezdil furt / Bohumil Hrabal
 
 .
 
