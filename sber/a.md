@@ -2984,6 +2984,10 @@ Nejkrásnější rychlost u aut je trojka. Trojka zrychluje i zpomaluje, na tu b
 
 .
 
+Čím víc jste starší, tím víc toho musíte dát / Alan Kellner Světský
+
+.
+
 > *norský úzus*
 
 
