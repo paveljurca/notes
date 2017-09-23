@@ -2992,6 +2992,10 @@ Ano, samozřejmě, volit by měl každý, kdo má možnost. Je jedno koho / Ibra
 
 .
 
+It's not about how much sleep you get, it's what you do when you're awake / SuperYesMore
+
+.
+
 > *norský úzus*
 
 
