@@ -2988,6 +2988,10 @@ Nejkrásnější rychlost u aut je trojka. Trojka zrychluje i zpomaluje, na tu b
 
 .
 
+Ano, samozřejmě, volit by měl každý, kdo má možnost. Je jedno koho / Ibrahim Ilisik 23. 9. 2017
+
+.
+
 > *norský úzus*
 
 
