@@ -2996,6 +2996,10 @@ It's not about how much sleep you get, it's what you do when you're awake / Supe
 
 .
 
+To je kurva den / Josef Kemr Dobrá Voda
+
+.
+
 > *norský úzus*
 
 
