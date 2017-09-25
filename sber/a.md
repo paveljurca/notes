@@ -3000,6 +3000,10 @@ To je kurva den / Josef Kemr Dobrá Voda
 
 .
 
+Psát o sobě, to je vlastně nepříčetnost nejvyššího druhu / Ivan Schneedorfer Básně
+
+.
+
 > *norský úzus*
 
 
