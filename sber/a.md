@@ -3004,6 +3004,10 @@ Psát o sobě, to je vlastně nepříčetnost nejvyššího druhu / Ivan Schneed
 
 .
 
+I was trying to play football with a baseball, and you can't really do that / Lori Petty 2014
+
+.
+
 > *norský úzus*
 
 
