@@ -255,6 +255,14 @@ persistently. Plus you may specify the `r,w,x` bits or [effective](https://doc.o
 
 ## PowerPoint 2013 changes display setup
 
+***
+
+TODO
+
+!!! for 2016 https://thomasvochten.com/archive/2016/01/ppt-topology/
+
+***
+
 PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](http://www.indezine.com/products/powerpoint/learn/powerpoint-2013/enhanced-presenter-view-ppt2013.html) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to clean up the mess
 
 create `C:\powerpnt_restore_topology.vbs`
