@@ -3020,6 +3020,18 @@ The idea of inspiration is a fetish for people. The rest of us get to work / Mik
 
 .
 
+I've done a lot of Node.js so my proficiency is pretty high, which results in better efficiency / Sindre Sorhus
+
+.
+
+One of the greatest pleasures in life is doing what other people say you can't / Sindre Sorhus
+
+.
+
+You don't want to be rich — You want to be happy / Sindre Sorhus
+
+.
+
 > *norský úzus*
 
 
