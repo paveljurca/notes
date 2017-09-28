@@ -3008,6 +3008,18 @@ I was trying to play football with a baseball, and you can't really do that / Lo
 
 .
 
+Byl to malý ráj, kde byli všichni spokojení, sytí a vše bylo vymalováno v jasných barvách. Lidé, kteří tam sloužili, prošli tvrdým výběrem. Nebyli tam žádní opilci, narkomani ani disidenti, tedy lidé, kteří by svou vlast nebo komunismus nenáviděli / Bratři za hrob
+
+.
+
+Pomalí nemají právo zdržovat ty rychlé / Emmanuel Macron 26. 9. 2017
+
+.
+
+The idea of inspiration is a fetish for people. The rest of us get to work / Mike Monteiro 27. 9. 2017
+
+.
+
 > *norský úzus*
 
 
