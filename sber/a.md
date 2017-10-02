@@ -2976,10 +2976,6 @@ Even though the future seems far away, it is actually right now / Mattie Stepane
 
 .
 
-Happiness is the absence of desire / Buddha
-
-.
-
 Nejkrásnější rychlost u aut je trojka. Trojka zrychluje i zpomaluje, na tu bych jezdil furt / Bohumil Hrabal
 
 .
@@ -3008,7 +3004,7 @@ I was trying to play football with a baseball, and you can't really do that / Lo
 
 .
 
-Byl to malý ráj, kde byli všichni spokojení, sytí a vše bylo vymalováno v jasných barvách. Lidé, kteří tam sloužili, prošli tvrdým výběrem. Nebyli tam žádní opilci, narkomani ani disidenti, tedy lidé, kteří by svou vlast nebo komunismus nenáviděli / Bratři za hrob
+Byl to malý ráj, kde byli všichni spokojení, sytí a vše bylo vymalováno v jasných barvách. Nebyli tam žádní opilci, narkomani ani disidenti, tedy lidé, kteří by svou vlast nebo komunismus nenáviděli / Bratři za hrob
 
 .
 
@@ -3029,6 +3025,18 @@ One of the greatest pleasures in life is doing what other people say you can't /
 .
 
 You don't want to be rich — You want to be happy / Sindre Sorhus
+
+.
+
+The software did exactly what it was told to do. The reason it failed is that it was told to do the wrong thing / The Coming Software Apocalypse
+
+.
+
+So much of art, so much of creation is discovery / Bret Victor Inventing on Principle
+
+.
+
+I don't want cashback; I just want The Clash back / Attila the Stockbroker Lost in the Supermarket
 
 .
 
