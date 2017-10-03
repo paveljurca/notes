@@ -3040,6 +3040,18 @@ I don't want cashback; I just want The Clash back / Attila the Stockbroker Lost 
 
 .
 
+Plnili jsme svoji povinnost, ale ztratili jsme svoji lidskost / Emperor
+
+.
+
+Zajímá mě, jak žijou lidi, který mám rád. Zároveň mám rád hezký bydlení a věci. Mají lidi, co mám rád hezký bydlení? A věci? / Dereck Hard
+
+.
+
+Melancholy is as seductive as ecstasy / Mason Cooley
+
+.
+
 > *norský úzus*
 
 

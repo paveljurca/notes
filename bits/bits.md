@@ -255,15 +255,10 @@ persistently. Plus you may specify the `r,w,x` bits or [effective](https://doc.o
 
 ## PowerPoint 2013 changes display setup
 
-***
+* for 2016 use `..\Office\16.0\..`
+* for 2013 use `..\Office\15.0\..`
 
-TODO
-
-!!! for 2016 https://thomasvochten.com/archive/2016/01/ppt-topology/
-
-***
-
-PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](http://www.indezine.com/products/powerpoint/learn/powerpoint-2013/enhanced-presenter-view-ppt2013.html) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to clean up the mess
+PowerPoint now breaks mirroring of displays because it's got [Enhanced Presenter View](https://support.office.com/en-us/article/View-your-speaker-notes-privately-while-delivering-a-presentation-on-multiple-monitors-ccfa1894-e3ef-4955-9c3a-444d58248093) by default. So after a first slideshow ever it resets the display mode to extended, i.e. Microsoft tells you what you want [sic]. But there's a registry key `RestoreTopology` to clean up the mess
 
 create `C:\powerpnt_restore_topology.vbs`
     
@@ -350,3 +345,27 @@ and [XML](http://superuser.com/a/356206)
 Save it as `keyboard_DE.xml` and create a shortcut to `control intl.cpl,, /f:"keyboard_DE.xml"`.
 
 
+## Windows display switch 
+
+***
+
+TODO https://getpocket.com/a/queue/list/display
+
+***
+
+setup jednotlivých grafických driverů je pro Windows 10 držen ve větvi
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers.
+
+Tam je ale jen možné pro každý monitor definovat max/min rozlišení, otočení nebo scaling displeje.
+
+Rozšíření nebo zrcadlení displeje drží hodnota Attach.ToDesktop ve větvi
+HKEY_CURRENT_CONFIG/System/CurrentControlSet/Control/VIDEO/,
+která ale ve Windows 10 dál neexistuje.
+
+ŘEŠENÍM je tak od >=Windows 7 utilitka DisplaySwitch.exe!
+
+Tzn. vytvoření následujícího klíče v registru:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run] "force_display_mirroring"="C:\Windows\System32\DisplaySwitch.exe /clone"

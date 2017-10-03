@@ -28,6 +28,8 @@ z individuálních preferencí a individuálních zdrojů než na základě něj
 řádu; [..] Filosofické příčiny této krize bývají tradičně viděny v souvislosti s těmi procesy novověku, které
 nakonec vedly ke stále zřetelnějšímu nahrazování původního metafyzického řádu světa pouhou subjektivní orientací
 ve světě a k tomu, že se "přirozený" smysl celku postupně proměnil v pouhý teoretický smysl pro celkovost.
+[..] Kriteria pro správnost svého jednání může člověk nalézt pouze v sobě samém: je to on sám, tj. struktura
+aktivit, a nikoli nějaký prvotní cíl veškerého snažení, který by byl jeho jednání předřazen
 [..] Čím více si je člověk jist, že se důrazně prosadí ve jsoucím, tím více je mu podle Hobbese vlastní to,
 oč mu jedině jde: o sebezachování v pohybu žádosti; člověk je bytost hnaná nikoli hladem samým, ale představou
 hladu budoucího, a proto je ochoten kdykoli jednat. Štěstím moderního člověka po Hobbesovi proto nemůže být klid
@@ -39,6 +41,14 @@ jej vede ke stupňování sebe sama. Potud je život pouze žádost, jen pohyb o
 zvolenému cíli dalšímu. [..] Není úkolem státu přivádět své občany k jejich bytostnému životnímu cíli. Žijí-li
 sjednoceni ve společnosti, pak se stát stará jen o to, aby se vůle všech dochovala a aby byla uchráněna ve spojení
 s ostatními před zničením, aby se mohla dokonce lépe prosadit a uvědomila si větší sílu než v přírodním stavu.
+<<
+
+>>
+M. Havelka, Dějiny a smysl, Praha: NLN, 2001, s. 56 (1. vyd.).
+Namísto starších principů hierarchie, jednoty a řádu, které umožňovaly tázání po pravém jsoucím a pravém Bohu,
+nastoupila rovnováha, rovnoprávnost a orientace individuí. A s nimi se pak také postupně prosadila ona osvícensky
+objektivující "filosofie reflexe", která z věcí dělá představy a ze světa pouhý horizont; nejvlastnějším předpokladem
+se pak stává ono "všeobecné rozdvojení" člověka a světa, subjektivity a objektivity, rozumu a lidské niternosti [..]
 <<
 
 >>
