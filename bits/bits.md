@@ -364,8 +364,21 @@ která ale ve Windows 10 dál neexistuje.
 
 ŘEŠENÍM je tak od >=Windows 7 utilitka DisplaySwitch.exe!
 
-Tzn. vytvoření následujícího klíče v registru:
+Namísto z Registrů je lépe volat DisplaySwitch
+až na závěr, tzn. jako startup položku.
 
-Windows Registry Editor Version 5.00
+Navíc je to potřeba volat jako zástupce
+v kontextu uživatele,
+tzn. spouštět DisplaySwitch.exe přímo,
+ne jako (pod)proces z BAT souboru;
+jinak pouze zobrazí nabídku pro přepnutí displeje,
+avšak sám už ho nepřepne.
 
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run] "force_display_mirroring"="C:\Windows\System32\DisplaySwitch.exe /clone"
+1. Make a shortcut to `DisplaySwitch.exe /clone`
+2.
+  ```
+  @setlocal enableextensions
+  @set cwd=%~dp0
+  @copy "%cwd%DisplaySwitch.lnk" "%systemdrive%\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\."
+  ```
+3. Run as administrator
