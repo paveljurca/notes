@@ -3052,6 +3052,10 @@ Melancholy is as seductive as ecstasy / Mason Cooley
 
 .
 
+Jako bývalý šéf Microsoftu jsem zvyklý, že od začátku nefunguje nikdy nic / Ivan Pilný 4. 10. 2017
+
+.
+
 > *norský úzus*
 
 
