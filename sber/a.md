@@ -3056,6 +3056,10 @@ Jako bývalý šéf Microsoftu jsem zvyklý, že od začátku nefunguje nikdy ni
 
 .
 
+Češi nejsou Španělé; večer rádi sedí doma nebo v hospodě a hází do sebe půllitry / Martin Daneš 4. 10. 2017
+
+.
+
 > *norský úzus*
 
 
