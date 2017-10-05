@@ -3060,6 +3060,10 @@ Jako bývalý šéf Microsoftu jsem zvyklý, že od začátku nefunguje nikdy ni
 
 .
 
+Každý fanatický přístup je škodlivý / dopisy čtenářů 5. 10. 2017
+
+.
+
 > *norský úzus*
 
 
