@@ -3064,6 +3064,10 @@ Každý fanatický přístup je škodlivý / dopisy čtenářů 5. 10. 2017
 
 .
 
+Neboj se, synu. Kdo ví, co ty výjevy znamenají / Hlavsa Vizionář
+
+.
+
 > *norský úzus*
 
 
