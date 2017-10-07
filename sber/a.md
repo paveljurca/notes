@@ -3072,6 +3072,34 @@ All cruelty springs from weakness / Seneca
 
 .
 
+Myslím, že je zločin nedat dětem nejlepší možnost vzdělání / James Randi 7. 10. 2017
+
+.
+
+Pravda nakonec vyplave na povrch. A když se ukáže a je naprosto evidentní, tak si řeknete, aha, to jsem nevěděl / James Randi 7. 10. 2017
+
+.
+
+Úkolem učitele je mít pochopení pro žáky, kteří toho vědí méně / James Randi 7. 10. 2017
+
+.
+
+O všechno vás oberou, nechají vás napospas osudu a už se nikdy neozvou / James Randi 7. 10. 2017
+
+.
+
+Ti, kdo sní ve dne, poznávají mnohé z toho, co uniká snivcům pouze nočním / Edgar Allan Poe
+
+.
+
+Já vytvářím světlo a tvořím tmu, působím pokoj a tvořím zlo, já hospodin konám všechny tyto věci / Iz 45,7
+
+.
+
+States which are based on religion confine their people in the circle of faith and fear / Raif Badawi
+
+.
+
 > *norský úzus*
 
 
