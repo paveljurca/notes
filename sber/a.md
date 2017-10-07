@@ -3068,6 +3068,10 @@ Neboj se, synu. Kdo ví, co ty výjevy znamenají / Hlavsa Vizionář
 
 .
 
+All cruelty springs from weakness / Seneca
+
+.
+
 > *norský úzus*
 
 
