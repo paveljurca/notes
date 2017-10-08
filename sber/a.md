@@ -3104,6 +3104,14 @@ The enemy of my enemy is my friend until he becomes my enemy again / Narcos III
 
 .
 
+If you don't play, you're going to watch others score / Narcos III
+
+.
+
+If you want something done right.. you have to do it yourself / Narcos III
+
+.
+
 Marx nás svrbí tak, že se nikdy nepřestaneme drbat / James Boswell
 
 .
