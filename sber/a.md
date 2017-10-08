@@ -3112,6 +3112,14 @@ If you want something done right.. you have to do it yourself / Narcos III
 
 .
 
+War is bad for business; unless it's won / Narcos III
+
+.
+
+When there is corruption — there is no procedure, there is no peace of mind / General José Serrano
+
+.
+
 Marx nás svrbí tak, že se nikdy nepřestaneme drbat / James Boswell
 
 .
