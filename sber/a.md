@@ -3100,6 +3100,10 @@ States which are based on religion confine their people in the circle of faith a
 
 .
 
+The enemy of my enemy is my friend until he becomes my enemy again / Narcos III
+
+.
+
 > *norský úzus*
 
 
