@@ -3104,6 +3104,10 @@ The enemy of my enemy is my friend until he becomes my enemy again / Narcos III
 
 .
 
+Marx nás svrbí tak, že se nikdy nepřestaneme drbat / James Boswell
+
+.
+
 > *norský úzus*
 
 
