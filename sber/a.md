@@ -3116,10 +3116,6 @@ War is bad for business; unless it's won / Narcos III
 
 .
 
-TODO 9e / Narcos III
-
-.
-
 When there is corruption — there is no procedure, there is no peace of mind / General José Serrano
 
 .
@@ -3129,6 +3125,10 @@ Marx nás svrbí tak, že se nikdy nepřestaneme drbat / James Boswell
 .
 
 You don't know what love is, until you've learned the meaning of the blues, until you've loved a love you've had to lose / Chet Baker
+
+.
+
+Mládí a schopnost se hlásily o slovo / Jan Laichter Budoucnost 
 
 .
 
