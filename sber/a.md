@@ -5,7 +5,7 @@ Definuj nebo budeš definován / Thomas Szasz
 
 .
 
-Bděte, neboť nevíte dne ani hodiny / Mt 25,13
+Bděte, neboť nevíte dne ani hodiny / Mt 25:13
 
 .
 
@@ -207,7 +207,7 @@ Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Perou
 .
 
 > The question is not, "What am I?",
-> but, "What can/should I be?"
+> but, "What can (should) I be?"
 > *Karl Jaspers*
 
 .
@@ -371,7 +371,7 @@ Přišli jsme na to, že člověk nemá umírat, nýbrž žít / Ferdinand Perou
 .
 
 > Hlupák skládá ruce v klín a užírá se.
-> *Kaz 4,5*
+> *Kaz 4:5*
 
 .
 
@@ -3092,7 +3092,7 @@ Ti, kdo sní ve dne, poznávají mnohé z toho, co uniká snivcům pouze noční
 
 .
 
-Já vytvářím světlo a tvořím tmu, působím pokoj a tvořím zlo, já hospodin konám všechny tyto věci / Iz 45,7
+Já vytvářím světlo a tvořím tmu, působím pokoj a tvořím zlo, já hospodin konám všechny tyto věci / Iz 45:7
 
 .
 
