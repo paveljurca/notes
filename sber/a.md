@@ -3132,6 +3132,14 @@ Mládí a schopnost se hlásily o slovo / Jan Laichter Budoucnost
 
 .
 
+Cílem není malovat život, ale dát život malbě / Pierre Bonnard
+
+.
+
+Color does not add a pleasant quality to design — it reinforces it / Pierre Bonnard
+
+.
+
 TODO BBV / 9. 10. 2017
 
 .
