@@ -1,8 +1,16 @@
 O samotě
 ========
 
-tehdy záleželo
-  teď nezáleží
+,
+
+Inside of me
+  it hurts
+
+In me
+  it hurts
+
+Ve mně
+  to bolí
 
 ,
 
