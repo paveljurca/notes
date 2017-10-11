@@ -3152,6 +3152,10 @@ To, co bylo před dvaceti patnácti lety je už pryč a my musíme pokračovat d
 
 .
 
+Taky jsem se kdysi hledal, spousta lidí po třicítce dnes řeší, zda už se usadit, nebo si uchovat volnost / Pavel Batěk 11. 7. 2014
+
+.
+
 > *norský úzus*
 
 
