@@ -3144,6 +3144,10 @@ I tell my story, not because it is unique, but because it is not. It is the stor
 
 .
 
+I believe in the power of the imagination to remake the world / J. G. Ballard
+
+.
+
 TODO BBV / 9. 10. 2017
 
 .
