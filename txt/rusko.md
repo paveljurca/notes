@@ -1,6 +1,11 @@
 Rusko
 =====
 
+>>
+D. Mizgulin, Dvě řeky, Praha: Svaz ruskojazyčných spisovatelů, 2006.
+Je Rusko dlouze, těžce opilé / a jako žena hořce naříká si. / I hystericky umí zakvílet... / A zdá se, že ho není možné spasit.
+<<
+
 =============
 PŘEPSAT
 =============
@@ -233,7 +238,7 @@ A netřeba snad připomínat,
 > Navzdory obrazu světové mocnosti, který země projektuje do zahraničí, je zřejmé, že sami Sověti si nejsou jisti svými národními schopnostmi. Tento komplex méněcennosti pramení ze století ekonomické zaostalosti, z vojenské zranitelnosti a ze zkušenosti despotických vlád.
 > *Newsweek 29. 5. 1972*
 
-> Mezi sebou navzájem Rusové argumentují, že autoritářský systém je přirozeným řádem věcí v jejich zemi. My jsme příliš velcí, chaotičtí a neřiditelní. Pokud bychom  zítra získali demokracii, země by se rozpadla.
+> Mezi sebou navzájem Rusové argumentují, že autoritářský systém je přirozeným řádem věcí v jejich zemi. My jsme příliš velcí, chaotičtí a neřiditelní. Pokud bychom zítra získali demokracii, země by se rozpadla.
 > *Andrej Amalrik, Newsweek 29. 5. 1972*
 
 
