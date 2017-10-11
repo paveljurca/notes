@@ -3148,7 +3148,7 @@ I believe in the power of the imagination to remake the world / J. G. Ballard
 
 .
 
-TODO BBV / 9. 10. 2017
+To, co bylo před dvaceti patnácti lety je už pryč a my musíme pokračovat dál / Jana Havrdová 9. 10. 2017
 
 .
 
