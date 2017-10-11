@@ -3140,6 +3140,10 @@ Color does not add a pleasant quality to design — it reinforces it / Pierre Bo
 
 .
 
+I tell my story, not because it is unique, but because it is not. It is the story of many girls / Malala Yousafzai 2014
+
+.
+
 TODO BBV / 9. 10. 2017
 
 .
