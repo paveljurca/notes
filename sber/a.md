@@ -3164,6 +3164,10 @@ Hvězdy netuší, že tvoří souhvězdí / Jean Cocteau
 
 .
 
+A ship is always safe at shore but that is not what it is built for / Albert Einstein
+
+.
+
 > *norský úzus*
 
 
