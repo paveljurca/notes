@@ -49,10 +49,6 @@ I accepted the inevitable: I became an adult. That was how my expulsion from the
 
 .
 
-Nechovejte se hloupě a nedělejte nic nelegálního. Všechno je pak jednodušší / Disqus.com, 2013
-
-.
-
 Lid milá Duňo je dneska bdělej, ale bohužel gramotnej. Proč říkám bohužel? Protože kdyby byl jenom bdělej, to by ještě tak nevadilo, ale jak je gramotnej — tak umí napsat udání/ Timofejič Golubjev, Čonkin
 
 .
@@ -3153,6 +3149,18 @@ To, co bylo před dvaceti patnácti lety je už pryč a my musíme pokračovat d
 .
 
 Taky jsem se kdysi hledal, spousta lidí po třicítce dnes řeší, zda už se usadit, nebo si uchovat volnost / Pavel Batěk 11. 7. 2014
+
+.
+
+Don't be a jerk or do anything illegal. Everything is easier that way / Disqus.com
+
+.
+
+Nechovejte se hloupě a nedělejte nic nelegálního. Všechno je pak jednodušší / Disqus.com
+
+.
+
+Hvězdy netuší, že tvoří souhvězdí / Jean Cocteau
 
 .
 
