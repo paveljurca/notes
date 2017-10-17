@@ -3168,6 +3168,14 @@ A ship is always safe at shore but that is not what it is built for / Albert Ein
 
 .
 
+Přemýšlím o věcech, čtu hodně knih a snažím se život nepromarnit / Petr Fiala 6. 3. 2017
+
+.
+
+We didn't do anything for fun. You realize fun is a new thing, right? / Master of None
+
+.
+
 > *norský úzus*
 
 
