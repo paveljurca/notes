@@ -3172,7 +3172,7 @@ Přemýšlím o věcech, čtu hodně knih a snažím se život nepromarnit / Pet
 
 .
 
-We didn't do anything for fun. You realize fun is a new thing, right? / Master of None Parents
+We didn't do anything for fun. You realize fun is a new thing, right? / Parents Master of None
 
 .
 
