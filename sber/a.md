@@ -3180,6 +3180,10 @@ Don't doubt yourself, son. Doubt kills / The Equalizer
 
 .
 
+There's no cause worth fighting for. All we have is the game / In the Line of Fire
+
+.
+
 > *norský úzus*
 
 
