@@ -3184,6 +3184,10 @@ There's no cause worth fighting for. All we have is the game / In the Line of Fi
 
 .
 
+Thinking can get you into a lot of trouble, Errol. I shouldn't do so much of it / Snatch
+
+.
+
 > *norský úzus*
 
 
