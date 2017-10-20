@@ -3204,6 +3204,10 @@ Revenge is a meal best served cold / Man on Fire
 
 .
 
+Too much ego, too much excess, too many expectations; It tends to ruin things / Straight Outta Compton
+
+.
+
 > *norský úzus*
 
 
