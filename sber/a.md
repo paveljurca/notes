@@ -3196,6 +3196,10 @@ Víme, které dovednosti jednou v pracovním životě budou potřebovat. Nikdo t
 
 .
 
+One week we're figuring out which nightclub to go to, and the next thing I'm.. reading the Bible / Man on Fire
+
+.
+
 > *norský úzus*
 
 
