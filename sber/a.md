@@ -3200,6 +3200,10 @@ One week we're figuring out which nightclub to go to, and the next thing I'm.. r
 
 .
 
+Revenge is a meal best served cold / Man on Fire
+
+.
+
 > *norský úzus*
 
 
