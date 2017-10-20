@@ -2035,11 +2035,11 @@ Já si mluvením vysekávám cestičku / Jiří Vykřičené domy
 
 .
 
-Lidi kritizují, hlavně když vidí, že něco dokážete / Lukáš Šembera 12. 4. 2017 Studenta (duben 2017)
+Lidi kritizují, hlavně když vidí, že něco dokážete / Lukáš Šembera 12. 4. 2017
 
 .
 
-Snazší to asi dnes je, ale je to na hovno / Marpo 12. 4. 2017 Studenta (duben 2017)
+Snazší to asi dnes je, ale je to na hovno / Otakar Petřina 12. 4. 2017
 
 .
 
@@ -3176,7 +3176,11 @@ We didn't do anything for fun. You realize fun is a new thing, right? / Parents 
 
 .
 
-Don't doubt yourself, son. Doubt kills / The Equalizer
+Doubt kills / The Equalizer
+
+.
+
+You do something about it because you can / The Equalizer
 
 .
 
@@ -3185,6 +3189,10 @@ There's no cause worth fighting for. All we have is the game / In the Line of Fi
 .
 
 Thinking can get you into a lot of trouble, Errol. I shouldn't do so much of it / Snatch
+
+.
+
+Víme, které dovednosti jednou v pracovním životě budou potřebovat. Nikdo to asi nemůže říct lépe než my, protože my ty lidi najímáme a vidíme ty nedostatky, které mají třeba čerství absolventi / Silvie Zemanová personalistka 20. 10. 2017
 
 .
 
