@@ -3280,6 +3280,10 @@ If you have to win a campaign by dividing people, you won't be able to unite the
 
 .
 
+The presidency doesn't change who you are; it reveals who you are / Michelle Obama 13. 8. 2017
+
+.
+
 > *norský úzus*
 
 
