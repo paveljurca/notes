@@ -3260,6 +3260,10 @@ If you fail, you've made it that much easier for you to try something new / Zak 
 
 .
 
+If you want to build something that will withstand the test of time, and you want to be happy and fulfilled while doing it, don't work / Rami Aidy 19. 10. 2017
+
+.
+
 > *norský úzus*
 
 
