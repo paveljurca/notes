@@ -3248,6 +3248,14 @@ Everything's about working harder, getting more and fixing the economy / Natasha
 
 .
 
+One of the problems with being a pessimist is that you can never celebrate when you are proven right / Thomas Sowell
+
+.
+
+Admit it, at this very moment.. you're waiting for something that may never happen / Daily Psychology
+
+.
+
 > *norský úzus*
 
 
