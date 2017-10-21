@@ -3284,6 +3284,10 @@ The presidency doesn't change who you are; it reveals who you are / Michelle Oba
 
 .
 
+For even the very wise cannot see all ends / The Shadow of the Past J. R. R. Tolkien
+
+.
+
 > *norský úzus*
 
 
