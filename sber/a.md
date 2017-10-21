@@ -3288,6 +3288,10 @@ For even the very wise cannot see all ends / The Shadow of the Past J. R. R. Tol
 
 .
 
+You wanna kill somebody? You're gonna go to jail forever. If you kill this man, his problems will be over and yours will just be beginning. Don't be a fucking fool / Straight Outta Compton
+
+.
+
 > *norský úzus*
 
 
