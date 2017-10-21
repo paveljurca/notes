@@ -3272,6 +3272,14 @@ In love, women are professionals, men are amateurs / François Truffaut
 
 .
 
+I understood why the old joke about failures leading to promotions existed in the first place. They provided a chance to pause, learn something, and choose a new and better direction / Melinda Gates 7. 10. 2017
+
+.
+
+If you have to win a campaign by dividing people, you won't be able to unite them later / Barack Obama 20. 10. 2017
+
+.
+
 > *norský úzus*
 
 
