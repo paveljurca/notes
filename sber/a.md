@@ -3256,6 +3256,10 @@ Admit it, at this very moment.. you're waiting for something that may never happ
 
 .
 
+If you fail, you've made it that much easier for you to try something new / Zak Slayback 25. 9. 2017
+
+.
+
 > *norský úzus*
 
 
