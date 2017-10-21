@@ -3292,6 +3292,10 @@ You wanna kill somebody? You're gonna go to jail forever. If you kill this man, 
 
 .
 
+You can't put a price on peace of mind; I'm out / Straight Outta Compton
+
+.
+
 > *norský úzus*
 
 
