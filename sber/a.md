@@ -3264,6 +3264,14 @@ If you want to build something that will withstand the test of time, and you wan
 
 .
 
+I have always preferred the reflection of the life to life itself / François Truffaut
+
+.
+
+In love, women are professionals, men are amateurs / François Truffaut
+
+.
+
 > *norský úzus*
 
 
