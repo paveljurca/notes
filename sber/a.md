@@ -3244,6 +3244,10 @@ Ještě před dvaceti lety ukazovali v televizi lidi, kteří prošli nějakým 
 
 .
 
+Everything's about working harder, getting more and fixing the economy / Natasha Devon 16. 3. 2017
+
+.
+
 > *norský úzus*
 
 
