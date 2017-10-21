@@ -3208,6 +3208,14 @@ Too much ego, too much excess, too many expectations; It tends to ruin things / 
 
 .
 
+This is the problem. This is what's wrong with America. It's gotten so big, you just can't find your way. The grocery store on the corner is now a supermarket. The candy store is a McDonald's. And this place, a super-fucking discount store. Where's the pride of ownership, huh? Where's the personal service? You see what I mean? Shit. I mean, what right do they have, of cutting out the suppliers, pushing out all the middlemen, buying direct from the manufacturer? Sony this, Toshiba that. All them Chinks putting Americans out of work. That's the way it is now. You can't find the heart of anything to stick the knife. There's no one in charge / American Gangster
+
+.
+
+Bylo dosaženo pořádku. Za cenu zmrtvění ducha, otupení srdce a zpustnutí života / Václav Havel 1975
+
+.
+
 > *norský úzus*
 
 
