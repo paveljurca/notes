@@ -3240,6 +3240,10 @@ Většina politiků a expertů teď neví, o co vlastně jde. Ekonomické modely
 
 .
 
+Ještě před dvaceti lety ukazovali v televizi lidi, kteří prošli nějakým sítem, nějakou zátěží a předvedli nějaký výkon [..] Pak ale nastala epocha reality show / Jiří X. Doležal 11. 5. 2017
+
+.
+
 > *norský úzus*
 
 
