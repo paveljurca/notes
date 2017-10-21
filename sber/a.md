@@ -3216,6 +3216,30 @@ Bylo dosaženo pořádku. Za cenu zmrtvění ducha, otupení srdce a zpustnutí 
 
 .
 
+Chci víc pracovat pro svou komunitu. Všimla jsem si, že tady lidé tvrdě pracují. Líbí se mi to. A také pořád spěchají, strašně rychle chodí po ulicích / Naw Thaw Thi Htoo 4. 11. 2016
+
+.
+
+Jsme zapšklý národ, který si myslí, že je špatně placený. Na to, co umíme, jsme ale placeni až moc dobře / Martin Rajniš 4. 11. 2016
+
+.
+
+Vám v 21. století připadá normální, že si dáte kávu a obchodník vám musí dát dva lístky z pokladny? Tristní. Hloupé, staromódní. Zbytečné / Ondřej Tomek 30. 11. 2016
+
+.
+
+Každý skandál i nečekaná událost může mít zásadní emocionální dopad na nerozhodné voliče / Alexander Tomský 7. 4. 2016
+
+.
+
+Prostě počítám s určitým velmi omezeným časem, ale nemohu říci, že bych se strachovala, že bych se bála smrti / Bohumila Grögerová Za slovem
+
+.
+
+Většina politiků a expertů teď neví, o co vlastně jde. Ekonomické modely nevycházejí, nejsme schopni se dívat na globalizovaný svět, zajímají nás jen národní zájmy, každodenní problémy. Všechno však spočívá v tom, jak moc si stát pustíme k tělu, navykneme si na sociální model a nakolik v důsledku toho upadne podnikatelský duch / Aleš Michl 13. 12. 2016
+
+.
+
 > *norský úzus*
 
 
