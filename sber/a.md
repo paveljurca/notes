@@ -3304,6 +3304,10 @@ If you want guarantees, buy a toaster / Clint Eastwood The Rookie
 
 .
 
+A good many dramatic situations begin with screaming / Jane Fonda
+
+.
+
 > *norský úzus*
 
 
