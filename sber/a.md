@@ -3300,6 +3300,10 @@ Jde o to, co člověk může udělat, když nemůže udělat nic / Jan Werich
 
 .
 
+If you want guarantees, buy a toaster / Clint Eastwood The Rookie
+
+.
+
 > *norský úzus*
 
 
