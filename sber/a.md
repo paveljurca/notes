@@ -3296,6 +3296,10 @@ You can't put a price on peace of mind / Straight Outta Compton
 
 .
 
+Jde o to, co člověk může udělat, když nemůže udělat nic / Jan Werich
+
+.
+
 > *norský úzus*
 
 
