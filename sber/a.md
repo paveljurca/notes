@@ -3308,6 +3308,10 @@ A good many dramatic situations begin with screaming / Jane Fonda
 
 .
 
+I don't deserve this.. to die like this. I was building a house. — Deserve's got nothing to do with it / Unforgiven
+
+.
+
 > *norský úzus*
 
 
