@@ -3348,6 +3348,10 @@ Know how much it is to garage a car here? If we garage it, you can't go to colle
 
 .
 
+I asked if it was based on luck, and you said it was based on hope. You hoped you got a good card. And that's what we said all summer, remember? "It's based on hope." / The Meyerowitz Stories
+
+.
+
 Úvodních 14 paragrafů Nového občanského zákoníku (NOZ) je mnohem důležitějších než celých zbylých 3050 / Karel Eliáš 2012
 
 .
