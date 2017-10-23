@@ -3312,6 +3312,38 @@ I don't deserve this.. to die like this. I was building a house. — Deserve's g
 
 .
 
+Ve společnosti je třetina lidí, kteří jsou prostě pitomí / Slavomil Hubálek 20. 11. 2009
+
+.
+
+Skutečně existuje kategorie lidí, kteří k životu svobodu moc nepotřebují. Výzkumy ukazují, že je to kolem pětiny lidí / Slavomil Hubálek 20. 11. 2009
+
+.
+
+Buďme Češi, ale nemusí o tom nikdo vědět / nadporučík Lukáš Švejk
+
+.
+
+Nobody likes you. Everybody hates you. You're gonna lose. Smile, you fuck / The Last Boy Scout
+
+.
+
+Satrapové satelitního státu, říkám tomu kolaborantská moc, byli úplně na všech úrovních — od vysoce postavených úředníků až po domovní důvěrnici. Miliony lidí se do toho dají započítat. Nemyslím si, že z toho mají podobní lidé trauma / Slavomil Hubálek 20. 11. 2009
+
+.
+
+I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me / Ralph Waldo Emerson
+
+.
+
+Dneska nikdo nikoho nepotřebuje / Hodný chlapec
+
+.
+
+Jak sis mohla vzít takovýhleho sráče? / Hodný chlapec
+
+.
+
 > *norský úzus*
 
 
