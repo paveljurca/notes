@@ -3344,6 +3344,30 @@ Jak sis mohla vzít takovýhleho sráče? / Hodný chlapec
 
 .
 
+Know how much it is to garage a car here? If we garage it, you can't go to college / The Meyerowitz Stories
+
+.
+
+Úvodních 14 paragrafů Nového občanského zákoníku (NOZ) je mnohem důležitějších než celých zbylých 3050 / Karel Eliáš 2012
+
+.
+
+Dítě je povinno dbát svých rodičů / § 857 Nový občanský zákoník č. 89/2012 Sb.
+
+.
+
+Cti otce svého a matku svou, abys dlouho živ byl a dobře se Ti vedlo na zemi / Čtvrté přikázání
+
+.
+
+Závist je dnes pro některé společenský program, ne zakázaná nectnost / Marek Benda 7. 4. 2017
+
+.
+
+V určitém věku dětí nefunguje a ani nemůže fungovat k výchově nic jiného než pohlavek nebo plácnutí přes zadek / Marek Benda 7. 4. 2017
+
+.
+
 > *norský úzus*
 
 
