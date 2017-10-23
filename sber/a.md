@@ -3352,6 +3352,10 @@ I asked if it was based on luck, and you said it was based on hope. You hoped yo
 
 .
 
+You're putting our dad in a coma and then leaving us? / The Meyerowitz Stories
+
+.
+
 Úvodních 14 paragrafů Nového občanského zákoníku (NOZ) je mnohem důležitějších než celých zbylých 3050 / Karel Eliáš 2012
 
 .
