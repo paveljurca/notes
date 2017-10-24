@@ -3556,6 +3556,10 @@ Our lives begin to end the day we become silent about things that matter / Marti
 
 .
 
+Nemám žádné sny / Marta Semelová 24. 10. 2017
+
+.
+
 > *norský úzus*
 
 
