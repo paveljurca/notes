@@ -1327,7 +1327,7 @@ Svět je plný nás běžných smrtelníků, kteří chodí do práce, mají zam
 
 .
 
-Kdo chce Vinnetoua bít, tomahawk si najde / indiánské přísloví
+Kdo chce Vinnetoua bít, tomahawk si vždycky najde / indiánské přísloví
 
 .
 
@@ -1555,7 +1555,7 @@ The answer to attacks on journalism is always more journalism / Josh Marshall
 
 .
 
-Systematická práce před čekáním na invenci / Igor Stravinskij
+Upřednostňuji systematickou práci před čekáním na invenci / Igor Stravinskij
 
 .
 
@@ -3373,6 +3373,186 @@ Závist je dnes pro některé společenský program, ne zakázaná nectnost / Ma
 .
 
 V určitém věku dětí nefunguje a ani nemůže fungovat k výchově nic jiného než pohlavek nebo plácnutí přes zadek / Marek Benda 7. 4. 2017
+
+.
+
+When I was in college, I wanted to be involved in anything that would change the world / Reinvent Yourself
+
+.
+
+In programming as in the rest of life, attitude trumps intelligence. I had to learn that the hard way / Jonathan Edwards 27. 5. 2010
+
+.
+
+Chtěl jsem jít na filozofii. Dneska jsem rád, že jsem na ní nešel, protože si myslím, že filozofové to určitě nevytrhnou / Marek Vašut 22. 3. 2017
+
+.
+
+How disinformation works isn't by making you believe lies. All they have to do is confuse you enough, so you start to doubt facts / Iyad El-Baghdadi 6. 4. 2017
+
+.
+
+Dobrá kočka, která nemlsá / Václav Hollar
+
+.
+
+Zprvu domnělá jednoduchost textu ústí posléze v očistnou katarzi, či naopak definitivní propad jedince / Drahomíra Pithartová Malá cvičení v bezohlednosti
+
+.
+
+Free country? Name one thing you can do that isn't taxed, regulated or illegal / unknown
+
+.
+
+Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders / Tom Toro 1. 6. 2017
+
+.
+
+How many days.. you gonna miss me.. How many days.. I'm gonna say goodbye / John Fahey You Gonna Miss Me
+
+.
+
+Erasmovo myšlenkové pojetí je vedeno touhou po harmonickém sepětí protikladů v duchu humanity. Nizozemský humanista proto odmítá jakýkoli fanatismus a násilné řešení problémů. Fanatické násilí je zcela v rozporu s morálními principy / Stefan Zweig Triumf a tragika Erasma Rotterdamského
+
+.
+
+Roku 1945 se režisér Filipenský pokusil obnovit divadelní činnost Sázavanu-Havlíčka. A já se tehdy poprvé setkal s tím, jak lze postupnými zákazy a omezováním zničit aktivitu člověka / František Mokrý jubilující
+
+.
+
+What really needs to be done is teaching men not to rape. Go to the source and start there / Kurt Cobain
+
+.
+
+I still get letters in a mail.. mostly from crack-up men in tiny rooms with factory jobs or no jobs.. or living with whores or no women at all.. no hope, just booze and madness / Charles Bukowski
+
+.
+
+Ateismus je život bez boha — a to celé před bohem / Ladislav Hejdánek
+
+.
+
+Už jenom nějaký Bůh by nás mohl zachránit / Zdeněk Pinc 1. 6. 2017
+
+.
+
+Copak jste proved — jestli se smím zeptat?.. Zabil jsem manželku.. Z jakýho důvodu — jestli to není tajemství? V hádce? Ze žárlivosti? Tak teda proč?.. Srala mě / Postel
+
+.
+
+Když se stane něco špatnýho, pijete, abyste na to zapomněli; když se přihodí něco dobrýho, pijete, abyste to oslavili; a když se nestane nic, pijete, aby se něco stalo / Charles Bukowski Ženský
+
+.
+
+The future promise of any nation can be directly measured by the present prospects of its youth / John F. Kennedy
+
+.
+
+Your dreams today can become your passions tomorrow. Don't be afraid to make mistakes, because that's the beauty of being young. You can experiment, try things out, and discover what you can be. The future often looks daunting, but go forth and create your own / Lee Hsien Loong 3. 7. 2016
+
+.
+
+Může se udělat chyba, ale nemá se rezignovat / Všichni musí být v pyžamu
+
+.
+
+Potenciálně dobrý člověk se může stát špatným kvůli nedostatku lásky v naší společnosti / Seul contre tous 
+
+.
+
+Máme se tak špatně, že lidé pracují vlastně neustále, jen aby přežili / Matěj Stropnický 10. 5. 2016
+
+.
+
+Prezident je ve skutečnosti jenom figurka. Proto vždycky vybírají takový kontroverzní magory — provokativní a zároveň fascinující postava s co největší schopností pobuřovat. Jeho úkolem totiž není moc vykonávat, ale odvracet od ní pozornost / Douglas Adams Stopařův průvodce po galaxii
+
+.
+
+Když přišli nacisté pro komunisty, mlčel jsem – nebyl jsem přece komunista. Když zavírali sociální demokraty, mlčel jsem – nebyl jsem přece sociální demokrat. Když přišli pro odboráře, mlčel jsem – nebyl jsem přece odborář. Když přišli pro mě, nebyl už nikdo, kdo by se mohl ozvat / Martin Niemöller
+
+.
+
+Zahrnul jsem vás pohostinností a laskavostí, a vy mi teď oplácíte surovostí a sprostotou. Jo, a co to žrádlo, cos nám přines! Tomu říkáš žrádlo? Co na něm bylo špatného? Bylo to BUZERANTSKÝ ŽRÁDLO! Já vám nerozumím / Charles Bukowski The Most Beautiful Woman In Town
+
+.
+
+Kolik bude ještě třeba obětí? Kolik bude ještě Palachů? Kdy se už začne střílet do dětí? Kdy už vzplane vzpoura otroků? Škola, armáda, zaměstnání Chtějí z nás mít poslušné roboty Rodina, práce, uznání Mrdej ty falešný hodnoty / Pavel Pojar Pravda je jenom jedna
+
+.
+
+If Internet Explorer is brave enough to ask to be your default browser, you're brave enough to ask that girl out / Abraham Lincoln 1863
+
+.
+
+If someone doesn't value logic, what logical argument could you provide to show the importance of logic? / Sam Harris
+
+.
+
+Připadal si strašně směšný, o to směšnější, že směšný skutečně byl / Vilhelm Moberg Usedlíci
+
+.
+
+Ale když válka konečně přišla, nemusí se už dál zneklidňovat, že válka přijde / Vilhelm Moberg Poslední dopis do Švédska
+
+.
+
+Ti, kdož po dvaceti, třiceti, čtyřiceti letech nezmění své názory, třebaže všecko kolem se změnilo, jsou snad šťastní lidé, ale nezávidím jim a nechtěl bych s nimi měnit / St. K. Neumann Vzpomínky
+
+.
+
+Nedovedl lhát a podvádět, neměl prostě ani trochu obchodnického nadání / Vilhelm Moberg Usedlíci
+
+.
+
+It took me a long time to realize that when the odds of getting into something were described as e.g. 1 in 10, that didn't mean the odds for any given applicant were 10%, but rather (to the extent the people deciding were good judges) that for 10% of applicants the chance was nearly 100%, and for the other 90% nearly zero / unknown
+
+.
+
+Na internetu si snadno uděláte přátele a snadno se jich zbavíte / Zygmunt Bauman
+
+.
+
+I could be so happy if I just quit being sad / Be so happy Heartless Bastards
+
+.
+
+Obchodní domy mě vyčerpávají a ničí. Nic v nich není. Tuny a tuny sraček. Nechtěl bych je ani zadarmo / Charles Bukowski Kapitán odešel na oběd a námořníci převzali velení
+
+.
+
+Přece to málo co jsi dostala neuložíš do skříně jenom proto abys to měla / Milan Šťastný Víra
+
+.
+
+Now son, do you know what you did wrong? Yes sir, I shared something on Facebook without checking facts & encouraged bullshit to propagate, leading to the dumbing-down of humanity / Dangerous Minds
+
+.
+
+S pomocí knih se mnozí stávají učenými i mimo školu, bez knih pak nikdo nebývá učený ani ve škole / J. A. Komenský Jak dovedně užívat knih
+
+.
+
+Our lives begin to end the day we become silent about things that matter / Martin Luther King, Jr.
+
+.
+
+I nové generace by mohly své hrdiny najít [..] odvaha a vlastenectví se přece nepoměřují jen smrtí. Stačí nekrást, nelhat, jít k volbam / Agnieszka Holland 2013
+
+.
+
+What do you do with a B.A. in English? What is my life going to be? Four years of college, and plenty of knowledge, have earned me this useless degree / Avenue Q
+
+.
+
+Promise less, do more / unknown
+
+.
+
+A bank is a place that will lend you money if you can prove that you don't need it / Bob Hope
+
+.
+
+Our lives begin to end the day we become silent about things that matter / Martin Luther King, Jr.
 
 .
 
