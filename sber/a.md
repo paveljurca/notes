@@ -3560,6 +3560,10 @@ Nemám žádné sny / Marta Semelová 24. 10. 2017
 
 .
 
+I have a competition in me. I want no one else to succeed. I hate most people. There are times when I look at people and I see nothing worth liking. I wanna earn enough money I can get away from everyone / There Will Be Blood
+
+.
+
 > *norský úzus*
 
 
