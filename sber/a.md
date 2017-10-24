@@ -3560,7 +3560,23 @@ Nemám žádné sny / Marta Semelová 24. 10. 2017
 
 .
 
-I have a competition in me. I want no one else to succeed. I hate most people. There are times when I look at people and I see nothing worth liking. I wanna earn enough money I can get away from everyone / There Will Be Blood
+I have a competition in me. I want no one else to succeed. I hate most people. There are times when I look at people and I see nothing worth liking. I wanna earn enough money I can get away from everyone. I see the worst in people / There Will Be Blood
+
+.
+
+The abstraction, for me, is this idea of getting rid of everything that's not essential to making a point / Christoph Niemann Abstract: The Art of Design
+
+.
+
+Eventually, I realized that it's not about something super simple like a black square or, like, one line. But each idea requires a very specific amount of information. Sometimes it's a lot: a lot of details, a lot of realism. Sometimes it's really just this one line. The one pixel. But each idea has one moment on that scale / Christoph Niemann Abstract: The Art of Design
+
+.
+
+And I also knew I couldn't plan. I couldn't have one idea that just solves the entire thing. I had to start somewhere and then say, "Okay, is this strong enough or flexible enough to just go to the next step?" / Christoph Niemann Abstract: The Art of Design
+
+.
+
+Inspiration is for amateurs. Us professionals, we just go to work in the morning / Chuck Close
 
 .
 
