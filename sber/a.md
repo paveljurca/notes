@@ -3580,6 +3580,18 @@ Inspiration is for amateurs. Us professionals, we just go to work in the morning
 
 .
 
+Look, people aren't gonna always be magical right away. Maybe they'll become magical. Or they'll become garbage / Hot ticket Master of None
+
+.
+
+Když chceš vyhrát, stejně musíš porazit všechny / Petra Kvitová 25. 10. 2017
+
+.
+
+I and the public know What all schoolchildren learn, Those to whom evil is done Do evil in return / W. H. Auden September 1 1939
+
+.
+
 > *norský úzus*
 
 
