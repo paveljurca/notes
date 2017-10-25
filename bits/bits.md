@@ -305,6 +305,13 @@ So you did a clean install instead of an [upgrade](http://windows.microsoft.com/
 bits #3
 =======
 
+https://blogs.technet.microsoft.com/yongrhee/2009/09/11/lpmuihow-to-add-ime-keyboards-using-the-unattend-xml/
+
+https://support.microsoft.com/en-us/help/2764405/how-to-automate-regional-and-language-settings-in-windows-vista--windo
+
+http://rzander.azurewebsites.net/how-to-change-the-welcome-screen-language-in-win10/
+
+
 ## Windows: add keyboard layout on the fly
 
 __First__ thought was to use [dism.exe](https://technet.microsoft.com/en-us/library/dd744360%28v=ws.10%29.aspx)
