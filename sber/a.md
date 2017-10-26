@@ -3592,6 +3592,14 @@ I and the public know What all schoolchildren learn, Those to whom evil is done 
 
 .
 
+Never deprive someone of hope; it might be all they have / H. Jackson Brown, Jr. Life's Little Instruction Book
+
+.
+
+Believe in miracles but don't depend on them / H. Jackson Brown, Jr. Life's Little Instruction Book
+
+.
+
 > *norský úzus*
 
 
