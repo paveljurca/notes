@@ -3600,6 +3600,10 @@ Believe in miracles but don't depend on them / H. Jackson Brown, Jr. Life's Litt
 
 .
 
+The real crisis of capitalism is that product development lags so far behind the best insights of advertising / How to Reform Capitalism
+
+.
+
 > *norský úzus*
 
 
