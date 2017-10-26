@@ -3608,6 +3608,18 @@ Tool use, a socially learned behaviour, has always been viewed as this positive 
 
 .
 
+Diváci chtějí, aby nové divy neustále přebíjely nové divy. Obvykle ani nevíme, odkud příští úžasnost vůbec vezmeme. Zásoba prapodivných nápadů není nekonečná. Vývoj nových divů není totéž co výroba konzerv / Donald Barthelme
+
+.
+
+Máme dojem, že lidé se dnes ukrývají sami v sobě — jsou odcizení, zoufalí, jejich život doprovázejí děs, beznaděj a nedostatek víry. Člověk je sám v anonymní a fádní krajině, třese se strachy, je z toho celý nemocný a pak umře / Zlatý déšť Donald Barthelme
+
+.
+
+That's his signature. Anonymity / Body of Lies
+
+.
+
 > *norský úzus*
 
 
