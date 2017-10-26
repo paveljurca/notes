@@ -3604,6 +3604,10 @@ The real crisis of capitalism is that product development lags so far behind the
 
 .
 
+Tool use, a socially learned behaviour, has always been viewed as this positive thing that opens up resources. But by over-harvesting we're putting our technology knowledge at risk / Lydia Luncz 19. 9. 2017
+
+.
+
 > *norský úzus*
 
 
