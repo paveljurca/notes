@@ -3624,6 +3624,14 @@ Watch and learn / Body of Lies
 
 .
 
+Never have kids / Body of Lies
+
+.
+
+A mother is worth more than anything they have told you / Body of Lies
+
+.
+
 Nevědí, co činí, přesto to činí / Karel Marx
 
 .
