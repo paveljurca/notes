@@ -3632,6 +3632,7 @@ Vědí velice dobře, co činí, přesto to činí / Peter Sloterdijk
 
 
 * __elsewhere__
+* https://tribun.red/category/citaty/
 * [MathPages Quotations](http://www.mathpages.com/home/quotes.htm)
 * [Familiar and Unfamiliar Quotations](http://norvig.com/quotations.html)
 * [Computer Quotes](http://neil.franklin.ch/Jokes_and_Fun/Computer_Quotes)
