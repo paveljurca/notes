@@ -3620,6 +3620,14 @@ That's his signature. Anonymity / Body of Lies
 
 .
 
+Nevědí, co činí, přesto to činí / Karel Marx
+
+.
+
+Vědí velice dobře, co činí, přesto to činí / Peter Sloterdijk
+
+.
+
 > *norský úzus*
 
 
