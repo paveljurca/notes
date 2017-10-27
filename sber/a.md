@@ -3576,6 +3576,18 @@ And I also knew I couldn't plan. I couldn't have one idea that just solves the e
 
 .
 
+We spend 87% of our lives inside buildings. How they are designed really affects how we feel, how we behave / Ilse Crawford Abstract: The Art of Design
+
+.
+
+Those great long corridors reduced people to patients, waiting for the doctor in the white coat to march up and down. They were really inhuman. It was a real revelation that human values are non-negotiable / Ilse Crawford Abstract: The Art of Design
+
+.
+
+We've got two eyes, two ears and one mouth and we should use them in that proportion / Ilse Crawford Abstract: The Art of Design
+
+.
+
 Inspiration is for amateurs. Us professionals, we just go to work in the morning / Chuck Close
 
 .
