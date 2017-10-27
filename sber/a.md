@@ -3640,6 +3640,18 @@ Vědí velice dobře, co činí, přesto to činí / Peter Sloterdijk
 
 .
 
+Demokracie není něco přirozeného, musí se usilovně vypracovat / T. G. Masaryk
+
+.
+
+The greatest trick the Devil ever pulled was convincing the world he didn't exist / The Usual Suspects
+
+.
+
+The finest trick of the devil is to persuade you that he does not exist / Charles Baudelaire
+
+.
+
 > *norský úzus*
 
 
