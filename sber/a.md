@@ -3640,7 +3640,7 @@ Vědí velice dobře, co činí, přesto to činí / Peter Sloterdijk
 
 .
 
-Demokracie není něco přirozeného, musí se usilovně vypracovat / T. G. Masaryk
+Demokracie není něco přirozeného, musí se usilovně vypracovat / T. G. Masaryk 1912
 
 .
 
@@ -3649,6 +3649,14 @@ The greatest trick the Devil ever pulled was convincing the world he didn't exis
 .
 
 The finest trick of the devil is to persuade you that he does not exist / Charles Baudelaire
+
+.
+
+Kuba totiž není diktatura, ale totalitní režim. Diktatura je o něco lepší. Ponechává aspoň některá občanská práva / Ileana Álvarez 27. 10. 2017
+
+.
+
+Lidé zapomněli na problémy žen, protože si mysleli, že revoluce vyřeší automaticky všechno / Ileana Álvarez 27. 10. 2017
 
 .
 
