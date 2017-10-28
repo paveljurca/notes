@@ -3672,6 +3672,22 @@ Lidé zapomněli na problémy žen, protože si mysleli, že revoluce vyřeší 
 
 .
 
+Vy jste jako Švýcarsko: sytý a lhostejný / Unaveni sluncem
+
+.
+
+Život není krátký a zlý, ale dlouhý a krásný / Jan Saudek 26. 10. 2017
+
+.
+
+Ale bezvýznammní dělají, co mohou / Zlatý déšť Donald Barthelme
+
+.
+
+Fantasticky dlouhou dobu mi vždycky trvalo pochopit něco, co ostatní věděli prakticky okamžitě / Já a slečna Mandibula Donald Barthelme
+
+.
+
 > *norský úzus*
 
 
