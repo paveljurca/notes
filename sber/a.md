@@ -3688,6 +3688,10 @@ Fantasticky dlouhou dobu mi vždycky trvalo pochopit něco, co ostatní věděli
 
 .
 
+Neustále se vracím k problému své budoucnosti / Já a slečna Mandibula Donald Barthelme
+
+.
+
 > *norský úzus*
 
 
