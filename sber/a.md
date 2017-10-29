@@ -3692,6 +3692,10 @@ Neustále se vracím k problému své budoucnosti / Já a slečna Mandibula Dona
 
 .
 
+Jestliže vzory desetiletých dětí jsou youtubeři, kteří mají neskutečné množství zhlédnutí svých příspěvků jenom proto, že vyprávějí, jak se někde vykáleli, je to pro mě katastrofa. Ten největší možný úpadek. [..] Svět internetu mě děsí. Nabízí jen komunikaci bez kontaktu / Miroslav Etzler 27. 10. 2017
+
+.
+
 > *norský úzus*
 
 
