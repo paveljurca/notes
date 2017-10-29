@@ -1,23 +1,10 @@
 O samotě
 ========
 
-,
-
-Inside of me
-  it hurts
-
-In me
-  it hurts
-
-Ve mně
-  to bolí
-
-,
-
-pod krovy
-míjíme dny
-docela slabí
-co zůstali sami
+v malých postelích
+měníme sny
+v malých postelích
+když jsme zůstali sami
 
 ,
 
@@ -30,6 +17,8 @@ zas se hnout
 
 jsi kouskem času  
 do korun hvězd ho skrýt
+jsi
+
 
 ,
 
@@ -83,12 +72,6 @@ snad rozryta
 
 ,
 
-Ten prostor
-  je aspoň životem
-
-,
-
 Slova zadrhla
   a myšlenky divně zejí
 
-,
