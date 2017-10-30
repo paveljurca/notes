@@ -3696,6 +3696,10 @@ Jestliže vzory desetiletých dětí jsou youtubeři, kteří mají neskutečné
 
 .
 
+I told you, I'm never going back / Heat
+
+.
+
 > *norský úzus*
 
 
