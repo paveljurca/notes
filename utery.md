@@ -1,10 +1,10 @@
 O samotě
 ========
 
-v malých postelích
 měníme sny
 v malých postelích
 když jsme zůstali sami
+v malých postelích
 
 ,
 
@@ -19,31 +19,14 @@ jsi kouskem času
 do korun hvězd ho skrýt
 jsi
 
-
 ,
-
-
-se samotou
-a tmou
-jen sami
-se sebou
-
-,
-
-jsi sen
-co prošel tmou
-touha
-pod noční oblohou
-jen silhouetta
 
 jsi stesk křídel
+jsi bílou krou
 
-bílou krou
-zas oblakem
-samotou
 
-poslední loďkou
-na které mám plout
+jsi cizí silhouetta
+pod noční oblohou
 
 ,
 
