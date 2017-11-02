@@ -3700,6 +3700,10 @@ I told you, I'm never going back / Heat
 
 .
 
+Válka je přechodná. Kresby a čokoláda jsou věčné / Donald Barthelme Engineer-Private Paul Klee Misplaces An Aircraft Between Milbertshofen And Cambrai March 1916
+
+.
+
 > *norský úzus*
 
 
