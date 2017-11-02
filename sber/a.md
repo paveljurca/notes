@@ -3708,6 +3708,10 @@ Vítr v zádech mě předběh a srazil na zem / Řezník Nejsmutnější Člově
 
 .
 
+Who would wanna be stuck in a dream for ten years? Depends on the dream / Inception
+
+.
+
 > *norský úzus*
 
 
