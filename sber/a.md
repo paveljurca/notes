@@ -3704,6 +3704,10 @@ Válka je přechodná. Kresby a čokoláda jsou věčné / Donald Barthelme Engi
 
 .
 
+Vítr v zádech mě předběh a srazil na zem / Řezník Nejsmutnější Člověk ze Všech
+
+.
+
 > *norský úzus*
 
 
