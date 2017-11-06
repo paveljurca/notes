@@ -3712,6 +3712,10 @@ Who would wanna be stuck in a dream for ten years? Depends on the dream / Incept
 
 .
 
+Maturita mi najednou nepřišla důležitá. Že ji nebudu mít, mě netrápilo a dodnes netrápí. Bylo to tak zásadní rozhodnutí, že i když mě všichni blízcí přesvědčovali, že si školu musím dodělat, nezviklali mě. Zkušenost je nepřenositelná a já si potřebovala udělat svoji vlastní / Léna Brauner 6. 11. 2017
+
+.
+
 > *norský úzus*
 
 
