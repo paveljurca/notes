@@ -3716,6 +3716,14 @@ Maturita mi najednou nepřišla důležitá. Že ji nebudu mít, mě netrápilo 
 
 .
 
+Žiji přítomností a v té se s žádnými otazníky nesetkávám / Diana Kratochvílová 3. 11. 2017
+
+.
+
+A vítr zvedne se, hlavy nám zamotá, je konec všeho, lásky i života / Jiří Orten
+
+.
+
 > *norský úzus*
 
 
