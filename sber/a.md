@@ -3724,6 +3724,10 @@ A vítr zvedne se, hlavy nám zamotá, je konec všeho, lásky i života / Jiř�
 
 .
 
+Neptám se, co bychom měli dělat, ale proč neděláme to, o čem všichni víme, že bychom dělat měli / Stuart Firestein 2. 11. 2017
+
+.
+
 > *norský úzus*
 
 
