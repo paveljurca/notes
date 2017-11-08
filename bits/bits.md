@@ -1,17 +1,17 @@
 bits #0
 =======
 
-## In Raspbian and Ubuntu MATE use `ex -v` instead of `vim` so key strokes do not get misdetected (bug).
+## Tip: In Raspbian and Ubuntu MATE use `ex -v` instead of `vim` to prevent key strokes misdetection.
 
 
 ## Dropbox as a backup
 
 The service is free up to 2GB so given
 that my most important stuff is just
-text files, I'm more than backed.
+text files, I'm good.
 
 You update a file, it updates on Dropbox.
-You delete a file, it *stays* on Dropbox!
+You delete a file, it *stays* in Dropbox!
 
 First install [Dropbox](https://www.dropbox.com/install?os=lnx),
 second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/using-cron.html).
@@ -23,7 +23,7 @@ second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/us
     cp --archive --update /home/pavel/txt/ /home/pavel/Dropbox
     cp --archive --update /home/pavel/code/ /home/pavel/Dropbox
     Ctrl^D
-    % chown pavel:pavel bckup 
+    % chown pavel:pavel backup 
     % chmod +x backup
 
 ## Sleep mode from CLI
