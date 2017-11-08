@@ -3728,6 +3728,10 @@ Neptám se, co bychom měli dělat, ale proč neděláme to, o čem všichni ví
 
 .
 
+Be like a postage stamp — stick to one thing until you get there / Josh Billings
+
+.
+
 > *norský úzus*
 
 
