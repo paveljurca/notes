@@ -1,6 +1,9 @@
 bits #0
 =======
 
+## In Raspbian and Ubuntu MATE use `ex -v` instead of `vim` so key strokes do not get misdetected (bug).
+
+
 ## Dropbox as a backup
 
 The service is free up to 2GB so given
