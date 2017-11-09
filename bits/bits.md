@@ -1,8 +1,24 @@
 bits #0
 =======
 
+
 ## Tip: In Raspbian and Ubuntu MATE use `ex -v` instead of `vim` to prevent key strokes misdetection.
 
+## Ubuntu Mate not showing any icons on a system bar
+
+    sudo apt-get install --reinstall xserver-xorg
+    sudo apt-get install --reinstall xserver-xorg-core
+    sudo dpkg-reconfigure lightdm
+    rm ~/.config/monitors.xml
+
+Append the line `user-session=/usr/bin/startx` to **/etc/lightdm/lightdm.conf** file,
+or use one of the names found in `/usr/share/xsessions/*.desktop`.
+
+Read on
+  * [Usage of startx](https://www.hiroom2.com/2016/09/01/ubuntu-16-04-usage-of-startx/)
+  * [Log in to Linux desktop without a display manager](https://www.techtimejourney.net/log-in-to-linux-desktop-without-a-display-manager-xinitrc-and-startx-in-action/)
+  * [What desktop environment does startx run](https://unix.stackexchange.com/questions/243195/what-desktop-environment-does-startx-run-and-how-can-i-change-it)
+  * [Why does LightDM start X server](https://www.reddit.com/r/linux/comments/6pi5yp/why_does_lightdm_start_x_server_when_startx_isnt/)
 
 ## Dropbox as a backup
 
@@ -30,9 +46,9 @@ second make a [Cron file](http://tldp.org/LDP/lame/LAME/linux-admin-made-easy/us
 
 [pm-utils](http://www.google.com/search?q=pm+utils) handle that
     
-    % echo "alias asleep='sudo /usr/sbin/pm-suspend'" >> ~/.bashrc
+    % echo "alias gosleep='sudo /usr/sbin/pm-suspend'" >> ~/.bashrc
     % source ~/.bashrc
-    % asleep
+    % gosleep
 
 You might need to adjust the [sudoers file](http://help.ubuntu.com/community/Sudoers#Shutting_Down_From_The_Console_Without_A_Password)
 to have it *password-less*:
