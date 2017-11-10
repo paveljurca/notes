@@ -3732,6 +3732,10 @@ Be like a postage stamp — stick to one thing until you get there / Jos
 
 .
 
+Holkám většinou stačí, když vidí spolužačky s nadváhou a nechtějí být jako ony / Hana Kynychová 10. 11. 2017
+
+.
+
 > *norský úzus*
 
 
