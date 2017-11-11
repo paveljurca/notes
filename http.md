@@ -7,7 +7,7 @@
 - [jobs](#jobs)
 - [data](#data)
 - [history](#history)
-- [lost+and+found](#lost-and-found)
+- [lost+and+found](#lostandfound)
 - [archive](#archive)
 
 
@@ -947,7 +947,7 @@ __addendum__
 
 ## archive
 
-__mark__
+__mark 2016/11/11__
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
 * [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)+[Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
 * [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)+[Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
@@ -959,7 +959,7 @@ __mark__
 * [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
 * [NOZ](http://obcanskyzakonik.justice.cz/)
 
-__mark__
+__mark 2016/11/11__
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
@@ -967,7 +967,7 @@ __mark__
 * [Česky a hezky](http://www.rozhlas.cz/cesky/portal/)
 
 
-__mark__
+__mark 2016/11/11__
 * http://startpage.com
 * http://curiyo.com/en/topic/
 * http://velkyctvrtek.cz
@@ -1045,11 +1045,11 @@ __mark__
 * http://startupweekend.org
 * http://startupyard.cz
 
-__mark__
+__mark 2016/11/11__
 * http://www.faqs.org/rfcs/np.html
 * https://archive.org/details/computersandtechvideos
 
-__mark__
+__mark 2016/11/11__
 * http://123people.com
 * http://www.eclub.cvutmedialab.cz
 * http://how-to-web.net
@@ -1061,11 +1061,11 @@ __mark__
 * http://imaginecup.com
 * http://fsf.org
 
-__mark__
+__mark 2016/11/11__
 * http://google.com/intl/en/about/products
 * http://regularnivyrazy.info
 
-__mark__
+__mark 2016/11/11__
 * http://wug.cz
 * http://msdn.microsoft.com/cs-cz/
 * http://thefwa.com
@@ -1385,7 +1385,7 @@ __mark__
 * http://demagog.cz
 * http://jaknaletenky.cz
 
-__mark__
+__mark 2016/11/11__
 * http://picmonkey.com
 * http://chatroulette.com
 * http://finance.google.com
@@ -1441,7 +1441,7 @@ __mark__
 * http://stritar.net
 * http://prostor.erasvet.cz
 
-__mark__
+__mark 2016/11/11__
 * http://eduforum.cz
 * http://udacity.com
 * http://khanacademy.org
@@ -1453,7 +1453,7 @@ __mark__
 * http://piazza.com
 * http://scene360.com
 
-__mark__
+__mark 2016/11/11__
 * http://pismak.cz
 * http://onekingslane.com
 * http://unconventionalguides.com
@@ -1515,7 +1515,7 @@ __mark__
 * http://napadroku.cz
 * http://angel.co
 
-__mark__
+__mark 2016/11/11__
 * http://plus.google.com/+GoogleforEntrepreneurs
 * http://good.is/explore
 * http://processing.org
@@ -1566,7 +1566,7 @@ __mark__
 * http://youngbooks.cz
 * http://libreplanet.org
 
-__mark__
+__mark 2016/11/11__
 * http://uis-info.com
 * http://studentshow.com
 * http://feedly.com
@@ -1628,7 +1628,7 @@ __mark__
 * http://bentobox.io
 * http://jux.com
 
-__mark__
+__mark 2016/11/11__
 * http://freelancing.stackexchange.com/
 * http://duolingo.com
 * http://forvo.com/listen-learn/
@@ -1697,7 +1697,7 @@ __mark__
 * http://www.click2stream.com/
 * http://www.mapovani.cz/
 
-__mark__
+__mark 2016/11/11__
 * http://muj-antikvariat.cz/    
 * http://hackerone.com/
 * http://supergenpass.com/
