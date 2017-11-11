@@ -1,60 +1,46 @@
 O samotě
 ========
 
-měníme sny
-v malých postelích
-když jsme zůstali sami
-v malých postelích
 
-,
+#####
 
-chci do polí
-zas vyběhnout  
-tak letět s ptáky  
-zas se hnout
+V metru
 
-,
-
-jsi kouskem času  
-do korun hvězd ho skrýt
-jsi
-
-,
-
-jsi stesk křídel
-jsi bílou krou
+Kam ty kurvy všechny jedou?
 
 
-jsi cizí silhouetta
-pod noční oblohou
+####
 
-,
+Cigareta
+v lese.
+
+
+###
+
+Smrt pondělního rána/Losos čeká na brambory
 
 dívám se na svět
   a nic nechci
 
-,
+###
 
-balanc    do sevření
-vteřiny
-   zasnění
+Hubený holky za letních nocí kolem benzínek
 
-nic nezmění
+mají krátký sukně a myslí na dlouhej život před sebou.
 
-,
 
-jen rým   tři sloky
-zpatříš ji
-vytrhla    se ti z ruky
+
+## Dopisy Irmě
+
+Chtěl bych ti toho říkat víc.
 
 ,
 
-zem skonem  vzdor
-hlubší
-snad rozryta
+Listonoška
+jako tučná můra
+šlape tou zpropadenou nocí.
 
 ,
 
-Slova zadrhla
-  a myšlenky divně zejí
-
+Jsi kouskem času  
+Do korun hvězd chci tě skrýt

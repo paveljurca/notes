@@ -3736,6 +3736,10 @@ Holkám většinou stačí, když vidí spolužačky s nadváhou a nechtějí b�
 
 .
 
+Když jsem byl malý, máma mi říkala, abych se nedíval do slunce. Tak jsem to jednou v šesti letech zkusil / Pi
+
+.
+
 > *norský úzus*
 
 

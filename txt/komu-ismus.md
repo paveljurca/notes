@@ -2,6 +2,14 @@ Komu?ismus
 ==========
 
 
+######
+
+Říkají lid, ale myslí znova sami sebe.
+
+
+#######
+
+
 2. pohled:
 
 režisér Bořivoj Zeman http://www.ceskatelevize.cz/porady/10727398300-borivoj-zeman/

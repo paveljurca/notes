@@ -1,6 +1,9 @@
 Observanda
 ==========
 
+Kniha vybízí k poctivějšímu a dělá lidi, které potkáváme, znova bližšími.
+A v nejhorších chvílích přichází s východisky.
+
 
 [ DESIGN ]
 
