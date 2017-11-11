@@ -1,7 +1,3 @@
-http
-====
-
-If not on [twitter](https://twitter.com/paveljurca/following)..
 
 - [news](#news)
 - [blog](#blog)
@@ -10,16 +6,9 @@ If not on [twitter](https://twitter.com/paveljurca/following)..
 - [event](#event)
 - [jobs](#jobs)
 - [data](#data)
-- [20. století](#20-století)
-- [de iure](#de-iure)
-- [česky](#česky)
-- [TODO](#todo)
-
-don't watch, listen to  
-`alias ya='youtube-dl --extract-audio --audio-format mp3 '`
-
-follow the text  
-`www() {w3m "$1" -dump -cols 50|less}`
+- [history](#history)
+- [lost+and+found](#lost-and-found)
+- [archive](#archive)
 
 
 ***
@@ -918,7 +907,7 @@ __addendum__
 * [data.stackexchange.com](http://data.stackexchange.com/)
 * [Data.gov](http://www.data.gov/)
 
-## 20. století
+## history
 
 * [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
 * [exil a samizdat](http://www.scriptum.cz/)
@@ -951,13 +940,15 @@ __addendum__
 * [Knihovna Václava Havla](http://www.vaclavhavel-library.org/)
 * [The Vaclav Havel Library Foundation](http://www.vhlf.org/havel-archives/)
 
-## de iure
+## lost+and+found
+
+*
+
+## archive
 
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
-* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)
-* [Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
-* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)
-* [Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
+* [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)+[Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
+* [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)+[Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
 * [Právo EU](http://eur-lex.europa.eu/homepage.html?locale=cs)
 * [EU](http://portal.gov.cz/portal/obcan/odkazy/infoEU.html)
 * [ČR](http://portal.gov.cz/portal/obcan/odkazy/infoCR.html)
@@ -966,15 +957,11 @@ __addendum__
 * [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
 * [NOZ](http://obcanskyzakonik.justice.cz/)
 
-## česky
-
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
 * [Čeština 2.0](http://cestina20.cz/)
 * [Česky a hezky](http://www.rozhlas.cz/cesky/portal/)
-
-## TODO
 
     startpage.com 'private search engine
     curiyo.com/en/topic/ 'meta base search
@@ -1745,8 +1732,4 @@ __addendum__
     [Radiotéka](http://www.radioteka.cz/)
 
     http://nfa.cz/cz/fp/ 'Národní filmový archiv
-
-
-_processed_ with [Perl](https://www.perl.org/about.html)
-
 
