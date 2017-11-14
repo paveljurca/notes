@@ -1673,7 +1673,7 @@ __2014__
 * http://libreplanet.org (free software activists)
 
 __2014__
-* http://uis-info.com (tvůrce ISISu)
+* http://uis-info.com (SIS)
 * http://studentshow.com (creative work by students)
 * http://feedly.com (read your feeds)
 * http://mentoring.cvut.cz (mentoring at CTU)
@@ -1720,7 +1720,7 @@ __2014__
 * http://giveit100.com (practice something for 100 days)
 * http://scraperwiki.com (web scrapers)
 * http://ceskefonty.cz
-* http://site44.com (a dropbox folder as a static website)
+* http://site44.com (dropbox as a website)
 * http://pancake.io (a dropbox folder as a static website)
 * http://getkirby.com (a file-based CMS)
 * http://siteleaf.com (stylish CMS)
