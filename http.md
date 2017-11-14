@@ -6,8 +6,8 @@
 - [event](#event)
 - [jobs](#jobs)
 - [data](#data)
-- [history](#history)
-- [lost+and+found](#lostandfound)
+- [1947-1989](#1947-1989)
+- [@TODO](#todo)
 - [archive](#archive)
 
 
@@ -908,7 +908,7 @@ __addendum__
 * [data.stackexchange.com](http://data.stackexchange.com/)
 * [Data.gov](http://www.data.gov/)
 
-## history
+## 1947-1989
 
 * [Přítomnost](http://www.pritomnost.cz/archiv/cz/)
 * [exil a samizdat](http://www.scriptum.cz/)
@@ -941,13 +941,50 @@ __addendum__
 * [Knihovna Václava Havla](http://www.vaclavhavel-library.org/)
 * [The Vaclav Havel Library Foundation](http://www.vhlf.org/havel-archives/)
 
-## lost+and+found
+## TODO
 
 *
 
 ## archive
 
-__mark 2016/11/11__
+__2017__
+* http://muj-antikvariat.cz/ (antik)
+* http://hackerone.com/ (improving vulnerability research)
+* http://supergenpass.com/ (a better pass generator)
+* http://www.mailinator.com/ (any inbox anytime)
+* http://sockslist.net/ (SOCKS proxy)
+* http://check-host.net/ (IP info)
+* http://incredibox.com/ (Express your musicality!)
+* http://nanovo.cz/ (stary krasny nabytek)
+* http://gazette.io/ (rss as a weekly ebook)
+* http://www.discourse.org/ (a community discussion)
+* http://www.marmosetmusic.com/ (soundtrack)
+* http://www.gitbook.io/ (books in markdown)
+* http://represent.la/ (LA tech scene)
+* http://tindie.com (indie hardware)
+* http://www.englishgrammarsecrets.com/ (awesome!)
+* http://hshtags.com/
+* http://niice.co/
+* http://yr.no (weather)
+* http://wunderground.com/q/zmw:00000.44.11567 (Praha)
+* http://paper.li (fb/twitter as a newspaper)
+* http://javascriptweekly.com (js mailing list)
+* http://codecube.io/ (Perl in a browser)
+* http://iijo.org/ (Chinese flashcards)
+* http://mozillaopennews.org (developers for journalists)
+* http://openlibrary.org/
+* http://heylookabook.com/ (Make your book page)
+* https://sketch.io/sketchpad/
+* http://dublab.com/category/listen/archive/ (dublab.com)
+* http://22tracks.com (music discovery)
+* http://spotlst.com/ (playlists)
+* https://cmd.fm/ (music genres)
+* http://audiomicro.com (royalty free music and sound effects)
+* http://audiojungle.com (royalty free audio files)
+* http://www.jazzradio.com/ (JAZZRADIO.com)
+* http://nfa.cz/cz/fp/ (Národní filmový archiv)
+
+__2017__
 * [Ústava](http://www.psp.cz/docs/laws/constitution.html)
 * [Zákony](http://www.psp.cz/sqw/hp.sqw?k=698)+[Zákony](http://portal.gov.cz/app/zakony/dulezite.jsp?rpp=15#local-content)
 * [Sbírka](http://www.psp.cz/sqw/sbirka.sqw)+[Sbírka](http://aplikace.mvcr.cz/sbirka-zakonu/)
@@ -959,7 +996,7 @@ __mark 2016/11/11__
 * [Parlamentní knihovna](http://www.psp.cz/sqw/hp.sqw?k=2000)
 * [NOZ](http://obcanskyzakonik.justice.cz/)
 
-__mark 2016/11/11__
+__2016__
 * [Internetová jazyková příručka](http://prirucka.ujc.cas.cz/)
 * [Slovník spisovného jazyka českého](http://bara.ujc.cas.cz/ssjc/)
 * [nechybujte.cz](http://nechybujte.cz/)
@@ -967,770 +1004,732 @@ __mark 2016/11/11__
 * [Česky a hezky](http://www.rozhlas.cz/cesky/portal/)
 
 
-__mark 2016/11/11__
-* http://startpage.com
-* http://curiyo.com/en/topic/
-* http://velkyctvrtek.cz
-* http://syrah.co
-* http://fargo.io
-* http://alpha.app.net
-* http://postach.io
+__2016__
+* http://startpage.com (private search engine)
+* http://curiyo.com/en/topic/ (meta base search)
+* http://velkyctvrtek.cz (Velký knižní čtvrtek)
+* http://syrah.co (to write)
+* http://fargo.io (to think)
+* http://alpha.app.net (ad-free social network)
+* http://postach.io (Evernote as a blog)
 * http://hackathon.launch.co/projects
 * http://www.firmaroku.cz/
-* http://wylio.com
-* http://fit.cvut.cz/node/214
-* http://inovace.cz
-* http://balsamiq.com
-* http://jreichl.com
-* http://w3schools.com
-* http://qrcode.kaywa.com
-* http://phase2generator.com
-* http://techlib.cz
-* http://vbnet.cz
-* http://convertico.com
-* http://sites.google.com/a/gug.cz/www2
-* http://gug.tv
-* http://topsid.com
-* http://verejnydluh.cz
-* http://postbellum.cz
-* http://zdrojak.cz
-* http://podnikatel.cz/zivnostnici/
-* http://navolnenoze.cz
-* http://feedit.cz
-* http://bugemos.cz
-* http://kemel.cz
-* http://thedailywtf.com
-* http://90-9-1.cz
-* http://bbc.co.uk/czech/learningenglish
-* http://blender.org
-* http://eduin.cz/eduina/
-* http://downloader.zex.cz
-* http://thesixtyone.com
-* http://sutros.com
-* http://svetsoftware.cz
-* http://hotscripts.com
-* http://onthehub.com
-* http://valka.cz
-* http://micropreneur.com
-* http://entrepreneur.com
-* http://viamichelin.com
-* http://adwords.google.com/select/KeywordToolExternal
-* http://decide.com
-* http://vectormagic.com
-* http://mstv.com
-* http://directory.fsf.org
-* http://instapaper.com
-* http://cybersquatting.cz/seo-servisni-analyzator
-* http://tweetmeme.com
-* http://soc.cz
-* http://scio.cz/in/2vs/nsz
-* http://fileformat.info
-* http://uzivatelsketestovani.cz
-* http://smashingmagazines.com
-* http://dribbble.com
-* http://netmagazine.com
-* http://html5gallery.com
-* http://asp.net
-* http://students.autodesk.com/ama/orig/Curriculum/ADA2011/Start-Here.html
-* http://vimeo.com/cinema4dcz/videos/sort:oldest
-* http://cinema4d.cz/podpora/maxon/vyukove-materialy
-* http://esl-jazykovky.cz
-* http://businessinsider.com
-* http://blip.tv
-* http://iousathemovie.com
-* http://color-hex.com
-* http://klout.com
-* http://startupclub.cz/akce/
-* http://launchrock.com
-* http://startupweekend.org
-* http://startupyard.cz
+* http://wylio.com (free pictures)
+* http://fit.cvut.cz/node/214 (cvut startups advices)
+* http://inovace.cz (entrepreneurs inovations)
+* http://balsamiq.com (application mock-ups)
+* http://jreichl.com (everything about Math and Physic)
+* http://w3schools.com (tutorials about html, php or asp)
+* http://qrcode.kaywa.com (generates own QR codes)
+* http://phase2generator.com (write your own business model)
+* http://techlib.cz (NTK)
+* http://vbnet.cz (VisualBasic)
+* http://convertico.com (makes an icon from the picture)
+* http://sites.google.com/a/gug.cz/www2 (czech google user group)
+* http://gug.tv (google user tv)
+* http://topsid.com (graduation lines of czech school-leaving exam)
+* http://verejnydluh.cz (pointers of czech public debt)
+* http://postbellum.cz (involved in collecting stories of the czech 20th century)
+* http://zdrojak.cz (about website and apps creation )
+* http://podnikatel.cz/zivnostnici/ (databáze živnostníků)
+* http://navolnenoze.cz (portal of freelancers)
+* http://feedit.cz (IT press releases)
+* http://bugemos.cz (burianuv geneticky modifikovany osel)
+* http://kemel.cz (popular czech cartoonist)
+* http://thedailywtf.com (curious perversions in IT)
+* http://90-9-1.cz (web participation of users rule)
+* http://bbc.co.uk/czech/learningenglish (learning english with BBC)
+* http://blender.org (open source 3D creation suite)
+* http://eduin.cz/eduina/ (cena za inovace ve vzdělávání)
+* http://downloader.zex.cz (downloads video streams due to links)
+* http://thesixtyone.com (open musicians and their songs)
+* http://sutros.com (open musicians and their songs)
+* http://svetsoftware.cz (any proprietary software)
+* http://hotscripts.com (scripts and codes for anything)
+* http://onthehub.com (software discounts for students and educators)
+* http://valka.cz (military history)
+* http://micropreneur.com (the micropreneur academy)
+* http://entrepreneur.com (business and small business)
+* http://viamichelin.com (route planning)
+* http://adwords.google.com/select/KeywordToolExternal (google keyword tool)
+* http://decide.com (do not get burned)
+* http://vectormagic.com (easily convert bitmap images to clean vector art)
+* http://mstv.com (microsoft tv)
+* http://directory.fsf.org (free software to use) (free software foundation)
+* http://instapaper.com (a simple tool to save web pages for reading later)
+* http://cybersquatting.cz/seo-servisni-analyzator (seo service analyzer)
+* http://tweetmeme.com (hottest links on twitter)
+* http://soc.cz (high school professional activity)
+* http://scio.cz/in/2vs/nsz (national comparative exams by Scio)
+* http://fileformat.info (file format portal)
+* http://uzivatelsketestovani.cz (ux wiki)
+* http://smashingmagazines.com (info for web developers and designers)
+* http://dribbble.com (shots from creatives)
+* http://netmagazine.com (magazine for web designers and developers)
+* http://html5gallery.com (a showcase of html5 sites)
+* http://asp.net (about active server pages from Microsoft)
+* http://students.autodesk.com/ama/orig/Curriculum/ADA2011/Start-Here.html (autodesk animation academy)
+* http://vimeo.com/cinema4dcz/videos/sort:oldest (how-to videos for Cinema4D)
+* http://cinema4d.cz/podpora/maxon/vyukove-materialy (links to other Cinema4D materials)
+* http://esl-jazykovky.cz (language stays)
+* http://businessinsider.com (deep in business)
+* http://blip.tv (original web video series)
+* http://iousathemovie.com (the usa debt deep view)
+* http://color-hex.com (codes of colors)
+* http://klout.com (realise your influance on twitter)
+* http://startupclub.cz/akce/ (startups in brno)
+* http://launchrock.com (a viral launching soon page in minute)
+* http://startupweekend.org (launch a startup around the world)
+* http://startupyard.cz (czech accelerator)
 
-__mark 2016/11/11__
-* http://www.faqs.org/rfcs/np.html
+__2015__
+* http://www.faqs.org/rfcs/np.html (RFC)
 * https://archive.org/details/computersandtechvideos
 
-__mark 2016/11/11__
-* http://123people.com
-* http://www.eclub.cvutmedialab.cz
-* http://how-to-web.net
-* http://ideaswatch.com
-* http://raphaeljs.com
-* http://jdusvoucestou.cz
-* http://netstudent.cz
-* http://chromeexperiments.com
-* http://imaginecup.com
-* http://fsf.org
+__2015__
+* http://123people.com (real-time people searching on the web)
+* http://www.eclub.cvutmedialab.cz (enterpreneurs club of cvut)
+* http://how-to-web.net (web conference in Bucurest)
+* http://ideaswatch.com (startup ideas from the crowd)
+* http://raphaeljs.com (small JavaScript library)
+* http://jdusvoucestou.cz (own programm list of radio czech)
+* http://netstudent.cz (dotnet and microsoft technology for students)
+* http://chromeexperiments.com (chrome mainly html5 experiments)
+* http://imaginecup.com (microsoft)
+* http://fsf.org (free software foundation)
 
-__mark 2016/11/11__
-* http://google.com/intl/en/about/products
-* http://regularnivyrazy.info
+__2015__
+* http://google.com/intl/en/about/products (google products)
+* http://regularnivyrazy.info (about regular expressions)
 
-__mark 2016/11/11__
-* http://wug.cz
-* http://msdn.microsoft.com/cs-cz/
-* http://thefwa.com
-* http://pridej.cz
-* http://apimania.eu
-* http://recaptcha.net
-* http://jsfiddle.net
-* http://fiddler2.com
-* http://icecast.org
-* http://sizeeasy.com
-* http://zamzar.com
-* http://whatfontis.com
-* http://onlineocr.net
-* http://random.org
-* http://wordle.net
-* http://sendoid.com
-* http://isup.me
-* http://mindmeister.com
-* http://typekit.com
-* http://strukturalni-fondy.cz
-* http://devdays.stackoverflow.com
-* http://bbc.co.uk/radio4/features/in-our-time/
-* http://5by5.tv
-* http://plus.google.com
-* http://about.me
-* http://crunchbase.com
-* http://soundsnap.com
-* http://digitalarena.co.uk
-* http://animateclay.com
-* http://sourceforge.net
-* http://zerply.com
-* http://codeplex.com
-* http://code.google.com/hosting
-* http://uservoice.com
-* http://zive.cz
-* http://svetandroida.cz
-* http://jakpsatweb.cz
-* http://rpr.cz/cz/kauzy.php
-* http://events.linkedin.com/startup
-* http://hultventuregroup.com
-* http://hotwire.com
-* http://tripadvisor.com
-* http://kayak.com
-* http://issuu.com
-* http://traveljigsaw.cz
-* http://startupdigest.com
-* http://webwallflower.com
-* http://readthewords.com
-* http://welikeitindie.com
-* http://soundcloud.com
-* http://conversationmarketing.com
-* http://feedburner.com
-* http://lanyrd.com
-* http://designportal.cz
-* http://youngprofessionalsforum.cz
-* http://behance.net
-* http://smushit.com
-* http://grids.heroku.com
-* http://thechangelog.com
-* http://zenhabits.net
-* http://baconipsum.com
-* http://cnet.com
-* http://justin.tv
-* http://techcofounder.com
-* http://abclinuxu.cz
-* http://akismet.com
-* http://watin.org
-* http://seleniumhq.org
-* http://ethanschoonover.com/solarized
-* http://developer.mozilla.org
-* http://quirksmode.org/touchevents
-* http://960.gs
-* http://hashgrid.com
-* http://odata.org/developers
-* http://imheremovie.com
-* http://docalliancefilms.com
-* http://online-convert.com
-* http://google.com/reader
-* http://airbnb.com
-* http://programujte.com
-* http://lyricspond.com
-* http://jakpodnikat.cz
-* http://urbandictionary.com
-* http://stripgenerator.com
-* http://madehow.com
-* http://joindiaspora.com
-* http://gowalla.com
-* http://scuk.cz
-* http://foursquare.com
-* http://mixergy.com
-* http://answers.onstartups.com
-* http://podnikanivusa.cz
-* http://studentworld.cz
-* http://i-hacked.com
-* http://vyvojar.cz
-* http://aspnet.cz
-* http://codeguru.com
-* http://deathandtaxesposter.com
-* http://rarous.net
-* http://floowie.com/en/mf/publications
-* http://social.wakoopa.com
-* http://stumbleupon.com
-* http://channel9.msdn.com
-* http://mailchimp.com
-* http://typo.cz
-* http://rememberthemilk.com
-* http://domaintools.com
-* http://ninite.com
-* http://guerrillamail.com
-* http://spambox.us
-* http://broadbandspeedchecker.co.uk
-* http://utrace.de/ip-adresse
-* http://wix.com
-* http://tldp.org
-* http://freshmeat.net
-* http://linuxexpres.cz
-* http://wolframalpha.com
-* http://zive.cz/programovani
-* http://alexa.com/siteinfo
-* http://vyvijej.cz
-* http://cia.gov/library/publications/the-world-factbook
-* http://2600.com
-* http://wordreference.com/czen
-* http://flavors.me
-* http://globalstartups.cz
-* http://quora.com
-* http://opensuse.org
-* http://appcelerator.com/products/titanium-studio/
-* http://prerelease.adobe.com
-* http://sproutcore.com
-* http://compass-style.org
-* http://sass-lang.com
-* http://dev.windows.com
-* http://klikzone.cz
-* http://geekcore.cz
-* http://mssqltips.com
-* http://askvg.com
-* http://britannica.com
-* http://digitalglobe.com
-* http://freshlabels.cz
-* http://queens.cz
-* http://opendns.com
-* http://storify.com
-* http://formspring.me
-* http://changethis.com
-* http://thefwa.com
-* http://issue.com
-* http://gizmodo.com
-* http://subreg.cz
-* http://google.com/webmasters/
-* http://freemusicarchive.org
-* http://vimeo.com/musicstore
-* http://phenoelit-us.org/dpl/dpl.html
-* http://iaeste.cz
-* http://retrofest.cz
-* http://tomorrow.do
-* http://careers.microsoft.com/careers/en/cz/home.aspx
-* http://sites.google.com/a/via.felk.cvut.cz/via/
-* http://iconfinder.com
-* http://24ways.org
-* http://mediaqueri.es
-* http://mono-project.com
-* http://monodevelop.com
-* http://dice.com
-* http://speakerdeck.com
-* http://meetup.com
-* http://craiglist.com
-* http://flattr.com
-* http://dmoz.org/Computers/Hacking/Phreaking/
-* http://startupdigest.com
-* http://techradar.com
-* http://shakes.cz
-* http://byznyspark.cz
-* http://join.me
-* http://theses.cz
-* http://css-tricks.com
-* http://youhavedownloaded.com
-* http://mlog.cz
-* http://jqueryui.com
-* http://code.google.com/apis/libraries/
-* http://developer.mozilla.org/en-US/learn/
-* http://pivotaltracker.com
-* http://html5rocks.com
-* http://html5demos.com
-* http://blabot.net
-* http://net.tutsplus.com
-* http://hackfwd.org
-* http://fancybox.net
-* http://phonegap.com
-* http://startupmeetings.com
-* http://ceskatelevize.cz/porady/10119615714-fokus-ct24/4827-o-poradu/
-* http://ozap.tumblr.com
-* http://pslib.cz/ke/Materi%C3%A1ly_ke_studiu
-* http://caniuse.com
-* http://maths.cz
-* http://projectgoats.com
-* http://thisweekin.com
-* http://html5please.com
-* http://movethewebforward.org
+__2015__
+* http://wug.cz (windows user group)
+* http://msdn.microsoft.com/cs-cz/ (microsoft developer network)
+* http://thefwa.com (favourite website awards)
+* http://pridej.cz (button for sharing your content)
+* http://apimania.eu (list of czech api)
+* http://recaptcha.net (hide your email)
+* http://jsfiddle.net (online editor for the web)
+* http://fiddler2.com (web debugging proxy)
+* http://icecast.org (FOSS multimedia streaming server)
+* http://sizeeasy.com (how is it big?)
+* http://zamzar.com (free online file conversion)
+* http://whatfontis.com (what is this font?)
+* http://onlineocr.net (great online ocr)
+* http://random.org (toss with a coin)
+* http://wordle.net (generates an image based on your words)
+* http://sendoid.com (for sending files directly)
+* http://isup.me (check if your website is down or up)
+* http://mindmeister.com (online mind mapping)
+* http://typekit.com (the easiest way to use real fonts on your website)
+* http://strukturalni-fondy.cz (structure fonds of european union)
+* http://devdays.stackoverflow.com (stackoverflow developer days)
+* http://bbc.co.uk/radio4/features/in-our-time/ (bbc discussing history of ideas)
+* http://5by5.tv (the best broadcasting network for geeks, designers and so on)
+* http://plus.google.com (the best social site from google)
+* http://about.me (a custom profile and personal analytics)
+* http://crunchbase.com (free database of tech companies)
+* http://soundsnap.com (hollywood sounds for your project)
+* http://digitalarena.co.uk (creative freeware)
+* http://animateclay.com (all things for stop motion)
+* http://sourceforge.net (publish open source software for free)
+* http://zerply.com (a professional social network)
+* http://codeplex.com (open source hosting from microsoft )
+* http://code.google.com/hosting (open source hosting from google)
+* http://uservoice.com (feedback solution)
+* http://zive.cz (tech and hw info server)
+* http://svetandroida.cz (everything about android written in czech)
+* http://jakpsatweb.cz (great web tutorial)
+* http://rpr.cz/cz/kauzy.php (czech board advertising)
+* http://events.linkedin.com/startup (startup events from linkedin)
+* http://hultventuregroup.com (students entrepreneurship support)
+* http://hotwire.com (flights and hotels)
+* http://tripadvisor.com (trip advisor)
+* http://kayak.com (search the web for a cheap flight)
+* http://issuu.com (for publishing files)
+* http://traveljigsaw.cz (car insurance worldwide)
+* http://startupdigest.com (your startup guide)
+* http://webwallflower.com (events in san francisco bay area)
+* http://readthewords.com (free text to speech voices)
+* http://welikeitindie.com (creative playlist of songs hosted on soundcloud.com)
+* http://soundcloud.com (cloud for a music)
+* http://conversationmarketing.com (about internet marketing thoughts)
+* http://feedburner.com (rss engine for your site from google)
+* http://lanyrd.com (social conference directory)
+* http://designportal.cz (magazin about design and graphics)
+* http://youngprofessionalsforum.cz (helps students in Prague to succeed)
+* http://behance.net (creative platform for professionals in design)
+* http://smushit.com (online loosless tool for images from yahoo)
+* http://grids.heroku.com (variable grid system)
+* http://thechangelog.com (keep up with open source)
+* http://zenhabits.net (zen habits by leo babauta)
+* http://baconipsum.com (meatier and better version of lorem ipsum)
+* http://cnet.com (tech product and price reviews)
+* http://justin.tv (streaming live video broadcasts)
+* http://techcofounder.com (find technical co-founders for your startup)
+* http://abclinuxu.cz (czech portal about linux)
+* http://akismet.com (comment spam prevention)
+* http://watin.org (web application testing in .net)
+* http://seleniumhq.org (web browser automation)
+* http://ethanschoonover.com/solarized (precision colors for machines)
+* http://developer.mozilla.org (mozilla developer network)
+* http://quirksmode.org/touchevents (browsers quirks by peter koch)
+* http://960.gs (useful grid system)
+* http://hashgrid.com (temporarly grid system)
+* http://odata.org/developers (open data protocol)
+* http://imheremovie.com (love story in an absolut world)
+* http://docalliancefilms.com (feature documentaries)
+* http://online-convert.com (convert whatever on the fly and online)
+* http://google.com/reader (google rss reader)
+* http://airbnb.com (find a place to stay)
+* http://programujte.com (info for techies)
+* http://lyricspond.com (lyrics for whatever song)
+* http://jakpodnikat.cz (how-to start a biz within a czech legacy)
+* http://urbandictionary.com (whatever words explanation)
+* http://stripgenerator.com (own funny strips)
+* http://madehow.com (how products are made)
+* http://joindiaspora.com (facebook competitor)
+* http://gowalla.com (foursquare competitor)
+* http://scuk.cz (logs and tracks everything delicious)
+* http://foursquare.com (social check-in)
+* http://mixergy.com (founders shares their secrets)
+* http://answers.onstartups.com (start-up ideas)
+* http://podnikanivusa.cz (by john vanhara)
+* http://studentworld.cz (about high schools in cze)
+* http://i-hacked.com (taking advantage of technology)
+* http://vyvojar.cz (about developers)
+* http://aspnet.cz (whatever about asp.net)
+* http://codeguru.com (microsoft developers ideas)
+* http://deathandtaxesposter.com (usa death and taxes)
+* http://rarous.net (expierenced czech programmer)
+* http://floowie.com/en/mf/publications (e15)
+* http://social.wakoopa.com (discover software and games)
+* http://stumbleupon.com (discover the web of your friends)
+* http://channel9.msdn.com (microsoft videos about anything)
+* http://mailchimp.com (mail system)
+* http://typo.cz (typography and graphic design)
+* http://rememberthemilk.com (online todo list)
+* http://domaintools.com (domain tools)
+* http://ninite.com (install everything at once)
+* http://guerrillamail.com (temporary email box)
+* http://spambox.us (temporary email box)
+* http://broadbandspeedchecker.co.uk (broadband speed checker)
+* http://utrace.de/ip-adresse (your ip location)
+* http://wix.com (create free flash websites)
+* http://tldp.org (the linux documentation project)
+* http://freshmeat.net (fresh apps for unix)
+* http://linuxexpres.cz (czech linux magazine)
+* http://wolframalpha.com (computational knowledge engine)
+* http://zive.cz/programovani (tech and hw info server) (about programming)
+* http://alexa.com/siteinfo (website information analyzer)
+* http://vyvijej.cz (develop for windows phone 7)
+* http://cia.gov/library/publications/the-world-factbook (world factbook)
+* http://2600.com (The Hacker Quarterly)
+* http://wordreference.com/czen (huge and smart cz/en dictionary)
+* http://flavors.me (make a homepage in minutes)
+* http://globalstartups.cz (list of czech global startups)
+* http://quora.com (question-and-answer website)
+* http://opensuse.org (the best linux distro ever)
+* http://appcelerator.com/products/titanium-studio/ (across all platforms)
+* http://prerelease.adobe.com (prerelease adobe program)
+* http://sproutcore.com (open source framework for web)
+* http://compass-style.org (open source css framework)
+* http://sass-lang.com (for awesome stylesheets)
+* http://dev.windows.com (microsoft developer centrum)
+* http://klikzone.cz (about html and javascript)
+* http://geekcore.cz (events for developers and it professionals)
+* http://mssqltips.com (all tips for mssql)
+* http://askvg.com (tweaking windows with Vishal Gupta)
+* http://britannica.com (british encyclopedy)
+* http://digitalglobe.com (satellite photos around the world)
+* http://freshlabels.cz (fresh clothing)
+* http://queens.cz (street-wear clothing)
+* http://opendns.com (additional solution for your dns)
+* http://storify.com (create stories using social media)
+* http://formspring.me (questions answered by you)
+* http://changethis.com (spreads creative pdfs)
+* http://thefwa.com (favourite website awards)
+* http://issue.com (your own awesome pdf publishing)
+* http://gizmodo.com (the gadget guide)
+* http://subreg.cz (internet domain must-registrator)
+* http://google.com/webmasters/ (google webmaster central)
+* http://freemusicarchive.org (free music of all genres)
+* http://vimeo.com/musicstore (music for your video)
+* http://phenoelit-us.org/dpl/dpl.html (list of default passwords)
+* http://iaeste.cz (helps czech university students)
+* http://retrofest.cz (cvut retro one-day hw festival)
+* http://tomorrow.do (fancy to-do web app)
+* http://careers.microsoft.com/careers/en/cz/home.aspx (microsft careers)
+* http://sites.google.com/a/via.felk.cvut.cz/via/ (internet app development on FEL)
+* http://iconfinder.com (thousands of icons)
+* http://24ways.org (advent calendar for geeks who love web)
+* http://mediaqueri.es (a collection of sites using media queries)
+* http://mono-project.com (.net framework on Linux and Mac)
+* http://monodevelop.com (.net IDE for Linux and Mac)
+* http://dice.com (the career hub for tech)
+* http://speakerdeck.com (better than Slideshare)
+* http://meetup.com (check out actuall technology gatherings)
+* http://craiglist.com (buy or sell everything you want)
+* http://flattr.com (social micropayments)
+* http://dmoz.org/Computers/Hacking/Phreaking/ (open directory project)
+* http://startupdigest.com (your startup guide)
+* http://techradar.com (british tech magazine)
+* http://shakes.cz (original english books locally)
+* http://byznyspark.cz (videocast with entrepreneurs)
+* http://join.me (remote connections via web browser)
+* http://theses.cz (theses of university students)
+* http://css-tricks.com (whatever useful tricks on web)
+* http://youhavedownloaded.com (single IP detailed torrent statistics)
+* http://mlog.cz (notes by music professional fan)
+* http://jqueryui.com (everything about jquery UI)
+* http://code.google.com/apis/libraries/ (Google Libraries API)
+* http://developer.mozilla.org/en-US/learn/ (learn html, css and javascript in depth) (mozilla developer network)
+* http://pivotaltracker.com (agile project management tool)
+* http://html5rocks.com (learn html5)
+* http://html5demos.com (awesome html5)
+* http://blabot.net (czech tasty lorem ipsum)
+* http://net.tutsplus.com (tutorials for web developers)
+* http://hackfwd.org (great european accelerator)
+* http://fancybox.net (great tool based on jquery)
+* http://phonegap.com (open mobile framework that supports all 7 platforms)
+* http://startupmeetings.com (meetings around the globe)
+* http://ceskatelevize.cz/porady/10119615714-fokus-ct24/4827-o-poradu/ (Fokus CT)
+* http://ozap.tumblr.com (pretty smashing photos)
+* http://pslib.cz/ke/Materi%C3%A1ly_ke_studiu (materials about linux, web and networks)
+* http://caniuse.com (which web technologies can i use)
+* http://maths.cz (easy math learning)
+* http://projectgoats.com (interviewing about startups)
+* http://thisweekin.com (web tv digicasts)
+* http://html5please.com (status of html5 stuff readiness)
+* http://movethewebforward.org (move the web forward!)
 * http://grc.com/x/ne.dll?bh0bkyd2
-* http://creativecow.net
-* http://ceed.cz/obsah_webu.htm
-* http://geekli.st
-* http://duckduckgo.com
-* http://bellard.org/jslinux/
-* http://videoserver.cesnet.cz/videoarchiv.php
-* http://kolemkolem.cz
-* http://justbeen.in
-* http://tripomatic.com
-* http://google-melange.com
-* http://awwwards.com
-* http://muzeuminternetu.cz
-* http://qrhacker.com
-* http://video.cnbc.com/gallery/
-* http://phrasemix.com
-* http://databaze.dobrovolnik.cz/databaze-akci/
-* http://www.inexsda.cz
-* http://motoscoot.cz
-* http://eu.hollisterco.com
-* http://nadacezb.cz/scholarship.html
-* http://easymat.wz.cz/derivace.html
-* http://acronymfinder.com
-* http://startuptools.org
-* http://glyphicons.com
-* http://dum-motocyklu.cz
-* http://fichtlkramek.cz
-* http://styx.sk
-* http://jamendo.com/en
-* http://capsus.tv
-* http://change.org
-* http://mapbox.com
-* http://topmonks.com
-* http://theworks.cz
-* http://i-veteran.cz
-* http://technologyreview.com
-* http://css3please.com
-* http://dabblet.com
-* http://leancanvas.com
-* http://vimeo.com/eastbiz
-* http://generationapp.com
-* http://campus-party.eu
-* http://booking.com
-* http://teamtreehouse.com
-* http://rootsy.com
-* http://sugru.com
-* http://instructables.com
-* http://thingiverse.com
-* http://techdays.cz
-* http://thenextweb.com/conference
-* http://devel.cz
-* http://openstreetmap.org
-* http://forrst.com
-* http://sharypic.com
-* http://map.innovatesf.com
-* http://kickstarter.com
-* http://wallwisher.com
-* http://whattimeisitthere.info
-* http://startupchile.org
-* http://evalotta.net
-* http://killerstartups.com
-* http://bookfayre.cz
-* http://webexpotour.net
-* http://europeanstudentstartups.com
-* http://mladezvakci.cz
-* http://ustream.tv/TechCrunch
-* http://malostranskasetkani.cz
-* http://smartasset.com/infographic/startup
-* http://pioneersfestival.com
-* https://madebysource.com/
-* http://filipmolcan.squarespace.com
-* http://squarespace.com
-* http://fitbit.com
-* http://stripe.com
-* http://naucmese.cz
-* http://matixclothing.com
-* http://diveintohtml5.info
-* http://fiverr.com
-* http://manytu.cz
-* http://stovkomat.cz
-* http://lepremier.cz
-* http://jakublohnisky.cz
-* http://ft.com/intl/management
-* http://geekshirts.cz
-* http://startupspotlight.co
-* http://volnonozci.cz/zapisy
-* http://cssdesignawards.com
-* http://webbyawards.com
-* http://uniegd.cz
-* http://google.com/alerts
-* http://openshift.com
-* http://thefailcon.com
-* http://worldometers.info
-* http://mediagoblin.org
-* http://bushmanfilm.com
-* http://indiegogo.com
-* http://asean.cz
-* http://hedvabnastezka.cz/diskuse
-* http://businesstoday.org
-* http://cinsky.cz
-* http://forum2000.cz
-* http://eol.jsc.nasa.gov
-* http://sitit.cz
-* http://torproject.org
-* http://iana.org
-* http://voho.cz/wiki/informatika/jazyk/
-* http://voho.cz/wiki/matematika
-* http://nusl.cz
-* http://militaria.cz
-* http://connect.opensuse.org
-* http://automobile-akbari.de
-* http://mobile.de
-* http://autoscout24.de
-* http://classic.minicooperklub.cz
-* http://autobazar.eu
-* http://scholar.google.com
-* http://nytm.org/made-in-nyc
-* http://demagog.cz
-* http://jaknaletenky.cz
+* http://creativecow.net (creative tutorials of the world)
+* http://ceed.cz/obsah_webu.htm (the whole theory of Economics in a nutshell)
+* http://geekli.st (geek facebook)
+* http://duckduckgo.com (different search engine)
+* http://bellard.org/jslinux/ (javascript linux emulation)
+* http://videoserver.cesnet.cz/videoarchiv.php (science talks also about internet)
+* http://kolemkolem.cz (round-the-world trip by bicycle)
+* http://justbeen.in (traveller logbook)
+* http://tripomatic.com (trip planning)
+* http://google-melange.com (google summer of code)
+* http://awwwards.com (popular awards for website design)
+* http://muzeuminternetu.cz (historical protocols and services of the internet)
+* http://qrhacker.com (tune your QR code)
+* http://video.cnbc.com/gallery/ (cnbc video gallery)
+* http://phrasemix.com (everyday english phrases)
+* http://databaze.dobrovolnik.cz/databaze-akci/ (volunteerism)
+* http://www.inexsda.cz (volunteerism)
+* http://motoscoot.cz (genuine motorcycles from Japan)
+* http://eu.hollisterco.com (attractive fashion company)
+* http://nadacezb.cz/scholarship.html (bakala scholarship)
+* http://easymat.wz.cz/derivace.html (math taken easy)
+* http://acronymfinder.com (acronyms)
+* http://startuptools.org (startupist must see)
+* http://glyphicons.com (lovely icons)
+* http://dum-motocyklu.cz (sparse jawa parts)
+* http://fichtlkramek.cz (best jawa/moto shop ever)
+* http://styx.sk (motorcycles and accessories)
+* http://jamendo.com/en (free music for all)
+* http://capsus.tv (inspiration and influences)
+* http://change.org (campaigns and petitions)
+* http://mapbox.com (beatiful maps)
+* http://topmonks.com (sensei and monk cooperation)
+* http://theworks.cz (coworking events, so-called jellies)
+* http://i-veteran.cz (historic auto/moto exchange)
+* http://technologyreview.com (mit review on tech field)
+* http://css3please.com (how-to css3)
+* http://dabblet.com (css playground and code sharing tool)
+* http://leancanvas.com (one-page business model)
+* http://vimeo.com/eastbiz (john vanhara biz tips)
+* http://generationapp.com (build an windows phone app now)
+* http://campus-party.eu (24-hours-a-day technology festival in Berlin)
+* http://booking.com (book a hotel worldwide)
+* http://teamtreehouse.com (paid webinaries for developers)
+* http://rootsy.com (build your own family tree)
+* http://sugru.com (the future needs fixing!)
+* http://instructables.com (share what you make)
+* http://thingiverse.com (digital designs for real objects)
+* http://techdays.cz (microsoft events)
+* http://thenextweb.com/conference (international technology gathering)
+* http://devel.cz (community of developers)
+* http://openstreetmap.org (the free wiki world map)
+* http://forrst.com (developers and designers community site)
+* http://sharypic.com (collaborative photo sharing)
+* http://map.innovatesf.com (startups-map)
+* http://kickstarter.com (funding platform)
+* http://wallwisher.com (build a wall)
+* http://whattimeisitthere.info (US time zones visually)
+* http://startupchile.org (huge start-up program in chile)
+* http://evalotta.net (user experience designer)
+* http://killerstartups.com (a close look to web entrepreneurs)
+* http://bookfayre.cz (english books)
+* http://webexpotour.net (czech geeks on the road)
+* http://europeanstudentstartups.com (competition for students)
+* http://mladezvakci.cz (teens volunteering)
+* http://ustream.tv/TechCrunch (techcrunchTV)
+* http://malostranskasetkani.cz (mff open tech-seminars)
+* http://smartasset.com/infographic/startup (startup economics)
+* http://pioneersfestival.com (startup world gathering in vienna)
+* https://madebysource.com/ (awesome guys)
+* http://filipmolcan.squarespace.com (moredays) (build your exceptional website)
+* http://squarespace.com (build your exceptional website)
+* http://fitbit.com (track your steps and many more)
+* http://stripe.com (payments for developers)
+* http://naucmese.cz (learn whatever together)
+* http://matixclothing.com (styled mens clothing)
+* http://diveintohtml5.info (a book about html5)
+* http://fiverr.com (largest marketplace for small services)
+* http://manytu.cz (czech portal for micro services)
+* http://stovkomat.cz (another czech portal for micro services)
+* http://lepremier.cz (cool business clothing)
+* http://jakublohnisky.cz (must-read thoughts from life)
+* http://ft.com/intl/management (financial times about managing)
+* http://geekshirts.cz (shirts for geeks)
+* http://startupspotlight.co (for central and eastern europe early-stage startups)
+* http://volnonozci.cz/zapisy (thoughts of czech freelancers)
+* http://cssdesignawards.com (world's greatest websites every-month-contest)
+* http://webbyawards.com (honoring excellence on the internet)
+* http://uniegd.cz (czech designers, webdesigners, typographers)
+* http://google.com/alerts (monitor your interests via google right in your inbox)
+* http://openshift.com (free paas hosting environment maden by red hat!)
+* http://thefailcon.com (one-day conference about failures of tech entrepreneurs)
+* http://worldometers.info (facts about this Earth)
+* http://mediagoblin.org (amazing open-source social site)
+* http://bushmanfilm.com (outdoor movies)
+* http://indiegogo.com (world crowd-funding platform)
+* http://asean.cz (about south-east asia)
+* http://hedvabnastezka.cz/diskuse (travelling-abroad-discussion)
+* http://businesstoday.org (student magazine on princeton)
+* http://cinsky.cz (about china)
+* http://forum2000.cz (forum about the world held in prague)
+* http://eol.jsc.nasa.gov (the gateway to astronaut photography of earth)
+* http://sitit.cz (czech informatics's network)
+* http://torproject.org (anonymity online)
+* http://iana.org (internet assigned numbers authority)
+* http://voho.cz/wiki/informatika/jazyk/ (tutorials for loads of programming languages)
+* http://voho.cz/wiki/matematika (math clean and simple)
+* http://nusl.cz (thesis)
+* http://militaria.cz (focused on military)
+* http://connect.opensuse.org (opensuse social site) (the best linux distro ever)
+* http://automobile-akbari.de (old cars, old times for sell)
+* http://mobile.de (biggest vehicle marketplace)
+* http://autoscout24.de (similar to mobile.de)
+* http://classic.minicooperklub.cz (everything about the old minis)
+* http://autobazar.eu (cars from a second hand)
+* http://scholar.google.com (scholarly resources)
+* http://nytm.org/made-in-nyc (made with love in NYC)
+* http://demagog.cz (czech factcheck)
+* http://jaknaletenky.cz (air tickets how to)
 
-__mark 2016/11/11__
-* http://picmonkey.com
-* http://chatroulette.com
-* http://finance.google.com
-* http://umsemumtam.cz
-* http://webplatform.org
-* http://matematika-online-a.kvalitne.cz
-* http://matweb.cz
+__2015__
+* http://picmonkey.com (photoshop online)
+* http://chatroulette.com (a random video-chat with people from all over the world)
+* http://finance.google.com (realtime finance figures by google)
+* http://umsemumtam.cz (help NGOs professionally)
+* http://webplatform.org (web-development documentation by W3C)
+* http://matematika-online-a.kvalitne.cz (some math basics)
+* http://matweb.cz (math easilly)
 * http://www.grc.com/x/ne.dll?bh0bkyd2
-* http://browserver.org
-* http://requestb.in
-* http://soundslice.com
-* http://neo4j.org
-* http://uk.moo.com/share/#gphtk9
-* http://medium.com
-* http://beached.org/hexclock/
-* http://bambuser.com
-* http://ekontech.cz
-* http://studenttv.cz
-* http://wifileaks.cz
-* http://dex.io
-* http://flowingdata.com
-* http://d3js.org
-* http://skankbrand.cz
-* http://codinghorror.com
-* http://twistedsifter.com
-* http://boredpanda.com
-* http://9-eyes.com
-* http://academia.edu
-* http://jsbin.com
-* http://developerfocus.com
-* http://reports.cvut.cz
-* http://offliberty.com
-* http://doutniky-praha.cz
-* http://gadjo.cz/swing-imperium
-* http://jazzdock.cz
-* http://stazevefirmach.cz
-* http://skyscanner.cz
+* http://browserver.org (your browser acts like web server)
+* http://requestb.in (inspect http request)
+* http://soundslice.com (how to play the guitar)
+* http://neo4j.org (graph database, tree structure)
+* http://uk.moo.com/share/#gphtk9 (business cards, stickers)
+* http://medium.com (publishing platform)
+* http://beached.org/hexclock/ (realtime clock and hex background)
+* http://bambuser.com (share live right from your webcam or mobile)
+* http://ekontech.cz (technology and economics together)
+* http://studenttv.cz (talks for students)
+* http://wifileaks.cz (locations of nearly all czech wifi networks)
+* http://dex.io (suggested gigs where you can have a talk)
+* http://flowingdata.com (visualize your data)
+* http://d3js.org (data driven documents)
+* http://skankbrand.cz (fresh streetwear clothing)
+* http://codinghorror.com (programming and human factors by Jeff Atwood)
+* http://twistedsifter.com (awfully stunning photos)
+* http://boredpanda.com (awesome magazine for pandas)
+* http://9-eyes.com (hard-to-believe google streetview shots)
+* http://academia.edu (sharing research papers for academics)
+* http://jsbin.com (awesome live dhtml playground)
+* http://developerfocus.com (training for all kind of developers)
+* http://reports.cvut.cz (student notes from staying abroad)
+* http://offliberty.com (content mining)
+* http://doutniky-praha.cz (reliable cigars importer)
+* http://gadjo.cz/swing-imperium (SWING IMPERIUM)
+* http://jazzdock.cz (new jazz stage)
+* http://stazevefirmach.cz (internships roofed by mpsv)
+* http://skyscanner.cz (search for the cheapest air tickets)
 * http://shutterstock.com
-* http://projecteuler.net
-* http://bigquote.co
-* http://uctv.tv/cwh
-* http://trello.com
-* http://grooveshark.com
-* http://snipt.net
-* http://coderwall.com
-* http://iwantproof.com/product
-* http://blisty.cz
-* http://wayra.org/en/joinus
-* http://techcityuk.com
-* http://twittercounter.com
-* http://readability.com
-* http://mudrlant.cz
-* http://stritar.net
-* http://prostor.erasvet.cz
+* http://projecteuler.net (series of challenging math problems)
+* http://bigquote.co (too-good-to-be-true quotes)
+* http://uctv.tv/cwh (conversations with history on UC)
+* http://trello.com (intuitive to-do list app)
+* http://grooveshark.com (listen online for free!)
+* http://snipt.net (various code snippets)
+* http://coderwall.com (where developers come to meet)
+* http://iwantproof.com/product (fresh glasses made of wood)
+* http://blisty.cz (nezavisle britske listy)
+* http://wayra.org/en/joinus (telefonica's world incubator)
+* http://techcityuk.com (london silicon valley)
+* http://twittercounter.com (measure your twitter)
+* http://readability.com (turns any web page into a clean view)
+* http://mudrlant.cz (a little czech tech talks overview)
+* http://stritar.net (awesome thoughts of one geek from Slovenia)
+* http://prostor.erasvet.cz (inspiring events)
 
-__mark 2016/11/11__
-* http://eduforum.cz
-* http://udacity.com
-* http://khanacademy.org
-* http://class2go.stanford.edu
-* http://extension.harvard.edu/open-learning-initiative
-* http://coursera.org
-* http://edx.org
-* http://teachingtree.co
-* http://piazza.com
-* http://scene360.com
-
-__mark 2016/11/11__
-* http://pismak.cz
-* http://onekingslane.com
-* http://unconventionalguides.com
-* http://chrisguillebeau.com
-* http://fastcolabs.com
-* http://skillshare.com
-* http://holstee.com
-* http://passionmeetsmomentum.com
-* http://deadsuls.com
-* http://jster.net
-* http://knightlab.northwestern.edu
-* http://whatconsumesme.com
-* http://zazzle.com
-* http://toggl.com
-* http://r-project.org
-* http://brmlab.cz
-* http://tmzns.com
-* http://firefoxflicks.mozilla.org
-* http://ec.europa.eu/youth/youth-in-action-programme/how-to-participate_en.htm
-* http://unleashingideas.org
-* http://globalstartupbattle.org
-* http://artsy.net
-* http://ctvrtkon.cz
-* http://hulkshare.com
-* http://balconytv.com
-* http://hithit.com
-* http://kreativcisobe.cz
-* http://prigl.cz
-* http://rally.org
-* http://freedigitalphotos.net
-* http://schema.org
-* http://perl.org
-* http://wwwinfo.mfcr.cz/ares
-* http://linuxjournal.com
-* http://businessmodelgeneration.com
-* http://dokuwiki.org
-* http://designtaxi.com
-* http://toastmasters.org
-* http://thedominoproject.com
-* http://ceskainovace.cz
-* http://decknetwork.net
-* http://launch48.com
-* http://forbes.com
-* http://webovina.cz
-* http://delicious.com
-* http://worrydream.com
-* http://creativemornings.com
-* http://hackforchange.org
-* http://pitchfork.com
-* http://ex.fm
-* http://shelby.tv
-* http://afraid.org
-* http://coffitivity.com
-* http://tiki-toki.com
-* http://etsy.com
-* http://infogr.am
-* http://founderswiki.com
-* http://readtapestry.com
-* http://napadroku.cz
-* http://angel.co
-
-__mark 2016/11/11__
-* http://plus.google.com/+GoogleforEntrepreneurs
-* http://good.is/explore
-* http://processing.org
-* http://berglondon.com
-* http://code.google.com/codejam
-* http://selfstarter.us
-* http://instantserver.io
-* http://progrium.com/localtunnel
-* http://deviantart.com
-* http://1000miles.cz
-* http://ceska-konference.cz
-* http://nysebigstage.com
-* http://newtonmedia.cz/medialni-archiv
-* http://subtlepatterns.com
-* http://fiftythree.com/paper
-* http://play.knod.es
-* http://course.bighistoryproject.com
-* http://slack.com
-* http://smacss.com/book/
-* http://svbtle.com
-* http://mzl.la/weblitstd
-* http://growhack.com
-* http://getpocket.com
-* http://wikitravel.org
-* http://codevisually.com
-* http://breakpoint.io
-* http://designvid.cz
-* http://bizit.cz
-* http://yachtclub.cz
-* http://hackernest.com
-* http://linuxfromscratch.org
-* http://installfest.cz
-* http://sut.sh.cvut.cz
-* http://startupsauna.com
-* http://get-in-scope.cz
-* http://500px.com
-* http://greenways.cz
-* http://comptechdoc.org
-* http://shipito.cz
-* http://launchpad.net
-* http://prague.tv
-* http://dialog.ihned.cz/think-tank/
-* http://ohloh.net
-* http://svobodauceni.cz
-* http://jacr.cz/programy.aspx
-* http://cilichili.cz
-* http://openhatch.org
-* http://youngbooks.cz
-* http://libreplanet.org
-
-__mark 2016/11/11__
-* http://uis-info.com
-* http://studentshow.com
-* http://feedly.com
-* http://mentoring.cvut.cz
-* http://10fastfingers.com
-* http://learnxinyminutes.com
-* http://praguewelcome.cz/cs/kalendar/
-* http://w3techs.com
-* http://garage48.org/events
-* http://identi.ca
-* http://thecrimson.com/section/opinion/
-* http://wsgiga.com
-* http://starlogs.net
-* http://pm.org
-* http://protisedi.cz
-* http://apiary.io
-* http://iubenda.com
-* http://stickermule.com
-* http://programmableweb.com
-* http://jekyllrb.com
-* http://pages.github.com
-* http://time.is
-* http://dillinger.io
-* http://gegcr.cz
-* http://mimoskolu.cz
-* http://toys.usvsth3m.com/maths
-* http://zazitmestojinak.cz
-* http://ifttt.com
-* http://cesu.cz
-* http://tympanus.net/codrops/category/playground
-* http://myfav.es
-* http://buildandlaunch.net
-* http://zitdeledoma.cz
-* http://mozilla.org/en-US/firefox/os/
-* http://everything.me
-* http://elementaryos.org
-* http://hackweek.suse.com
-* http://ekospace.cz
-* http://knihy.nic.cz
-* http://ekiga.net
-* http://shadow.cz
-* http://chat.freenode.net
-* http://microsoftvirtualacademy.com
-* http://testomato.com
-* http://flowreader.com
-* http://giveit100.com
-* http://scraperwiki.com
-* http://ceskefonty.cz
-* http://site44.com
-* http://pancake.io
-* http://getkirby.com
-* http://siteleaf.com
-* http://letsworkshop.com
-* http://gumroad.com
-* http://readthedocs.org
-* http://pattern-lab.info
-* http://codepen.io
-* http://hackdesign.org/lessons
-* http://bentobox.io
-* http://jux.com
-
-__mark 2016/11/11__
+__2015__
 * http://freelancing.stackexchange.com/
-* http://duolingo.com
-* http://forvo.com/listen-learn/
-* http://www.englishme.cz
-* http://retelly.com
-* http://placeit.net
-* http://directory.fsf.org
+* http://duolingo.com (learn to speak)
+* http://forvo.com/listen-learn/ (pronounce)
+* http://www.englishme.cz (slovicka online)
+* http://retelly.com (a video magazine)
+* http://placeit.net (generate product screenshot)
+* http://directory.fsf.org (free software to use) (free software foundation)
 * http://eportal.cssz.cz
-* http://libpro.cz
-* http://bravo.upce.cz
+* http://libpro.cz (knihovna libri prohibiti)
+* http://bravo.upce.cz (portal mladych vyzkumniku)
 * http://ceskatelevize.cz/art/zive/
-* http://whoapi.com
-* http://hidemyass.com
-* http://ceskapozice.cz
+* http://whoapi.com (ultimate domain notifier)
+* http://hidemyass.com (web proxy)
+* http://ceskapozice.cz (informace pro svobodne lidi)
 * http://anonymous-proxy-servers.net
-* http://prism-break.org
-* http://weusecoins.com
-* http://tmlewin.cz
-* http://nidm.cz
-* http://sp.stv.cz
+* http://prism-break.org (free alternatives of proprietary sw)
+* http://weusecoins.com (bitcoin)
+* http://tmlewin.cz (obleceni pro gentlemany)
+* http://nidm.cz (narodni institut deti a mladeze)
+* http://sp.stv.cz (mistrovstvi v programovani)
 * http://colorsmagazine.com/stories
-* http://squareup.com
-* http://unity3d.com/unity
-* http://livefyre.com/install/
+* http://squareup.com (Start accepting credit cards today)
+* http://unity3d.com/unity (game development studio)
+* http://livefyre.com/install/ (comments)
 * http://www.webarchiv.cz
-* http://thunderclap.it
-* http://nptechforgood.com
+* http://thunderclap.it (amplify your message globally)
+* http://nptechforgood.com (non-profits)
 * http://www.eps.cz/obcandvanula
-* http://topsy.com
-* http://www.project-syndicate.org/
-* http://rokjinak.cz
+* http://topsy.com (twitter search)
+* http://www.project-syndicate.org/ (the world's opinion page)
+* http://rokjinak.cz (vodafone money for non-profits)
 * http://www.o2thinkbig.cz
-* http://czech.ashoka.org
+* http://czech.ashoka.org (inovace pro spolecnost)
 * http://neziskovky.cz
-* http://draftin.com
-* http://24hoursofhappy.com/
+* http://draftin.com (version control and collaboration for writers)
+* http://24hoursofhappy.com/ (24 hours music video)
 * http://youradio.cz
-* http://bufferapp.com
-* http://makezine.com
-* http://manageyourlikes.com
-* http://streetculture.cz
-* http://maps.stamen.com
-* http://webdesignerdepot.com/category/freebies
+* http://bufferapp.com (a better way to share)
+* http://makezine.com (awesome DIY electronics, arduino, boards)
+* http://manageyourlikes.com (analyzuj svoje fb likes)
+* http://streetculture.cz (jedine zizkovske radio!)
+* http://maps.stamen.com (awesome)
+* http://webdesignerdepot.com/category/freebies (stuff for webdesigners for free!)
 * http://asymmetrical.co/store/
 * http://www.theminimalists.com
-* http://savedeo.com
-* https://welovemail.com
-* https://www.docracy.com
-* http://pump.io
-* https://diasporafoundation.org/
-* http://idno.co
+* http://savedeo.com (better offliberty)
+* https://welovemail.com (better emails)
+* https://www.docracy.com (open collection of legal documents)
+* http://pump.io (your own social server)
+* https://diasporafoundation.org/ (decentralized social servers)
+* http://idno.co (foss social network)
 * http://opensource.com
 * http://venturebeat.com
-* http://convos.by
-* http://theoutput.co
-* http://coursefork.org
-* http://zanata.org
-* http://circuits.io
-* http://www.fontsquirrel.com
-* http://www.suitcasetype.com
-* http://www.fontshop.com
-* http://www.molo7.cz
-* http://www.de-sign.cz
-* http://www.sistersconspiracy.cz
-* http://buyersguide.freeride.cz
-* http://www.click2stream.com/
-* http://www.mapovani.cz/
+* http://convos.by (better IRC)
+* http://theoutput.co (store everything you write)
+* http://coursefork.org (github for teachers)
+* http://zanata.org (open translation for everyone!)
+* http://circuits.io (design your circuite)
+* http://www.fontsquirrel.com (handpicked free fonts)
+* http://www.suitcasetype.com (tomas brusil)
+* http://www.fontshop.com (world's best fonts)
+* http://www.molo7.cz (originální móda)
+* http://www.de-sign.cz (obchod designem)
+* http://www.sistersconspiracy.cz (vlastní pánská móda)
+* http://buyersguide.freeride.cz (SNB)
+* http://www.click2stream.com/ (clever IP streaming)
+* http://www.mapovani.cz/ (mapovani ceskeho byznysu a politiky)
 
-__mark 2016/11/11__
-* http://muj-antikvariat.cz/    
-* http://hackerone.com/
-* http://supergenpass.com/
-* http://www.mailinator.com/
-* http://sockslist.net/
-* http://check-host.net/
-* http://incredibox.com/
-* http://nanovo.cz/
-* http://gazette.io/
-* http://www.discourse.org/
-* http://www.marmosetmusic.com/
-* http://www.gitbook.io/
-* http://represent.la/
-* http://tindie.com
-* http://www.englishgrammarsecrets.com/
-* http://hshtags.com/
-* http://niice.co/
-* http://yr.no
-* http://wunderground.com/q/zmw:00000.44.11567
-* http://paper.li
-* http://javascriptweekly.com
-* http://codecube.io/
-* http://iijo.org/
-* http://mozillaopennews.org
-* http://openlibrary.org/
-* http://heylookabook.com/
-* https://sketch.io/sketchpad/
-* http://dublab.com/category/listen/archive/
-* http://22tracks.com
-* http://spotlst.com/
-* https://cmd.fm/
-* http://audiomicro.com
-* http://audiojungle.com
-* http://www.jazzradio.com/  
-* http://nfa.cz/cz/fp/
+__2014__
+* http://eduforum.cz (edu talks)
+* http://udacity.com (learn tech subjects in a radical new manner)
+* http://khanacademy.org (lectures of Math, Physics, Astronomy, Economy)
+* http://class2go.stanford.edu (MOOC class2go on Stanford!)
+* http://extension.harvard.edu/open-learning-initiative (Harvard MOOC)
+* http://coursera.org (free online courses round-the-world)
+* http://edx.org (online education from US best-of-universities)
+* http://teachingtree.co (online knowledge for students of technology)
+* http://piazza.com (Q&A web service for learning)
+* http://scene360.com (talented individuals artworks)
+
+__2014__
+* http://pismak.cz (amateurish writing for gurmans)
+* http://onekingslane.com (modern housing supplements)
+* http://unconventionalguides.com (do more of what you love)
+* http://chrisguillebeau.com (fighter of the status quo)
+* http://fastcolabs.com (creative magazine for the coding community)
+* http://skillshare.com (you can learn real-world skills from real people)
+* http://holstee.com (meaningful products for mindful individuals)
+* http://passionmeetsmomentum.com (passionate talks from HackFwd)
+* http://deadsuls.com ("What happens to your data when you die?" novel)
+* http://jster.net (most useful javascript libraries)
+* http://knightlab.northwestern.edu (amazing web experiments and explorations)
+* http://whatconsumesme.com (what consumes Bud Caddell)
+* http://zazzle.com (custom products)
+* http://toggl.com (simple time tracking)
+* http://r-project.org (The R Project for Statistical Computing)
+* http://brmlab.cz (hackerspace in Prague)
+* http://tmzns.com (timezones for humans)
+* http://firefoxflicks.mozilla.org (mobile is the star)
+* http://ec.europa.eu/youth/youth-in-action-programme/how-to-participate_en.htm (youth in action grant)
+* http://unleashingideas.org (Global Entrepreneurship Week)
+* http://globalstartupbattle.org (StartupWeekend battle)
+* http://artsy.net (world's art accessible)
+* http://ctvrtkon.cz (web community in CB)
+* http://hulkshare.com (music cloud)
+* http://balconytv.com (awesome music on a balcon round-the-world)
+* http://hithit.com (czech crowdfunding)
+* http://kreativcisobe.cz (czech crowdfunding for creatives)
+* http://prigl.cz (writing bout life in the rawest form from Brno)
+* http://rally.org (crowdfunding)
+* http://freedigitalphotos.net (free digital photos)
+* http://schema.org (markup your content for crawles better)
+* http://perl.org (Pathologically Eclectic Rubbish Lister)
+* http://wwwinfo.mfcr.cz/ares (czech register of business subjects)
+* http://linuxjournal.com (the old well-known linux journal)
+* http://businessmodelgeneration.com (the business model canvas)
+* http://dokuwiki.org (simpy wiki for teams)
+* http://designtaxi.com (bright ideas)
+* http://toastmasters.org (international clubs for improving rhetorical skills)
+* http://thedominoproject.com (what-it-means-to-be-a-publisher project)
+* http://ceskainovace.cz (entrepreneurs inovations) (czech inovation contest)
+* http://decknetwork.net (the ad network of creative web culture)
+* http://launch48.com (launch a new idea)
+* http://forbes.com (a must-read)
+* http://webovina.cz (co si webdesign může vzít z oborů, které mají staletou historii)
+* http://delicious.com (maintain your bookmarks)
+* http://worrydream.com (a renaissance man (Bret Victor))
+* http://creativemornings.com (mornings all around the world)
+* http://hackforchange.org (campaigns and petitions) (civic hackers)
+* http://pitchfork.com (the essential guide to independent music and beyond)
+* http://ex.fm (the FM network for the web)
+* http://shelby.tv (the TV network for the web)
+* http://afraid.org (free DNS)
+* http://coffitivity.com (coffee house sounds)
+* http://tiki-toki.com (web-based timeline software)
+* http://etsy.com (handmade gifts)
+* http://infogr.am (infographics within 2 mins)
+* http://founderswiki.com (a guide to the good stuff)
+* http://readtapestry.com (create beautiful tappable stories)
+* http://napadroku.cz (business of the year in the czech rep)
+* http://angel.co (platform for startups)
+
+__2014__
+* http://plus.google.com/+GoogleforEntrepreneurs (the best social site from google)
+* http://good.is/explore (community of people who give a damn)
+* http://processing.org (programming language for a data visualisation)
+* http://berglondon.com (a design consultancy)
+* http://code.google.com/codejam (algorithmic puzzles contest)
+* http://selfstarter.us (roll your own crowdfunding)
+* http://instantserver.io (free virtual private server for 35 minutes)
+* http://progrium.com/localtunnel (share your localhost on the web)
+* http://deviantart.com (the largest online art community)
+* http://1000miles.cz (an extreme nonstop mtb race)
+* http://ceska-konference.cz (ideas about life in czech rep.)
+* http://nysebigstage.com (right from the startup community)
+* http://newtonmedia.cz/medialni-archiv (searchable archiv of the all czech mediums)
+* http://subtlepatterns.com (patterns for the background of your web)
+* http://fiftythree.com/paper (get-in-the-flow iOS app for sketching)
+* http://play.knod.es (How Well Do You Know Your Social Network?)
+* http://course.bighistoryproject.com (course about our history)
+* http://slack.com (real-time messaging in a team)
+* http://smacss.com/book/ (a flexible guide to developing sites)
+* http://svbtle.com (a new kind of magazine)
+* http://mzl.la/weblitstd (the web literacy standard)
+* http://growhack.com (hacks for the growth of your startup)
+* http://getpocket.com (read it later)
+* http://wikitravel.org (crowdsourced travel guide)
+* http://codevisually.com (web developer tools and resources)
+* http://breakpoint.io (share your side web projects)
+* http://designvid.cz (český design video portál)
+* http://bizit.cz (biz and IT on the czech universities)
+* http://yachtclub.cz (pronajem klubovych jachet v chorvatsku)
+* http://hackernest.com (tech meetups round the world)
+* http://linuxfromscratch.org (custom linux from source code)
+* http://installfest.cz (linuxove setkani na strahove)
+* http://sut.sh.cvut.cz (stredisko linuxovych technologii cvut)
+* http://startupsauna.com (startup support for northern/eastern europe)
+* http://get-in-scope.cz (Summer of Code Outstanding Programming Experience)
+* http://500px.com (photo community)
+* http://greenways.cz (cyklostezky po Evrope a CR)
+* http://comptechdoc.org (The Computer Technology Documentation Project)
+* http://shipito.cz (preposilani zasilek z USA)
+* http://launchpad.net (free software collaboration platform)
+* http://prague.tv (prague's city guide)
+* http://dialog.ihned.cz/think-tank/ (think tank IHNEDu)
+* http://ohloh.net (public network of FOSS)
+* http://svobodauceni.cz (jiny pohled na skolni system)
+* http://jacr.cz/programy.aspx (junior achievement)
+* http://cilichili.cz (chytry magazin)
+* http://openhatch.org (find your FOSS to contribute)
+* http://youngbooks.cz (neotřelé eknihy)
+* http://libreplanet.org (free software activists)
+
+__2014__
+* http://uis-info.com (tvůrce ISISu)
+* http://studentshow.com (creative work by students)
+* http://feedly.com (read your feeds)
+* http://mentoring.cvut.cz (mentoring at CTU)
+* http://10fastfingers.com (typing competition!)
+* http://learnxinyminutes.com (learn X language in Y minutes)
+* http://praguewelcome.cz/cs/kalendar/ (kalendar akci v praze)
+* http://w3techs.com (world wide web technology surveys, awesome!)
+* http://garage48.org/events (48h hackathon events)
+* http://identi.ca (open source social network)
+* http://thecrimson.com/section/opinion/ (the harvard crimson)
+* http://wsgiga.com (whois, dns and location of websites)
+* http://starlogs.net (show your commits like a hero)
+* http://pm.org (perl mongers round the globe)
+* http://protisedi.cz (proti módní šedi v českých ulicích)
+* http://apiary.io (build beautiful apis)
+* http://iubenda.com (privacy policy in seconds)
+* http://stickermule.com (custom stickers)
+* http://programmableweb.com (about apis)
+* http://jekyllrb.com (static site generator)
+* http://pages.github.com (hosting for free right on github!)
+* http://time.is (current time round-the-world)
+* http://dillinger.io (markdown online editor)
+* http://gegcr.cz (google edu group ČR)
+* http://mimoskolu.cz (sebevzdělávání)
+* http://toys.usvsth3m.com/maths (you cant do simple maths under pressure)
+* http://zazitmestojinak.cz (zažít město jinak!)
+* http://ifttt.com (if-this-then-that)
+* http://cesu.cz (Česká studentská unie)
+* http://tympanus.net/codrops/category/playground (the web development)
+* http://myfav.es (simple start page for your browser)
+* http://buildandlaunch.net (build and launch books)
+* http://zitdeledoma.cz (9 z 10 lidí umírá v ústavech)
+* http://mozilla.org/en-US/firefox/os/ (firefox os)
+* http://everything.me (the-dynamic-phone app)
+* http://elementaryos.org (awesome and simple gnu/linux)
+* http://hackweek.suse.com (the suse hackathon)
+* http://ekospace.cz (mikro a makroekonomie)
+* http://knihy.nic.cz (technicke knihy od NIC.CZ zdarma)
+* http://ekiga.net (a free Voice over IP)
+* http://chat.freenode.net (IRC#freenode)
+* http://microsoftvirtualacademy.com (learn stuff)
+* http://testomato.com (automated website testing)
+* http://flowreader.com (an RSS reader with social feeds)
+* http://giveit100.com (practice something for 100 days)
+* http://scraperwiki.com (web scrapers)
+* http://ceskefonty.cz
+* http://site44.com (a dropbox folder as a static website)
+* http://pancake.io (a dropbox folder as a static website)
+* http://getkirby.com (a file-based CMS)
+* http://siteleaf.com (stylish CMS)
+* http://letsworkshop.com (get webdesign leads)
+* http://gumroad.com (sell your downloads pretty easily!)
+* http://readthedocs.org (the place for your documentation)
+* http://pattern-lab.info (create atomic design systems)
+* http://codepen.io (like jsfiddle)
+* http://hackdesign.org/lessons (an easy to follow design course)
+* http://bentobox.io (everything you need to know about web development)
+* http://jux.com (showcase)
 
