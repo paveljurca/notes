@@ -3740,6 +3740,10 @@ Když jsem byl malý, máma mi říkala, abych se nedíval do slunce. Tak jsem t
 
 .
 
+Úkolem nadcházející éry je radikální obnova lidské odpovědnosti. Naše svědomí musí dohnat náš rozum, jinak jsme ztraceni / Václav Havel
+
+.
+
 > *norský úzus*
 
 
