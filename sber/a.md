@@ -3744,6 +3744,10 @@ Když jsem byl malý, máma mi říkala, abych se nedíval do slunce. Tak jsem t
 
 .
 
+Je velký rozdíl mezi vlastenectvím a nacionalismem. Nacionalismus je jeskyně, na jejímž konci čeká český neandrtálec s klackem / Jan Beneš 2001
+
+.
+
 > *norský úzus*
 
 
