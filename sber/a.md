@@ -3748,6 +3748,10 @@ Je velký rozdíl mezi vlastenectvím a nacionalismem. Nacionalismus je jeskyně
 
 .
 
+People like us, we don't want freedom, we don't want justice, we just want someone to love / John Goodman True Stories
+
+.
+
 > *norský úzus*
 
 
