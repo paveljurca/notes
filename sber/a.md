@@ -3752,6 +3752,10 @@ People like us, we don't want freedom, we don't want justice, we just want someo
 
 .
 
+Nemůžete si myslet, že to, co fungovalo před deseti lety, bude fungovat i dneska / Jaromír Jágr 22. 11. 2017
+
+.
+
 > *norský úzus*
 
 
