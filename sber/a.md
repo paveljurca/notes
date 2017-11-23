@@ -3756,6 +3756,10 @@ Nemůžete si myslet, že to, co fungovalo před deseti lety, bude fungovat i dn
 
 .
 
+If everyone had to think outside the box, maybe it was the box that needed fixing / Malcolm Gladwell What the Dog Saw
+
+.
+
 > *norský úzus*
 
 
