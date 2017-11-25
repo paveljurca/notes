@@ -3760,6 +3760,14 @@ If everyone had to think outside the box, maybe it was the box that needed fixin
 
 .
 
+U mnoha druhů platí, že samci mají tendenci dělat pošetilé věci, kvůli kterým zahynou hloupým způsobem. A zdá se, že pro mamuty to platilo také [..] Staré samice jsou velmi zkušené, ve všem se vyznají nejlépe / Love Dalén Švédské přírodovědné muzeum
+
+.
+
+Dnes mladí chodí a vrážejí do lidí, protože pořád čučí do svých telefonů. Ale ona je to výhoda, protože nejsou aspoň pro nikoho konkurence, umějí totiž úplné hovno. Takže ten, co nemá telefon a trošku se chytne, má dnes daleko větší šanci než předtím / Laco Déczi 25. 11. 2017
+
+.
+
 > *norský úzus*
 
 
