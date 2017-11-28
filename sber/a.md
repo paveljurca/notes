@@ -3768,6 +3768,10 @@ Dnes mladí chodí a vrážejí do lidí, protože pořád čučí do svých tel
 
 .
 
+Šťastným může být jen ctnostný člověk / Aristoteles
+
+.
+
 > *norský úzus*
 
 
