@@ -3772,6 +3772,10 @@ Dnes mladí chodí a vrážejí do lidí, protože pořád čučí do svých tel
 
 .
 
+Těšil jsem se do Ameriky, protože je lepší učit se anglicky než umět německy. Ne? A taky je v Americe nejlepší jazz / Laco Déczi Totálně vytroubený mozek
+
+.
+
 > *norský úzus*
 
 
