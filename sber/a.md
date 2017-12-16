@@ -3776,6 +3776,14 @@ Těšil jsem se do Ameriky, protože je lepší učit se anglicky než umět ně
 
 .
 
+What people sometimes don't get about science is that we often have phenomena that remain unexplained / Sara Seager 2017
+
+.
+
+Velká chyba je vytvářet něco, co se líbí vám. Naučil jsem se naladit se na druhé, plnit jejich přání / Maximilian von Reden 15. 12. 2017
+
+.
+
 > *norský úzus*
 
 
